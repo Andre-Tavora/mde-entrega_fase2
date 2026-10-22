@@ -1,0 +1,152 @@
+[
+  {
+    "tema_id": "5199",
+    "descricao": "Teoria da Pena reúne o estudo da sanção penal, das espécies de pena, da dosimetria em três fases e dos institutos de execução e extinção de efeitos, como livramento condicional, suspensão condicional da pena, efeitos da condenação e reabilitação criminal.",
+    "palavras_chave": "teoria da pena; sanção penal; penas privativas de liberdade; penas restritivas de direitos; pena de multa; dosimetria; livramento condicional; suspensão condicional da pena; efeitos da condenação; reabilitação criminal",
+    "nao_confundir": "É equivalente a Teoria da Pena (Parte 1) e Teoria da Pena (Parte 2), que dividem o mesmo conteúdo. Diferencia-se de Teoria do Crime: Fato Típico e Teoria do Crime: Culpabilidade, que tratam da existência do crime, e não da consequência penal."
+  },
+  {
+    "tema_id": "6726",
+    "descricao": "Teoria da Pena (Parte 1) é a primeira metade do conteúdo de Teoria da Pena, dividida por razões de organização. Cobre os fundamentos da sanção penal, as espécies de pena e as fases da dosimetria.",
+    "palavras_chave": "teoria da pena; parte 1; sanção penal; finalidade da pena; penas privativas de liberdade; penas restritivas de direitos; pena de multa; dosimetria da pena; circunstâncias judiciais; agravantes e atenuantes",
+    "nao_confundir": "É equivalente a Teoria da Pena e a Teoria da Pena (Parte 2), com o mesmo conteúdo em recorte diferente. Diferencia-se de Teoria do Crime: Culpabilidade e Teoria do Crime: Fato Típico, que não tratam da pena."
+  },
+  {
+    "tema_id": "6727",
+    "descricao": "Teoria da Pena (Parte 2) é a segunda metade do conteúdo de Teoria da Pena, dividida por razões de organização. Cobre a terceira fase da dosimetria e os institutos posteriores à condenação, como suspensão condicional, livramento condicional, efeitos da condenação e reabilitação.",
+    "palavras_chave": "teoria da pena; parte 2; terceira fase da dosimetria; causas de aumento e diminuição; suspensão condicional da pena; livramento condicional; efeitos da condenação; reabilitação criminal; sursis; execução da pena",
+    "nao_confundir": "É equivalente a Teoria da Pena e a Teoria da Pena (Parte 1), com o mesmo conteúdo em recorte diferente. Diferencia-se de Punibilidade, que trata das causas de extinção do direito de punir, e de Teoria do Crime: Culpabilidade."
+  },
+  {
+    "tema_id": "5209",
+    "descricao": "Efeitos da Condenação Penais e Extrapenais trata das consequências da sentença condenatória transitada em julgado. Os efeitos genéricos (art. 91 do CP) incluem tornar certa a obrigação de indenizar e a perda de instrumentos e produto do crime; os específicos (art. 92) dependem de declaração motivada, como a perda de cargo, a incapacidade para o poder familiar e a inabilitação para dirigir. Há ainda efeitos penais, como a reincidência.",
+    "palavras_chave": "efeitos da condenação; art. 91; art. 92; efeitos genéricos; efeitos específicos; obrigação de indenizar; perda de instrumentos e produto do crime; perda de cargo; poder familiar; inabilitação para dirigir; reincidência",
+    "nao_confundir": "Diferencia-se de Reabilitação Criminal, que restaura direitos e protege o sigilo dos registros após a condenação, e de Penas Restritivas de Direitos, que são a própria sanção principal. Aqui o foco são as consequências acessórias da condenação."
+  },
+  {
+    "tema_id": "5208",
+    "descricao": "Livramento Condicional corresponde aos arts. 83 a 90 do CP e é a antecipação da liberdade do condenado a pena privativa de liberdade igual ou superior a 2 anos, sob condições. Exige cumprimento de fração da pena (1/3, 1/2 ou 2/3, conforme reincidência e natureza do crime), bom comportamento e reparação do dano. Prevê revogação, prorrogação e extinção da pena.",
+    "palavras_chave": "livramento condicional; arts. 83 a 90; pena igual ou superior a 2 anos; fração de cumprimento; 1/3; 1/2; 2/3; bom comportamento; reparação do dano; revogação; prorrogação do período de prova; condições",
+    "nao_confundir": "Diferencia-se de Suspensão Condicional da Pena, que impede o início do cumprimento da pena de até 2 anos, e de Penas Privativas de Liberdade, que tratam dos regimes. No livramento, o condenado já cumpriu parte da pena em prisão."
+  },
+  {
+    "tema_id": "5206",
+    "descricao": "Pena de Multa corresponde aos arts. 49 a 52 do CP e consiste no pagamento ao fundo penitenciário de quantia fixada em dias-multa, de 10 a 360, com valor do dia-multa entre 1/30 e 5 vezes o maior salário mínimo. Trata do critério da situação econômica do réu, do pagamento, da conversão em dívida de valor após o trânsito em julgado e da suspensão em caso de doença mental superveniente.",
+    "palavras_chave": "pena de multa; arts. 49 a 52; dias-multa; 10 a 360 dias-multa; valor do dia-multa; fundo penitenciário; situação econômica do réu; dívida de valor; pagamento da multa; multa substitutiva",
+    "nao_confundir": "Diferencia-se de Penas Restritivas de Direitos, que incluem a prestação pecuniária (paga à vítima, e não ao fundo penitenciário), e de Efeitos da Condenação, em que a indenização é efeito civil. Aqui a multa é a sanção penal patrimonial."
+  },
+  {
+    "tema_id": "5201",
+    "descricao": "Penas Privativas de Liberdade corresponde aos arts. 33 a 42 do CP e abrange reclusão e detenção, os regimes fechado, semiaberto e aberto, as regras de fixação do regime, a progressão e a regressão, o trabalho do preso, os direitos do preso, a detração e a superveniência de doença mental.",
+    "palavras_chave": "penas privativas de liberdade; arts. 33 a 42; reclusão; detenção; regime fechado; regime semiaberto; regime aberto; progressão de regime; regressão; detração; trabalho do preso; direitos do preso",
+    "nao_confundir": "Diferencia-se de Penas Restritivas de Direitos, que substituem a prisão sem recolher o condenado, e de Livramento Condicional e Suspensão Condicional da Pena, que são benefícios sobre a execução da pena privativa."
+  },
+  {
+    "tema_id": "5205",
+    "descricao": "Penas Restritivas de Direitos corresponde aos arts. 43 a 48 do CP e trata das penas substitutivas da prisão: prestação pecuniária, perda de bens e valores, prestação de serviços à comunidade, interdição temporária de direitos e limitação de fim de semana. Estuda os requisitos de substituição do art. 44 (pena até 4 anos sem violência ou grave ameaça, ou crime culposo) e a conversão em privativa de liberdade.",
+    "palavras_chave": "penas restritivas de direitos; arts. 43 a 48; substituição da pena; art. 44; prestação pecuniária; perda de bens e valores; prestação de serviços à comunidade; interdição temporária de direitos; limitação de fim de semana; conversão",
+    "nao_confundir": "Diferencia-se de Penas Privativas de Liberdade, que implicam recolhimento, de Pena de Multa, que é sanção patrimonial autônoma, e de Suspensão Condicional da Pena, que suspende a execução sem substituir a pena."
+  },
+  {
+    "tema_id": "5202",
+    "descricao": "Primeira Fase da Dosimetria: Circunstâncias Judiciais trata da fixação da pena-base com as oito circunstâncias do art. 59 do CP: culpabilidade, antecedentes, conduta social, personalidade, motivos, circunstâncias e consequências do crime e comportamento da vítima. Inclui a vedação de agravar com inquéritos e ações penais em curso (Súmula 444 do STJ) e a escolha do regime.",
+    "palavras_chave": "primeira fase da dosimetria; pena-base; circunstâncias judiciais; art. 59; culpabilidade; antecedentes; conduta social; personalidade; motivos do crime; consequências do crime; comportamento da vítima; súmula 444 do stj",
+    "nao_confundir": "Diferencia-se de Segunda Fase da Dosimetria: Agravantes e Atenuantes, em que se aplicam circunstâncias legais, e de Terceira fase da Dosimetria: Causas de Aumento e de Diminuição, que usam frações. Aqui se define a pena-base."
+  },
+  {
+    "tema_id": "5210",
+    "descricao": "Reabilitação Criminal corresponde aos arts. 93 a 95 do CP e assegura o sigilo dos registros sobre o processo e a condenação, além de garantir a recuperação de direitos atingidos por efeitos da condenação. Exige o decurso de 2 anos da extinção ou do cumprimento da pena, domicílio no País, bom comportamento e reparação do dano. Pode ser revogada.",
+    "palavras_chave": "reabilitação criminal; arts. 93 a 95; sigilo dos registros; prazo de 2 anos; domicílio no país; bom comportamento; reparação do dano; revogação da reabilitação; efeitos da condenação; recuperação de direitos",
+    "nao_confundir": "Diferencia-se de Efeitos da Condenação Penais e Extrapenais, que trata dos efeitos que a reabilitação atenua, e de Livramento Condicional, que é benefício durante a execução. A reabilitação é posterior ao cumprimento ou à extinção da pena."
+  },
+  {
+    "tema_id": "5200",
+    "descricao": "Sanção Penal: Conceito, Finalidade e Modalidades estuda a pena e a medida de segurança como espécies de sanção penal, as teorias sobre a finalidade da pena (absoluta ou retributiva, relativa ou preventiva e mista) e as modalidades de pena do art. 32 do CP: privativas de liberdade, restritivas de direitos e multa.",
+    "palavras_chave": "sanção penal; conceito de pena; finalidade da pena; teoria absoluta; teoria retributiva; teoria preventiva; teoria mista; prevenção geral; prevenção especial; art. 32; medida de segurança; modalidades de pena",
+    "nao_confundir": "Diferencia-se das espécies detalhadas em Penas Privativas de Liberdade, Penas Restritivas de Direitos e Pena de Multa, que tratam do regime jurídico de cada uma. Aqui o foco é o conceito e as teorias sobre a finalidade."
+  },
+  {
+    "tema_id": "5203",
+    "descricao": "Segunda Fase da Dosimetria: Agravantes e Atenuantes trata dos arts. 61 a 66 do CP: agravantes gerais e no concurso de pessoas, reincidência (art. 63), atenuantes nominadas e inominada (art. 66) e a preponderância no concurso (art. 67). Inclui a Súmula 231 do STJ, pela qual a atenuante não reduz a pena abaixo do mínimo legal.",
+    "palavras_chave": "segunda fase da dosimetria; agravantes; atenuantes; arts. 61 a 66; reincidência; atenuante inominada; art. 67; preponderância; menoridade relativa; confissão espontânea; súmula 231 do stj; pena intermediária",
+    "nao_confundir": "Diferencia-se de Primeira Fase da Dosimetria: Circunstâncias Judiciais, que usa o art. 59 e fixa a pena-base, e de Terceira fase da Dosimetria: Causas de Aumento e de Diminuição, que usam frações previstas em lei."
+  },
+  {
+    "tema_id": "5207",
+    "descricao": "Suspensão Condicional da Pena (sursis) corresponde aos arts. 77 a 82 do CP e suspende a execução da pena privativa de liberdade de até 2 anos, por período de prova de 2 a 4 anos. Admite o sursis etário ou humanitário (pena até 4 anos, maior de 70 anos ou razões de saúde). Exige condenado não reincidente em crime doloso e cabimento de condições e revogação.",
+    "palavras_chave": "suspensão condicional da pena; sursis; arts. 77 a 82; período de prova; pena até 2 anos; sursis etário; sursis humanitário; não reincidente em crime doloso; condições do sursis; revogação obrigatória; revogação facultativa",
+    "nao_confundir": "Diferencia-se de Livramento Condicional, que ocorre após cumprimento parcial da pena, e de Penas Restritivas de Direitos, que substituem a pena. No sursis, a pena é aplicada, mas sua execução fica suspensa."
+  },
+  {
+    "tema_id": "5204",
+    "descricao": "Terceira fase da Dosimetria: Causas de Aumento e de Diminuição trata das causas previstas na parte geral e na parte especial do CP, expressas em frações, aplicadas sobre a pena provisória. Podem ultrapassar os limites legais, e, no concurso de causas da parte especial, o juiz pode aplicar somente a que mais aumente ou diminua (art. 68, parágrafo único).",
+    "palavras_chave": "terceira fase da dosimetria; causas de aumento; causas de diminuição; frações; pena definitiva; art. 68; parte geral; parte especial; concurso de causas; pena provisória; majorantes; minorantes",
+    "nao_confundir": "Diferencia-se de Segunda Fase da Dosimetria: Agravantes e Atenuantes, que não têm frações fixas e não ultrapassam os limites da pena, e de Primeira Fase da Dosimetria: Circunstâncias Judiciais, que define a pena-base."
+  },
+  {
+    "tema_id": "5211",
+    "descricao": "Teoria do Crime: Culpabilidade estuda o juízo de reprovação pessoal sobre o autor de um fato típico e ilícito. Seus elementos são imputabilidade, potencial consciência da ilicitude e exigibilidade de conduta diversa. Seus filhos são Causas Supralegais de Exclusão da Culpabilidade, Coação Moral Irresistível, Conceito e Elementos da Culpabilidade, Erro de Proibição, Inimputabilidade e Obediência Hierárquica.",
+    "palavras_chave": "culpabilidade; juízo de reprovação; imputabilidade; potencial consciência da ilicitude; exigibilidade de conduta diversa; erro de proibição; coação moral irresistível; obediência hierárquica; inimputabilidade; excludentes de culpabilidade",
+    "nao_confundir": "Diferencia-se de Teoria do Crime: Fato Típico, que analisa conduta, resultado, nexo causal e tipicidade, e de Teoria da Pena, que trata das consequências do crime. Aqui se discute se o autor merece reprovação."
+  },
+  {
+    "tema_id": "5217",
+    "descricao": "Causas Supralegais de Exclusão da Culpabilidade abrange hipóteses não previstas em lei que afastam a culpabilidade por inexigibilidade de conduta diversa, admitidas pela doutrina e pela jurisprudência, como o fato de consciência e a desobediência civil em situações excepcionais.",
+    "palavras_chave": "causas supralegais; exclusão da culpabilidade; inexigibilidade de conduta diversa; hipóteses não previstas em lei; fato de consciência; desobediência civil; analogia in bonam partem; culpabilidade; excludentes",
+    "nao_confundir": "Diferencia-se de Coação Moral Irresistível e Obediência Hierárquica, que são causas legais previstas no art. 22 do CP, e de Inimputabilidade e Erro de Proibição, também previstos em lei. Aqui não há previsão legal expressa."
+  },
+  {
+    "tema_id": "5215",
+    "descricao": "Coação Moral Irresistível corresponde ao art. 22 do CP: quem pratica o fato sob coação irresistível não é punido, e só o autor da coação responde. Trata da vis compulsiva, que afasta a exigibilidade de conduta diversa, e da diferença em relação à coação física, que exclui a conduta.",
+    "palavras_chave": "coação moral irresistível; art. 22; vis compulsiva; vis absoluta; coação física; inexigibilidade de conduta diversa; autoria mediata; grave ameaça; responde o coator; excludente de culpabilidade",
+    "nao_confundir": "Diferencia-se de Obediência Hierárquica, também do art. 22, que exige ordem de superior hierárquico, e de Erro de Proibição, em que falta consciência da ilicitude. Aqui há ameaça que torna inexigível outra conduta."
+  },
+  {
+    "tema_id": "5212",
+    "descricao": "Conceito e Elementos da Culpabilidade trata da culpabilidade como juízo de reprovação e como pressuposto da pena. Estuda as teorias psicológica, psicológico-normativa e normativa pura, e os elementos da teoria finalista: imputabilidade, potencial consciência da ilicitude e exigibilidade de conduta diversa.",
+    "palavras_chave": "conceito de culpabilidade; elementos da culpabilidade; juízo de reprovação; teoria psicológica; teoria psicológico-normativa; teoria normativa pura; imputabilidade; potencial consciência da ilicitude; exigibilidade de conduta diversa; teoria finalista",
+    "nao_confundir": "Diferencia-se de Inimputabilidade, Erro de Proibição, Coação Moral Irresistível e Obediência Hierárquica, que detalham cada elemento ou excludente. Aqui está a teoria geral da culpabilidade."
+  },
+  {
+    "tema_id": "5214",
+    "descricao": "Erro de Proibição corresponde ao art. 21 do CP e é o erro sobre a ilicitude do fato. O desconhecimento da lei é inescusável, mas o erro inevitável isenta de pena e o evitável reduz a pena de 1/6 a 1/3. Distingue erro direto e indireto (descriminantes putativas) e trata da potencial consciência da ilicitude.",
+    "palavras_chave": "erro de proibição; art. 21; potencial consciência da ilicitude; erro inevitável; erro evitável; redução de 1/6 a 1/3; isenta de pena; erro direto; erro indireto; descriminantes putativas; desconhecimento da lei",
+    "nao_confundir": "Diferencia-se de Erro de Tipo (Fato Típico), que recai sobre elementos do tipo e exclui o dolo, e de Inimputabilidade, que trata da capacidade de entender o caráter ilícito. Aqui o agente sabe o que faz, mas não que é proibido."
+  },
+  {
+    "tema_id": "5213",
+    "descricao": "Inimputabilidade corresponde aos arts. 26 a 28 do CP e trata da incapacidade de entender o caráter ilícito do fato ou de se determinar conforme esse entendimento. Abrange doença mental e desenvolvimento mental incompleto ou retardado, semi-imputabilidade (redução de 1/3 a 2/3), menoridade penal (18 anos) e embriaguez completa e acidental, além dos critérios biológico, psicológico e biopsicológico.",
+    "palavras_chave": "inimputabilidade; arts. 26 a 28; doença mental; desenvolvimento mental incompleto; semi-imputabilidade; menoridade penal; embriaguez; critério biopsicológico; absolvição imprópria; medida de segurança; emoção e paixão",
+    "nao_confundir": "Diferencia-se de Erro de Proibição, que afeta a consciência da ilicitude, e de Coação Moral Irresistível, que afeta a exigibilidade de conduta diversa. Aqui se discute a capacidade mental de culpabilidade."
+  },
+  {
+    "tema_id": "5216",
+    "descricao": "Obediência Hierárquica corresponde ao art. 22 do CP: quem cumpre ordem não manifestamente ilegal de superior hierárquico não é punido, e só o autor da ordem responde. Exige relação de direito público entre superior e subordinado, e a ordem manifestamente ilegal não afasta a culpabilidade.",
+    "palavras_chave": "obediência hierárquica; art. 22; ordem não manifestamente ilegal; superior hierárquico; subordinado; relação de direito público; responde o autor da ordem; ordem manifestamente ilegal; inexigibilidade de conduta diversa; excludente de culpabilidade",
+    "nao_confundir": "Diferencia-se de Coação Moral Irresistível, em que há ameaça e não hierarquia, e do estrito cumprimento de dever legal, que exclui a ilicitude. Aqui o subordinado cumpre ordem aparentemente legal."
+  },
+  {
+    "tema_id": "5218",
+    "descricao": "Teoria do Crime: Fato Típico estuda o primeiro substrato do crime, formado por conduta, resultado, nexo causal e tipicidade. Seus filhos são Conceito, Sujeito e Objeto do Crime, Conduta, Crime Doloso e Culposo, Crimes Omissivos e Comissivos, Erro de Tipo, Fato Típico, Nexo Causal e Imputação Objetiva, Resultado e Tipicidade.",
+    "palavras_chave": "fato típico; conduta; resultado; nexo causal; tipicidade; dolo e culpa; erro de tipo; imputação objetiva; crimes omissivos; crimes comissivos; sujeito do crime; objeto do crime",
+    "nao_confundir": "Diferencia-se de Teoria do Crime: Culpabilidade, que analisa a reprovação pessoal do autor, e de Teoria da Pena, que trata da sanção. Aqui se discute a adequação do comportamento ao tipo penal."
+  },
+  {
+    "tema_id": "5219",
+    "descricao": "Conceito, Sujeito e Objeto do Crime trata dos conceitos formal, material e analítico de crime, do sujeito ativo (inclusive pessoa jurídica nos crimes ambientais), do sujeito passivo (formal e material) e do objeto material e jurídico do crime.",
+    "palavras_chave": "conceito de crime; conceito formal; conceito material; conceito analítico; sujeito ativo; sujeito passivo; sujeito passivo formal; sujeito passivo material; objeto material; objeto jurídico; bem jurídico",
+    "nao_confundir": "Diferencia-se de Conduta, que trata do comportamento humano, e de Resultado e Tipicidade, que tratam dos elementos do fato típico. Aqui estão os conceitos gerais e os sujeitos e objetos."
+  },
+  {
+    "tema_id": "5221",
+    "descricao": "Conduta estuda o comportamento humano voluntário, consciente e dirigido a uma finalidade, na forma de ação ou omissão. Compara as teorias causalista, finalista e social e trata das hipóteses de ausência de conduta: caso fortuito, força maior, coação física irresistível, atos reflexos e estados de inconsciência.",
+    "palavras_chave": "conduta; ação; omissão; teoria causalista; teoria finalista; teoria social; voluntariedade; ausência de conduta; coação física irresistível; atos reflexos; caso fortuito; força maior",
+    "nao_confundir": "Diferencia-se de Crimes Omissivos e Comissivos, que classificam crimes pela forma de conduta, e de Coação Moral Irresistível, em que há conduta e se afasta a culpabilidade. Aqui se estuda o conceito de conduta."
+  },
+  {
+    "tema_id": "5222",
+    "descricao": "Crime Doloso e Culposo corresponde ao art. 18 do CP e distingue o crime doloso (dolo direto e eventual) do culposo (imprudência, negligência e imperícia). Trata da culpa consciente e inconsciente, da previsibilidade, do crime preterdoloso e da excepcionalidade do crime culposo, que exige previsão expressa.",
+    "palavras_chave": "crime doloso; crime culposo; art. 18; dolo direto; dolo eventual; imprudência; negligência; imperícia; culpa consciente; culpa inconsciente; previsibilidade; crime preterdoloso",
+    "nao_confundir": "Diferencia-se de Erro de Tipo, que exclui o dolo por falsa percepção da realidade, e de Crimes Omissivos e Comissivos, que classificam a forma da conduta. Aqui se discute o elemento subjetivo do tipo."
+  }
+]

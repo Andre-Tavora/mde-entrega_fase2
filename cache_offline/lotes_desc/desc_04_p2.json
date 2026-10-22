@@ -1,0 +1,62 @@
+[
+  {
+    "tema_id": "5094",
+    "descricao": "Contrabando ou Descaminho abrange o art. 334 do CP (descaminho: iludir, no todo ou em parte, o pagamento de direito ou imposto devido pela entrada, saída ou consumo de mercadoria) e o art. 334-A do CP (contrabando: importar ou exportar mercadoria proibida). O critério central é a natureza da mercadoria e a lesão ao controle aduaneiro.",
+    "palavras_chave": "contrabando; descaminho; art. 334; art. 334-A; mercadoria proibida; mercadoria permitida; iludir pagamento de imposto; direito ou imposto devido; importação; exportação; consumo de mercadoria",
+    "nao_confundir": "Diferencia-se de Corrupção Ativa e Tráfico de Influência, que envolvem vantagem indevida ligada a funcionário público. Aqui o foco é a entrada ou saída de mercadoria: proibida no contrabando e permitida, com tributo iludido, no descaminho."
+  },
+  {
+    "tema_id": "5093",
+    "descricao": "Corrupção Ativa corresponde ao art. 333 do CP e consiste em oferecer ou prometer vantagem indevida a funcionário público para determiná-lo a praticar, omitir ou retardar ato de ofício. O parágrafo único aumenta a pena de 1/3 se o funcionário, em razão da vantagem ou promessa, retarda ou omite o ato, ou o pratica infringindo dever funcional. O sujeito ativo é o particular.",
+    "palavras_chave": "corrupção ativa; art. 333; oferecer vantagem indevida; prometer vantagem indevida; funcionário público; ato de ofício; retardar ou omitir ato; aumento de 1/3; infração de dever funcional; particular",
+    "nao_confundir": "Diferencia-se de Corrupção Passiva, em que o funcionário solicita, recebe ou aceita a vantagem, e de Tráfico de Influência, em que a vantagem é pedida a pretexto de influir em ato de funcionário. Na corrupção ativa o agente oferece ou promete a vantagem."
+  },
+  {
+    "tema_id": "5092",
+    "descricao": "Corrupção Passiva corresponde ao art. 317 do CP: solicitar ou receber, para si ou para outrem, direta ou indiretamente, ainda que fora da função ou antes de assumi-la, mas em razão dela, vantagem indevida, ou aceitar promessa de tal vantagem. O §1º aumenta a pena de 1/3 se o funcionário retarda ou omite ato de ofício ou o pratica infringindo dever funcional, e o §2º prevê a forma privilegiada, de quem cede a pedido ou influência de outrem. O sujeito ativo é o funcionário público.",
+    "palavras_chave": "corrupção passiva; art. 317; solicitar vantagem indevida; receber vantagem indevida; aceitar promessa; em razão da função; funcionário público; aumento de 1/3; forma privilegiada; pedido ou influência de outrem",
+    "nao_confundir": "Diferencia-se de Corrupção Ativa, praticada pelo particular que oferece ou promete a vantagem, e de Concussão e Excesso de Exação, em que o funcionário exige a vantagem. Também não se confunde com Prevaricação, que depende de interesse ou sentimento pessoal."
+  },
+  {
+    "tema_id": "5090",
+    "descricao": "Emprego Irregular de Verbas ou Rendas Públicas corresponde ao art. 315 do CP e consiste em dar às verbas ou rendas públicas aplicação diversa da estabelecida em lei. O desvio é de destinação, sem apropriação do dinheiro pelo agente.",
+    "palavras_chave": "emprego irregular de verbas; rendas públicas; art. 315; aplicação diversa da lei; desvio de destinação; verba pública; dotação orçamentária; funcionário público; crime funcional; administração pública",
+    "nao_confundir": "Diferencia-se de Peculato e Peculato Mediante Erro de Outrem, em que o agente se apropria ou desvia o bem em proveito próprio ou alheio. Aqui o recurso é aplicado em finalidade pública diversa da prevista em lei."
+  },
+  {
+    "tema_id": "5088",
+    "descricao": "Noções gerais dos crimes praticados contra a administração pública trata dos conceitos gerais do Título XI do CP (arts. 312 a 337-D), com destaque ao art. 327. Esse artigo define funcionário público para fins penais: quem, embora transitoriamente ou sem remuneração, exerce cargo, emprego ou função pública, com equiparação no §1º e aumento de 1/3 no §2º para cargos em comissão ou de direção ou assessoramento. Abrange crimes próprios e comuns, sujeitos ativo e passivo e o bem jurídico, que é a probidade e o regular funcionamento da administração.",
+    "palavras_chave": "noções gerais; título XI; arts. 312 a 337-D; art. 327; conceito de funcionário público; entidade paraestatal; cargo em comissão; aumento de 1/3; crimes próprios; crimes comuns; bem jurídico",
+    "nao_confundir": "Diferencia-se dos tipos específicos irmãos, como Peculato e Peculato Mediante Erro de Outrem, Corrupção Passiva e Prevaricação, que tratam de condutas determinadas. Aqui o foco são os conceitos comuns a todos esses crimes, sobretudo o de funcionário público."
+  },
+  {
+    "tema_id": "5089",
+    "descricao": "Peculato e Peculato Mediante Erro de Outrem abrange o art. 312 do CP: apropriar-se o funcionário de dinheiro, valor ou outro bem móvel, público ou particular, de que tem a posse em razão do cargo, ou desviá-lo. Inclui o peculato-furto (§1º), o culposo (§2º), a reparação do dano (§3º) e o art. 313, que pune apropriar-se de dinheiro ou utilidade recebida por erro de outrem no exercício do cargo.",
+    "palavras_chave": "peculato; art. 312; art. 313; peculato-furto; peculato culposo; peculato mediante erro de outrem; apropriação; desvio; posse em razão do cargo; reparação do dano; extinção da punibilidade",
+    "nao_confundir": "Diferencia-se de Emprego Irregular de Verbas ou Rendas Públicas, que é desvio de destinação sem apropriação, e de Concussão e Excesso de Exação, em que há exigência de vantagem. No peculato o funcionário se apropria ou desvia bem de que tem a posse em razão do cargo."
+  },
+  {
+    "tema_id": "5095",
+    "descricao": "Prevaricação corresponde ao art. 319 do CP: retardar ou deixar de praticar, indevidamente, ato de ofício, ou praticá-lo contra disposição expressa de lei, para satisfazer interesse ou sentimento pessoal. Abrange também o art. 319-A, que pune o diretor de penitenciária ou agente público que deixa de cumprir o dever de vedar ao preso o acesso a aparelho telefônico, de rádio ou similar. O elemento subjetivo especial é a satisfação de interesse ou sentimento pessoal.",
+    "palavras_chave": "prevaricação; art. 319; art. 319-A; retardar ato de ofício; deixar de praticar ato de ofício; contra disposição expressa de lei; interesse pessoal; sentimento pessoal; aparelho telefônico; preso; elemento subjetivo especial",
+    "nao_confundir": "Diferencia-se de Corrupção Passiva, que exige vantagem indevida, e de Condescendência Criminosa, em que o superior, por indulgência, deixa de responsabilizar subordinado. Na prevaricação o motivo é interesse ou sentimento pessoal."
+  },
+  {
+    "tema_id": "5100",
+    "descricao": "Resistência, Desobediência e Desacato reúne o art. 329 do CP (resistência: opor-se à execução de ato legal, mediante violência ou ameaça a funcionário competente ou a quem lhe presta auxílio, com pena maior no §1º se o ato não se executa), o art. 330 (desobediência a ordem legal de funcionário público) e o art. 331 (desacato a funcionário no exercício da função ou em razão dela). O sujeito ativo é o particular.",
+    "palavras_chave": "resistência; desobediência; desacato; art. 329; art. 330; art. 331; ato legal; violência ou ameaça; ordem legal; funcionário público; particular contra a administração",
+    "nao_confundir": "Diferencia-se de Violência Arbitrária e de Usurpação de Função Pública, nos quais o autor exerce ou se arroga função pública. Aqui o particular se opõe, desobedece ou desrespeita o funcionário no exercício da função."
+  },
+  {
+    "tema_id": "5101",
+    "descricao": "Tráfico de Influência corresponde ao art. 332 do CP: solicitar, exigir, cobrar ou obter, para si ou para outrem, vantagem ou promessa de vantagem, a pretexto de influir em ato praticado por funcionário público no exercício da função. O parágrafo único aumenta a pena da metade se o agente alega ou insinua que a vantagem é também destinada ao funcionário.",
+    "palavras_chave": "tráfico de influência; art. 332; solicitar vantagem; exigir vantagem; cobrar vantagem; obter vantagem; a pretexto de influir; ato de funcionário público; aumento da metade; insinuar destinação ao funcionário",
+    "nao_confundir": "Diferencia-se de Corrupção Ativa e de Corrupção Passiva, em que a vantagem se liga ao próprio ato de ofício do funcionário. No tráfico de influência o agente a pede a pretexto de influir em ato alheio; também difere de Advocacia Administrativa, em que o funcionário patrocina interesse privado valendo-se do cargo."
+  },
+  {
+    "tema_id": "5099",
+    "descricao": "Usurpação de Função Pública corresponde ao art. 328 do CP e consiste em usurpar o exercício de função pública. O parágrafo único prevê a forma qualificada se do fato o agente aufere vantagem. O sujeito ativo é quem não é funcionário público e exerce a função.",
+    "palavras_chave": "usurpação de função pública; art. 328; exercer função pública; agente sem investidura; falso funcionário; forma qualificada; auferir vantagem; parágrafo único; crime comum; administração pública",
+    "nao_confundir": "Diferencia-se de Resistência, Desobediência e Desacato, que são praticados contra o funcionário no exercício da função, e de Advocacia Administrativa e Prevaricação, praticadas por quem é funcionário. Aqui o autor não é funcionário e exerce indevidamente a função."
+  }
+]

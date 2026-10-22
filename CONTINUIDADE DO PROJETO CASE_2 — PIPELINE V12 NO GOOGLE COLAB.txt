@@ -1,0 +1,154 @@
+﻿CONTINUIDADE DO PROJETO CASE_2 — PIPELINE V12 NO GOOGLE COLAB
+1. Seu papel
+Atue como engenheiro de dados sênior, especialista em Python, classificação hierárquica, calibração probabilística, validação estatística e pipelines reprodutíveis no Google Colab.
+Você deve dar continuidade a um projeto já iniciado, aproveitando o código e as informações existentes. Não recomece do zero sem necessidade. Não invente resultados, arquivos, métricas ou regras que não estejam comprovados.
+Modo de trabalho obrigatório: forneça somente células de código prontas para copiar e executar no Google Colab, acompanhadas, quando indispensável, de instruções curtas. Não use comandos do Windows. Não presuma que arquivos obrigatórios existem. Não execute inferência com LLM nem dependa de acesso à internet para classificar questões.
+2. Caminhos e diagnóstico confirmado
+O Google Drive está montado em /content/drive.
+O diagnóstico encontrou estes caminhos:
+* /content/drive/MyDrive/CASE_2
+* /content/drive/MyDrive/CASE_2_ATUAL/CASE_2
+O diretório configurado anteriormente era:
+/content/drive/MyDrive/CASE2_ATUAL/CASE_2
+Esse caminho está incorreto: falta o sublinhado entre CASE_2 e ATUAL.
+O diretório correto a investigar e usar como base principal é:
+/content/drive/MyDrive/CASE_2_ATUAL/CASE_2
+Nesse diretório, o subdiretório anexos não existe atualmente. O subdiretório cache_offline existe e contém:
+* descricoes_consolidado.json
+* emb_659.npy
+* emb_659_ids.json
+* emb_659_v11_V1.npy
+* emb_659_v11_V1_ids.json
+* emb_659_v11_V2.npy
+* emb_659_v11_V2_ids.json
+* emb_folha.npy
+* emb_folha_ids.json
+* emb_temas_v10.npy
+* emb_temas_v10_ids.json
+* emb_temas_v10b.npy
+* questoes_limpas.csv
+* regras_leis.json
+* temas_limpos.csv
+Os tamanhos encontrados foram:
+* emb_659.npy: 2.699.392 bytes
+* emb_659_ids.json: 5.931 bytes
+* emb_temas_v10.npy: 1.544.320 bytes
+* emb_temas_v10_ids.json: 3.016 bytes
+* emb_temas_v10b.npy: 1.544.320 bytes
+* emb_temas_v10b pode não possuir um arquivo de IDs com o mesmo nome; verificar antes de usar.
+* questoes_limpas.csv: 669.947 bytes
+* temas_limpos.csv: 133.931 bytes
+* regras_leis.json: 4.123 bytes
+* descricoes_consolidado.json: 346.127 bytes
+Existe também /content/drive/MyDrive/CASE_2/cache_offline, que contém questoes_limpas.csv, temas_limpos.csv e regras_leis.json. Não misture arquivos de diretórios diferentes sem verificar equivalência, versões e hashes.
+3. Diretórios de trabalho
+Use inicialmente estas configurações:
+BASE_DIR = Path("/content/drive/MyDrive/CASE_2_ATUAL/CASE_2")
+CACHE_DIR = BASE_DIR / "cache_offline"
+ANEXOS_DIR = BASE_DIR / "anexos"
+ARTEFATOS_DIR = Path("/content/artefatos_v12")
+SAIDA_DIR = Path("/content/saida_v12")
+Não crie arquivos de entrada fictícios nem presuma que os arquivos ausentes estão em outra pasta. Primeiro investigue o conteúdo real dos arquivos disponíveis e determine quais insumos obrigatórios podem ser reconstruídos de maneira segura a partir das fontes existentes.
+4. Objetivo principal
+Construir, corrigir e executar o pipeline offline V12 para classificação hierárquica de 659 questões, com reprodutibilidade, validação estatística e auditoria completa.
+A execução deve:
+1. Validar os arquivos e suas estruturas antes de iniciar.
+2. Conferir os identificadores das questões e dos temas.
+3. Validar as dimensões dos embeddings e a correspondência com seus arquivos de IDs.
+4. Usar somente dados locais e inferência offline.
+5. Produzir a classificação das 659 questões.
+6. Aplicar a regra de classificação solicitada, identificada como regra A, preservando a possibilidade de comparação com a regra B.
+7. Gerar métricas, relatório, manifesto de hashes e arquivos de saída.
+8. Permitir executar o pipeline duas vezes e comparar os SHA-256 para verificar a reprodutibilidade.
+5. Requisitos técnicos conhecidos
+O projeto anterior estabeleceu as seguintes condições, que precisam ser confirmadas no código e nos dados, não apenas presumidas:
+* Universo de classificação: 659 questões.
+* A referência oficial possui 100 linhas associadas à faixa A, com questões Q0001–Q0359; a cobertura real deve ser verificada.
+* A faixa B corresponde a Q0360–Q0659.
+* Há 8 questões que podem estar fora da taxonomia.
+* Há 39 temas extras mencionados no projeto anterior.
+* Existem 377 temas, segundo a contagem anterior, que deve ser reproduzida.
+* Os IDs 5078 e 5234 são inativos e devem ser excluídos, se essa regra for confirmada nos dados.
+* Temas-raiz de nível zero não devem ser tratados como folhas classificáveis, se a estrutura real confirmar essa regra.
+* Títulos iguais em ramos diferentes devem continuar sendo nós distintos; não deduplicar apenas pelo nome.
+* A faixa B possui 10 questões com militar em disciplina_origem. Se não existir tema militar na taxonomia, classificar fora da taxonomia somente com justificativa verificável.
+* A métrica oficial aceita o tema central e os temas extras autorizados, além de pai direto e filhos diretos do tema central. Irmãos não devem ser aceitos como acerto.
+* Uma métrica hierárquica ampliada, aceitando qualquer ancestral ou descendente, pode ser apresentada separadamente como análise de sensibilidade, sem substituir a métrica oficial.
+* A métrica baseline mencionada anteriormente é aproximadamente 65,22%, com n=92. É obrigatório verificar se os dados e a definição da métrica reproduzem esse resultado. Não afirmar que o baseline foi reproduzido se a implementação original não estiver disponível.
+* A lógica denominada R1b usa T=0,5. Sua definição exata precisa ser recuperada do código existente ou documentada; não inventar uma regra equivalente e chamá-la de original.
+* A fusão M0 50/50 foi mencionada anteriormente, mas precisa ser verificada no código anterior antes de ser considerada uma regra confirmada.
+6. Classificação, features e calibração
+A versão anterior planejava usar:
+* Similaridade semântica dos embeddings locais.
+* s1: maior similaridade.
+* margin: diferença entre a maior e a segunda maior similaridade.
+* hierarchy_margin: diferença entre s1 e o melhor score fora da família hierárquica direta do candidato.
+* Indicador da regra R1b.
+* Regressão logística com C=0.1 e solver="lbfgs".
+* Validação cruzada com 5 folds, repetida 20 vezes, seed 42.
+* Intervalos de confiança de Wilson.
+* Seleção de limiar de confiança para a faixa A, buscando limite inferior de Wilson de pelo menos 95% e maximizando a cobertura.
+* Para B, buscar o menor limiar que atenda aos critérios definidos de precisão e acurácia, sem usar a própria avaliação final como se fosse validação independente.
+* Possibilidade de até 2 temas extras, fora da família direta, quando o score for pelo menos 85% do score principal.
+Esses itens são requisitos planejados, não prova de que o código anterior os implementou corretamente. Audite a implementação, os dados e as definições antes de reutilizar.
+7. Arquivos de saída esperados
+O projeto deve produzir, conforme o esquema confirmado nos arquivos existentes:
+* publicacao.csv, com 659 linhas de questões classificadas.
+* resumo_v12.txt, com menos de 60 linhas.
+* manifest_v12.json, com hashes SHA-256 e metadados.
+* README_gerado.md.
+* Os demais artefatos de auditoria que forem necessários e compatíveis com a implementação.
+O CSV deve preservar os nomes de colunas exigidos pelo contrato do projeto anterior. Antes de escrever a saída, recuperar o esquema real esperado; não inventar nomes de colunas.
+O manifesto deve registrar os hashes de todas as entradas efetivamente utilizadas, incluindo os embeddings, os arquivos de IDs, os dados da taxonomia, a referência oficial, os scripts relevantes e todas as saídas. Se houver impossibilidade técnica de incluir o próprio manifesto em seu próprio hash, documentar claramente essa limitação e usar um inventário externo ou convenção consistente.
+O relatório deve conter uma tabela PASS/FAIL, contagens da regra A versus regra B, métricas de validação, cobertura, questões fora da taxonomia, avisos e comparação com o baseline. Não declarar PASS quando uma condição essencial não tiver sido verificada.
+8. Histórico de erro a evitar
+O script anterior apresentou:
+SyntaxError: name 'BASE_DIR' is used prior to global declaration
+Esse erro foi tratado removendo declarações global internas e colocando a declaração necessária no início de main(). Recompile o arquivo atual antes da execução para garantir que o erro não persiste.
+Na execução seguinte, o programa parou corretamente ao detectar arquivos ausentes, entre eles:
+* anexos/questoes.jsonl
+* anexos/temas.csv
+* anexos/folha_verdade.csv
+* anexos/entrega_modelo.csv
+* cache_offline/emb_temas_v10b.npy ou emb_temas_v10.npy
+A existência de embeddings e CSVs em cache_offline foi confirmada, mas os arquivos de anexos não foram encontrados. Não contorne essa validação simplesmente removendo a checagem. Primeiro determine se os insumos ausentes podem ser reconstruídos, sem perda semântica ou alteração do contrato, a partir de arquivos reais disponíveis. Em especial, não fabrique uma folha de verdade oficial nem presuma que temas_limpos.csv substitui temas.csv sem comparar o esquema e o conteúdo.
+9. Sequência de trabalho obrigatória
+Execute as etapas nesta ordem:
+Etapa 1 — Diagnóstico dos dados
+Forneça uma célula Colab que:
+* Configure os caminhos corretos.
+* Liste arquivos e tamanhos.
+* Leia cabeçalhos e amostras dos CSVs.
+* Inspecione as chaves e estruturas dos JSONs.
+* Mostre shapes, tipos e valores de amostra dos embeddings NPY.
+* Confira a estrutura dos arquivos de IDs.
+* Calcule hashes SHA-256 dos arquivos existentes.
+* Identifique explicitamente quais insumos estão ausentes.
+* Não altere arquivos originais.
+Etapa 2 — Auditoria do código anterior
+Se o código V12 anterior não estiver disponível no contexto, solicite o arquivo v12_pipeline.py ou forneça uma célula para ler seu conteúdo, caso exista no ambiente. Não invente a versão anterior nem afirme que corrigiu lógica que não inspecionou.
+Verifique a definição de R1b, M0, métricas, limiares, colunas e critérios de aceitação.
+Etapa 3 — Plano de recuperação dos insumos
+Para cada arquivo ausente, informe se é:
+* recuperável a partir de fonte local verificável;
+* substituível por outro arquivo mediante equivalência comprovada;
+* ou realmente indisponível e bloqueador.
+Não criar uma folha de verdade oficial a partir das previsões do próprio modelo.
+Etapa 4 — Implementação e validação
+Somente depois das etapas anteriores, forneça a célula %%writefile v12_pipeline.py, com código completo e autocontido, que passe pela compilação e por testes de consistência.
+Etapa 5 — Execução
+Forneça a célula para executar a regra A. Não declare sucesso se houver erro, avisos bloqueadores, dados omitidos ou divergências não explicadas.
+Etapa 6 — Reprodutibilidade
+Forneça a célula para executar novamente a regra A e comparar os hashes SHA-256 de publicacao.csv e das demais saídas determinísticas. Relate qualquer diferença.
+10. Restrições finais
+* Não utilizar LLM para inferência.
+* Não utilizar internet para obter classificações.
+* Não fabricar arquivos, resultados ou métricas.
+* Não misturar versões de dados silenciosamente.
+* Não remover validações para forçar a execução.
+* Não usar IDs de linhas como se fossem IDs semânticos.
+* Não colapsar temas homônimos de ramos diferentes.
+* Não afirmar que o baseline foi reproduzido sem validação.
+* Não declarar a execução concluída antes de conferir as 659 linhas e os critérios de aceitação.
+* Priorizar rastreabilidade, validação estatística e reprodutibilidade em vez de produzir uma saída aparentemente bem-sucedida.
+Comece exclusivamente pela Etapa 1: diagnóstico dos dados no caminho /content/drive/MyDrive/CASE_2_ATUAL/CASE_2. Entregue a célula Colab e aguarde a saída antes de prosseguir.

@@ -1,0 +1,152 @@
+[
+  {
+    "tema_id": "5476",
+    "descricao": "Ações Autônomas de Impugnação reúne os instrumentos que iniciam um novo processo para atacar decisões ou atos ilegais, fora do sistema recursal. Seus filhos são Habeas Corpus, Mandado de Segurança e Revisão Criminal.",
+    "palavras_chave": "ações autônomas de impugnação; habeas corpus; mandado de segurança; revisão criminal; remédios constitucionais; impugnação fora do sistema recursal; coisa julgada; ilegalidade; abuso de poder",
+    "nao_confundir": "Diferencia-se de Parte Geral dos Recursos, que trata de impugnações dentro do mesmo processo. Aqui a impugnação cria uma relação processual nova e independente."
+  },
+  {
+    "tema_id": "5477",
+    "descricao": "Habeas Corpus corresponde ao art. 5º, LXVIII, da CF e aos arts. 647 a 667 do CPP. Protege a liberdade de locomoção contra ilegalidade ou abuso de poder. Pode ser liberatório ou preventivo (salvo-conduto), tem legitimidade ampla (qualquer pessoa), dispensa advogado e é gratuito. Trata das hipóteses de coação ilegal do art. 648, da competência, da concessão de ofício e da vedação em punições disciplinares militares (art. 142, §2º, da CF).",
+    "palavras_chave": "habeas corpus; art. 5º LXVIII; arts. 647 a 667; liberdade de locomoção; habeas corpus preventivo; salvo-conduto; habeas corpus liberatório; coação ilegal; art. 648; paciente; impetrante; autoridade coatora; concessão de ofício",
+    "nao_confundir": "Diferencia-se de Mandado de Segurança, que protege direito líquido e certo não amparado por habeas corpus, e de Revisão Criminal, que desconstitui sentença condenatória transitada em julgado. Aqui o bem protegido é a liberdade de ir e vir."
+  },
+  {
+    "tema_id": "5479",
+    "descricao": "Mandado de Segurança corresponde ao art. 5º, LXIX, da CF e à Lei 12.016/2009. Protege direito líquido e certo, não amparado por habeas corpus ou habeas data, contra ilegalidade ou abuso de poder de autoridade. No processo penal é usado, por exemplo, para atacar decisões sem recurso cabível, para a defesa de terceiro prejudicado e para o acesso de bens apreendidos. Exige prova pré-constituída e prazo de 120 dias.",
+    "palavras_chave": "mandado de segurança; Lei 12.016/2009; art. 5º LXIX; direito líquido e certo; prova pré-constituída; prazo de 120 dias; autoridade coatora; mandado de segurança em matéria penal; terceiro prejudicado; Súmula 267 do STJ; Súmula 701 do STF; litisconsorte passivo",
+    "nao_confundir": "Diferencia-se de Habeas Corpus, que protege a liberdade de locomoção, e de Revisão Criminal. Aqui o direito protegido é líquido e certo e não envolve liberdade de ir e vir."
+  },
+  {
+    "tema_id": "5478",
+    "descricao": "Revisão Criminal corresponde aos arts. 621 a 631 do CPP e é a ação autônoma que desconstitui sentença condenatória ou absolutória imprópria transitada em julgado, sempre em favor do réu. As hipóteses são: sentença contrária a texto expresso de lei penal ou à evidência dos autos; sentença baseada em depoimentos, exames ou documentos comprovadamente falsos; descoberta de novas provas de inocência ou de circunstância que determine diminuição especial da pena. Cabe a qualquer tempo, inclusive após a morte do réu, e veda a reformatio in pejus.",
+    "palavras_chave": "revisão criminal; arts. 621 a 631; coisa julgada; sentença condenatória transitada em julgado; texto expresso de lei penal; evidência dos autos; provas falsas; novas provas de inocência; revisão pro reo; vedação da reformatio in pejus; legitimidade; indenização por erro judiciário; art. 630",
+    "nao_confundir": "Diferencia-se de Habeas Corpus, que atua contra constrangimento à liberdade, e da apelação, que é recurso antes do trânsito em julgado. Diferencia-se também da ação rescisória do processo civil. Aqui só cabe em favor do réu."
+  },
+  {
+    "tema_id": "5480",
+    "descricao": "Competência é o tema geral sobre a repartição da jurisdição penal entre os órgãos do Poder Judiciário. Seus filhos são Competência Territorial, Competência de Juízo, Competência em Razão da Matéria, Competência por Prerrogativa de Função, Espécies e Fixação de Competência Criminal e Prorrogação, Perpetuação e Modificação de Competência.",
+    "palavras_chave": "competência; competência criminal; jurisdição; competência territorial; competência em razão da matéria; competência por prerrogativa de função; competência absoluta; competência relativa; conexão; continência; prevenção; art. 69 do CPP",
+    "nao_confundir": "É equivalente a Competência (Parte 1) e Competência (Parte 2), que dividem o mesmo conteúdo. Diferencia-se de Lei Processual no Tempo e no Espaço, que trata da aplicação da lei processual, e de Ação Penal."
+  },
+  {
+    "tema_id": "6732",
+    "descricao": "Competência (Parte 1) é a primeira metade do conteúdo de Competência, dividida por razões de organização. Cobre a competência criminal, os critérios de fixação e a divisão por território, matéria e juízo.",
+    "palavras_chave": "competência; parte 1; competência criminal; fixação de competência; competência territorial; competência em razão da matéria; competência de juízo; espécies de competência; absoluta e relativa; art. 69 do CPP",
+    "nao_confundir": "É equivalente a Competência e a Competência (Parte 2), com o mesmo conteúdo em recorte diferente. Diferencia-se de Ação Penal e de Nulidades, ainda que a incompetência gere nulidade."
+  },
+  {
+    "tema_id": "6733",
+    "descricao": "Competência (Parte 2) é a segunda metade do conteúdo de Competência, dividida por razões de organização. Cobre a competência por prerrogativa de função, a prorrogação, a perpetuação e a modificação (conexão, continência e desaforamento) e os conflitos de competência.",
+    "palavras_chave": "competência; parte 2; prerrogativa de função; foro privilegiado; conexão; continência; prorrogação de competência; perpetuação da jurisdição; modificação de competência; desaforamento; conflito de competência; separação de processos",
+    "nao_confundir": "É equivalente a Competência e a Competência (Parte 1), com o mesmo conteúdo em recorte diferente. Diferencia-se de Ação Penal e de Procedimento Ordinário."
+  },
+  {
+    "tema_id": "5483",
+    "descricao": "Competência Territorial (ratione loci) corresponde aos arts. 69 a 73 do CPP e define o foro competente pelo lugar da infração e pelo domicílio do réu. A regra é o lugar da consumação (art. 70), ou o último ato de execução na tentativa, com regras para crimes permanentes e continuados (art. 71), para o domicílio do réu quando se ignora o lugar (art. 72), para a ação privada exclusiva (art. 73) e para o estelionato (art. 70, §4º). É competência relativa.",
+    "palavras_chave": "competência territorial; competência ratione loci; lugar da infração; lugar da consumação; último ato de execução; domicílio do réu; art. 70; art. 71; art. 72; art. 73; foro competente; crime permanente; crime continuado; estelionato; competência relativa; teoria do resultado",
+    "nao_confundir": "Diferencia-se de Competência em Razão da Matéria e de Competência por Prerrogativa de Função, que são absolutas, e de Competência de Juízo, que escolhe o juízo dentro do mesmo foro. Aqui se define o foro pela localização."
+  },
+  {
+    "tema_id": "5485",
+    "descricao": "Competência de Juízo trata da definição do juízo competente dentro do mesmo foro ou da mesma comarca, depois de fixados a matéria e o território. Abrange a distribuição (art. 75), a prevenção (art. 83), a competência funcional e as varas especializadas, o juízo singular e o coletivo (tribunal do júri) e os juizados especiais criminais.",
+    "palavras_chave": "competência de juízo; distribuição; prevenção; art. 75; art. 83; competência funcional; vara especializada; juízo singular; juízo coletivo; tribunal do júri; juizado especial criminal; juízo da execução; mesma comarca",
+    "nao_confundir": "Diferencia-se de Competência Territorial, que define o foro, e de Competência em Razão da Matéria, que define a justiça competente. Aqui se escolhe o juízo específico entre os que têm competência no mesmo foro."
+  },
+  {
+    "tema_id": "5482",
+    "descricao": "Competência em Razão da Matéria (ratione materiae) define a justiça competente pela natureza da infração, e é competência absoluta. Abrange a Justiça comum estadual (residual) e federal (art. 109 da CF), a Justiça especial militar e eleitoral, o tribunal do júri (crimes dolosos contra a vida), os juizados especiais criminais (infrações de menor potencial ofensivo) e as varas de violência doméstica. Inclui súmulas do STJ e do STF.",
+    "palavras_chave": "competência em razão da matéria; ratione materiae; competência absoluta; justiça federal; art. 109 da CF; justiça estadual residual; justiça militar; justiça eleitoral; tribunal do júri; juizado especial criminal; violência doméstica; Súmula 122 do STJ; Súmula 140 do STJ",
+    "nao_confundir": "Diferencia-se de Competência Territorial, que é relativa e define o foro, e de Competência por Prerrogativa de Função, que define a competência pela pessoa. Aqui a natureza do crime define a justiça."
+  },
+  {
+    "tema_id": "5484",
+    "descricao": "Competência por Prerrogativa de Função (foro privilegiado) é a competência originária de tribunais para julgar certas autoridades por crimes comuns e de responsabilidade, prevista na CF e nas Constituições estaduais. Abrange STF (art. 102, I, b e c), STJ (art. 105, I, a), TRFs, TJs e TREs, a limitação fixada pelo STF na AP 937 (crimes cometidos no cargo e em razão das funções), a Súmula 704 do STF (atração por conexão), a Súmula 721 do STF (Súmula Vinculante 45) e o tribunal do júri.",
+    "palavras_chave": "competência por prerrogativa de função; foro privilegiado; foro por prerrogativa de função; competência originária; STF; STJ; AP 937; crime em razão do cargo; Súmula 704 do STF; Súmula Vinculante 45; Súmula 721; parlamentares; governadores; prefeitos; autoridades",
+    "nao_confundir": "Diferencia-se de Competência em Razão da Matéria, que depende da natureza do crime, e de Competência Territorial. Aqui a competência depende da função exercida pelo acusado."
+  },
+  {
+    "tema_id": "5481",
+    "descricao": "Espécies e Fixação de Competência Criminal trata das espécies de competência (material, territorial, funcional e pessoal), da distinção entre competência absoluta e relativa e de seus efeitos (nulidade absoluta ou relativa, prorrogação, arguição), dos critérios do art. 69 do CPP e da competência originária e recursal.",
+    "palavras_chave": "espécies de competência; fixação de competência; competência absoluta; competência relativa; competência material; competência funcional; competência territorial; competência pessoal; competência originária; competência recursal; art. 69; critérios de fixação; incompetência e nulidade",
+    "nao_confundir": "Diferencia-se de Competência Territorial e de Competência em Razão da Matéria, que detalham cada espécie, e de Prorrogação, Perpetuação e Modificação de Competência. Aqui estão o quadro geral e os critérios de fixação."
+  },
+  {
+    "tema_id": "5486",
+    "descricao": "Prorrogação, Perpetuação e Modificação de Competência trata de como a competência se altera ou se mantém. Abrange conexão e continência (arts. 76 a 82), foro prevalente, desmembramento do processo (art. 80), perpetuatio jurisdictionis (art. 81), a Súmula 235 do STJ, o desaforamento (art. 427) e a prevenção. Inclui a prorrogação da competência relativa e a avocação.",
+    "palavras_chave": "prorrogação de competência; perpetuação da competência; modificação de competência; conexão; continência; arts. 76 a 82; separação de processos; art. 80; perpetuatio jurisdictionis; art. 81; desaforamento; art. 427; prevenção; Súmula 235 do STJ; foro prevalente",
+    "nao_confundir": "Diferencia-se de Espécies e Fixação de Competência Criminal, que trata dos critérios iniciais, e de Competência por Prerrogativa de Função. Aqui o foco é a alteração da competência por conexão, continência ou outros fatos."
+  },
+  {
+    "tema_id": "5487",
+    "descricao": "Comunicação dos Atos Processuais reúne a citação e a intimação, atos pelos quais o juízo dá ciência às partes e a terceiros, e a contagem dos prazos processuais. Seus filhos são Citação e Contagem dos Prazos e Intimação e Contagem dos Prazos.",
+    "palavras_chave": "comunicação dos atos processuais; citação; intimação; notificação; prazos processuais; contagem de prazos; art. 798; mandado; carta precatória; edital; publicação oficial; ciência das partes",
+    "nao_confundir": "Diferencia-se de Nulidades, que trata do vício decorrente de comunicação falha, e de Procedimento Ordinário, em que os atos são praticados. Aqui o foco são as formas de comunicação e os prazos."
+  },
+  {
+    "tema_id": "5488",
+    "descricao": "Citação e Contagem dos Prazos corresponde aos arts. 351 a 369 do CPP e ao art. 798. Citação é o ato que chama o réu a juízo para se defender. Espécies: real (por mandado, precatória, rogatória, requisição), por hora certa (art. 362) e por edital (art. 361). A citação por edital seguida de não comparecimento suspende o processo e o prazo prescricional (art. 366). Trata do prazo de 10 dias para a resposta à acusação (art. 396) e da contagem dos prazos (art. 798, Súmula 310 do STF).",
+    "palavras_chave": "citação; arts. 351 a 369; citação real; citação por edital; citação por hora certa; art. 361; art. 362; art. 366; suspensão do processo; carta precatória; carta rogatória; resposta à acusação; art. 396; art. 798; contagem de prazos; Súmula 310 do STF",
+    "nao_confundir": "Diferencia-se de Intimação e Contagem dos Prazos, que dá ciência de atos já praticados no processo, e de Exceção de Incompetência. Aqui o foco é o ato que traz o réu ao processo."
+  },
+  {
+    "tema_id": "5489",
+    "descricao": "Intimação e Contagem dos Prazos corresponde aos arts. 370 a 372 do CPP e ao art. 798. Intimação é o ato que dá ciência a alguém de um ato ou termo processual para que faça ou deixe de fazer algo. Abrange a intimação por publicação oficial, por mandado e por edital, a intimação pessoal do Ministério Público e da Defensoria Pública, a intimação da sentença (art. 392) e a contagem dos prazos (contínuos, peremptórios, exclusão do dia do começo).",
+    "palavras_chave": "intimação; arts. 370 a 372; intimação por publicação; intimação pessoal; intimação do Ministério Público; intimação da Defensoria Pública; intimação da sentença; art. 392; prazos peremptórios; prazos contínuos; art. 798; contagem de prazos; início do prazo; ciência do ato",
+    "nao_confundir": "Diferencia-se de Citação e Contagem dos Prazos, que traz o réu ao processo pela primeira vez. Aqui o foco é a ciência de atos já em curso para as partes e interessados."
+  },
+  {
+    "tema_id": "5490",
+    "descricao": "Das Questões e Processos Incidentes reúne questões que interrompem o curso normal do processo penal ou o acompanham. Seus filhos são Exceção de Incompetência e de Ilegitimidade, Exceção de Litispendência e de Coisa Julgada, Exceção de Suspeição, de Impedimento ou de Incompatibilidade, Incidente de Falsidade e de Insanidade Mental, Medidas Assecuratórias, Questões Prejudiciais e Preliminares e Restituição de Coisas Apreendidas.",
+    "palavras_chave": "questões incidentes; processos incidentes; exceções; questões prejudiciais; medidas assecuratórias; restituição de coisas apreendidas; incidente de falsidade; insanidade mental; sequestro; hipoteca legal; arresto; autos apartados",
+    "nao_confundir": "Diferencia-se de Ações Autônomas de Impugnação, que são processos independentes, e de Nulidades. Aqui as questões surgem no curso do processo principal e são resolvidas em autos apartados ou como questão incidental."
+  },
+  {
+    "tema_id": "5493",
+    "descricao": "Exceção de Incompetência e de Ilegitimidade corresponde aos arts. 95, II e III, e 108 a 110 do CPP. Trata da arguição de incompetência do juízo (a incompetência absoluta pode ser reconhecida a qualquer tempo e de ofício; a relativa precluí se não arguida) e da ilegitimidade de parte (ativa ou passiva) e de representação. O procedimento é em autos apartados, após a resposta à acusação.",
+    "palavras_chave": "exceção de incompetência; exceção de ilegitimidade; exceção de ilegitimidade de parte; art. 95; art. 108; art. 109; art. 110; incompetência absoluta; incompetência relativa; preclusão; autos apartados; resposta à acusação; ilegitimidade ad causam",
+    "nao_confundir": "Diferencia-se de Exceção de Suspeição, de Impedimento ou de Incompatibilidade, que ataca a imparcialidade do juiz, e de Exceção de Litispendência e de Coisa Julgada. Aqui a questão é a competência do juízo e a legitimidade das partes."
+  },
+  {
+    "tema_id": "5494",
+    "descricao": "Exceção de Litispendência e de Coisa Julgada corresponde aos arts. 95, III e V, 110 e 111 do CPP. Visa impedir um segundo processo sobre o mesmo fato e contra a mesma pessoa, em respeito ao ne bis in idem. A litispendência se dá com processo idêntico em curso, e a coisa julgada com sentença definitiva anterior. Pode ser reconhecida de ofício.",
+    "palavras_chave": "exceção de litispendência; exceção de coisa julgada; arts. 95; art. 110; art. 111; ne bis in idem; coisa julgada formal; coisa julgada material; mesmo fato; mesmo acusado; trânsito em julgado; processos idênticos",
+    "nao_confundir": "Diferencia-se de Exceção de Incompetência e de Ilegitimidade e de Revisão Criminal, que desconstitui coisa julgada em favor do réu. Aqui o objetivo é evitar nova persecução pelo mesmo fato."
+  },
+  {
+    "tema_id": "5492",
+    "descricao": "Exceção de Suspeição, de Impedimento ou de Incompatibilidade corresponde aos arts. 95, I, 96 a 107 e 252 a 256 do CPP. Visa afastar o juiz (e outros sujeitos, como membro do Ministério Público, serventuários, peritos e jurados) por falta de imparcialidade. O impedimento (art. 252) e a incompatibilidade são hipóteses objetivas. A suspeição (art. 254) decorre de amizade, inimizade, interesse na causa e outras causas. A arguição é feita por petição com poderes especiais (art. 98).",
+    "palavras_chave": "exceção de suspeição; exceção de impedimento; incompatibilidade; imparcialidade do juiz; art. 252; art. 254; arts. 96 a 107; arguição; poderes especiais; suspeição de membro do Ministério Público; suspeição de perito; suspeição de jurado; art. 112",
+    "nao_confundir": "Diferencia-se de Exceção de Incompetência e de Ilegitimidade, que trata da competência e da legitimidade, e de Juiz das Garantias, que é divisão de funções entre juízes. Aqui se discute a parcialidade do julgador."
+  },
+  {
+    "tema_id": "5497",
+    "descricao": "Incidente de Falsidade e de Insanidade Mental corresponde aos arts. 145 a 154 do CPP. O incidente de falsidade (arts. 145 a 148) trata da arguição de falsidade de documento nos autos, por petição com poderes especiais e perícia. O incidente de insanidade mental (arts. 149 a 154) trata de dúvida sobre a integridade mental do acusado, com exame médico-legal, suspensão do processo se a doença é superveniente à infração e possibilidade de medida de segurança.",
+    "palavras_chave": "incidente de falsidade; incidente de insanidade mental; arts. 145 a 148; arts. 149 a 154; falsidade documental; perícia; exame médico-legal; suspensão do processo; doença mental; inimputabilidade; medida de segurança; curador; art. 152",
+    "nao_confundir": "Diferencia-se de Inimputabilidade, no direito penal, que trata do conceito material, e de Questões Prejudiciais e Preliminares. Aqui são os procedimentos incidentais de prova para apurar a falsidade ou a sanidade."
+  },
+  {
+    "tema_id": "5496",
+    "descricao": "Medidas Assecuratórias: Sequestro, Hipoteca Legal e Arresto corresponde aos arts. 125 a 144-A do CPP. O sequestro recai sobre bens móveis e imóveis adquiridos com proveito do crime (arts. 125 a 133). A hipoteca legal recai sobre imóveis lícitos do acusado e o arresto sobre bens móveis, para garantir a reparação do dano e as despesas (arts. 134 a 137). Trata dos requisitos, do prazo para ação penal (art. 131), do levantamento, da alienação antecipada (art. 144-A) e do procedimento.",
+    "palavras_chave": "medidas assecuratórias; sequestro; hipoteca legal; arresto; arts. 125 a 144-A; bens adquiridos com proveito do crime; reparação do dano; indícios veementes; art. 126; levantamento do sequestro; art. 131; alienação antecipada; art. 144-A; especialização de hipoteca",
+    "nao_confundir": "Diferencia-se de Restituição de Coisas Apreendidas, que devolve bens ao proprietário, e de Efeitos da Condenação, que trata da perda definitiva. Aqui são medidas cautelares patrimoniais durante o processo."
+  },
+  {
+    "tema_id": "5491",
+    "descricao": "Questões Prejudiciais e Preliminares corresponde aos arts. 92 a 94 do CPP. Questão prejudicial é a que, decidida em outro juízo, condiciona o mérito penal. Pode ser obrigatória (estado civil das pessoas, art. 92) ou facultativa (art. 93), homogênea ou heterogênea, e suspende o processo e a prescrição. Questão preliminar é a que deve ser decidida antes do mérito, como pressupostos processuais e condições da ação.",
+    "palavras_chave": "questão prejudicial; questão preliminar; arts. 92 a 94; prejudicial obrigatória; prejudicial facultativa; prejudicial homogênea; prejudicial heterogênea; estado civil das pessoas; suspensão do processo; suspensão da prescrição; devolutividade; questões prévias",
+    "nao_confundir": "Diferencia-se de Exceção de Litispendência e de Coisa Julgada e de Incidente de Falsidade e de Insanidade Mental, que são procedimentos incidentais próprios. Aqui o foco é a questão que condiciona o julgamento do mérito."
+  },
+  {
+    "tema_id": "5495",
+    "descricao": "Restituição de Coisas Apreendidas corresponde aos arts. 118 a 124-A do CPP. Antes do trânsito em julgado, as coisas apreendidas não podem ser restituídas enquanto interessarem ao processo (art. 118). Trata da restituição ao proprietário (art. 120), da competência do juízo cível em caso de dúvida (art. 120, §4º), do perdimento de instrumentos e produto do crime (art. 91 do CP, art. 119), do leilão de coisas não reclamadas (art. 123) e dos bens sem dono.",
+    "palavras_chave": "restituição de coisas apreendidas; arts. 118 a 124-A; art. 118; art. 120; apreensão; interesse do processo; terceiro de boa-fé; perdimento; instrumentos do crime; produto do crime; leilão; coisas não reclamadas; art. 123; incidente de restituição",
+    "nao_confundir": "Diferencia-se de Medidas Assecuratórias, que constringem bens para garantir a reparação do dano, e de Efeitos da Condenação, que trata do confisco definitivo. Aqui o foco é devolver ao legítimo titular o bem apreendido."
+  },
+  {
+    "tema_id": "5498",
+    "descricao": "Inquérito Policial é o tema geral da investigação criminal pré-processual, conduzida pela polícia judiciária (arts. 4º a 23 do CPP). Seus filhos são Acordo de Não Persecução Penal, Conceito, Finalidade e Características do Inquérito Policial, Conclusão e Arquivamento do Inquérito Policial, Inquérito Civil, Juiz das Garantias e Procedimento do Inquérito Policial.",
+    "palavras_chave": "inquérito policial; arts. 4º a 23; investigação criminal; polícia judiciária; delegado de polícia; acordo de não persecução penal; arquivamento; juiz das garantias; inquérito civil; peça informativa; fase pré-processual",
+    "nao_confundir": "Diferencia-se de Ação Penal, que é a fase judicial, e de Procedimento Ordinário. Aqui o foco é a investigação preliminar e seus institutos, como o acordo de não persecução penal e o juiz das garantias."
+  }
+]

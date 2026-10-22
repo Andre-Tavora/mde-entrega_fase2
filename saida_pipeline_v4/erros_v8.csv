@@ -1,0 +1,93 @@
+﻿id,caminho_correto,caminho_previsto,categoria,rank_correto,margem_m1,margem_m2,exato,equiv,aceito
+Q0003,Processo Penal > Recursos em Espécies,Processo Penal,pai_do_correto,4,-1.9505197372145768,1.541424597916242,False,False,True
+Q0005,Penal > Teoria da Pena,Processo Penal,outra_raiz,44,-4.456597648680055,0.09615391846888866,False,False,False
+Q0012,Processo Penal > Recursos em Espécies > Apelação,Processo Penal,pai_do_correto,3,-3.045633350221935,1.5058764926252612,False,False,True
+Q0018,Direito Penal - Legislação Especial > Juizado Especial Criminal,Processo Penal,outra_raiz,25,-2.8260758852163432,2.252452607802156,False,False,False
+Q0023,Processo Penal > Procedimento do Tribunal do Júri,Processo Penal,pai_do_correto,4,-2.8980169525519672,1.0246322498368867,False,False,True
+Q0028,"Processo Penal > Procedimento do Tribunal do Júri > Impronúncia, Desclassificação, Absolvição Sumária e Pronúncia",Processo Penal,pai_do_correto,28,-2.2568392136577096,1.2893024101925343,False,False,True
+Q0031,Criminologia > Teorias Sociológicas Explicativas da Criminalidade,Criminologia,pai_do_correto,1,-0.5347561564808987,0.48669941521662174,False,False,True
+Q0034,Processo Penal > Ações Autônomas de Impugnação > Habeas Corpus,Processo Penal,pai_do_correto,1,-2.2529870234852973,2.360433866654189,False,False,True
+Q0035,Direito Penal - Legislação Especial > Terrorismo,Direito Penal - Legislação Especial,pai_do_correto,1,-2.272385213144828,3.568289183196028,False,False,True
+Q0040,Processo Penal > Recursos em Espécies > Apelação,Processo Penal,pai_do_correto,1,-3.0619589508960985,1.8870544797757685,False,False,True
+Q0041,Penal > Medida de Segurança,Penal > Medida de Segurança,exato,1,5.247928748894923,5.247928748894923,True,True,True
+Q0049,"Penal > Dos Crimes Contra a Vida > Induzimento, Instigação ou Auxílio ao Suicídio","Penal > Dos Crimes Contra a Vida > Induzimento, Instigação ou Auxílio ao Suicídio",exato,1,8.840368354603527,8.840368354603527,True,True,True
+Q0052,Direito Penal - Legislação Especial > Lei de Execução Penal,Penal,outra_raiz,21,-2.3957519426451874,0.023527760036271772,False,False,False
+Q0057,Penal > Iter Criminis,Penal,pai_do_correto,2,-3.350714050365348,0.8335142806460851,False,False,True
+Q0058,Criminologia > Vitimologia,Criminologia,pai_do_correto,118,-3.029618964058485,1.9045154380940623,False,False,True
+Q0060,Penal > Dos Crimes Contra a Administração Pública,Penal,pai_do_correto,10,-2.7243909958250074,0.5957119674160172,False,False,True
+Q0061,Direito Penal - Legislação Especial > Lei de Execução Penal,Direito Penal - Legislação Especial,pai_do_correto,1,-2.0643849621718564,0.21837152962110418,False,False,True
+Q0066,Criminologia > Etapas Evolutivas e Escolas Criminológicas,Criminologia,pai_do_correto,1,-0.17016757063623755,0.7310065133801338,False,False,True
+Q0067,Penal > Dos Crimes Contra a Administração Pública > Concussão e Excesso de Exação,Penal,pai_do_correto,2,-1.9040965122526725,0.22926191264005968,False,False,True
+Q0068,Penal > Dos Crimes Contra a Fé Pública e de Falsidade Documental > Dos Crimes contra a Fé Pública,Penal,pai_do_correto,2,-3.6685352709569465,0.13128916523379353,False,False,True
+Q0077,Penal > Lei Penal no Tempo e no Espaço > Conflito Aparente de Normas,Penal,pai_do_correto,26,-4.3089667096674145,0.17000739793778408,False,False,True
+Q0079,Processo Penal > Sistemas e Princípios Processuais Penais,Processo Penal,pai_do_correto,2,-2.5323016615480287,0.22265152127178744,False,False,True
+Q0080,Criminologia > Criminologia no Estado Democrático de Direito,Criminologia,pai_do_correto,2,-3.6694083849620176,4.817335200214529,False,False,True
+Q0086,Penal > Dos Crimes Contra a Administração Pública > Corrupção Passiva,Penal,pai_do_correto,1,-3.449385222993278,0.7067217693879262,False,False,True
+Q0090,Processo Penal > Procedimento Ordinário,Processo Penal,pai_do_correto,1,-3.027956733318888,0.6344761010861433,False,False,True
+Q0091,Direito Penal - Legislação Especial > Lei de Execução Penal,Penal,outra_raiz,24,-5.008473904449451,0.7922310044902074,False,False,False
+Q0099,"Penal > Dos Crimes Contra a Administração Pública > Resistência, Desobediência e Desacato",Penal,pai_do_correto,2,-3.404838012294533,3.2719422755373837,False,False,True
+Q0103,Processo Penal > Ações Autônomas de Impugnação > Revisão Criminal,Processo Penal,pai_do_correto,1,-2.4173261007462004,1.7174356430044995,False,False,True
+Q0106,Penal > Dos Crimes Contra o Patrimônio > Apropriação indébita,Penal,pai_do_correto,21,-3.1042813557147544,0.9446123486799336,False,False,True
+Q0110,Processo Penal > Competência,Processo Penal,pai_do_correto,1,-3.361947005694682,0.21660968541138725,False,False,True
+Q0111,Criminologia > Etapas Evolutivas e Escolas Criminológicas,Criminologia,pai_do_correto,10,-1.6785611950474637,3.659326574256853,False,False,True
+Q0115,Criminologia > Teorias Sociológicas Explicativas da Criminalidade > Teorias Criminológicas em Espécie,Criminologia,pai_do_correto,4,-2.055573957285267,0.4427607512677838,False,False,True
+Q0117,Criminologia > Teorias Legitimidoras da Pena,Criminologia,pai_do_correto,1,-3.429533372386438,3.716696282275165,False,False,True
+Q0124,Criminologia > Teorias Legitimidoras da Pena,Criminologia,pai_do_correto,1,-3.1341823319135496,3.274107998976582,False,False,True
+Q0134,Penal > Dos Crimes Contra a Administração Pública > Corrupção Passiva,Penal,pai_do_correto,19,-3.3233350090935714,0.3392770154406999,False,False,True
+Q0137,Processo Penal > Inquérito Policial,Processo Penal,pai_do_correto,4,-4.060001405112329,0.32510460448365386,False,False,True
+Q0138,Processo Penal > Lei de Execução Penal,Penal,outra_raiz,56,-5.206760813113002,0.6995141465144812,False,False,False
+Q0139,Penal > Teoria do Crime: Culpabilidade,Penal,pai_do_correto,3,-2.7479035489927264,1.4688579441183292,False,False,True
+Q0144,Processo Penal > Procedimento do Tribunal do Júri,Processo Penal,pai_do_correto,6,-0.5195697630297449,0.9757913133612162,False,False,True
+Q0147,Processo Penal > Inquérito Policial,Processo Penal,pai_do_correto,3,-2.1063670360342686,1.560736214112569,False,False,True
+Q0150,Direito Penal - Legislação Especial > Tráfico de Drogas,Direito Penal - Legislação Especial,pai_do_correto,1,-3.1962857280279353,1.3053026026684993,False,False,True
+Q0160,Penal > Teoria da Pena > Segunda Fase da Dosimetria: Agravantes e Atenuantes,Penal,pai_do_correto,20,-3.741373648363199,0.09805270940519328,False,False,True
+Q0167,Processo Penal > Procedimento do Tribunal do Júri,Processo Penal,pai_do_correto,27,-3.042390793649122,1.8041541264987213,False,False,True
+Q0169,"Processo Penal > Das Questões e Processos Incidentes > Exceção de Suspeição, de Impedimento ou de Incompatibilidade",Processo Penal,pai_do_correto,1,-2.925682369151555,4.482130192482219,False,False,True
+Q0179,Criminologia > Criminologia no Estado Democrático de Direito,Criminologia,pai_do_correto,2,-3.2065577483625236,0.638097212200929,False,False,True
+Q0186,Penal > Teoria da Pena > Primeira Fase da Dosimetria: Circunstâncias Judiciais,Penal > Teoria da Pena > Primeira Fase da Dosimetria: Circunstâncias Judiciais,exato,1,5.713567379370309,5.713567379370309,True,True,True
+Q0188,Penal > Teoria do Crime: Ilicitude,Penal,pai_do_correto,3,-2.1578586297811975,0.06257851148615767,False,False,True
+Q0191,Processo Penal > Recursos em Espécies,Processo Penal,pai_do_correto,1,-0.799696036055979,0.19945275787739458,False,False,True
+Q0194,Penal > Dos Crimes Contra a Administração Pública,Penal,pai_do_correto,118,-3.211703647703432,0.5260492468438809,False,False,True
+Q0201,Penal > Dos Crimes Contra a Dignidade Sexual,Penal,pai_do_correto,14,-4.6621211109603165,6.148000925153355,False,False,True
+Q0202,Penal > Teoria do Crime: Fato Típico > Erro de Tipo,Processo Penal,outra_raiz,50,-5.354811490039073,0.20414782185238955,False,False,False
+Q0208,Penal > Concurso de Pessoas > Autores e Partícipes,Penal,pai_do_correto,21,-3.9843831471367928,1.7296981366045898,False,False,True
+Q0215,Penal > Teoria da Pena > Penas Privativas de Liberdade,Processo Penal,outra_raiz,2,-6.760467659385707,1.41371955533553,False,False,False
+Q0216,Direito Penal - Legislação Especial > Juizado Especial Criminal,Penal,outra_raiz,36,-5.087541303536494,0.16469408921793427,False,False,False
+Q0221,Penal > Teoria da Pena,Penal,pai_do_correto,78,-4.072129000254399,1.4601436232846243,False,False,True
+Q0226,Processo Penal > Provas em Espécies > Cadeia de Custódia,Processo Penal,pai_do_correto,1,-1.8041794872094887,1.1186737327906648,False,False,True
+Q0230,Penal > Teoria do Crime: Culpabilidade,Penal,pai_do_correto,16,-3.8173351177507784,0.34124974453738943,False,False,True
+Q0231,Penal > Teoria do Crime: Fato Típico > Erro de Tipo,Penal,pai_do_correto,1,-3.210163293711764,1.8968242832674793,False,False,True
+Q0240,Processo Penal > Inquérito Policial,Processo Penal,pai_do_correto,9,-3.382413015899852,0.5119722211582363,False,False,True
+Q0244,Penal > Dos Crimes Contra a Administração Pública,Penal,pai_do_correto,6,-1.5916899363447907,2.4149008181971947,False,False,True
+Q0245,Penal > Prescrição,Penal,pai_do_correto,1,-4.852485435864356,1.2589957884738059,False,False,True
+Q0246,"Processo Penal > Procedimento do Tribunal do Júri > Impronúncia, Desclassificação, Absolvição Sumária e Pronúncia",Processo Penal,pai_do_correto,1,-0.914850622239109,0.43820954802833967,False,False,True
+Q0249,"Processo Penal > Das Questões e Processos Incidentes > Exceção de Suspeição, de Impedimento ou de Incompatibilidade",Processo Penal,pai_do_correto,41,-2.425628284567254,0.3647505450273938,False,False,True
+Q0251,Penal > Punibilidade,Penal,pai_do_correto,4,-2.4179181871833952,0.6101002536216305,False,False,True
+Q0253,Criminologia > Etapas Evolutivas e Escolas Criminológicas,Criminologia,pai_do_correto,3,-2.3822147043561763,4.141019560441024,False,False,True
+Q0259,Penal > Introdução ao Estudo do Direito Penal > Princípios do Direito Penal,Penal,pai_do_correto,33,-2.4367987928055825,0.022069697336311478,False,False,True
+Q0265,Penal > Prescrição,Penal,pai_do_correto,1,-2.2448507094150063,0.36975800476188514,False,False,True
+Q0274,Penal > Iter Criminis > Crime Consumado e Tentado,Penal,pai_do_correto,15,-2.5005494260163004,1.4057136113032271,False,False,True
+Q0275,Direito Penal - Legislação Especial > Juizado Especial Criminal,Processo Penal,outra_raiz,2,-5.480800340359842,2.0855684499447174,False,False,False
+Q0276,Processo Penal > Provas em Espécies > Busca e Apreensão,Processo Penal,pai_do_correto,2,-1.3355454238520943,0.6385585616900045,False,False,True
+Q0277,Direito Penal - Legislação Especial > Estaturo de Idoso - Crimes,Direito Penal - Legislação Especial,pai_do_correto,1,-3.1266694919842792,1.54688453009648,False,False,True
+Q0279,Penal > Prescrição,Penal,pai_do_correto,4,-3.872945811557607,2.9302723835090667,False,False,True
+Q0286,Penal > Teoria da Pena > Primeira Fase da Dosimetria: Circunstâncias Judiciais,Penal,pai_do_correto,28,-4.574495894840003,0.9529840002406491,False,False,True
+Q0290,Direito Penal - Legislação Especial > Juizado Especial Criminal,Processo Penal,outra_raiz,24,-3.2130501981618753,0.008525290424008958,False,False,False
+Q0304,Direito Penal - Legislação Especial > Juizado Especial Criminal,Processo Penal,outra_raiz,8,-4.806661359187236,0.9421335697118902,False,False,False
+Q0308,Processo Penal > Inquérito Policial > Conclusão e Arquivamento do Inquérito Policial,Processo Penal,pai_do_correto,2,-3.714954698076199,0.1934806665311095,False,False,True
+Q0311,Processo Penal > Comunicação dos Atos Processuais > Citação e Contagem dos Prazos,Processo Penal,pai_do_correto,3,-3.1967307085860743,2.418321386162961,False,False,True
+Q0313,Penal > Teoria da Pena > Efeitos da Condenação Penais e Extrapenais,Penal,pai_do_correto,1,-5.621667342043893,0.06623601583145522,False,False,True
+Q0314,Processo Penal > Ações Autônomas de Impugnação > Habeas Corpus,Processo Penal > Ações Autônomas de Impugnação > Habeas Corpus,exato,1,4.607181024531776,4.607181024531776,True,True,True
+Q0315,Penal > Prescrição,Penal,pai_do_correto,1,-4.870599183268422,1.3802206562225057,False,False,True
+Q0316,Penal > Teoria do Crime: Fato Típico > Erro de Tipo,Processo Penal,outra_raiz,33,-4.077562066979875,0.09266813068072599,False,False,False
+Q0319,"Penal > Concurso de Pessoas > Autoria Mediata, Colateral e Coautoria",Penal,pai_do_correto,1,-2.560591629904527,0.641037904453694,False,False,True
+Q0320,Processo Penal > Provas em Espécies > Prova Testemunhal,Processo Penal,pai_do_correto,1,-3.185830966684824,2.4690212651597627,False,False,True
+Q0323,Processo Penal > Teoria Geral das Provas > Princípios Relativos à Prova Penal,Processo Penal,pai_do_correto,23,-1.9051679466135585,0.2604597347400075,False,False,True
+Q0324,Direito Penal - Legislação Especial > Lei de Execução Penal,Processo Penal,pai_do_correto,25,-4.2914129819597004,0.09351533174619364,False,False,True
+Q0325,Processo Penal > Ação Penal > Denúncia,Penal,outra_raiz,19,-4.493633823421453,0.6143350110760792,False,False,False
+Q0336,Penal > Dos Crimes Contra o Patrimônio > Furto,Penal,pai_do_correto,1,-4.662033727616755,0.4455989414618937,False,False,True
+Q0338,Processo Penal > Teoria Geral das Provas,Processo Penal,pai_do_correto,32,-2.9208850433289895,0.5221516215964446,False,False,True
+Q0339,Processo Penal > Sentença Penal,Processo Penal,pai_do_correto,23,-3.79850980987173,2.3334581206117138,False,False,True
+Q0341,Penal > Dos Crimes Contra o Patrimônio,Penal,pai_do_correto,5,-3.462302600576133,0.6409846049458743,False,False,True
+Q0345,Penal > Dos Crimes Contra a Dignidade Sexual > Estupro e Estupro de Vulnerável,Penal,pai_do_correto,1,-3.7968368942432216,1.4781319323709,False,False,True
+Q0356,Penal > Concurso de Crimes,Penal,pai_do_correto,4,-2.5929955742112094,0.6404411802724823,False,False,True

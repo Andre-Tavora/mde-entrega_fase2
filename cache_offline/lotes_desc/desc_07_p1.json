@@ -1,0 +1,62 @@
+[
+  {
+    "tema_id": "5160",
+    "descricao": "Roubo corresponde ao art. 157 do CP: subtrair coisa móvel alheia, para si ou para outrem, mediante grave ameaça ou violência a pessoa, ou depois de reduzi-la à impossibilidade de resistência. Abrange o roubo impróprio (§1º), as causas de aumento de pena (§2º, §2º-A e §2º-B) e o resultado lesão corporal grave ou morte, o latrocínio (§3º).",
+    "palavras_chave": "roubo; art. 157; subtração de coisa móvel alheia; grave ameaça; violência à pessoa; impossibilidade de resistência; roubo impróprio; causas de aumento; latrocínio; concurso de pessoas; emprego de arma",
+    "nao_confundir": "Diferencia-se de Furto, em que a subtração ocorre sem violência ou grave ameaça, e de Extorsão, em que a vítima é constrangida a fazer, tolerar que se faça ou deixar de fazer algo. No roubo o critério é a subtração com violência ou grave ameaça."
+  },
+  {
+    "tema_id": "5163",
+    "descricao": "Usurpação corresponde ao art. 161 do CP (suprimir ou deslocar tapume, marco ou sinal de linha divisória para apropriar-se de imóvel alheio; desviar ou represar águas alheias; invadir terreno ou edifício alheio para esbulho possessório) e ao art. 162 (suprimir ou alterar indevidamente marca ou sinal indicativo de propriedade em gado ou rebanho alheio).",
+    "palavras_chave": "usurpação; art. 161; art. 162; supressão de marco; deslocamento de tapume; linha divisória; águas alheias; invasão de terreno; esbulho possessório; marca em gado; rebanho alheio",
+    "nao_confundir": "Diferencia-se de Esbulho Possessório, que tem tema próprio, e de Dano e Furto, que atingem a coisa em si. A usurpação tem como foco a alteração de limites, águas ou marcas de propriedade."
+  },
+  {
+    "tema_id": "6719",
+    "descricao": "Dos Crimes contra a Administração Pública (Parte 2) tem o mesmo escopo do tema equivalente Dos Crimes Contra a Administração Pública. Abrange os arts. 312 a 337-D do CP, praticados por funcionário público e por particular contra a administração em geral e contra a administração pública estrangeira, e os arts. 337-E a 337-P, sobre licitações e contratos. Não possui filhos no CSV.",
+    "palavras_chave": "administração pública; parte 2; arts. 312 a 337-D; funcionário público; crimes funcionais; crimes praticados por particular; administração pública estrangeira; arts. 337-E a 337-P; licitações e contratos",
+    "nao_confundir": "Tem o mesmo conteúdo dos equivalentes Dos Crimes Contra a Administração Pública e Dos Crimes Contra a Administração Pública (Parte 1). Diferencia-se de Dos Crimes Contra a Administração Judicial, que trata da administração da justiça, e de Abuso de Autoridade."
+  },
+  {
+    "tema_id": "5111",
+    "descricao": "Dos Crimes contra a Família corresponde ao Título VII do CP, arts. 235 a 249. Seus filhos são Dos Crimes Contra a Assistência Familiar, Dos Crimes Contra o Casamento, Dos Crimes Contra o Estado de Filiação e Dos Crimes Contra o Pátrio Poder, a Tutela e a Curatela.",
+    "palavras_chave": "crimes contra a família; Título VII; arts. 235 a 249; casamento; assistência familiar; estado de filiação; pátrio poder; tutela; curatela",
+    "nao_confundir": "Diferencia-se de Dos Crimes Contra a Dignidade Sexual, Dos Crimes Contra a Honra, Dos Crimes Contra a Liberdade Pessoal e Das Lesões Corporais. Aqui o bem jurídico é a organização familiar, o casamento, a filiação e a assistência entre familiares."
+  },
+  {
+    "tema_id": "5114",
+    "descricao": "Dos Crimes Contra a Assistência Familiar abrange o art. 244 (abandono material: deixar, sem justa causa, de prover a subsistência de cônjuge, filho menor de 18 anos ou inapto para o trabalho, ou ascendente inválido ou maior de 60 anos, faltar ao pagamento de pensão alimentícia ou deixar de socorrer descendente ou ascendente gravemente enfermo). Inclui também os arts. 245 (entrega de filho menor a pessoa inidônea), 246 (abandono intelectual) e 247 (permitir que menor de 18 anos sujeito ao seu poder, guarda ou vigilância frequente ambientes ou companhias nocivas).",
+    "palavras_chave": "assistência familiar; art. 244; abandono material; pensão alimentícia; art. 245; entrega de filho a pessoa inidônea; art. 246; abandono intelectual; instrução primária; art. 247; menor de 18 anos",
+    "nao_confundir": "Diferencia-se de Dos Crimes Contra o Casamento, Dos Crimes Contra o Estado de Filiação e Dos Crimes Contra o Pátrio Poder, a Tutela e a Curatela. Aqui o critério é o dever de sustento, instrução e proteção do menor ou de familiar dependente."
+  },
+  {
+    "tema_id": "5112",
+    "descricao": "Dos Crimes Contra o Casamento abrange os arts. 235 (bigamia), 236 (induzimento a erro essencial e ocultação de impedimento), 237 (conhecimento prévio de impedimento), 238 (simulação de autoridade para celebração de casamento) e 239 (simulação de casamento). O art. 240 (adultério) foi revogado pela Lei 11.106/2005.",
+    "palavras_chave": "casamento; bigamia; art. 235; induzimento a erro essencial; ocultação de impedimento; conhecimento prévio de impedimento; simulação de autoridade; simulação de casamento; adultério; art. 240 revogado",
+    "nao_confundir": "Diferencia-se de Dos Crimes Contra a Assistência Familiar, Dos Crimes Contra o Estado de Filiação e Dos Crimes Contra o Pátrio Poder, a Tutela e a Curatela. Aqui os crimes se relacionam à celebração e à validade do casamento."
+  },
+  {
+    "tema_id": "5113",
+    "descricao": "Dos Crimes Contra o Estado de Filiação abrange o art. 241 (promover no registro civil a inscrição de nascimento inexistente), o art. 242 (parto suposto e supressão ou alteração de direito inerente ao estado civil de recém-nascido: dar parto alheio como próprio, registrar como seu filho de outrem, ocultar ou substituir recém-nascido) e o art. 243 (sonegação de estado de filiação).",
+    "palavras_chave": "estado de filiação; art. 241; registro civil; nascimento inexistente; art. 242; parto suposto; supressão de estado civil; recém-nascido; art. 243; sonegação de estado de filiação",
+    "nao_confundir": "Diferencia-se de Dos Crimes Contra o Casamento, Dos Crimes Contra a Assistência Familiar e Dos Crimes Contra o Pátrio Poder, a Tutela e a Curatela. Aqui o foco é a falsificação ou a supressão da condição de filho."
+  },
+  {
+    "tema_id": "5115",
+    "descricao": "Dos Crimes Contra o Pátrio Poder, a Tutela e a Curatela abrange o art. 248 (induzimento a fuga, entrega arbitrária ou sonegação de incapazes) e o art. 249 (subtração de incapazes: subtrair menor de 18 anos ou interdito ao poder de quem o tem sob guarda por lei ou ordem judicial).",
+    "palavras_chave": "pátrio poder; tutela; curatela; art. 248; art. 249; induzimento a fuga; entrega arbitrária; sonegação de incapazes; subtração de incapazes; menor de 18 anos; interdito",
+    "nao_confundir": "Diferencia-se de Dos Crimes Contra a Assistência Familiar, que trata do dever de sustento e instrução, de Dos Crimes Contra o Casamento e de Dos Crimes Contra o Estado de Filiação. Aqui o foco é a guarda e a autoridade sobre o incapaz."
+  },
+  {
+    "tema_id": "5134",
+    "descricao": "Dos Crimes contra a Organização do Trabalho, a Propriedade Imaterial e ao Sentimento Religioso reúne no CP os títulos sobre propriedade imaterial (direito autoral, arts. 184 a 186), organização do trabalho (arts. 197 a 207) e sentimento religioso e respeito aos mortos (arts. 208 a 212). Seus filhos são Dos Crimes Contra a Organização do Trabalho, Dos Crimes Contra o Sentimento Religioso e Respeito aos Mortos e Dos Crimescontra a Propriedade Imaterial.",
+    "palavras_chave": "organização do trabalho; propriedade imaterial; sentimento religioso; respeito aos mortos; direito autoral; arts. 184 a 186; arts. 197 a 207; arts. 208 a 212",
+    "nao_confundir": "Diferencia-se de Dos Crimes Contra a Fé Pública e de Falsidade Documental, Dos Crimes Contra a Honra e Dos Crimes Contra a Administração Pública. Aqui os bens protegidos são o trabalho, a criação intelectual e a crença religiosa."
+  },
+  {
+    "tema_id": "5135",
+    "descricao": "Dos Crimes Contra a Organização do Trabalho corresponde aos arts. 197 a 207 do CP. Abrange atentado contra a liberdade de trabalho, de contrato de trabalho e boicotagem violenta, e de associação, as paralisações de trabalho, a invasão de estabelecimento e sabotagem, a frustração de direitos trabalhistas e de lei sobre nacionalização do trabalho, o exercício de atividade com infração de decisão administrativa e os aliciamentos de trabalhadores.",
+    "palavras_chave": "organização do trabalho; arts. 197 a 207; liberdade de trabalho; liberdade de associação; boicotagem violenta; paralisação de trabalho; sabotagem; frustração de direito trabalhista; aliciamento para emigração; aliciamento de trabalhadores",
+    "nao_confundir": "Diferencia-se de Dos Crimes Contra o Sentimento Religioso e Respeito aos Mortos e de Dos Crimescontra a Propriedade Imaterial. Aqui o bem protegido é a organização do trabalho e os direitos dos trabalhadores."
+  }
+]

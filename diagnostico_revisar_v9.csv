@@ -1,0 +1,186 @@
+﻿tema_id,caminho_previsto,n,n_publicar,n_revisar,pct_publicar,m1_mediana,m2_mediana
+5466,Processo Penal > Ação Penal,39,6,33,15.384615384615385,0.8043761488982799,0.3001975462188673
+5185,Penal > Prescrição,22,6,16,27.27272727272727,1.3098118355306816,1.0875139274262753
+5498,Processo Penal > Inquérito Policial,21,7,14,33.33333333333333,1.5966895567979784,0.5445070928569002
+4385,Criminologia > Teorias Sociológicas Explicativas da Criminalidade,19,7,12,36.84210526315789,0.4291938660876293,0.8470454367122588
+5487,Processo Penal > Comunicação dos Atos Processuais,18,4,14,22.22222222222222,1.4135236632087596,1.3120278583384515
+5087,Penal > Dos Crimes Contra a Administração Pública,17,0,17,0.0,0.6646420509671129,0.3392747504641984
+6724,Penal > Lei Maria da Penha,16,13,3,81.25,4.94078395053223,1.0937867771598597
+5530,Processo Penal > Procedimento Ordinário,15,2,13,13.333333333333334,0.2714874644775573,0.3671792141898002
+5063,Penal > Ação Penal,13,3,10,23.076923076923077,0.4905397127503965,0.2398552857315836
+5198,Penal > Punibilidade > Decadência,12,2,10,16.666666666666664,0.58708383439967,0.58708383439967
+5548,Processo Penal > Provas em Espécies > Confissão,12,1,11,8.333333333333332,0.7668218756466465,0.7668218756466465
+5178,"Penal > Iter Criminis > Desistência Voluntária, Arrependimento Eficaz e Arrependimento posterior",11,10,1,90.9090909090909,5.117506229501896,4.987742124041546
+5560,Processo Penal > Recursos em Espécies,11,0,11,0.0,-0.3125546229922209,0.6748570721879235
+4384,Criminologia > Teorias Legitimidoras da Pena,10,8,2,80.0,3.635843250926341,3.635843250926341
+5092,Penal > Dos Crimes Contra a Administração Pública > Corrupção Passiva,10,1,9,10.0,0.6296887924920915,0.6296887924920915
+5180,Penal > Lei Penal no Tempo e no Espaço,10,0,10,0.0,1.0428284503836542,0.601104727062513
+4708,Direito Penal - Legislação Especial > Tráfico de Drogas,8,3,5,37.5,1.1253576631943938,1.0418327311829332
+4702,Direito Penal - Legislação Especial > Lavagem de Dinheiro,7,4,3,57.14285714285714,2.349472151412815,1.3908978332482818
+5480,Processo Penal > Competência,7,3,4,42.857142857142854,1.6336801287039613,1.1960188556529865
+5228,Penal > Teoria do Crime: Ilicitude,7,0,7,0.0,1.0914040912648977,0.0625824453927128
+5477,Processo Penal > Ações Autônomas de Impugnação > Habeas Corpus,6,5,1,83.33333333333334,2.7931704227799163,2.7931704227799163
+5502,Processo Penal > Inquérito Policial > Acordo de Não Persecução Penal,6,4,2,66.66666666666666,2.629773071083932,2.629773071083932
+5091,Penal > Dos Crimes Contra a Administração Pública > Concussão e Excesso de Exação,6,3,3,50.0,2.2693510370023775,2.2693510370023775
+5208,Penal > Teoria da Pena > Livramento Condicional,6,2,4,33.33333333333333,1.6290022241993882,1.6290022241993882
+5550,Processo Penal > Provas em Espécies > Prova Testemunhal,6,2,4,33.33333333333333,0.8850999504083608,0.8850999504083608
+4374,Criminologia > Política Criminal,6,1,5,16.666666666666664,0.4644103142244047,0.5697448343633034
+5524,Processo Penal > Procedimento do Tribunal do Júri,6,1,5,16.666666666666664,0.6499361440232252,0.29997360738873713
+5505,Processo Penal > Lei Processual no Tempo e no Espaço,6,0,6,0.0,1.132131891459324,0.1861667722248219
+5103,Penal > Dos Crimes Contra a Dignidade Sexual > Estupro e Estupro de Vulnerável,5,4,1,80.0,2.8342092217999117,2.8342092217999117
+4376,Criminologia > Política Criminal > Direito Penal do Inimigo,5,2,3,40.0,1.5187865084690402,1.5187865084690402
+5116,Penal > Dos Crimes Contra a Fé Pública e de Falsidade Documental,5,2,3,40.0,2.024213025510988,0.1576279418636739
+6727,Penal > Teoria da Pena (Parte 2),5,2,3,40.0,0.8509855052013129,0.1236510256851421
+4697,Direito Penal - Legislação Especial > Estatuto do Desarmamento,5,1,4,20.0,0.94381596632762,0.94381596632762
+5540,Processo Penal > Procedimento Sumaríssimo > Competência dos Juizados Especiais Criminais,5,1,4,20.0,1.6447057837218173,1.6447057837218173
+5207,Penal > Teoria da Pena > Suspensão Condicional da Pena,5,0,5,0.0,0.6152756087435511,0.6152756087435511
+5218,Penal > Teoria do Crime: Fato Típico,5,0,5,0.0,0.2735385237749446,0.5260492468438809
+4371,Criminologia > Etapas Evolutivas e Escolas Criminológicas,4,3,1,75.0,3.140378871590104,0.4861686236712406
+5165,Penal > Dos Crimes Contra o Patrimônio > Apropriação indébita,4,3,1,75.0,2.549092798420901,2.549092798420901
+4689,Direito Penal - Legislação Especial > Crimes contra o Sistema Financeiro,4,2,2,50.0,2.123844421888871,2.123844421888871
+5184,Penal > Medida de Segurança,4,2,2,50.0,2.76261737870776,2.76261737870776
+5224,Penal > Teoria do Crime: Fato Típico > Erro de Tipo,4,2,2,50.0,2.606993300236489,2.606993300236489
+5518,Processo Penal > Prisões em Espécie > Prisão em Flagrante,4,2,2,50.0,1.850044407555134,1.850044407555134
+5545,Processo Penal > Provas em Espécies > Exame de Corpo de Delito,4,2,2,50.0,2.8498241392368704,2.8498241392368704
+4703,Direito Penal - Legislação Especial > Lei de Execução Penal,4,1,3,25.0,0.8325119206278105,0.3628480581370423
+5071,Penal > Concurso de Pessoas,4,1,3,25.0,1.9373815889588721,0.8814505044285652
+5095,Penal > Dos Crimes Contra a Administração Pública > Prevaricação,4,1,3,25.0,1.2611821020381209,1.2611821020381209
+5150,Penal > Dos Crimes Contra a Vida > Homicídio,4,1,3,25.0,1.9289342435982202,1.9289342435982202
+5202,Penal > Teoria da Pena > Primeira Fase da Dosimetria: Circunstâncias Judiciais,4,1,3,25.0,1.1109930780815902,1.1109930780815902
+5209,Penal > Teoria da Pena > Efeitos da Condenação Penais e Extrapenais,4,1,3,25.0,0.15649416725508608,0.15649416725508608
+5226,Penal > Teoria do Crime: Fato Típico > Nexo Causal e Imputação Objetiva,4,1,3,25.0,0.9876541935303194,0.9876541935303194
+5093,Penal > Dos Crimes Contra a Administração Pública > Corrupção Ativa,4,0,4,0.0,1.3906774475670702,1.3906774475670702
+5157,Penal > Dos Crimes Contra o Patrimônio,4,0,4,0.0,0.746877387747032,1.175164410503055
+5159,Penal > Dos Crimes Contra o Patrimônio > Furto,4,0,4,0.0,1.3905868047756893,1.3905868047756893
+5519,Processo Penal > Prisões em Espécie > Prisão Preventiva,4,0,4,0.0,0.9774142060475972,0.9774142060475972
+5084,Penal > Dos Crimes Contra a Administração Judicial > Favorecimento Pessoal e Real,3,3,0,100.0,5.238934414511259,5.238934414511259
+5557,Processo Penal > Provas em Espécies > Colaboração Premiada,3,3,0,100.0,4.317591984978561,4.317591984978561
+4368,Criminologia > Criminologia no Estado Democrático de Direito,3,2,1,66.66666666666666,2.383846192807839,0.6380905364807141
+5089,Penal > Dos Crimes Contra a Administração Pública > Peculato e Peculato Mediante Erro de Outrem,3,2,1,66.66666666666666,2.3981502455486656,2.353687227590496
+5213,Penal > Teoria do Crime: Culpabilidade > Inimputabilidade,3,2,1,66.66666666666666,3.2976696493353383,3.2976696493353383
+5222,Penal > Teoria do Crime: Fato Típico > Crime Doloso e Culposo,3,2,1,66.66666666666666,2.686705117868791,2.686705117868791
+4380,Criminologia > Teoria Geral da Criminologia,3,1,2,33.33333333333333,0.504463268754999,0.3165849378735084
+5074,Penal > Concurso de Pessoas > Participação,3,1,2,33.33333333333333,1.159171864138255,1.159171864138255
+5096,Penal > Dos Crimes Contra a Administração Pública > Condescendência Criminosa,3,1,2,33.33333333333333,1.1828030709572372,1.1828030709572372
+5131,Penal > Dos Crimes Contra a Liberdade Pessoal > Violência Psicológica contra a Mulher,3,1,2,33.33333333333333,1.2224317845589052,1.2224317845589052
+5227,Penal > Teoria do Crime: Fato Típico > Tipicidade,3,1,2,33.33333333333333,0.964914628776082,0.964914628776082
+5501,Processo Penal > Inquérito Policial > Conclusão e Arquivamento do Inquérito Policial,3,1,2,33.33333333333333,1.2579372149810926,1.2579372149810926
+5544,Processo Penal > Provas em Espécies > Cadeia de Custódia,3,1,2,33.33333333333333,2.081633510951317,2.081633510951317
+5555,Processo Penal > Provas em Espécies > Interceptação Telefônica e Quebra do Sigilo de Dados Telefônicos,3,1,2,33.33333333333333,1.817191836855475,1.817191836855475
+5580,Processo Penal > Sistemas e Princípios Processuais Penais,3,1,2,33.33333333333333,1.7239610956344258,0.2226493755045755
+5066,Penal > Concurso de Crimes,3,0,3,0.0,-0.2565199605007726,0.1889563654260242
+5201,Penal > Teoria da Pena > Penas Privativas de Liberdade,3,0,3,0.0,1.4601446961682305,1.4601446961682305
+5206,Penal > Teoria da Pena > Pena de Multa,3,0,3,0.0,0.908080180131794,0.908080180131794
+5214,Penal > Teoria do Crime: Culpabilidade > Erro de Proibição,3,0,3,0.0,0.4977940622601835,0.4977940622601835
+5512,Processo Penal > Parte Geral dos Recursos,3,0,3,0.0,0.3786476614695777,0.3786476614695777
+5571,Processo Penal > Recursos em Espécies > Recurso Especial,3,0,3,0.0,0.3935002399177794,0.3935002399177794
+5576,Processo Penal > Sentença Penal > Fixação da Pena e do Regime Penitenciário,3,0,3,0.0,1.0937497282042346,1.0937497282042346
+4684,Direito Penal - Legislação Especial > Abuso de Autoridade,2,2,0,100.0,3.070910619372196,0.7049364460634107
+5132,"Penal > Dos Crimes Contra a Liberdade Pessoal > Sequestro, Cárcere Privado, Redução à Condição Análoga à de Escravo e Tráfico de Pessoas",2,2,0,100.0,4.5571239937908175,4.5571239937908175
+5147,Penal > Dos Crimes contra as Finanças Públicas,2,2,0,100.0,6.10798815929428,6.10798815929428
+5175,Penal > Iter Criminis,2,2,0,100.0,5.350026904845754,0.889965135117436
+5503,Processo Penal > Inquérito Policial > Juiz das Garantias,2,2,0,100.0,4.122667787157717,4.122667787157717
+5578,Processo Penal > Sentença Penal > Princípio da Correlação entre Acusação e Sentença,2,2,0,100.0,4.038931907261986,3.999650122461962
+6723,Penal > Lavagem de Dinheiro,2,2,0,100.0,6.502929475733369,0.7918232612543514
+4378,Criminologia > Processos de Criminalização e Cifras Criminais > Criminalização Primária e Secundária,2,1,1,50.0,2.0410943249432263,2.0410943249432263
+4381,Criminologia > Teoria Geral da Criminologia > Conceito e objeto da Criminologia,2,1,1,50.0,1.6299454837334928,1.3974494435155518
+4700,Direito Penal - Legislação Especial > Interceptação Telefônica,2,1,1,50.0,2.1714549057789476,2.1714549057789476
+5081,Penal > Dos Crimes Contra a Administração Judicial > Falso Testemunha ou Falsa Perícia e Corrupção Ativa de Testemunha ou Perito,2,1,1,50.0,1.4080061977421119,1.4080061977421119
+5144,Penal > Dos Crimes Contra a Saúde Pública e Dos Crimes Contra à Paz Pública,2,1,1,50.0,2.049154484568418,0.5658033742604403
+5197,Penal > Punibilidade > Perdão Judicial,2,1,1,50.0,1.6828677189186652,1.6828677189186652
+5203,Penal > Teoria da Pena > Segunda Fase da Dosimetria: Agravantes e Atenuantes,2,1,1,50.0,2.143621967095969,2.143621967095969
+5205,Penal > Teoria da Pena > Penas Restritivas de Direitos,2,1,1,50.0,1.6710067526201082,1.6710067526201082
+5230,Penal > Teoria do Crime: Ilicitude > Estado de Necessidade,2,1,1,50.0,2.1421370366713948,2.1421370366713948
+5475,Processo Penal > Ação Penal > Ação Civil Ex Delicto,2,1,1,50.0,4.261360338955639,3.8433141623720135
+5495,Processo Penal > Das Questões e Processos Incidentes > Restituição de Coisas Apreendidas,2,1,1,50.0,5.106032392754932,5.106032392754932
+5496,"Processo Penal > Das Questões e Processos Incidentes > Medidas Assecuratórias: Sequestro, Hipoteca Legal e Arresto",2,1,1,50.0,1.7231373371722758,1.7231373371722758
+5561,Processo Penal > Recursos em Espécies > Recurso em sentido estrito (RESE),2,1,1,50.0,2.7559458197368465,2.6913066032456094
+6716,Penal > Abuso de Autoridade,2,1,1,50.0,3.3359013926160856,0.7874957322782525
+6717,Penal > Crimes contra o meio ambiente,2,1,1,50.0,3.33591659592466,0.45793078543795307
+6725,Penal > Organizações Criminosas,2,1,1,50.0,1.7310882269575443,0.5272178408820198
+5100,"Penal > Dos Crimes Contra a Administração Pública > Resistência, Desobediência e Desacato",2,0,2,0.0,0.856512350370358,0.856512350370358
+5134,"Penal > Dos Crimes contra a Organização do Trabalho, a Propriedade Imaterial e ao Sentimento Religioso",2,0,2,0.0,1.1135406646546646,0.8275374573664473
+5204,Penal > Teoria da Pena > Terceira fase da Dosimetria: Causas de Aumento e de Diminuição,2,0,2,0.0,0.26387821953948704,0.26387821953948704
+5211,Penal > Teoria do Crime: Culpabilidade,2,0,2,0.0,-1.2624930242546477,0.1910850596925921
+5212,Penal > Teoria do Crime: Culpabilidade > Conceito e Elementos da Culpabilidade,2,0,2,0.0,1.3347972979642408,1.3347972979642408
+5225,Penal > Teoria do Crime: Fato Típico > Resultado,2,0,2,0.0,1.0274443014898136,1.0274443014898136
+5478,Processo Penal > Ações Autônomas de Impugnação > Revisão Criminal,2,0,2,0.0,1.5576411606162917,1.5576411606162917
+5479,Processo Penal > Ações Autônomas de Impugnação > Mandado de Segurança,2,0,2,0.0,0.9504359814770589,0.9504359814770589
+5508,Processo Penal > Lei Processual no Tempo e no Espaço > Interpretação da Lei processual Penal,2,0,2,0.0,1.3156199158959256,1.3156199158959256
+5535,Processo Penal > Procedimento Ordinário > Audiência de Instrução e Julgamento,2,0,2,0.0,0.8642455478536353,0.8642455478536353
+5537,Processo Penal > Procedimento Ordinário > Sentença,2,0,2,0.0,0.9585623727744355,0.9585623727744355
+5541,Processo Penal > Procedimento Sumaríssimo > Transação Penal,2,0,2,0.0,1.265342438786715,1.265342438786715
+5565,Processo Penal > Recursos em Espécies > Embargos de Declaração,2,0,2,0.0,0.045281483630617195,0.045281483630617195
+5570,Processo Penal > Recursos em Espécies > Recurso Extraordinário,2,0,2,0.0,1.1609526822276577,1.1609526822276577
+5574,Processo Penal > Sentença Penal > Sentença Absolutória,2,0,2,0.0,1.1073110398373873,1.1073110398373873
+5577,Processo Penal > Sentença Penal > Efeitos Decorrentes da Sentença Penal Condenatória,2,0,2,0.0,0.6121005645930393,0.6121005645930393
+4370,Criminologia > Criminologia no Estado Democrático de Direito > Modelos de Reação ao Delito,1,1,0,100.0,5.099873468374456,4.81733758440032
+4389,Criminologia > Vitimologia,1,1,0,100.0,4.305766038779046,2.0072582228386637
+4687,Direito Penal - Legislação Especial > Crimes contra a Economia Popular,1,1,0,100.0,4.325507041651525,4.325507041651525
+4688,Direito Penal - Legislação Especial > Crimes contra o meio ambiente,1,1,0,100.0,4.068417556662682,2.0996557887776524
+4706,Direito Penal - Legislação Especial > Terrorismo,1,1,0,100.0,3.568289183196028,3.568289183196028
+4707,Direito Penal - Legislação Especial > Tortura,1,1,0,100.0,3.329810714480628,3.329810714480628
+5073,"Penal > Concurso de Pessoas > Autoria Mediata, Colateral e Coautoria",1,1,0,100.0,3.3961727744938357,3.3961727744938357
+5076,"Penal > Concurso de Pessoas > Comunicabilidade de Circunstâncias, Condições e Elementares",1,1,0,100.0,2.279303905549483,2.279303905549483
+5077,Penal > Das Lesões Corporais,1,1,0,100.0,3.271949904931915,3.271949904931915
+5090,Penal > Dos Crimes Contra a Administração Pública > Emprego Irregular de Verbas ou Rendas Públicas,1,1,0,100.0,13.56410170034201,13.56410170034201
+5094,Penal > Dos Crimes Contra a Administração Pública > Contrabando ou Descaminho,1,1,0,100.0,2.553418743001185,2.553418743001185
+5099,Penal > Dos Crimes Contra a Administração Pública > Usurpação de Função Pública,1,1,0,100.0,3.215710100407164,3.215710100407164
+5126,Penal > Dos Crimes Contra a Incolumidade Pública > Dos Crimes de Perigo Comum,1,1,0,100.0,6.652045631887852,4.843939414354677
+5152,"Penal > Dos Crimes Contra a Vida > Induzimento, Instigação ou Auxílio ao Suicídio",1,1,0,100.0,8.840370977207897,8.840370977207897
+5161,Penal > Dos Crimes Contra o Patrimônio > Extorsão,1,1,0,100.0,4.581103981147658,4.581103981147658
+5169,Penal > Dos Crimes Contra o Patrimônio > Receptação,1,1,0,100.0,3.109038934118173,3.109038934118173
+5189,Penal > Prescrição > Prescrição da Pretensão Executória,1,1,0,100.0,3.8017298180527934,3.292035831373634
+5216,Penal > Teoria do Crime: Culpabilidade > Obediência Hierárquica,1,1,0,100.0,4.301345159093505,4.301345159093505
+5231,Penal > Teoria do Crime: Ilicitude > Legítima Defesa,1,1,0,100.0,7.334529633016918,7.334529633016918
+5484,Processo Penal > Competência > Competência por Prerrogativa de Função,1,1,0,100.0,4.779658466033551,2.9460189944695614
+5492,"Processo Penal > Das Questões e Processos Incidentes > Exceção de Suspeição, de Impedimento ou de Incompatibilidade",1,1,0,100.0,4.971247264141609,4.4821319806215625
+5522,Processo Penal > Prisões em Espécie > Medidas Cautelares Diversas da Prisão,1,1,0,100.0,2.411272465472818,2.411272465472818
+5527,"Processo Penal > Procedimento do Tribunal do Júri > Impronúncia, Desclassificação, Absolvição Sumária e Pronúncia",1,1,0,100.0,3.48160795842124,3.48160795842124
+5564,Processo Penal > Recursos em Espécies > Embargos Infringentes,1,1,0,100.0,2.508283789820405,2.508283789820405
+6734,Processo Penal > Lei de Execução Penal,1,1,0,100.0,2.361122860345521,0.0191703327874197
+4382,Criminologia > Teoria Geral da Criminologia > Métodos e funções da Criminologia,1,0,1,0.0,1.1303548926219875,1.1303548926219875
+4691,Direito Penal - Legislação Especial > Crimes de Trânsito,1,0,1,0.0,0.9678974578738772,0.9678974578738772
+4695,Direito Penal - Legislação Especial > Crimes Tributários,1,0,1,0.0,0.544346141692222,0.544346141692222
+4696,Direito Penal - Legislação Especial > Estaturo de Idoso - Crimes,1,0,1,0.0,1.5468835764221636,1.5468835764221636
+4704,Direito Penal - Legislação Especial > Lei Maria da Penha,1,0,1,0.0,0.7945175020910096,0.7945175020910096
+4705,Direito Penal - Legislação Especial > Organizações Criminosas,1,0,1,0.0,0.1676843826120531,0.1676843826120531
+5067,Penal > Concurso de Crimes > Concurso Material,1,0,1,0.0,0.6404421339467987,0.6404421339467987
+5069,Penal > Concurso de Crimes > Crime Continuado,1,0,1,0.0,0.9529841194499388,0.9529841194499388
+5070,Penal > Concurso de Crimes > Pena de Multa no Concurso de Crimes,1,0,1,0.0,0.3697659282294694,0.3697659282294694
+5080,"Penal > Dos Crimes Contra a Administração Judicial > Denunciação Caluniosa, Comunicação Falsa de Crime ou Contravenção e Autoacusação Falsa",1,0,1,0.0,0.1310588413145881,0.1310588413145881
+5083,Penal > Dos Crimes Contra a Administração Judicial > Fraude Processual,1,0,1,0.0,0.2955591727536051,0.2955591727536051
+5088,Penal > Dos Crimes Contra a Administração Pública > Noções gerais dos crimes praticados contra a administração pública,1,0,1,0.0,0.0381576512905112,0.0381576512905112
+5098,Penal > Dos Crimes Contra a Administração Pública > Violência Arbitrária,1,0,1,0.0,0.2018593627081353,0.2018593627081353
+5113,Penal > Dos Crimes contra a Família > Dos Crimes Contra o Estado de Filiação,1,0,1,0.0,1.0496699291040097,1.0496699291040097
+5114,Penal > Dos Crimes contra a Família > Dos Crimes Contra a Assistência Familiar,1,0,1,0.0,0.5452227620519468,0.5452227620519468
+5119,Penal > Dos Crimes Contra a Fé Pública e de Falsidade Documental > De outras falsidades,1,0,1,0.0,2.153097343651093,2.153097343651093
+5128,Penal > Dos Crimes Contra a Liberdade Pessoal,1,0,1,0.0,1.308259469286138,0.5872449379667461
+5133,"Penal > Dos Crimes Contra a Liberdade Pessoal > Dos Crimes contra a Inviolabilidade do Domicílio, Contra a Inviolabilidade da Correspondência e Contra a Inviolabilidade dos Segredos",1,0,1,0.0,1.6107280798877737,1.6107280798877737
+5139,Penal > Dos Crimes Contra a Periclitação da Vida e da Saúde > Perigo de Contágio Venéreo e de Moléstia Grave,1,0,1,0.0,1.7731473298806568,1.7731473298806568
+5142,Penal > Dos Crimes Contra a Periclitação da Vida e da Saúde > Omissão de Socorro,1,0,1,0.0,0.5122554938580297,0.5122554938580297
+5160,Penal > Dos Crimes Contra o Patrimônio > Roubo,1,0,1,0.0,0.8735985824507155,0.8735985824507155
+5162,Penal > Dos Crimes Contra o Patrimônio > Esbulho Possessório,1,0,1,0.0,0.596514023855593,0.596514023855593
+5170,Penal > Introdução ao Estudo do Direito Penal,1,0,1,0.0,0.0087690227149206,1.7426771381231978
+5173,Penal > Introdução ao Estudo do Direito Penal > Interpretação da Norma Penal,1,0,1,0.0,0.1700089476585482,0.1700089476585482
+5174,Penal > Introdução ao Estudo do Direito Penal > Classificações dos Crimes,1,0,1,0.0,0.4298086652200865,0.4298086652200865
+5183,Penal > Lei Penal no Tempo e no Espaço > Conflito Aparente de Normas,1,0,1,0.0,2.01982876728107,2.01982876728107
+5199,Penal > Teoria da Pena,1,0,1,0.0,0.9936189239901152,0.1396464304572293
+5215,Penal > Teoria do Crime: Culpabilidade > Coação Moral Irresistível,1,0,1,0.0,1.229626040029661,1.229626040029661
+5223,Penal > Teoria do Crime: Fato Típico > Crimes Omissivos e Comissivos,1,0,1,0.0,1.8968872110747783,1.8968872110747783
+5232,Penal > Teoria do Crime: Ilicitude > Estrito Cumprimento do Dever Legal,1,0,1,0.0,0.0972580368653046,0.0972580368653046
+5491,Processo Penal > Das Questões e Processos Incidentes > Questões Prejudiciais e Preliminares,1,0,1,0.0,1.1281053837530337,1.1281053837530337
+5494,Processo Penal > Das Questões e Processos Incidentes > Exceção de Litispendência e de Coisa Julgada,1,0,1,0.0,1.1763578312660157,1.1763578312660157
+5510,Processo Penal > Nulidades > Nulidade Absoluta e Relativa,1,0,1,0.0,0.2364670770560284,0.2364670770560284
+5520,Processo Penal > Prisões em Espécie > Prisão Temporária,1,0,1,0.0,1.104009960273773,1.104009960273773
+5523,Processo Penal > Prisões em Espécie > Liberdade Provisória,1,0,1,0.0,1.6065375154285988,1.6065375154285988
+5542,Processo Penal > Procedimento Sumaríssimo > Suspensão Condicional do Processo,1,0,1,0.0,0.533249337523162,0.533249337523162
+5547,Processo Penal > Provas em Espécies > Interrogatório Judicial,1,0,1,0.0,0.0909375188649885,0.0909375188649885
+5554,Processo Penal > Provas em Espécies > Busca e Apreensão,1,0,1,0.0,1.5975924208263477,1.5975924208263477
+5562,Processo Penal > Recursos em Espécies > Apelação,1,0,1,0.0,1.8870687848905143,1.8870687848905143
+5572,Processo Penal > Sentença Penal,1,0,1,0.0,-0.1044643117360171,0.0227104232798396
+5590,Processo Penal > Teoria Geral das Provas,1,0,1,0.0,-0.7098154084760222,0.0294679098993109
+6719,Penal > Dos Crimes contra a Administração Pública (Parte 2),1,0,1,0.0,1.88650842330866,0.2252658502338596
+6726,Penal > Teoria da Pena (Parte 1),1,0,1,0.0,0.996501738714232,0.0235221571996628
+6728,Penal > Tráfico de Drogas,1,0,1,0.0,1.3505639835924317,0.2042101218171925
+6733,Processo Penal > Competência (Parte 2),1,0,1,0.0,1.3760488639986272,0.3746990291434295

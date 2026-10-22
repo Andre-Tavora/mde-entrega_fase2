@@ -1,0 +1,32 @@
+[
+  {
+    "tema_id": "5129",
+    "descricao": "Intimidação Sistemática (Bullying) consiste em intimidar sistematicamente, individualmente ou em grupo, mediante violência física ou psicológica, uma ou mais pessoas, de modo intencional e repetitivo, sem motivação evidente, por atos de humilhação ou discriminação. A forma praticada pela internet ou redes sociais, o cyberbullying, é qualificada e punida com reclusão.",
+    "palavras_chave": "bullying; intimidação sistemática; cyberbullying; violência psicológica; humilhação; discriminação; repetição; ambiente escolar; redes sociais; forma qualificada",
+    "nao_confundir": "Diferente da ameaça e da perseguição, exige intimidação repetitiva por meio de humilhação ou discriminação, e diferente da violência psicológica contra a mulher, não exige vítima mulher."
+  },
+  {
+    "tema_id": "5132",
+    "descricao": "Sequestro, Cárcere Privado, Redução à Condição Análoga à de Escravo e Tráfico de Pessoas reúnem crimes que suprimem a liberdade de locomoção ou a autodeterminação. Abrangem a privação da liberdade, o trabalho forçado ou em condições degradantes e o agenciamento ou transporte de pessoa, mediante violência, coação ou fraude, para fins de exploração.",
+    "palavras_chave": "sequestro; cárcere privado; privação da liberdade; trabalho escravo; jornada exaustiva; condições degradantes; servidão por dívida; tráfico de pessoas; exploração; crime permanente",
+    "nao_confundir": "Diferente da ameaça, da perseguição e do bullying, há efetiva privação da liberdade de locomoção ou sujeição da vítima à exploração."
+  },
+  {
+    "tema_id": "5131",
+    "descricao": "Violência Psicológica contra a Mulher consiste em causar dano emocional à mulher que a prejudique e perturbe seu pleno desenvolvimento ou vise degradar ou controlar suas ações, comportamentos, crenças e decisões, mediante ameaça, constrangimento, humilhação, manipulação, isolamento ou limitação do direito de ir e vir. É crime subsidiário, aplicável se a conduta não constituir crime mais grave.",
+    "palavras_chave": "violência psicológica; mulher; dano emocional; controle; manipulação; humilhação; isolamento; violência de gênero; crime subsidiário; violência doméstica",
+    "nao_confundir": "Diferente da ameaça e da perseguição, exige vítima mulher e resultado de dano emocional, e diferente do bullying, não exige repetição sistemática."
+  },
+  {
+    "tema_id": "5138",
+    "descricao": "Dos Crimes Contra a Periclitação da Vida e da Saúde punem condutas que expõem a vida ou a saúde de alguém a perigo, sem exigir dano efetivo. Abrangem perigo de contágio venéreo e de moléstia grave, perigo para a vida ou saúde de outrem, abandono de incapaz, exposição ou abandono de recém-nascido, omissão de socorro, condicionamento de atendimento médico emergencial e maus-tratos.",
+    "palavras_chave": "periclitação da vida; crime de perigo; perigo concreto; contágio venéreo; moléstia grave; abandono de incapaz; omissão de socorro; maus-tratos; atendimento médico emergencial",
+    "nao_confundir": "É o tema agregador; seus filhos tratam separadamente de cada crime de perigo individual, diferentemente das lesões corporais, que exigem dano efetivo."
+  },
+  {
+    "tema_id": "5141",
+    "descricao": "Abandono de Incapaz e Exposição ou Abandono de Recém-Nascido punem quem abandona pessoa sob seu cuidado, guarda, vigilância ou autoridade, incapaz de se defender dos riscos do abandono, e quem expõe ou abandona recém-nascido para ocultar desonra própria. São crimes de perigo concreto, com formas qualificadas pela lesão corporal grave ou pela morte.",
+    "palavras_chave": "abandono de incapaz; recém-nascido; exposição; dever de cuidado; guarda; vigilância; desonra própria; perigo concreto; crime próprio; resultado qualificador",
+    "nao_confundir": "Diferente da omissão de socorro, exige vínculo prévio de cuidado ou autoridade com a vítima, e diferente dos maus-tratos, não há abuso de meios de correção."
+  }
+]

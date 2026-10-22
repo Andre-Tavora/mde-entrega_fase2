@@ -1,0 +1,62 @@
+[
+  {
+    "tema_id": "5150",
+    "descricao": "Homicídio (art. 121 do CP) é a conduta de matar alguém, protegendo a vida humana extrauterina. Abrange as formas simples, privilegiada, qualificada e culposa.",
+    "palavras_chave": "homicídio; art. 121; homicídio simples; homicídio privilegiado; homicídio qualificado; homicídio culposo; vida humana; crimes contra a vida; matar alguém",
+    "nao_confundir": "Diferencia-se de Feminicídio, Infanticídio e Induzimento, Instigação ou Auxílio ao Suicídio, que têm tipo próprio, e de Aborto, que atinge a vida intrauterina."
+  },
+  {
+    "tema_id": "5152",
+    "descricao": "Induzimento, Instigação ou Auxílio ao Suicídio (art. 122 do CP) pune quem induz, instiga ou auxilia alguém ao suicídio ou à automutilação. A conduta do agente é de participação na decisão da própria vítima.",
+    "palavras_chave": "art. 122; induzimento ao suicídio; instigação ao suicídio; auxílio ao suicídio; automutilação; participação em suicídio; crimes contra a vida; vítima; conduta do agente",
+    "nao_confundir": "Diferencia-se de Homicídio, em que o agente executa a morte, e de Infanticídio, Feminicídio e Aborto, que têm tipos e bens jurídicos específicos."
+  },
+  {
+    "tema_id": "5153",
+    "descricao": "Infanticídio (art. 123 do CP) ocorre quando a mãe, sob influência do estado puerperal, mata o próprio filho durante ou logo após o parto. É crime próprio, com sujeito ativo restrito à parturiente.",
+    "palavras_chave": "infanticídio; art. 123; estado puerperal; mãe; próprio filho; durante o parto; logo após o parto; crime próprio; crimes contra a vida",
+    "nao_confundir": "Diferencia-se de Homicídio, que não exige condição especial do agente, e de Aborto, pois no infanticídio a morte ocorre durante ou logo após o parto, e não antes dele."
+  },
+  {
+    "tema_id": "5157",
+    "descricao": "Dos Crimes Contra o Patrimônio reúne os arts. 155 a 183 do CP, que protegem o patrimônio contra subtração, violência ou grave ameaça, fraude e dano. Seus filhos são Furto, Roubo, Extorsão, Usurpação, Esbulho Possessório, Dano, Apropriação indébita, Estelionato, Abuso de Incapazes, Fraude à Execução, Receptação e as Disposições Gerais.",
+    "palavras_chave": "crimes contra o patrimônio; arts. 155 a 183; furto; roubo; extorsão; usurpação; dano; apropriação indébita; estelionato; receptação; disposições gerais",
+    "nao_confundir": "Diferencia-se dos irmãos Dos Crimes Contra a Dignidade Sexual, Dos Crimes Contra a Honra e Dos Crimes Contra a Administração Pública pelo bem jurídico tutelado. Equivale ao tema 6720, que tem o mesmo escopo."
+  },
+  {
+    "tema_id": "6720",
+    "descricao": "Dos Crimes Contra o Patrimônio (Parte 1) reúne os arts. 155 a 183 do CP, que protegem o patrimônio contra subtração, violência ou grave ameaça, fraude e dano. Tem o mesmo escopo do tema 5157, abrangendo Furto, Roubo, Extorsão, Usurpação, Esbulho Possessório, Dano, Apropriação indébita, Estelionato, Abuso de Incapazes, Fraude à Execução, Receptação e as Disposições Gerais.",
+    "palavras_chave": "crimes contra o patrimônio; arts. 155 a 183; furto; roubo; extorsão; usurpação; dano; apropriação indébita; estelionato; receptação; disposições gerais",
+    "nao_confundir": "Diferencia-se dos irmãos Dos Crimes Contra a Dignidade Sexual, Dos Crimes Contra a Honra e Dos Crimes Contra a Administração Pública pelo bem jurídico tutelado. É equivalente ao tema 5157, com o mesmo conteúdo."
+  },
+  {
+    "tema_id": "5158",
+    "descricao": "Disposições Gerais dos Crimes Contra o Patrimônio correspondem aos arts. 181 a 183 do CP. Tratam das imunidades absolutas e relativas e das regras de ação penal aplicáveis aos crimes patrimoniais.",
+    "palavras_chave": "disposições gerais; arts. 181 a 183; imunidade absoluta; imunidade relativa; ação penal; crimes patrimoniais; isenção de pena; parentesco; representação; escusas absolutórias",
+    "nao_confundir": "Diferencia-se dos tipos penais irmãos, como Furto, Roubo, Estelionato e Dano, pois não define condutas criminosas e sim regras comuns de imunidade e ação penal."
+  },
+  {
+    "tema_id": "5167",
+    "descricao": "Abuso de Incapazes (art. 173 do CP) integra os crimes de fraude contra o patrimônio, protegendo pessoas incapazes contra atos que lhes causem prejuízo patrimonial. Situa-se entre os arts. 171 a 179, ao lado do estelionato e de outras fraudes.",
+    "palavras_chave": "abuso de incapazes; art. 173; fraude patrimonial; incapaz; prejuízo patrimonial; crimes contra o patrimônio; arts. 171 a 179; vítima vulnerável; proteção do incapaz",
+    "nao_confundir": "Diferencia-se de Estelionato e de Fraude à Execução, que são outras fraudes patrimoniais, e de Apropriação indébita, em que o agente já detém a posse do bem."
+  },
+  {
+    "tema_id": "5165",
+    "descricao": "Apropriação indébita (arts. 168 a 170 do CP) ocorre quando o agente se apropria de coisa alheia que já estava legitimamente em sua posse ou detenção. O dolo de apropriação surge depois do recebimento lícito do bem.",
+    "palavras_chave": "apropriação indébita; arts. 168 a 170; coisa alheia; posse lícita; detenção; inversão da posse; dolo posterior; crimes contra o patrimônio; abuso de confiança",
+    "nao_confundir": "Diferencia-se de Furto e de Estelionato, pois na apropriação indébita a posse é lícita desde o início, sem subtração nem fraude inicial."
+  },
+  {
+    "tema_id": "5164",
+    "descricao": "Dano (arts. 163 a 167 do CP) trata de destruir, inutilizar ou deteriorar coisa alheia. Protege o patrimônio contra a lesão material do bem, sem finalidade de apropriação.",
+    "palavras_chave": "dano; arts. 163 a 167; destruir coisa alheia; inutilizar; deteriorar; patrimônio; crimes contra o patrimônio; dano qualificado; lesão ao bem; dolo de dano",
+    "nao_confundir": "Diferencia-se de Furto, Roubo e Apropriação indébita, que visam à apropriação do bem, e de Esbulho Possessório, que atinge a posse do imóvel."
+  },
+  {
+    "tema_id": "5162",
+    "descricao": "Esbulho Possessório (art. 161, §1º, II do CP) consiste em invadir terreno ou edifício alheio para o fim de esbulho possessório. Integra a usurpação (arts. 161 e 162) e protege a posse de bens imóveis.",
+    "palavras_chave": "esbulho possessório; art. 161, §1º, II; invasão de terreno; invasão de edifício alheio; usurpação; arts. 161 e 162; posse; bem imóvel; crimes contra o patrimônio",
+    "nao_confundir": "Diferencia-se de Dano, que lesiona o bem sem buscar a posse, e de Furto e Roubo, que recaem sobre coisa móvel."
+  }
+]

@@ -1,0 +1,28 @@
+{
+  "n_avaliadas": 92,
+  "n_temas_gabarito": 61,
+  "acuracia_por_k": {
+    "1": 23.91,
+    "3": 36.96,
+    "5": 35.87
+  },
+  "f1_macro_por_k": {
+    "1": 11.64,
+    "3": 30.93,
+    "5": 28.13
+  },
+  "k_otimo": 3,
+  "canal_direto": {
+    "acc": 30.43,
+    "f1_macro": 31.96,
+    "top3": 51.09
+  },
+  "fusao": {
+    "acc": 29.35,
+    "f1_macro": 18.52,
+    "top3": 56.52,
+    "beta": 0.5
+  },
+  "publicar": 23,
+  "precisao_publicadas": 52.17
+}

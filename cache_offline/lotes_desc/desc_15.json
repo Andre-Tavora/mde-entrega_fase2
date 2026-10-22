@@ -1,0 +1,152 @@
+[
+  {
+    "tema_id": "5569",
+    "descricao": "Recursos no Âmbito dos Juizados Especiais corresponde aos arts. 82 e 83 da Lei 9.099/1995. A apelação é interposta em 10 dias, com razões, contra a sentença que homologa transação ou rejeita denúncia ou queixa, e julgada pela Turma Recursal, composta por três juízes de primeiro grau (art. 82). Cabem embargos de declaração em 5 dias (art. 83). Contra acórdão da Turma Recursal cabe recurso extraordinário (Súmula 640 do STF), mas não recurso especial (Súmula 203 do STJ).",
+    "palavras_chave": "recursos nos juizados especiais; lei 9.099/1995; art. 82; art. 83; apelação; turma recursal; prazo de 10 dias; embargos de declaração; recurso extraordinário; súmula 640 do stf; súmula 203 do stj; não cabe recurso especial; juizado especial criminal",
+    "nao_confundir": "Diferencia-se de Apelação do CPP, de prazo de 5 dias e julgada pelo tribunal, e de Recurso Especial. Aqui o foco é o sistema recursal próprio e simplificado dos Juizados."
+  },
+  {
+    "tema_id": "5572",
+    "descricao": "Sentença Penal corresponde aos arts. 381 a 393 do CPP e trata da decisão que põe fim ao processo penal. Seus filhos são Classificação dos Provimentos Judiciais, Efeitos Decorrentes da Sentença Penal Condenatória, Emendatio Libelli e Mutatio Libelli, Fixação da Pena e do Regime Penitenciário, Princípio da Correlação entre Acusação e Sentença, Sentença Absolutória e Sentença Condenatória.",
+    "palavras_chave": "sentença penal; arts. 381 a 393 do cpp; requisitos da sentença; sentença condenatória; sentença absolutória; emendatio libelli; mutatio libelli; correlação; fixação da pena; efeitos da condenação; provimentos judiciais; publicação; intimação da sentença",
+    "nao_confundir": "É equivalente a Sentença Penal (Parte 1) e Sentença Penal (Parte 2), que dividem o mesmo conteúdo. Diferencia-se de Recursos em Espécies, que impugnam a sentença, e de Procedimento Ordinário, em que ela é proferida."
+  },
+  {
+    "tema_id": "6737",
+    "descricao": "Sentença Penal (Parte 1) é a primeira parte do conteúdo de Sentença Penal, dividida por razões de organização. Cobre a classificação dos provimentos judiciais, os requisitos da sentença, o princípio da correlação, a emendatio e a mutatio libelli e a sentença absolutória.",
+    "palavras_chave": "sentença penal; parte 1; provimentos judiciais; requisitos da sentença; art. 381 do cpp; correlação entre acusação e sentença; emendatio libelli; mutatio libelli; sentença absolutória; art. 386 do cpp",
+    "nao_confundir": "É equivalente a Sentença Penal e a Sentença Penal (Parte 2), com o mesmo conteúdo em recorte diferente. Diferencia-se de Recursos em Espécies e de Procedimento Ordinário."
+  },
+  {
+    "tema_id": "6738",
+    "descricao": "Sentença Penal (Parte 2) é a segunda parte do conteúdo de Sentença Penal, dividida por razões de organização. Cobre a sentença condenatória, a fixação da pena e do regime penitenciário e os efeitos decorrentes da condenação.",
+    "palavras_chave": "sentença penal; parte 2; sentença condenatória; art. 387 do cpp; fixação da pena; sistema trifásico; regime inicial; detração; efeitos da condenação; art. 91 do cp; art. 92 do cp; reparação do dano",
+    "nao_confundir": "É equivalente a Sentença Penal e a Sentença Penal (Parte 1), com o mesmo conteúdo em recorte diferente. Diferencia-se de Lei de Execução Penal, que trata do cumprimento da pena."
+  },
+  {
+    "tema_id": "5573",
+    "descricao": "Classificação dos Provimentos Judiciais agrupa as decisões do juiz penal. Distingue sentenças (definitivas e terminativas, condenatórias, absolutórias próprias e impróprias, declaratórias extintivas de punibilidade), decisões interlocutórias (simples e mistas, terminativas e não terminativas) e despachos de mero expediente. Trata também das sentenças com força de definitivas, que são impugnáveis por RESE ou apelação conforme o caso.",
+    "palavras_chave": "provimentos judiciais; sentença definitiva; sentença terminativa; decisão interlocutória; decisão interlocutória mista; despacho de mero expediente; sentença absolutória própria; sentença absolutória imprópria; sentença declaratória; decisão com força de definitiva; sentença subjetivamente complexa",
+    "nao_confundir": "Diferencia-se de Sentença Absolutória e Sentença Condenatória, que detalham cada espécie, e de Classificação dos Recursos. Aqui o foco é a natureza das decisões judiciais em geral."
+  },
+  {
+    "tema_id": "5577",
+    "descricao": "Efeitos Decorrentes da Sentença Penal Condenatória abrange os efeitos principais (aplicação da pena) e secundários, genéricos e específicos, dos arts. 91 e 92 do CP. Os genéricos são tornar certa a obrigação de reparar o dano (art. 91, I), perda de instrumentos e do produto do crime (art. 91, II) e reincidência. Os específicos, que devem ser motivados na sentença (art. 92, parágrafo único), são perda de cargo, função ou mandato, incapacidade para o poder familiar e inabilitação para dirigir. Inclui a sentença como título executivo civil (art. 63 do CPP, e art. 387, IV) e o lançamento do nome no rol dos culpados.",
+    "palavras_chave": "efeitos da condenação; art. 91 do cp; art. 92 do cp; efeitos genéricos; efeitos específicos; perda de cargo público; perda de bens; confisco; reparação do dano; art. 387 iv do cpp; título executivo; reincidência; inabilitação para dirigir; poder familiar; rol dos culpados",
+    "nao_confundir": "Diferencia-se de Fixação da Pena e do Regime Penitenciário, que trata da quantificação da pena, e de Medidas Assecuratórias, que são cautelares. Aqui o foco são as consequências extrapenais e acessórias da condenação."
+  },
+  {
+    "tema_id": "5579",
+    "descricao": "Emendatio Libelli e Mutatio Libelli correspondem aos arts. 383 e 384 do CPP. Na emendatio, o juiz dá definição jurídica diversa aos fatos descritos na denúncia, sem alterar a descrição, mesmo que resulte pena mais grave (art. 383), com possível remessa a outro juízo (§2º) e aplicação de benefícios como a suspensão condicional do processo (§1º). Na mutatio, surge prova de elementar ou circunstância não contida na acusação, e o Ministério Público adita a denúncia em 5 dias, com nova instrução e prazos (art. 384). A mutatio não se aplica em segunda instância (Súmula 453 do STF).",
+    "palavras_chave": "emendatio libelli; mutatio libelli; art. 383 do cpp; art. 384 do cpp; nova definição jurídica; aditamento da denúncia; elementar não contida na acusação; correlação; súmula 453 do stf; juízo competente; art. 383 §1º; art. 383 §2º; iura novit curia",
+    "nao_confundir": "Diferencia-se de Princípio da Correlação entre Acusação e Sentença, que é a regra geral que elas excepcionam, e de Sentença Condenatória. Aqui o foco é a mudança da tipificação (emendatio) ou dos fatos (mutatio)."
+  },
+  {
+    "tema_id": "5576",
+    "descricao": "Fixação da Pena e do Regime Penitenciário trata da dosimetria na sentença (art. 387 do CPP e arts. 59 e 68 do CP). Segue o sistema trifásico: pena-base com as circunstâncias judiciais, depois agravantes e atenuantes, e por fim causas de aumento e diminuição. Abrange a vedação de pena abaixo do mínimo pela atenuante (Súmula 231 do STJ), a detração para o regime inicial (art. 387, §2º), a escolha do regime (art. 33 do CP), a substituição por restritivas de direitos (art. 44), o sursis e a fundamentação do regime mais gravoso (Súmula 440 do STJ).",
+    "palavras_chave": "fixação da pena; dosimetria; sistema trifásico; art. 68 do cp; art. 59 do cp; circunstâncias judiciais; agravantes; atenuantes; causas de aumento e diminuição; regime inicial; art. 33 do cp; detração; art. 387 §2º; substituição da pena; súmula 231 do stj; súmula 440 do stj",
+    "nao_confundir": "Diferencia-se de Efeitos Decorrentes da Sentença Penal Condenatória, que trata das consequências acessórias, e de Lei de Execução Penal, que trata da progressão. Aqui o foco é o cálculo da pena e a escolha do regime inicial na sentença."
+  },
+  {
+    "tema_id": "5578",
+    "descricao": "Princípio da Correlação entre Acusação e Sentença, ou da congruência, exige que a sentença se limite aos fatos narrados na denúncia ou queixa. O juiz não pode condenar por fato não imputado, e a sentença que extrapola é nula (ultra ou extra petita), enquanto a que deixa de apreciar parte da acusação é citra petita. Decorre do sistema acusatório, da ampla defesa e do contraditório, e tem como exceções a emendatio libelli (art. 383) e a mutatio libelli (art. 384).",
+    "palavras_chave": "princípio da correlação; princípio da congruência; correlação entre acusação e sentença; vinculação aos fatos; sentença extra petita; sentença ultra petita; sentença citra petita; sistema acusatório; ampla defesa; contraditório; art. 383; art. 384; súmula 453 do stf; nulidade",
+    "nao_confundir": "Diferencia-se de Emendatio Libelli e Mutatio Libelli, que são as exceções, e de Sentença Condenatória. Aqui o foco é o limite que os fatos da acusação impõem à sentença."
+  },
+  {
+    "tema_id": "5574",
+    "descricao": "Sentença Absolutória corresponde ao art. 386 do CPP. As hipóteses são prova da inexistência do fato, ausência de prova da existência do fato, fato que não constitui infração, prova de que o réu não concorreu para a infração, ausência de prova de ter concorrido, excludentes de ilicitude, de culpabilidade ou isenção de pena, e fundada dúvida sobre elas, além de ausência de prova suficiente para condenação. Distingue absolvição própria e imprópria, esta com medida de segurança ao inimputável. Tem efeito de soltura imediata e de cessação das medidas cautelares (art. 386, parágrafo único), e seus reflexos na esfera cível (arts. 65 a 67).",
+    "palavras_chave": "sentença absolutória; art. 386 do cpp; inexistência do fato; atipicidade; negativa de autoria; insuficiência de provas; in dubio pro reo; excludente de ilicitude; absolvição imprópria; medida de segurança; absolvição própria; reflexos cíveis; arts. 65 a 67 do cpp; apelação",
+    "nao_confundir": "Diferencia-se de Sentença Condenatória e de Absolvição Sumária, que é a absolvição antecipada no início do processo. Aqui o foco é a absolvição proferida ao fim da instrução e seus fundamentos."
+  },
+  {
+    "tema_id": "5575",
+    "descricao": "Sentença Condenatória corresponde aos arts. 381 e 387 do CPP. Trata dos requisitos formais (relatório, fundamentação, dispositivo e dados de identificação), da indicação dos artigos aplicados, da pena fixada, da detração, do regime inicial, da reparação mínima do dano (art. 387, IV), da decisão sobre prisão ou medidas cautelares (art. 387, §1º) e da publicação (art. 389). Cobre ainda a intimação (art. 392), a possibilidade de recurso e a execução da pena após o trânsito em julgado.",
+    "palavras_chave": "sentença condenatória; art. 387 do cpp; art. 381 do cpp; requisitos da sentença; fundamentação; dispositivo; pena; regime inicial; detração; reparação mínima do dano; art. 387 iv; prisão na sentença; art. 387 §1º; publicação; art. 389; intimação; art. 392; trânsito em julgado",
+    "nao_confundir": "Diferencia-se de Sentença Absolutória, que absolve, e de Fixação da Pena e do Regime Penitenciário, que detalha a dosimetria. Aqui o foco é a decisão de condenação e seus requisitos formais e conteúdo."
+  },
+  {
+    "tema_id": "5580",
+    "descricao": "Sistemas e Princípios Processuais Penais é o tema geral das grandes estruturas e diretrizes do processo penal. Seus filhos são Princípios do Processo Penal e Sistemas Processuais Penais.",
+    "palavras_chave": "sistemas processuais penais; princípios do processo penal; sistema acusatório; sistema inquisitivo; sistema misto; devido processo legal; contraditório; ampla defesa; presunção de inocência; juiz natural; garantias constitucionais",
+    "nao_confundir": "Diferencia-se de Teoria Geral das Provas e de Ação Penal, que tratam de institutos específicos. Aqui o foco é o modelo de processo e as garantias que o orientam."
+  },
+  {
+    "tema_id": "5582",
+    "descricao": "Princípios do Processo Penal reúne as garantias constitucionais e infraconstitucionais do processo: devido processo legal, contraditório, ampla defesa, presunção de inocência (art. 5º, LVII, da CF), juiz natural, imparcialidade, publicidade, motivação das decisões, duração razoável, vedação de provas ilícitas, identidade física do juiz, não autoincriminação, favor rei, vedação da reformatio in pejus e ne bis in idem. Inclui os princípios da ação penal, como oficialidade, obrigatoriedade e indisponibilidade.",
+    "palavras_chave": "princípios do processo penal; devido processo legal; contraditório; ampla defesa; presunção de inocência; juiz natural; imparcialidade; publicidade; motivação; duração razoável do processo; vedação de provas ilícitas; identidade física do juiz; nemo tenetur se detegere; favor rei; ne bis in idem; verdade real",
+    "nao_confundir": "Diferencia-se de Sistemas Processuais Penais, que trata dos modelos acusatório, inquisitivo e misto, e de Princípios Relativos à Prova Penal. Aqui o foco são as diretrizes gerais que regem todo o processo."
+  },
+  {
+    "tema_id": "5581",
+    "descricao": "Sistemas Processuais Penais estuda os modelos de organização do processo. O inquisitivo concentra as funções de acusar, defender e julgar, com sigilo e busca da verdade a qualquer custo. O acusatório separa as funções, com contraditório, publicidade e imparcialidade do juiz. O misto reúne uma fase investigatória inquisitiva e uma fase judicial acusatória. Debate-se o sistema brasileiro, afirmado como acusatório no art. 3º-A do CPP (Lei 13.964/2019), com a vedação de iniciativa do juiz na investigação e de substituição da atuação probatória do órgão de acusação.",
+    "palavras_chave": "sistemas processuais penais; sistema inquisitivo; sistema acusatório; sistema misto; art. 3º-a do cpp; lei 13.964/2019; separação das funções; gestão da prova; iniciativa probatória do juiz; imparcialidade; neoinquisitivo; sistema brasileiro",
+    "nao_confundir": "Diferencia-se de Princípios do Processo Penal, que trata das garantias individuais, e de Juiz das Garantias, que é instituto específico. Aqui o foco é a classificação dos sistemas e o modelo adotado no Brasil."
+  },
+  {
+    "tema_id": "5583",
+    "descricao": "Sujeitos do Processo corresponde aos arts. 251 a 281 do CPP e trata das pessoas que atuam na relação processual: o juiz (poderes, deveres, impedimentos e suspeição, arts. 251 a 256), o Ministério Público (arts. 257 e 258), o acusado e o defensor (arts. 259 a 267, com a defesa técnica obrigatória), o assistente de acusação (arts. 268 a 273), os serventuários e auxiliares da justiça (art. 274), os peritos e intérpretes (arts. 275 a 281) e o ofendido.",
+    "palavras_chave": "sujeitos do processo; arts. 251 a 281 do cpp; juiz; ministério público; acusado; defensor; defesa técnica; assistente de acusação; arts. 268 a 273; auxiliares da justiça; peritos; intérpretes; curador; partes; relação processual; impedimento; suspeição",
+    "nao_confundir": "Diferencia-se de Exceção de Suspeição, de Impedimento ou de Incompatibilidade, que trata do incidente de afastamento, e de Competência. Aqui o foco são os papéis e as prerrogativas de cada sujeito do processo."
+  },
+  {
+    "tema_id": "5584",
+    "descricao": "Teoria Geral das Prisões é o tema geral das regras comuns a toda prisão no processo penal. Seus filhos são Audiência de Custódia, Conceitos e Espécies de Prisão, Direitos e Garantias sobre a Prisão, Imunidades Prisionais e Prisões Especiais e Relaxamento da Prisão.",
+    "palavras_chave": "teoria geral das prisões; prisão; art. 283 do cpp; art. 5º lxi da cf; audiência de custódia; espécies de prisão; direitos do preso; imunidades prisionais; prisão especial; relaxamento da prisão; mandado de prisão; reserva de jurisdição",
+    "nao_confundir": "Diferencia-se de Prisões em Espécie, que trata de cada modalidade de prisão cautelar e da liberdade provisória, e de Lei de Execução Penal. Aqui o foco são os conceitos e garantias comuns a qualquer prisão."
+  },
+  {
+    "tema_id": "5589",
+    "descricao": "Audiência de Custódia corresponde ao art. 310 do CPP, ao art. 7º, item 5, da Convenção Americana de Direitos Humanos e à Resolução 213/2015 do CNJ. Consiste na apresentação do preso em flagrante ao juiz em até 24 horas, com a presença do Ministério Público e da defesa, para verificar a legalidade da prisão, a necessidade de sua manutenção e eventuais maus-tratos ou tortura. O juiz pode relaxar a prisão, convertê-la em preventiva ou conceder liberdade provisória, com ou sem medidas cautelares. A não realização torna a prisão ilegal (art. 310, §3º), conforme previsão do CPP.",
+    "palavras_chave": "audiência de custódia; art. 310 do cpp; resolução 213/2015 do cnj; convenção americana de direitos humanos; art. 7º item 5; apresentação do preso; prazo de 24 horas; legalidade da prisão; conversão em preventiva; relaxamento; liberdade provisória; maus-tratos; tortura; ministério público e defensor",
+    "nao_confundir": "Diferencia-se de Prisão em Flagrante, que é a captura em si, e de Relaxamento da Prisão, que é uma das decisões possíveis na audiência. Aqui o foco é o ato de apresentação do preso ao juiz."
+  },
+  {
+    "tema_id": "5585",
+    "descricao": "Conceitos e Espécies de Prisão distingue prisão-pena, imposta pela sentença condenatória transitada em julgado, prisão sem pena ou cautelar (flagrante, preventiva, temporária), prisão civil (dívida alimentar, art. 5º, LXVII, da CF, e Súmula Vinculante 25 quanto ao depositário infiel) e prisão administrativa e disciplinar militar. Aborda o art. 283 do CPP (prisão só por flagrante ou ordem escrita e fundamentada de autoridade judiciária competente), o mandado de prisão (arts. 285 e 286), o uso de força (art. 284), o cumprimento em domicílio e a prisão em perseguição.",
+    "palavras_chave": "conceitos de prisão; espécies de prisão; art. 283 do cpp; prisão-pena; prisão cautelar; prisão civil; prisão administrativa; prisão disciplinar militar; mandado de prisão; arts. 285 e 286; uso de força; art. 284; súmula vinculante 25; prisão por dívida alimentar; reserva de jurisdição",
+    "nao_confundir": "Diferencia-se de Direitos e Garantias sobre a Prisão, que trata dos direitos do preso, e de Prisões em Espécie, que detalha cada modalidade cautelar. Aqui o foco é a definição e a classificação das prisões."
+  },
+  {
+    "tema_id": "5587",
+    "descricao": "Direitos e Garantias sobre a Prisão reúne os direitos do preso previstos no art. 5º, XLVIII, XLIX e LXI a LXVIII, da CF, e na Convenção Americana. Abrange a prisão somente por flagrante ou ordem escrita de juiz competente, a comunicação imediata ao juiz, à família e ao advogado, o direito ao silêncio e à assistência de advogado, a identificação dos responsáveis pela prisão, a integridade física e moral, a separação por natureza do delito, a idade e o sexo, e o uso de algemas (Súmula Vinculante 11).",
+    "palavras_chave": "direitos do preso; garantias da prisão; art. 5º lxi a lxviii da cf; direito ao silêncio; assistência de advogado; comunicação da prisão; identificação dos responsáveis; integridade física e moral; separação de presos; uso de algemas; súmula vinculante 11; art. 5º xlix; convenção americana",
+    "nao_confundir": "Diferencia-se de Conceitos e Espécies de Prisão, que classifica as prisões, e de Imunidades Prisionais e Prisões Especiais. Aqui o foco são as garantias individuais de quem é preso."
+  },
+  {
+    "tema_id": "5586",
+    "descricao": "Imunidades Prisionais e Prisões Especiais trata das pessoas que não podem ser presas ou têm tratamento diferenciado. Abrange a imunidade dos parlamentares, que só podem ser presos em flagrante de crime inafiançável (art. 53, §2º, da CF), a do Presidente da República (art. 86, §3º), a dos diplomatas e chefes de Estado estrangeiros, a dos magistrados e membros do Ministério Público (flagrante de crime inafiançável) e a do eleitor (art. 236 do Código Eleitoral). Cobre a prisão especial do art. 295 do CPP e as prerrogativas dos advogados (sala de Estado-Maior, art. 7º, V, do Estatuto da Advocacia).",
+    "palavras_chave": "imunidades prisionais; prisão especial; art. 295 do cpp; art. 53 §2º da cf; parlamentares; presidente da república; art. 86 §3º; diplomatas; magistrados; membros do ministério público; advogados; sala de estado-maior; eleitor; art. 236 do código eleitoral; imunidade processual",
+    "nao_confundir": "Diferencia-se de Competência por Prerrogativa de Função, que trata do foro, e de Direitos e Garantias sobre a Prisão, que valem para todos. Aqui o foco são as limitações à prisão de certas pessoas e o tratamento especial."
+  },
+  {
+    "tema_id": "5588",
+    "descricao": "Relaxamento da Prisão corresponde ao art. 5º, LXV, da CF e ao art. 310, I, do CPP. É a soltura imediata decretada pelo juiz, de ofício ou a requerimento, quando a prisão é ilegal, como no flagrante irregular, na prisão sem ordem escrita, na falta de comunicação, no excesso de prazo ou em violação de formalidades legais. Pode ser obtido por habeas corpus. Não impõe condições e não impede nova prisão se surgirem fundamentos legais.",
+    "palavras_chave": "relaxamento da prisão; art. 5º lxv da cf; art. 310 i do cpp; prisão ilegal; flagrante ilegal; excesso de prazo; soltura imediata; ilegalidade; habeas corpus; ausência de formalidades; nova prisão; liberdade sem condições",
+    "nao_confundir": "Diferencia-se de Liberdade Provisória, que é a soltura de prisão legal mediante condições, e de Revogação da Prisão Preventiva, quando cessam os motivos. Aqui o foco é a soltura por ilegalidade da prisão."
+  },
+  {
+    "tema_id": "5590",
+    "descricao": "Teoria Geral das Provas corresponde aos arts. 155 a 157 do CPP e trata dos conceitos e regras gerais da prova penal. Seus filhos são Finalidade, Sujeitos e Ônus da Prova, Princípios Relativos à Prova Penal, Prova Emprestada, Prova Ilegal e Prova Ilícita e Sistemas de Avaliação da Prova.",
+    "palavras_chave": "teoria geral das provas; arts. 155 a 157 do cpp; prova penal; ônus da prova; sistemas de avaliação; prova emprestada; prova ilícita; princípios da prova; meios de prova; fontes de prova; objeto da prova; livre convencimento motivado",
+    "nao_confundir": "Diferencia-se de Provas em Espécies, que trata de cada meio de prova em particular. Aqui o foco são os conceitos, princípios e regras comuns a todas as provas."
+  },
+  {
+    "tema_id": "5591",
+    "descricao": "Finalidade, Sujeitos e Ônus da Prova trata de a prova ter como finalidade formar a convicção do juiz sobre os fatos relevantes (art. 155 do CPP) e de seu objeto, que abrange fatos controvertidos, relevantes e pertinentes, não os notórios e os presumidos. O ônus incumbe a quem alega (art. 156), e a acusação tem o ônus de provar a autoria e a materialidade, em razão da presunção de inocência e do in dubio pro reo. Cobre a iniciativa probatória do juiz, hoje limitada pelo sistema acusatório, e a distinção entre fonte, meio de prova e meio de obtenção de prova.",
+    "palavras_chave": "finalidade da prova; ônus da prova; art. 156 do cpp; art. 155 do cpp; sujeitos da prova; objeto da prova; fato notório; presunção de inocência; in dubio pro reo; iniciativa probatória do juiz; meios de prova; fontes de prova; meios de obtenção de prova; carga da prova",
+    "nao_confundir": "Diferencia-se de Princípios Relativos à Prova Penal, que trata das diretrizes, e de Sistemas de Avaliação da Prova. Aqui o foco são o objetivo da prova, quem a produz e a quem cabe prová-la."
+  },
+  {
+    "tema_id": "5595",
+    "descricao": "Princípios Relativos à Prova Penal reúne as diretrizes aplicáveis à prova: contraditório e ampla defesa, comunhão ou aquisição da prova, oralidade, concentração, publicidade, imediação, liberdade probatória, livre convencimento motivado, vedação de provas ilícitas (art. 5º, LVI, da CF), não autoincriminação (nemo tenetur se detegere), proporcionalidade, presunção de inocência e in dubio pro reo.",
+    "palavras_chave": "princípios da prova; contraditório; ampla defesa; comunhão da prova; aquisição da prova; oralidade; concentração; publicidade; imediação; liberdade probatória; livre convencimento motivado; vedação de provas ilícitas; art. 5º lvi da cf; nemo tenetur se detegere; proporcionalidade",
+    "nao_confundir": "Diferencia-se de Princípios do Processo Penal, que rege todo o processo, e de Finalidade, Sujeitos e Ônus da Prova. Aqui o foco são as diretrizes específicas da atividade probatória."
+  },
+  {
+    "tema_id": "5593",
+    "descricao": "Prova Emprestada é a prova produzida em um processo e transportada para outro, em geral como prova documental. Exige, para ter valor, que tenha sido produzida em contraditório perante a parte contra quem é usada, de forma lícita e regular, e que haja identidade ou proximidade das partes. Cobre o aproveitamento de provas do processo civil no penal e vice-versa, de interceptações de outro processo, e a vedação de uso quando a prova de origem é ilícita ou foi produzida sem contraditório.",
+    "palavras_chave": "prova emprestada; prova transportada; contraditório; mesmas partes; prova documental; licitude; aproveitamento de provas; interceptação em outro processo; prova de outro juízo; valor probatório; contraditório diferido; transladada",
+    "nao_confundir": "Diferencia-se de Prova Ilegal e Prova Ilícita, que trata da violação de normas na obtenção, e de Prova Documental, que é meio de prova em espécie. Aqui o foco é o uso em um processo de prova produzida em outro."
+  }
+]

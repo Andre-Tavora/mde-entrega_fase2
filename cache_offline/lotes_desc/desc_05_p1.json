@@ -1,0 +1,62 @@
+[
+  {
+    "tema_id": "5103",
+    "descricao": "Estupro e Estupro de Vulnerável abrangem o constrangimento de alguém, mediante violência ou grave ameaça, a ter conjunção carnal ou a praticar ou permitir outro ato libidinoso (art. 213 do CP), e o ato sexual com menor de 14 anos ou pessoa sem discernimento ou capacidade de resistência (art. 217-A do CP). No vulnerável, a violência é dispensada e o consentimento é irrelevante.",
+    "palavras_chave": "estupro; estupro de vulnerável; conjunção carnal; ato libidinoso; violência; grave ameaça; menor de 14 anos; vulnerabilidade; consentimento irrelevante; crime hediondo",
+    "nao_confundir": "Diferente da importunação sexual e da violação sexual mediante fraude, o estupro exige violência ou grave ameaça, e o estupro de vulnerável dispensa ambos pela condição da vítima."
+  },
+  {
+    "tema_id": "5105",
+    "descricao": "Importunação Sexual consiste em praticar contra alguém, sem sua anuência, ato libidinoso com o objetivo de satisfazer a própria lascívia ou a de terceiro (art. 215-A do CP, incluído pela Lei 13.718/2018). É crime subsidiário, praticado sem violência ou grave ameaça, e alcança casos como atos libidinosos em transporte público.",
+    "palavras_chave": "importunação sexual; ato libidinoso; sem anuência; lascívia; crime subsidiário; transporte público; ausência de violência; dignidade sexual; liberdade sexual",
+    "nao_confundir": "Diferente do estupro, não há violência ou grave ameaça, e diferente do assédio sexual, não exige relação de superioridade hierárquica."
+  },
+  {
+    "tema_id": "5109",
+    "descricao": "Outros Crimes Contra a Dignidade Sexual reúnem tipos residuais do título, como mediação para servir à lascívia de outrem, favorecimento da prostituição ou outra forma de exploração sexual, casa de prostituição, rufianismo, ato obsceno e escrito ou objeto obsceno. O foco recai sobre exploração, lenocínio e ultraje público ao pudor, e não sobre o ato sexual violento.",
+    "palavras_chave": "lenocínio; rufianismo; favorecimento da prostituição; exploração sexual; casa de prostituição; mediação para lascívia; ato obsceno; escrito obsceno; ultraje público ao pudor",
+    "nao_confundir": "Diferente do estupro e da importunação, aqui se pune a exploração ou facilitação da atividade sexual alheia e o ultraje ao pudor, não o ato sexual imposto à vítima."
+  },
+  {
+    "tema_id": "5107",
+    "descricao": "Registro Não Autorizado da Intimidade Sexual pune quem produz, fotografa, filma ou registra, por qualquer meio, conteúdo com cena de nudez ou ato sexual ou libidinoso de caráter íntimo e privado sem autorização dos participantes (art. 216-B do CP, incluído pela Lei 13.772/2018). Também incide quem realiza montagem para incluir pessoa nessa cena.",
+    "palavras_chave": "registro não autorizado; intimidade sexual; nudez; filmagem; fotografia; montagem; privacidade; ato libidinoso; sem autorização; dignidade sexual",
+    "nao_confundir": "Diferente da importunação sexual, não há contato ou ato contra a vítima, e o núcleo é o registro ou a montagem da cena íntima sem consentimento."
+  },
+  {
+    "tema_id": "5104",
+    "descricao": "Violação Sexual Mediante Fraude ocorre quando o agente tem conjunção carnal ou pratica outro ato libidinoso com alguém mediante fraude ou outro meio que impeça ou dificulte a livre manifestação de vontade da vítima (art. 215 do CP). Se o crime é cometido com o fim de obter vantagem econômica, aplica-se também multa.",
+    "palavras_chave": "violação sexual mediante fraude; estelionato sexual; fraude; engano; conjunção carnal; ato libidinoso; vontade viciada; livre manifestação; dignidade sexual",
+    "nao_confundir": "Diferente do estupro, o meio é o engano que vicia a vontade, e não a violência ou grave ameaça; se a vítima não puder oferecer resistência, há estupro de vulnerável."
+  },
+  {
+    "tema_id": "5116",
+    "descricao": "Dos Crimes Contra a Fé Pública e de Falsidade Documental tutelam a confiança coletiva na autenticidade de moedas, títulos, documentos, sinais e identidades. Abrangem moeda falsa, falsificação de papéis públicos, falsidade documental material e ideológica, uso de documento falso e outras falsidades, como falsa identidade, exigindo dolo e potencialidade lesiva do falso.",
+    "palavras_chave": "fé pública; falsidade documental; moeda falsa; documento público; documento particular; falsidade ideológica; uso de documento falso; falsa identidade; potencialidade lesiva; dolo",
+    "nao_confundir": "É o tema agregador; seus filhos tratam separadamente do título geral da fé pública, da falsidade documental e das outras falsidades."
+  },
+  {
+    "tema_id": "5118",
+    "descricao": "Da Falsidade Documental trata da falsificação de selo ou sinal público, de documento público e particular, da falsidade ideológica, do falso reconhecimento de firma, da certidão ou atestado falso e do uso de documento falso. Distingue a falsidade material, que altera a forma do documento, da ideológica, que insere conteúdo inverídico em documento formalmente verdadeiro.",
+    "palavras_chave": "falsidade documental; falsidade material; falsidade ideológica; documento público; documento particular; uso de documento falso; atestado falso; reconhecimento de firma; selo público",
+    "nao_confundir": "Diferente das outras falsidades, aqui o objeto material é o documento, e não sinais, identidade pessoal ou identificação de veículo."
+  },
+  {
+    "tema_id": "5119",
+    "descricao": "De outras falsidades abrange condutas que não recaem sobre documento propriamente dito, como falsificação de sinal empregado no contraste de metal precioso ou na fiscalização alfandegária, falsa identidade, uso de documento de identidade alheio e adulteração de sinal identificador de veículo automotor. Protege a fé pública em sinais e identificações.",
+    "palavras_chave": "outras falsidades; falsa identidade; documento de identidade alheio; sinal identificador; veículo automotor; adulteração; fiscalização alfandegária; metal precioso; fé pública",
+    "nao_confundir": "Diferente da falsidade documental, o falso recai sobre sinais, identidade ou identificação de bens, e não sobre a forma ou o conteúdo de um documento."
+  },
+  {
+    "tema_id": "5117",
+    "descricao": "Dos Crimes contra a Fé Pública designa o título do Código Penal que protege a credibilidade social em documentos, moeda e sinais oficiais. Inclui moeda falsa, falsidade de títulos e papéis públicos, falsidade documental, outras falsidades e fraudes em certames de interesse público. O bem jurídico é coletivo, e o falso grosseiro, incapaz de enganar, não configura crime.",
+    "palavras_chave": "fé pública; moeda falsa; papéis públicos; títulos públicos; fraude em certame; falso grosseiro; bem jurídico coletivo; credibilidade; falsificação",
+    "nao_confundir": "Diferente dos irmãos específicos, é a visão geral do título, com ênfase em moeda falsa, papéis públicos e fraudes em certames."
+  },
+  {
+    "tema_id": "5120",
+    "descricao": "Dos Crimes Contra a Honra protegem a honra objetiva, ou seja, a reputação perante terceiros, e a honra subjetiva, ou seja, a autoestima e a dignidade da vítima. Compreendem calúnia, difamação e injúria, além de disposições comuns sobre exceção da verdade, causas de aumento, retratação e ação penal, que em regra é privada e exercida mediante queixa.",
+    "palavras_chave": "crimes contra a honra; honra objetiva; honra subjetiva; calúnia; difamação; injúria; exceção da verdade; retratação; queixa-crime; ação penal privada",
+    "nao_confundir": "É o tema agregador; a calúnia imputa crime falso, a difamação imputa fato ofensivo à reputação e a injúria ofende a dignidade sem imputar fato."
+  }
+]

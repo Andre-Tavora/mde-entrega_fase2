@@ -1,0 +1,90 @@
+[
+  {
+    "id": "R_JEC",
+    "descricao": "Lei 9.099/95 - Juizados Especiais Criminais",
+    "regex": "(?:lei\\s*(?:complementar\\s*)?(?:n[\\.ºo°˚]*\\s*)*9\\.?099(?:\\s*/\\s*(?:1995|95))?(?!\\d)|(?<![\\d.])9\\.?099\\s*/\\s*(?:1995|95)(?!\\d))|juizados?\\s+especiais?\\s+criminais?|\\bjecrim\\b|\\bjuizado\\s+especial\\s+criminal\\b",
+    "alvos": [
+      "Direito Penal - Legislação Especial > Juizado Especial Criminal",
+      "Processo Penal > Procedimento Sumaríssimo > Competência dos Juizados Especiais Criminais"
+    ],
+    "peso": 1.0,
+    "alvos_removidos": []
+  },
+  {
+    "id": "R_LEP",
+    "descricao": "Lei 7.210/84 - Lei de Execução Penal",
+    "regex": "(?:lei\\s*(?:complementar\\s*)?(?:n[\\.ºo°˚]*\\s*)*7\\.?210(?:\\s*/\\s*(?:1984|84))?(?!\\d)|(?<![\\d.])7\\.?210\\s*/\\s*(?:1984|84)(?!\\d))|lei\\s+de\\s+execu[cç][aã]o\\s+penal|(?-i:\\bLEP\\b)",
+    "alvos": [
+      "Direito Penal - Legislação Especial > Lei de Execução Penal",
+      "Processo Penal > Lei de Execução Penal"
+    ],
+    "peso": 1.0,
+    "alvos_removidos": []
+  },
+  {
+    "id": "R_MARIA_PENHA",
+    "descricao": "Lei 11.340/06 - Maria da Penha",
+    "regex": "(?:lei\\s*(?:complementar\\s*)?(?:n[\\.ºo°˚]*\\s*)*11\\.?340(?:\\s*/\\s*(?:2006|06))?(?!\\d)|(?<![\\d.])11\\.?340\\s*/\\s*(?:2006|06)(?!\\d))|lei\\s+maria\\s+da\\s+penha|viol[eê]ncia\\s+dom[eé]stica\\s+e\\s+familiar\\s+contra\\s+a\\s+mulher",
+    "alvos": [
+      "Direito Penal - Legislação Especial > Lei Maria da Penha",
+      "Penal > Lei Maria da Penha"
+    ],
+    "peso": 1.0,
+    "alvos_removidos": []
+  },
+  {
+    "id": "R_DROGAS",
+    "descricao": "Lei 11.343/06 - Lei de Drogas",
+    "regex": "(?:lei\\s*(?:complementar\\s*)?(?:n[\\.ºo°˚]*\\s*)*11\\.?343(?:\\s*/\\s*(?:2006|06))?(?!\\d)|(?<![\\d.])11\\.?343\\s*/\\s*(?:2006|06)(?!\\d))|lei\\s+de\\s+drogas|lei\\s+antidrogas?|\\bsisnad\\b",
+    "alvos": [
+      "Direito Penal - Legislação Especial > Tráfico de Drogas",
+      "Penal > Tráfico de Drogas"
+    ],
+    "peso": 1.0,
+    "alvos_removidos": []
+  },
+  {
+    "id": "R_ORGCRIM",
+    "descricao": "Lei 12.850/13 - Organizações Criminosas",
+    "regex": "(?:lei\\s*(?:complementar\\s*)?(?:n[\\.ºo°˚]*\\s*)*12\\.?850(?:\\s*/\\s*(?:2013|13))?(?!\\d)|(?<![\\d.])12\\.?850\\s*/\\s*(?:2013|13)(?!\\d))|lei\\s+de\\s+organiza[cç][oõ]es?\\s+criminosas?",
+    "alvos": [
+      "Direito Penal - Legislação Especial > Organizações Criminosas",
+      "Penal > Organizações Criminosas"
+    ],
+    "peso": 1.0,
+    "alvos_removidos": []
+  },
+  {
+    "id": "R_LAVAGEM",
+    "descricao": "Lei 9.613/98 - Lavagem de Dinheiro",
+    "regex": "(?:lei\\s*(?:complementar\\s*)?(?:n[\\.ºo°˚]*\\s*)*9\\.?613(?:\\s*/\\s*(?:1998|98))?(?!\\d)|(?<![\\d.])9\\.?613\\s*/\\s*(?:1998|98)(?!\\d))|lavagem\\s+de\\s+(?:dinheiro|capitais|bens)",
+    "alvos": [
+      "Direito Penal - Legislação Especial > Lavagem de Dinheiro",
+      "Penal > Lavagem de Dinheiro"
+    ],
+    "peso": 1.0,
+    "alvos_removidos": []
+  },
+  {
+    "id": "R_ABUSO_AUT",
+    "descricao": "Lei 13.869/19 (e 4.898/65) - Abuso de Autoridade",
+    "regex": "(?:lei\\s*(?:complementar\\s*)?(?:n[\\.ºo°˚]*\\s*)*13\\.?869(?:\\s*/\\s*(?:2019|19))?(?!\\d)|(?<![\\d.])13\\.?869\\s*/\\s*(?:2019|19)(?!\\d))|(?:lei\\s*(?:complementar\\s*)?(?:n[\\.ºo°˚]*\\s*)*4\\.?898(?:\\s*/\\s*(?:1965|65))?(?!\\d)|(?<![\\d.])4\\.?898\\s*/\\s*(?:1965|65)(?!\\d))|abuso\\s+de\\s+autoridade",
+    "alvos": [
+      "Direito Penal - Legislação Especial > Abuso de Autoridade",
+      "Penal > Abuso de Autoridade"
+    ],
+    "peso": 1.0,
+    "alvos_removidos": []
+  },
+  {
+    "id": "R_AMBIENTAL",
+    "descricao": "Lei 9.605/98 - Crimes contra o meio ambiente",
+    "regex": "(?:lei\\s*(?:complementar\\s*)?(?:n[\\.ºo°˚]*\\s*)*9\\.?605(?:\\s*/\\s*(?:1998|98))?(?!\\d)|(?<![\\d.])9\\.?605\\s*/\\s*(?:1998|98)(?!\\d))|lei\\s+de\\s+crimes\\s+ambientais|crimes?\\s+contra\\s+o\\s+meio\\s+ambiente",
+    "alvos": [
+      "Direito Penal - Legislação Especial > Crimes contra o meio ambiente",
+      "Penal > Crimes contra o meio ambiente"
+    ],
+    "peso": 1.0,
+    "alvos_removidos": []
+  }
+]

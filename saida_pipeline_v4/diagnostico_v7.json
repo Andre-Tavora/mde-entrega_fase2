@@ -1,0 +1,124 @@
+{
+  "n": 92,
+  "temas_gabarito": 61,
+  "temas_total": 377,
+  "base": {
+    "acc": 33.69565217391305,
+    "f1": 35.51131928181108,
+    "linh": 58.69565217391305,
+    "top3": 52.17391304347826
+  },
+  "melhor_config": {
+    "tau": 2.0,
+    "lambda": 0,
+    "w_assunto": 0
+  },
+  "metricas": {
+    "acc": 44.565217391304344,
+    "f1": 42.654176424668236,
+    "linh": 63.04347826086957,
+    "top3": 52.17391304347826
+  },
+  "categorias": {
+    "exato": 41,
+    "outra_raiz": 14,
+    "mesma_raiz_outro_ramo": 20,
+    "filho_do_correto": 9,
+    "pai_do_correto": 8
+  },
+  "assunto_extraido": 87,
+  "assunto_match": 63,
+  "margem_precisao": [
+    {
+      "pctl": 0,
+      "limiar": 0.008525290424008958,
+      "publicadas": 92,
+      "cobertura": 100.0,
+      "prec_exata": 44.565217391304344,
+      "prec_linh": 63.04347826086957
+    },
+    {
+      "pctl": 10,
+      "limiar": 0.13462965763220758,
+      "publicadas": 82,
+      "cobertura": 89.13043478260869,
+      "prec_exata": 47.5609756097561,
+      "prec_linh": 68.29268292682927
+    },
+    {
+      "pctl": 20,
+      "limiar": 0.23550147706004923,
+      "publicadas": 73,
+      "cobertura": 79.34782608695652,
+      "prec_exata": 47.94520547945205,
+      "prec_linh": 68.4931506849315
+    },
+    {
+      "pctl": 30,
+      "limiar": 0.45792908358831214,
+      "publicadas": 64,
+      "cobertura": 69.56521739130434,
+      "prec_exata": 48.4375,
+      "prec_linh": 67.1875
+    },
+    {
+      "pctl": 40,
+      "limiar": 0.6382817519965591,
+      "publicadas": 55,
+      "cobertura": 59.78260869565217,
+      "prec_exata": 49.09090909090909,
+      "prec_linh": 67.27272727272727
+    },
+    {
+      "pctl": 50,
+      "limiar": 0.8878239251789877,
+      "publicadas": 46,
+      "cobertura": 50.0,
+      "prec_exata": 50.0,
+      "prec_linh": 67.3913043478261
+    },
+    {
+      "pctl": 60,
+      "limiar": 1.3502534348009032,
+      "publicadas": 37,
+      "cobertura": 40.21739130434783,
+      "prec_exata": 48.64864864864865,
+      "prec_linh": 67.56756756756756
+    },
+    {
+      "pctl": 70,
+      "limiar": 1.5565807089077421,
+      "publicadas": 28,
+      "cobertura": 30.434782608695656,
+      "prec_exata": 50.0,
+      "prec_linh": 67.85714285714286
+    },
+    {
+      "pctl": 80,
+      "limiar": 2.3172570180498018,
+      "publicadas": 19,
+      "cobertura": 20.652173913043477,
+      "prec_exata": 52.63157894736842,
+      "prec_linh": 78.94736842105263
+    },
+    {
+      "pctl": 90,
+      "limiar": 3.650222835150771,
+      "publicadas": 10,
+      "cobertura": 10.869565217391305,
+      "prec_exata": 60.0,
+      "prec_linh": 80.0
+    }
+  ],
+  "varredura_fina": {
+    "exata": null,
+    "linhagem": {
+      "publicadas": 12,
+      "cobertura": 13.043478260869565,
+      "limiar": 3.274107998976582,
+      "prec": 83.33333333333334
+    }
+  },
+  "erros_total": 51,
+  "ruido_candidato": 30
+}

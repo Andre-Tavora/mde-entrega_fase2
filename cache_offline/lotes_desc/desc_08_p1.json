@@ -1,0 +1,62 @@
+[
+  {
+    "tema_id": "5179",
+    "descricao": "Crime Impossível corresponde ao art. 17 do CP. Não se pune a tentativa quando, por ineficácia absoluta do meio ou por absoluta impropriedade do objeto, é impossível consumar o crime. Também é chamado de tentativa inidônea ou quase-crime.",
+    "palavras_chave": "crime impossível; art. 17; tentativa inidônea; quase-crime; ineficácia absoluta do meio; impropriedade absoluta do objeto; ineficácia relativa; teoria objetiva temperada; flagrante preparado; não punição da tentativa",
+    "nao_confundir": "Diferencia-se de Crime Consumado e Tentado, em que a consumação é possível e só não ocorre por circunstâncias alheias à vontade do agente. Diferencia-se de Desistência Voluntária, Arrependimento Eficaz e Arrependimento posterior, em que a não consumação decorre da vontade do agente, e de Fases do Iter Criminis."
+  },
+  {
+    "tema_id": "5178",
+    "descricao": "Trata da desistência voluntária e do arrependimento eficaz (art. 15 do CP) e do arrependimento posterior (art. 16). Na desistência voluntária e no arrependimento eficaz, o agente responde apenas pelos atos já praticados. No arrependimento posterior, o crime já se consumou, mas a reparação do dano ou a restituição da coisa, até o recebimento da denúncia ou da queixa, reduz a pena.",
+    "palavras_chave": "desistência voluntária; arrependimento eficaz; arrependimento posterior; art. 15; art. 16; tentativa qualificada; ponte de ouro; reparação do dano; restituição da coisa; recebimento da denúncia; redução de pena",
+    "nao_confundir": "Diferencia-se de Crime Consumado e Tentado, em que a não consumação decorre de circunstâncias alheias à vontade do agente, e de Crime Impossível. Diferencia-se também de Fases do Iter Criminis. O arrependimento posterior ocorre após a consumação e apenas reduz a pena."
+  },
+  {
+    "tema_id": "5176",
+    "descricao": "Fases do Iter Criminis descreve as etapas do percurso do crime: cogitação, atos preparatórios, atos de execução, consumação e exaurimento. Define em que momento a conduta passa a ser punível e a distinção entre preparação e execução.",
+    "palavras_chave": "fases do iter criminis; cogitação; atos preparatórios; atos de execução; consumação; exaurimento; início da execução; fase interna; fase externa; cogitatio não punível",
+    "nao_confundir": "Diferencia-se de Crime Consumado e Tentado, que trata do resultado da execução, de Crime Impossível e de Desistência Voluntária, Arrependimento Eficaz e Arrependimento posterior. Aqui o foco é a descrição cronológica das etapas do crime."
+  },
+  {
+    "tema_id": "6723",
+    "descricao": "Lavagem de Dinheiro corresponde à Lei 9.613/1998, que pune ocultar ou dissimular a natureza, origem, localização, disposição, movimentação ou propriedade de bens, direitos ou valores provenientes de infração penal. Abrange as fases de colocação, ocultação e integração, os deveres de comunicação ao COAF e as disposições processuais da lei.",
+    "palavras_chave": "lavagem de dinheiro; Lei 9.613/1998; ocultação de bens; dissimulação; infração penal antecedente; colocação; ocultação; integração; COAF; comunicação de operações suspeitas; branqueamento de capitais",
+    "nao_confundir": "Tem o mesmo conteúdo do equivalente Direito Penal - Legislação Especial > Lavagem de Dinheiro. Diferencia-se de Direito penal econômico, de Organizações Criminosas e de Dos Crimes Contra a Administração Pública. Aqui o crime tem como objeto a reintegração de bens de origem ilícita à economia."
+  },
+  {
+    "tema_id": "6724",
+    "descricao": "Lei Maria da Penha corresponde à Lei 11.340/2006, que cria mecanismos para coibir a violência doméstica e familiar contra a mulher. Abrange as formas de violência (física, psicológica, sexual, patrimonial e moral), as medidas protetivas de urgência, a assistência à mulher e o procedimento judicial especial.",
+    "palavras_chave": "Lei Maria da Penha; Lei 11.340/2006; violência doméstica e familiar; violência contra a mulher; medidas protetivas de urgência; violência física; violência psicológica; violência sexual; violência patrimonial; violência moral; descumprimento de medida protetiva",
+    "nao_confundir": "Tem o mesmo conteúdo do equivalente Direito Penal - Legislação Especial > Lei Maria da Penha. Diferencia-se de Das Lesões Corporais, de Dos Crimes Contra a Honra e de Dos Crimes Contra a Liberdade Pessoal. Aqui o critério é o contexto de violência doméstica e familiar contra a mulher e as medidas protetivas."
+  },
+  {
+    "tema_id": "5180",
+    "descricao": "Lei Penal no Tempo e no Espaço corresponde aos arts. 1º a 12 do CP. Seus filhos são Conflito Aparente de Normas, Lei penal no Espaço e Lei penal no Tempo. Trata da aplicação da lei penal quanto ao momento, ao território e à concorrência entre normas.",
+    "palavras_chave": "lei penal no tempo; lei penal no espaço; arts. 1º a 12; conflito aparente de normas; territorialidade; extraterritorialidade; irretroatividade; retroatividade benéfica; abolitio criminis; tempo do crime; lugar do crime",
+    "nao_confundir": "Diferencia-se de Introdução ao Estudo do Direito Penal, que trata de conceitos e princípios, de Punibilidade e de Prescrição. Aqui o foco é a delimitação temporal, territorial e normativa da aplicação da lei penal."
+  },
+  {
+    "tema_id": "5183",
+    "descricao": "Conflito Aparente de Normas trata da situação em que mais de uma norma penal parece aplicável ao mesmo fato, mas só uma deve incidir. Resolve-se pelos princípios da especialidade, da subsidiariedade, da consunção e, segundo parte da doutrina, da alternatividade.",
+    "palavras_chave": "conflito aparente de normas; princípio da especialidade; princípio da subsidiariedade; princípio da consunção; princípio da alternatividade; norma especial; norma geral; progressão criminosa; antefato impunível; pós-fato impunível",
+    "nao_confundir": "Diferencia-se de Lei penal no Tempo, que resolve sucessão de leis, e de Lei penal no Espaço, que resolve a aplicação territorial. Diferencia-se também de Concurso de Crimes, em que há pluralidade de infrações. Aqui há um só fato e uma só norma aplicável."
+  },
+  {
+    "tema_id": "5182",
+    "descricao": "Lei penal no Espaço corresponde aos arts. 5º a 9º do CP. Abrange o princípio da territorialidade, o conceito de território para fins penais, o lugar do crime pela teoria da ubiquidade, a extraterritorialidade condicionada e incondicionada, a pena cumprida no estrangeiro e a eficácia de sentença estrangeira.",
+    "palavras_chave": "lei penal no espaço; territorialidade; extraterritorialidade; teoria da ubiquidade; lugar do crime; art. 5º; art. 6º; art. 7º; pena cumprida no estrangeiro; sentença estrangeira; território nacional por extensão",
+    "nao_confundir": "Diferencia-se de Lei penal no Tempo, que trata da sucessão de leis no tempo, e de Conflito Aparente de Normas. Aqui o critério é onde o crime foi praticado e quando a lei brasileira alcança fatos ocorridos no exterior."
+  },
+  {
+    "tema_id": "5181",
+    "descricao": "Lei penal no Tempo corresponde aos arts. 1º a 4º do CP. Abrange a anterioridade e a irretroatividade da lei penal mais severa, a retroatividade da lei benéfica, a abolitio criminis, a novatio legis in mellius e in pejus, a ultra-atividade, as leis temporárias e excepcionais e o tempo do crime pela teoria da atividade.",
+    "palavras_chave": "lei penal no tempo; art. 1º; art. 2º; art. 3º; art. 4º; irretroatividade; retroatividade benéfica; ultra-atividade; novatio legis in mellius; novatio legis in pejus; lei temporária; lei excepcional; tempo do crime",
+    "nao_confundir": "Diferencia-se de Lei penal no Espaço, que trata do território, e de Conflito Aparente de Normas, em que as normas são simultâneas. Diferencia-se também de Abolitio Criminis em Punibilidade, que a trata como causa de extinção da punibilidade. Aqui o foco é a sucessão de leis."
+  },
+  {
+    "tema_id": "5184",
+    "descricao": "Medida de Segurança corresponde aos arts. 96 a 99 do CP. É sanção penal de caráter preventivo, aplicada ao inimputável e, em certos casos, ao semi-imputável, com base na periculosidade. Abrange a internação em hospital de custódia e tratamento psiquiátrico, o tratamento ambulatorial, o prazo mínimo, a perícia de cessação de periculosidade e a desinternação ou liberação condicional.",
+    "palavras_chave": "medida de segurança; arts. 96 a 99; periculosidade; inimputável; semi-imputável; internação; hospital de custódia; tratamento ambulatorial; prazo mínimo; perícia de cessação de periculosidade; desinternação condicional",
+    "nao_confundir": "Diferencia-se das penas, que têm como base a culpabilidade e são aplicadas ao imputável, e de Punibilidade e Prescrição. Aqui o fundamento é a periculosidade do agente e a sanção tem finalidade curativa e preventiva."
+  }
+]

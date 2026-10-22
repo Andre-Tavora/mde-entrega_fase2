@@ -1,0 +1,32 @@
+[
+  {
+    "tema_id": "5166",
+    "descricao": "Estelionato (art. 171 do CP) consiste em obter vantagem ilícita, em prejuízo alheio, mediante artifício, ardil ou outro meio fraudulento, induzindo ou mantendo alguém em erro. A fraude vicia a vontade da vítima, que entrega o bem voluntariamente.",
+    "palavras_chave": "estelionato; art. 171; vantagem ilícita; artifício; ardil; meio fraudulento; induzir em erro; manter em erro; prejuízo alheio; fraude patrimonial",
+    "nao_confundir": "Diferencia-se de Furto e Roubo, em que não há entrega voluntária viciada por fraude, e de Apropriação indébita, em que a posse é lícita desde o início. Também não se confunde com Abuso de Incapazes (art. 173) e Fraude à Execução (art. 179), irmãos com tipo próprio."
+  },
+  {
+    "tema_id": "5161",
+    "descricao": "Extorsão abrange os arts. 158 a 160 do CP: extorsão (art. 158), extorsão mediante sequestro (art. 159) e extorsão indireta (art. 160). Protege o patrimônio contra o constrangimento da vítima, mediante violência ou grave ameaça, para obtenção de vantagem indevida.",
+    "palavras_chave": "extorsão; arts. 158 a 160; extorsão mediante sequestro; extorsão indireta; constrangimento; violência; grave ameaça; vantagem indevida; sequestro; resgate",
+    "nao_confundir": "Diferencia-se de Roubo (art. 157), em que o agente subtrai o bem, enquanto na extorsão a vítima é constrangida a colaborar. Também difere de Estelionato, que se vale de fraude e não de violência ou grave ameaça."
+  },
+  {
+    "tema_id": "5168",
+    "descricao": "Fraude à Execução (art. 179 do CP) pune quem aliena, desvia, destrói ou danifica bens, ou simula dívidas, com o fim de fraudar execução. Protege a satisfação do crédito do credor.",
+    "palavras_chave": "fraude à execução; art. 179; alienar bens; desviar bens; destruir bens; danificar bens; simular dívidas; credor; execução; frustrar o crédito",
+    "nao_confundir": "Diferencia-se de Estelionato, em que a fraude induz a vítima em erro para obter vantagem, e de Dano, que pune a lesão à coisa alheia sem o fim de fraudar execução. Também não se confunde com Apropriação indébita, que exige posse lícita prévia."
+  },
+  {
+    "tema_id": "5159",
+    "descricao": "Furto abrange os arts. 155 e 156 do CP e consiste em subtrair coisa alheia móvel, sem violência ou grave ameaça. O art. 156 trata do furto de coisa comum.",
+    "palavras_chave": "furto; arts. 155 e 156; subtração; coisa alheia móvel; coisa comum; sem violência; sem grave ameaça; posse; detenção; patrimônio",
+    "nao_confundir": "Diferencia-se de Roubo (art. 157), que exige violência ou grave ameaça, e de Apropriação indébita, em que o agente já tem a posse lícita. Também difere de Estelionato, em que a vítima entrega o bem induzida por fraude, e de Dano, que não busca a apropriação."
+  },
+  {
+    "tema_id": "5169",
+    "descricao": "Receptação abrange os arts. 180 e 180-A do CP e consiste em adquirir, receber, transportar, conduzir ou ocultar coisa produto de crime. O art. 180-A trata de semovente.",
+    "palavras_chave": "receptação; arts. 180 e 180-A; adquirir; receber; transportar; conduzir; ocultar; coisa produto de crime; semovente; crime antecedente",
+    "nao_confundir": "Diferencia-se de Furto e Roubo, que são a subtração do bem, pois a receptação pressupõe coisa já proveniente de crime. Também não se confunde com Apropriação indébita e Estelionato, que tutelam outras formas de lesão patrimonial."
+  }
+]

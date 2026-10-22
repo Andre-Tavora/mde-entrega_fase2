@@ -1,0 +1,152 @@
+[
+  {
+    "tema_id": "5223",
+    "descricao": "Crimes Omissivos e Comissivos classifica os crimes pela forma da conduta. O crime comissivo exige uma ação positiva. O omissivo próprio ou puro está descrito no tipo como não fazer o que a lei manda (ex.: omissão de socorro, art. 135). O omissivo impróprio ou comissivo por omissão atinge o garantidor que, podendo e devendo agir para evitar o resultado, não o faz (art. 13, §2º, do CP). Inclui o crime omissivo por comissão e a distinção quanto ao nexo causal na omissão.",
+    "palavras_chave": "crime omissivo próprio; crime omissivo impróprio; comissivo por omissão; crime comissivo; garantidor; posição de garantidor; art. 13 §2º; dever de agir; omissão de socorro; omissão penalmente relevante; crime de conduta mista",
+    "nao_confundir": "Diferencia-se de Conduta, que trata do conceito de comportamento humano e das teorias da ação, e de Crime Doloso e Culposo, que classifica o elemento subjetivo. Aqui o foco é classificar o crime em ação ou omissão e o dever jurídico de agir."
+  },
+  {
+    "tema_id": "5224",
+    "descricao": "Erro de Tipo corresponde ao art. 20 do CP e é o erro sobre elemento constitutivo do tipo penal. O erro essencial inevitável exclui dolo e culpa, e o evitável exclui o dolo mas permite punição por culpa, se houver previsão. Abrange o erro acidental (sobre a pessoa, art. 20, §3º; aberratio ictus, art. 73; aberratio criminis, art. 74; aberratio causae), o erro provocado por terceiro (art. 20, §2º) e as descriminantes putativas (art. 20, §1º).",
+    "palavras_chave": "erro de tipo; art. 20; erro essencial; erro acidental; erro inevitável; erro evitável; exclusão do dolo; error in persona; aberratio ictus; aberratio criminis; erro determinado por terceiro; descriminantes putativas",
+    "nao_confundir": "Diferencia-se de Erro de Proibição (Culpabilidade), que recai sobre a ilicitude do fato e não sobre os elementos do tipo, e de Crime Doloso e Culposo, que trata do dolo em geral. Aqui o agente se engana sobre a realidade fática descrita no tipo."
+  },
+  {
+    "tema_id": "5220",
+    "descricao": "Fato Típico é o tema-síntese do primeiro substrato do crime: a conduta humana que produz um resultado, ligada a ele por nexo causal e que se ajusta a um tipo penal (tipicidade). Apresenta a estrutura geral e os elementos do fato típico, sem aprofundar cada um deles.",
+    "palavras_chave": "fato típico; elementos do fato típico; conduta; resultado; nexo causal; tipicidade; primeiro substrato do crime; conceito analítico de crime; teoria do delito; estrutura do crime",
+    "nao_confundir": "Diferencia-se dos temas irmãos Conduta, Resultado, Nexo Causal e Imputação Objetiva e Tipicidade, que aprofundam cada elemento, e de Teoria do Crime: Ilicitude e Culpabilidade, que são o segundo e o terceiro substratos. Aqui está a visão geral do fato típico."
+  },
+  {
+    "tema_id": "5226",
+    "descricao": "Nexo Causal e Imputação Objetiva trata da relação entre a conduta e o resultado. Pelo art. 13 do CP, adota-se a teoria da equivalência dos antecedentes (conditio sine qua non) com a eliminação hipotética. Abrange a causa superveniente relativamente independente (art. 13, §1º), as concausas e a imputação objetiva, que exige criação de risco proibido e realização do risco no resultado, com o princípio da confiança e a ação a próprio risco.",
+    "palavras_chave": "nexo causal; imputação objetiva; art. 13; teoria da equivalência dos antecedentes; conditio sine qua non; eliminação hipotética; concausas; causa superveniente relativamente independente; criação de risco proibido; princípio da confiança; ação a próprio risco; Roxin",
+    "nao_confundir": "Diferencia-se de Resultado, que trata do conceito e das espécies de resultado, e de Conduta e Tipicidade. Aqui o foco é atribuir objetivamente o resultado à conduta do agente."
+  },
+  {
+    "tema_id": "5225",
+    "descricao": "Resultado estuda o resultado como elemento do fato típico. Distingue o resultado naturalístico (modificação no mundo exterior) do jurídico ou normativo (lesão ou perigo ao bem jurídico). Com isso classifica os crimes em materiais, formais e de mera conduta, e em crimes de dano e de perigo (concreto e abstrato).",
+    "palavras_chave": "resultado; resultado naturalístico; resultado jurídico; crime material; crime formal; crime de mera conduta; crime de dano; crime de perigo; perigo concreto; perigo abstrato; consumação; exaurimento",
+    "nao_confundir": "Diferencia-se de Nexo Causal e Imputação Objetiva, que liga a conduta ao resultado, e de Conduta e Tipicidade. Aqui o foco é o conceito de resultado e a classificação dos crimes a partir dele."
+  },
+  {
+    "tema_id": "5227",
+    "descricao": "Tipicidade estuda a adequação do fato à norma penal incriminadora. Abrange a tipicidade formal e a material, o princípio da insignificância, a adequação social, a tipicidade conglobante, a adequação típica de subordinação imediata e mediata e os elementos do tipo (objetivos, subjetivos e normativos). Inclui o tipo aberto e o fechado e a função do tipo penal.",
+    "palavras_chave": "tipicidade; tipicidade formal; tipicidade material; tipicidade conglobante; princípio da insignificância; adequação social; adequação típica; subordinação imediata; subordinação mediata; elementos do tipo; tipo penal; tipo aberto",
+    "nao_confundir": "Diferencia-se de Conduta, Resultado e Nexo Causal, que são outros elementos do fato típico, e de Ilicitude, em que o fato típico é contrariado pelo ordenamento por não haver excludente. Aqui se verifica se o fato se encaixa no tipo penal."
+  },
+  {
+    "tema_id": "5228",
+    "descricao": "Teoria do Crime: Ilicitude estuda o segundo substrato do crime, a contrariedade do fato típico ao ordenamento jurídico. Sua parte central são as excludentes de ilicitude do art. 23 do CP (estado de necessidade, legítima defesa, estrito cumprimento do dever legal e exercício regular de direito) e as causas supralegais. Seus filhos são Causas Supralegais de Exclusão da Ilicitude, Conceito e Elementos da Ilicitude, Estado de Necessidade, Estrito Cumprimento do Dever Legal e Legítima Defesa.",
+    "palavras_chave": "ilicitude; antijuridicidade; excludentes de ilicitude; causas de justificação; art. 23; estado de necessidade; legítima defesa; estrito cumprimento do dever legal; exercício regular de direito; excesso punível; causas supralegais",
+    "nao_confundir": "Diferencia-se de Teoria do Crime: Fato Típico, que analisa a adequação ao tipo, e de Teoria do Crime: Culpabilidade, que analisa a reprovação do autor. Aqui se discute se o fato típico é contrário ao direito ou se é justificado."
+  },
+  {
+    "tema_id": "5233",
+    "descricao": "Causas Supralegais de Exclusão da Ilicitude são hipóteses não previstas expressamente em lei que afastam a ilicitude do fato típico, aceitas pela doutrina. A principal é o consentimento do ofendido, que exige bem jurídico disponível, capacidade do ofendido, consentimento anterior ou simultâneo ao fato e que o bem seja próprio e a ofensa não esteja no tipo como elemento.",
+    "palavras_chave": "causas supralegais; exclusão da ilicitude; consentimento do ofendido; bem jurídico disponível; capacidade para consentir; consentimento válido; hipótese não prevista em lei; justificação supralegal; causa de justificação; tipicidade e consentimento",
+    "nao_confundir": "Diferencia-se de Estado de Necessidade, Legítima Defesa e Estrito Cumprimento do Dever Legal, que estão previstos no art. 23 do CP, e de Causas Supralegais de Exclusão da Culpabilidade. Aqui se afasta a ilicitude, e não a culpabilidade."
+  },
+  {
+    "tema_id": "5229",
+    "descricao": "Conceito e Elementos da Ilicitude trata da ilicitude (antijuridicidade) como a relação de contrariedade entre o fato típico e o ordenamento. Distingue a ilicitude formal da material, apresenta o caráter indiciário do fato típico (teoria da ratio cognoscendi), os elementos subjetivos das excludentes e o excesso punível no art. 23, parágrafo único, doloso ou culposo.",
+    "palavras_chave": "conceito de ilicitude; antijuridicidade; ilicitude formal; ilicitude material; ratio cognoscendi; caráter indiciário da tipicidade; elementos subjetivos das excludentes; excesso punível; excesso doloso; excesso culposo; art. 23 parágrafo único; ilicitude e injusto penal",
+    "nao_confundir": "Diferencia-se de Estado de Necessidade, Legítima Defesa e Estrito Cumprimento do Dever Legal, que tratam de cada excludente, e de Conceito e Elementos da Culpabilidade. Aqui está a teoria geral da ilicitude."
+  },
+  {
+    "tema_id": "5230",
+    "descricao": "Estado de Necessidade corresponde aos arts. 23, I, e 24 do CP. Exige perigo atual não provocado voluntariamente pelo agente, ameaça a direito próprio ou alheio, inevitabilidade do mal por outro meio, razoabilidade do sacrifício e conhecimento da situação de fato. Quem tem dever legal de enfrentar o perigo não o alega (§1º), e se era razoável exigir sacrifício do bem a pena é reduzida de 1/3 a 2/3 (§2º). Estuda as teorias unitária e diferenciadora e as espécies (agressivo, defensivo, putativo).",
+    "palavras_chave": "estado de necessidade; art. 24; perigo atual; perigo não provocado; inevitabilidade; razoabilidade do sacrifício; dever legal de enfrentar o perigo; redução de 1/3 a 2/3; teoria unitária; teoria diferenciadora; estado de necessidade agressivo; estado de necessidade defensivo",
+    "nao_confundir": "Diferencia-se de Legítima Defesa, que responde a agressão injusta e atinge o agressor, enquanto aqui o perigo não decorre necessariamente de agressão e se sacrifica bem de terceiro inocente, e de Coação Moral Irresistível, que exclui a culpabilidade. Aqui há conflito entre bens jurídicos."
+  },
+  {
+    "tema_id": "5232",
+    "descricao": "Estrito Cumprimento do Dever Legal corresponde ao art. 23, III, primeira parte, do CP. Exclui a ilicitude da conduta de quem cumpre dever imposto por lei, penal ou extrapenal, nos limites do que a lei determina. Aplica-se principalmente a agentes públicos (policial que prende em flagrante, oficial de justiça), com o excesso punível. O dever deve decorrer de lei em sentido amplo.",
+    "palavras_chave": "estrito cumprimento do dever legal; art. 23 III; dever imposto por lei; agente público; prisão em flagrante; oficial de justiça; excesso; limites do dever; causa de justificação; funcionário público; dever legal",
+    "nao_confundir": "Diferencia-se de Obediência Hierárquica, que exclui a culpabilidade por ordem de superior, e de exercício regular de direito, que decorre de uma faculdade e não de um dever. Diferencia-se também de Legítima Defesa e Estado de Necessidade."
+  },
+  {
+    "tema_id": "5231",
+    "descricao": "Legítima Defesa corresponde aos arts. 23, II, e 25 do CP. Requer agressão injusta, atual ou iminente, a direito próprio ou de terceiro, uso moderado dos meios necessários e conhecimento da agressão. O parágrafo único equipara à legítima defesa a conduta do agente de segurança pública que repele agressão ou risco de agressão a vítima mantida refém durante a prática de crimes. Estuda as espécies (própria, de terceiro, sucessiva, putativa, real) e o excesso.",
+    "palavras_chave": "legítima defesa; art. 25; agressão injusta; agressão atual ou iminente; meios necessários; uso moderado; legítima defesa de terceiro; legítima defesa sucessiva; legítima defesa putativa; excesso na legítima defesa; agente de segurança pública; refém",
+    "nao_confundir": "Diferencia-se de Estado de Necessidade, em que há perigo e conflito entre bens, não necessariamente agressão humana injusta, e de Estrito Cumprimento do Dever Legal. Aqui há reação a agressão injusta."
+  },
+  {
+    "tema_id": "5234",
+    "descricao": "Tratados e convenções em matéria criminal trata dos instrumentos internacionais que influenciam o direito penal brasileiro. Inclui o Estatuto de Roma do Tribunal Penal Internacional, a Convenção de Palermo contra o crime organizado transnacional, a Convenção de Mérida contra a corrupção, o Pacto de São José da Costa Rica, a Convenção contra a Tortura e as convenções de drogas. Aborda a incorporação ao ordenamento, a hierarquia dos tratados, a extradição e a cooperação jurídica internacional.",
+    "palavras_chave": "tratados internacionais; convenções em matéria criminal; Estatuto de Roma; Tribunal Penal Internacional; Convenção de Palermo; Convenção de Mérida; Pacto de São José da Costa Rica; Convenção contra a Tortura; extradição; cooperação jurídica internacional; supralegalidade; art. 5º §3º",
+    "nao_confundir": "Diferencia-se de Lei penal no Espaço, que trata da aplicação territorial da lei brasileira, e de Crimes contra o meio ambiente e Tráfico de Drogas, que são tipificações internas. Aqui o foco é a fonte internacional e sua incorporação ao direito penal."
+  },
+  {
+    "tema_id": "6728",
+    "descricao": "Tráfico de Drogas corresponde à Lei 11.343/2006 (Lei de Drogas). Abrange o art. 33 (tráfico, com 18 verbos nucleares, condutas equiparadas e o tráfico privilegiado do §4º, que reduz a pena de 1/6 a 2/3 para réu primário, de bons antecedentes, que não se dedique a atividades criminosas nem integre organização criminosa), a associação para o tráfico (art. 35), o financiamento (art. 36), as causas de aumento (art. 40) e a distinção em relação ao porte para consumo pessoal (art. 28).",
+    "palavras_chave": "tráfico de drogas; Lei 11.343/2006; Lei de Drogas; art. 33; tráfico privilegiado; art. 33 §4º; associação para o tráfico; art. 35; financiamento ao tráfico; art. 36; causas de aumento; art. 40; porte para consumo pessoal; art. 28; drogas",
+    "nao_confundir": "Tem o mesmo conteúdo do equivalente Direito Penal - Legislação Especial > Tráfico de Drogas. Diferencia-se de Organizações Criminosas e Lavagem de Dinheiro, que têm leis próprias, e de Tratados e convenções em matéria criminal. Aqui o foco são os crimes e o procedimento da Lei de Drogas."
+  },
+  {
+    "tema_id": "5465",
+    "descricao": "Processo Penal é o ramo raiz que reúne o estudo do Código de Processo Penal (Decreto-Lei 3.689/1941) e das normas processuais penais. Abrange a ação penal, o inquérito policial, a competência, as nulidades, os recursos, as prisões, os procedimentos e a execução penal.",
+    "palavras_chave": "processo penal; Código de Processo Penal; CPP; Decreto-Lei 3.689/1941; ação penal; inquérito policial; competência; nulidades; recursos; prisões; procedimentos; execução penal",
+    "nao_confundir": "Diferencia-se de Penal (direito material), que define crimes e penas, de Criminologia e de Direito Penal - Legislação Especial. Aqui o foco são as regras do processo, e não os tipos penais."
+  },
+  {
+    "tema_id": "5466",
+    "descricao": "Ação Penal é o direito de pedir ao Estado-juiz a aplicação do direito penal ao caso concreto, e o tema reúne seu regime jurídico. Seus filhos são Ação Civil Ex Delicto, Ação Penal Pública Condicionada, Ação Penal Pública Incondicionada, Ação Penal de Iniciativa Privada, Características e Condições da Ação Penal, Classificação da Ação Penal, Denúncia, Princípios da Ação Penal e Queixa Crime.",
+    "palavras_chave": "ação penal; arts. 24 a 62 do CPP; titularidade da ação penal; ação penal pública; ação penal privada; denúncia; queixa-crime; representação; condições da ação; princípios da ação penal; ação civil ex delicto",
+    "nao_confundir": "É equivalente a Penal > Ação Penal, que trata do mesmo assunto no direito material (art. 100 do CP e extinção da punibilidade). Diferencia-se de Inquérito Policial, que é a fase pré-processual, e de Procedimento Ordinário, que trata do rito. Aqui está o direito de agir e seus titulares."
+  },
+  {
+    "tema_id": "5475",
+    "descricao": "Ação Civil Ex Delicto corresponde aos arts. 63 a 68 do CPP e ao art. 91, I, do CP. Trata da reparação do dano causado pelo crime: a execução civil da sentença penal condenatória transitada em julgado como título executivo (art. 63), a ação civil de conhecimento (art. 64), os efeitos da absolvição penal na esfera cível (arts. 65 a 67) e a legitimidade do Ministério Público para promover a ação pelo pobre (art. 68). Inclui a fixação de valor mínimo de indenização na sentença (art. 387, IV).",
+    "palavras_chave": "ação civil ex delicto; arts. 63 a 68; execução civil da sentença penal; título executivo; reparação do dano; valor mínimo de indenização; art. 387 IV; art. 91 I; absolvição e responsabilidade civil; legitimidade do Ministério Público; art. 68; independência das instâncias",
+    "nao_confundir": "Diferencia-se de Ação Penal Pública e de Ação Penal de Iniciativa Privada, que têm pretensão punitiva, e de Efeitos da Condenação em Penal, que trata do efeito genérico da condenação. Aqui a pretensão é patrimonial e se exerce no juízo cível."
+  },
+  {
+    "tema_id": "5471",
+    "descricao": "Ação Penal Pública Condicionada é a ação promovida pelo Ministério Público que depende de manifestação de vontade do ofendido (representação) ou de requisição do Ministro da Justiça (art. 24 do CPP). A representação deve ser feita em 6 meses do conhecimento da autoria (art. 38 do CPP), é retratável até o oferecimento da denúncia (art. 25) e não exige forma rígida. Também trata da requisição ministerial e dos crimes em que a lei a prevê.",
+    "palavras_chave": "ação penal pública condicionada; representação; requisição do Ministro da Justiça; art. 24 do CPP; art. 38 do CPP; prazo de seis meses; retratação da representação; art. 25; condição de procedibilidade; Ministério Público; titularidade; denúncia",
+    "nao_confundir": "Diferencia-se de Ação Penal Pública Incondicionada, que independe de qualquer manifestação, e de Ação Penal de Iniciativa Privada, em que a titularidade é do ofendido. Aqui o Ministério Público é titular, mas a atuação depende de uma condição de procedibilidade."
+  },
+  {
+    "tema_id": "5470",
+    "descricao": "Ação Penal Pública Incondicionada é a regra geral, promovida pelo Ministério Público, titular privativo, mediante denúncia, sem necessidade de manifestação do ofendido (art. 129, I, da CF; art. 100 do CP; art. 24 do CPP). Rege-se pelos princípios da obrigatoriedade, indisponibilidade e oficialidade, e admite ação penal privada subsidiária se houver inércia ministerial.",
+    "palavras_chave": "ação penal pública incondicionada; Ministério Público; titular da ação penal; art. 129 I da CF; art. 100 do CP; denúncia; obrigatoriedade; indisponibilidade; oficialidade; regra geral; ação penal subsidiária da pública; art. 29 do CPP",
+    "nao_confundir": "Diferencia-se de Ação Penal Pública Condicionada, que depende de representação ou requisição, e de Ação Penal de Iniciativa Privada, em que o titular é o ofendido. Aqui o Ministério Público age de ofício."
+  },
+  {
+    "tema_id": "5472",
+    "descricao": "Ação Penal de Iniciativa Privada é a ação em que o ofendido ou seu representante legal é o titular e a promove mediante queixa-crime (art. 30 do CPP). Abrange a exclusivamente privada, a personalíssima e a subsidiária da pública (art. 29 do CPP; art. 5º, LIX, da CF). Rege-se pelos princípios da oportunidade, disponibilidade e indivisibilidade, com prazo decadencial de 6 meses (art. 38), e admite renúncia, perdão e perempção.",
+    "palavras_chave": "ação penal de iniciativa privada; queixa-crime; ação penal privada exclusiva; ação penal privada personalíssima; ação penal privada subsidiária da pública; art. 29; art. 30; oportunidade; disponibilidade; indivisibilidade; decadência de seis meses; querelante; querelado",
+    "nao_confundir": "Diferencia-se de Ação Penal Pública Condicionada e Incondicionada, em que o titular é o Ministério Público, e de Queixa Crime, que trata especificamente da peça inicial. Aqui está o regime da ação de titularidade do ofendido."
+  },
+  {
+    "tema_id": "5467",
+    "descricao": "Características e Condições da Ação Penal trata da natureza da ação (pública, autônoma, abstrata, instrumental) e das condições para o seu exercício. Abrange as condições genéricas (legitimidade e interesse de agir), as específicas (condições de procedibilidade), a justa causa e a análise de rejeição da denúncia no art. 395 do CPP, além dos pressupostos processuais.",
+    "palavras_chave": "características da ação penal; condições da ação; legitimidade; interesse de agir; justa causa; condições de procedibilidade; art. 395 do CPP; rejeição da denúncia; pressupostos processuais; autonomia; instrumentalidade; abstração",
+    "nao_confundir": "Diferencia-se de Classificação da Ação Penal, que organiza as espécies de ação, e de Princípios da Ação Penal. Aqui o foco é a natureza jurídica e os requisitos para que a ação possa ser exercida."
+  },
+  {
+    "tema_id": "5468",
+    "descricao": "Classificação da Ação Penal organiza as espécies de ação penal a partir do critério da titularidade (art. 100 do CP; art. 24 do CPP). A ação é pública, incondicionada ou condicionada, ou privada, exclusiva, personalíssima ou subsidiária. Também trata da classificação quanto ao pedido (condenatória, declaratória e constitutiva).",
+    "palavras_chave": "classificação da ação penal; art. 100 do CP; ação penal pública; ação penal privada; incondicionada; condicionada; exclusiva; personalíssima; subsidiária da pública; ação penal condenatória; titularidade; regra da ação penal",
+    "nao_confundir": "Diferencia-se de Ação Penal Pública Condicionada, Ação Penal Pública Incondicionada e Ação Penal de Iniciativa Privada, que detalham o regime de cada espécie. Aqui o foco é o quadro geral de espécies e a regra de que o silêncio da lei indica ação pública incondicionada."
+  },
+  {
+    "tema_id": "5473",
+    "descricao": "Denúncia é a peça inicial da ação penal pública. Seus requisitos estão no art. 41 do CPP: exposição do fato criminoso com circunstâncias, qualificação do acusado, classificação do crime e, quando necessário, rol de testemunhas. O prazo é de 5 dias (réu preso) ou 15 dias (réu solto), conforme o art. 46. Trata da rejeição (art. 395), do recebimento, do aditamento, da denúncia genérica e da denúncia alternativa.",
+    "palavras_chave": "denúncia; art. 41 do CPP; requisitos da denúncia; exposição do fato criminoso; classificação do crime; prazo da denúncia; art. 46; rejeição da denúncia; art. 395; recebimento da denúncia; aditamento; denúncia genérica",
+    "nao_confundir": "Diferencia-se de Queixa Crime, que é a peça inicial da ação privada, e de Princípios da Ação Penal. Aqui está a peça acusatória do Ministério Público, seus requisitos e sua apreciação pelo juiz."
+  },
+  {
+    "tema_id": "5469",
+    "descricao": "Princípios da Ação Penal reúne os princípios que regem a ação, divididos entre os da ação pública e os da privada. Na pública, a obrigatoriedade, a indisponibilidade, a oficialidade, a indivisibilidade (controvertida) e a intranscendência. Na privada, a oportunidade, a disponibilidade e a indivisibilidade (art. 48 do CPP). Também tem a intranscendência, pela qual a ação só atinge o autor do crime.",
+    "palavras_chave": "princípios da ação penal; obrigatoriedade; indisponibilidade; oficialidade; indivisibilidade; intranscendência; oportunidade; disponibilidade; art. 42 do CPP; art. 48 do CPP; legalidade; ação pública; ação privada",
+    "nao_confundir": "Diferencia-se de Características e Condições da Ação Penal e de Classificação da Ação Penal. Aqui estão as diretrizes que orientam o exercício da ação, e não suas condições ou espécies."
+  },
+  {
+    "tema_id": "5474",
+    "descricao": "Queixa Crime é a peça inicial da ação penal de iniciativa privada. Obedece aos requisitos do art. 41 do CPP e exige procuração com poderes especiais, com menção ao fato criminoso (art. 44). O prazo é de 6 meses da ciência da autoria (art. 38), é indivisível (art. 48) e deve ter a legitimidade ativa do ofendido. Trata ainda da rejeição, do aditamento pelo Ministério Público e da assistência.",
+    "palavras_chave": "queixa-crime; art. 41; art. 44; procuração com poderes especiais; querelante; querelado; prazo de seis meses; art. 38; indivisibilidade; aditamento; rejeição da queixa; ação penal privada",
+    "nao_confundir": "Diferencia-se de Denúncia, que é a peça do Ministério Público na ação pública, e de Ação Penal de Iniciativa Privada, que trata do regime geral. Aqui o foco é a peça inicial e seus requisitos formais."
+  }
+]

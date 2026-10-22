@@ -1,0 +1,4 @@
+# Inferencia offline (sem LLM na decisao)
+numpy==2.5.4
+pandas==2.2.3
+scikit-learn==1.6.1

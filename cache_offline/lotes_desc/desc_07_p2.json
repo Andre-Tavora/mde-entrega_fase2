@@ -1,0 +1,62 @@
+[
+  {
+    "tema_id": "5137",
+    "descricao": "Dos Crimes Contra o Sentimento Religioso e Respeito aos Mortos corresponde aos arts. 208 a 212 do CP. Abrange o ultraje a culto e o impedimento ou perturbação de ato religioso, a perturbação de cerimônia funerária, a violação de sepultura, a destruição, subtração ou ocultação de cadáver e o vilipêndio a cadáver.",
+    "palavras_chave": "sentimento religioso; respeito aos mortos; arts. 208 a 212; ultraje a culto; perturbação de ato religioso; perturbação de cerimônia funerária; violação de sepultura; destruição de cadáver; ocultação de cadáver; vilipêndio a cadáver",
+    "nao_confundir": "Diferencia-se de Dos Crimes Contra a Organização do Trabalho e de Dos Crimescontra a Propriedade Imaterial. Aqui os bens protegidos são a crença religiosa e a memória e os restos mortais das pessoas."
+  },
+  {
+    "tema_id": "5136",
+    "descricao": "Dos Crimescontra a Propriedade Imaterial corresponde aos arts. 184 a 186 do CP, que tratam da violação de direito autoral e das regras de ação penal. Protege a criação intelectual contra reprodução, distribuição ou exploração não autorizada. Os crimes contra a propriedade industrial hoje estão na legislação especial.",
+    "palavras_chave": "propriedade imaterial; direito autoral; arts. 184 a 186; violação de direito autoral; obra intelectual; reprodução não autorizada; direitos conexos; ação penal; propriedade industrial; legislação especial",
+    "nao_confundir": "Diferencia-se de Dos Crimes Contra a Organização do Trabalho e de Dos Crimes Contra o Sentimento Religioso e Respeito aos Mortos. Aqui o bem protegido é a criação intelectual e os direitos do autor."
+  },
+  {
+    "tema_id": "5147",
+    "descricao": "Dos Crimes contra as Finanças Públicas corresponde aos arts. 359-A a 359-H do CP, incluídos pela Lei 10.028/2000. Abrange condutas de gestão fiscal indevida por agentes públicos, como contratação irregular de operação de crédito, inscrição de despesas em restos a pagar, assunção de obrigação no último ano do mandato, ordenação de despesa não autorizada, garantia graciosa, aumento de despesa com pessoal e oferta irregular de títulos no mercado.",
+    "palavras_chave": "finanças públicas; arts. 359-A a 359-H; operação de crédito; restos a pagar; despesa não autorizada; último ano do mandato; garantia graciosa; despesa com pessoal; títulos da dívida pública; responsabilidade fiscal",
+    "nao_confundir": "Diferencia-se de Dos Crimes Contra a Administração Pública, que abrange peculato, corrupção e prevaricação, e de Direito penal econômico. Aqui o foco é a violação das regras de gestão fiscal e orçamentária por agente público."
+  },
+  {
+    "tema_id": "5148",
+    "descricao": "Dos Crimes contra as Instituições Democráticas integra o Título XII do CP, incluído pela Lei 14.197/2021. Abrange a abolição violenta do Estado Democrático de Direito e o golpe de Estado (arts. 359-L e 359-M), ligados ao emprego de violência ou grave ameaça contra a ordem constitucional e o governo legitimamente constituído.",
+    "palavras_chave": "instituições democráticas; Título XII; Lei 14.197/2021; arts. 359-L e 359-M; abolição violenta do Estado Democrático de Direito; golpe de Estado; violência ou grave ameaça; ordem constitucional; governo legitimamente constituído",
+    "nao_confundir": "Diferencia-se de Dos Crimes contra o Estado Democrático de Direito, que é o título mais amplo, e de Dos Crimes contra o Funcionamento dos Serviços Essenciais. Diferencia-se também de Dos Crimes Contra a Administração Pública, pois aqui o alvo são as instituições e a ordem democrática, e não a probidade administrativa."
+  },
+  {
+    "tema_id": "5155",
+    "descricao": "Dos Crimes contra o Estado Democrático de Direito corresponde ao Título XII do CP, incluído pela Lei 14.197/2021, que revogou a antiga Lei de Segurança Nacional. Abrange os crimes contra a soberania nacional, as instituições democráticas, o funcionamento das instituições democráticas no processo eleitoral e o funcionamento dos serviços essenciais.",
+    "palavras_chave": "Estado Democrático de Direito; Título XII; Lei 14.197/2021; soberania nacional; atentado à soberania; espionagem; abolição violenta; golpe de Estado; processo eleitoral; violência política; sabotagem",
+    "nao_confundir": "Diferencia-se de Dos Crimes contra as Instituições Democráticas e de Dos Crimes contra o Funcionamento dos Serviços Essenciais, que são recortes específicos do mesmo título. Diferencia-se ainda de Dos Crimes Contra a Administração Pública e de Abuso de Autoridade, que protegem a probidade e os direitos individuais."
+  },
+  {
+    "tema_id": "5156",
+    "descricao": "Dos Crimes contra o Funcionamento dos Serviços Essenciais integra o Título XII do CP, incluído pela Lei 14.197/2021. Trata da sabotagem: destruir ou inutilizar meio de comunicação ao público, estabelecimento, instalação ou serviço destinado à defesa nacional ou a serviço essencial, com o fim de abolir o Estado Democrático de Direito.",
+    "palavras_chave": "serviços essenciais; sabotagem; Título XII; Lei 14.197/2021; meio de comunicação ao público; defesa nacional; destruição de instalação; inutilização de serviço; fim de abolir o Estado Democrático de Direito",
+    "nao_confundir": "Diferencia-se de Dos Crimes contra as Instituições Democráticas e de Dos Crimes contra o Estado Democrático de Direito, que tratam do ataque direto à ordem institucional. Diferencia-se também de Dos Crimes Contra a Incolumidade Pública, em que não há o fim específico de abolir o Estado Democrático de Direito."
+  },
+  {
+    "tema_id": "6721",
+    "descricao": "Dos Crimes contra o Patrimônio (Parte 2) tem o mesmo escopo dos temas equivalentes Dos Crimes Contra o Patrimônio e Dos Crimes Contra o Patrimônio (Parte 1). Corresponde ao Título II do CP, arts. 155 a 183, que tratam de furto, roubo, extorsão, usurpação, dano, apropriação indébita, estelionato, receptação e disposições gerais. Não possui filhos no CSV.",
+    "palavras_chave": "crimes contra o patrimônio; parte 2; Título II; arts. 155 a 183; furto; roubo; extorsão; estelionato; apropriação indébita; dano; receptação",
+    "nao_confundir": "Tem o mesmo conteúdo dos equivalentes Dos Crimes Contra o Patrimônio e Dos Crimes Contra o Patrimônio (Parte 1). Diferencia-se de Dos Crimes Contra a Fé Pública e de Falsidade Documental, de Direito penal econômico e de Dos Crimes Contra a Administração Pública, que protegem outros bens jurídicos."
+  },
+  {
+    "tema_id": "6722",
+    "descricao": "Estatuto do Idoso - Crimes corresponde ao Título VI da Lei 10.741/2003, que traz as disposições gerais e os crimes em espécie praticados contra pessoa com 60 anos ou mais. Abrange discriminação, omissão de socorro, abandono, exposição a perigo, maus-tratos, apropriação ou desvio de bens e indução a outorga de procuração, em regra com ação penal pública incondicionada.",
+    "palavras_chave": "Estatuto do Idoso; Lei 10.741/2003; pessoa idosa; maior de 60 anos; crimes em espécie; discriminação; abandono de idoso; maus-tratos; apropriação de bens do idoso; ação penal pública incondicionada",
+    "nao_confundir": "Diferencia-se de Das Lesões Corporais e de Dos Crimes Contra a Periclitação da Vida e da Saúde, que se aplicam a qualquer vítima. Diferencia-se também de Dos Crimes contra o Patrimônio (Parte 2). Aqui a lei especial protege especificamente a pessoa idosa."
+  },
+  {
+    "tema_id": "5170",
+    "descricao": "Introdução ao Estudo do Direito Penal reúne os conceitos básicos da disciplina. Seus filhos são Classificações dos Crimes, Conceito e Fontes do Direito Penal, Interpretação da Norma Penal e Princípios do Direito Penal.",
+    "palavras_chave": "introdução ao direito penal; conceito de direito penal; fontes do direito penal; princípios penais; interpretação da norma penal; classificação dos crimes; teoria geral; parte geral",
+    "nao_confundir": "Diferencia-se de Iter Criminis, Concurso de Pessoas, Concurso de Crimes e Ação Penal, que tratam de institutos específicos da parte geral. Diferencia-se também dos temas de crimes em espécie, como Dos Crimes Contra a Honra. Aqui o foco são os fundamentos e as premissas gerais do direito penal."
+  },
+  {
+    "tema_id": "5174",
+    "descricao": "Classificações dos Crimes trata das categorias doutrinárias usadas para classificar infrações penais. Entre elas estão crimes comuns, próprios e de mão própria, materiais, formais e de mera conduta, comissivos e omissivos, instantâneos e permanentes, dolosos e culposos, de dano e de perigo, e simples e complexos.",
+    "palavras_chave": "classificação dos crimes; crime comum; crime próprio; crime de mão própria; crime material; crime formal; crime de mera conduta; crime omissivo; crime permanente; crime instantâneo; crime de perigo",
+    "nao_confundir": "Diferencia-se de Conceito e Fontes do Direito Penal, de Interpretação da Norma Penal e de Princípios do Direito Penal. Diferencia-se também de Crime Consumado e Tentado, que trata das fases de realização do crime. Aqui o foco é o enquadramento doutrinário do tipo penal."
+  }
+]

@@ -1,0 +1,12 @@
+{
+  "arquivos": {
+    "requirements.txt": "693f3a9b061cb0f739d790d54a4a64ecb53d91bd2d5969710b8e57ac9d294e13",
+    "classificar_csv.py": "4211c874f240eda13d8ff887a6aca0e3cfad15afa35c7abddb347a5da9cd6180",
+    "README.md": "6e022787c8f05cb6b4d82e90a242e14b89000e41978cc8688131f3ac92a5efa7",
+    "inferir_v9.py": "dad7a685d04e5970eeaca7e29113795467b21d1c1d34a550a68ea59f441058c3",
+    "artefatos_v9_final/vec_ch.joblib": "5ffc58ec1dc41355b45e31f61ffef077b547c1009b4d75d8c8fafbebc25094ee",
+    "artefatos_v9_final/pipeline_v9_congelado.joblib": "65fbc62277d6851a0c27defaa4d78c0be7fb7a22e281b20f31d3d8318a39a4b1",
+    "artefatos_v9_final/encoder_local": "5b702a9dadd7cf1e439c815f1182d5f2b921eb3843073a4368bb274a22bb0eb7"
+  },
+  "metodo_hash_diretorio": "sha256 sobre (caminho relativo + sha256 do arquivo), arquivos em ordem alfabetica"
+}

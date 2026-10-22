@@ -1,0 +1,62 @@
+[
+  {
+    "tema_id": "5067",
+    "descricao": "Concurso Material corresponde ao art. 69 do CP: o agente pratica duas ou mais ações ou omissões e dois ou mais crimes, e as penas são somadas (cúmulo material). A reclusão é cumprida antes da detenção; o §1º veda a substituição da pena para os demais crimes quando um deles recebe pena privativa de liberdade não suspensa, e o §2º trata do cumprimento das penas restritivas.",
+    "palavras_chave": "concurso material; art. 69; cúmulo material; soma das penas; pluralidade de ações; pluralidade de crimes; reclusão antes da detenção; art. 69, §1º; art. 69, §2º; penas restritivas de direitos",
+    "nao_confundir": "Diferencia-se de Concurso Formal, em que há uma só ação ou omissão, e de Crime Continuado, em que os crimes são da mesma espécie e há semelhança de circunstâncias. Também não se confunde com Pena de Multa no Concurso de Crimes."
+  },
+  {
+    "tema_id": "5069",
+    "descricao": "Crime Continuado corresponde ao art. 71 do CP: várias ações geram crimes da mesma espécie, com semelhança de tempo, lugar, maneira de execução e outras circunstâncias. Aplica-se a pena de um só dos crimes, se idênticas, ou a mais grave, aumentada de 1/6 a 2/3; no parágrafo único, para crimes dolosos com vítimas diferentes e violência ou grave ameaça, o aumento chega ao triplo.",
+    "palavras_chave": "crime continuado; art. 71; crimes da mesma espécie; semelhança de tempo e lugar; maneira de execução; aumento de 1/6 a 2/3; parágrafo único; vítimas diferentes; violência ou grave ameaça; aumento até o triplo",
+    "nao_confundir": "Diferencia-se de Concurso Material, que soma as penas, e de Concurso Formal, que exige uma só ação ou omissão. Também não se confunde com Pena de Multa no Concurso de Crimes."
+  },
+  {
+    "tema_id": "5070",
+    "descricao": "Pena de Multa no Concurso de Crimes corresponde ao art. 72 do CP. Nesse concurso, as penas de multa são aplicadas distinta e integralmente, sem absorção nem exasperação.",
+    "palavras_chave": "pena de multa; art. 72; concurso de crimes; multa distinta e integral; sem absorção; sem exasperação; aplicação cumulativa; multa em cada crime",
+    "nao_confundir": "Diferencia-se de Concurso Formal, Concurso Material e Crime Continuado, que disciplinam a pena privativa de liberdade; aqui o critério é a aplicação integral e distinta das multas."
+  },
+  {
+    "tema_id": "5071",
+    "descricao": "Concurso de Pessoas está disciplinado nos arts. 29 a 31 do CP e trata da pluralidade de agentes na prática de um mesmo crime. Seus filhos são Autores e Partícipes; Autoria Mediata, Colateral e Coautoria; Comunicabilidade de Circunstâncias, Condições e Elementares; Cooperação Dolosamente Distinta; e Participação.",
+    "palavras_chave": "concurso de pessoas; arts. 29 a 31; pluralidade de agentes; coautoria; participação; autoria mediata; liame subjetivo; teoria monista; comunicabilidade; cooperação dolosamente distinta",
+    "nao_confundir": "Diferencia-se de Concurso de Crimes, que trata de um agente com pluralidade de crimes, e de Ação Penal, que cuida da iniciativa da persecução. Os detalhes de cada instituto pertencem aos filhos."
+  },
+  {
+    "tema_id": "5072",
+    "descricao": "Autores e Partícipes abrange o art. 29, caput, do CP, segundo o qual quem concorre de qualquer modo incide nas penas, na medida de sua culpabilidade (teoria monista ou unitária temperada). Inclui o §1º, que reduz a pena de 1/6 a 1/3 na participação de menor importância, e o art. 31, que não pune ajuste, determinação, instigação ou auxílio se o crime não chega a ser tentado.",
+    "palavras_chave": "autor; partícipe; art. 29, caput; teoria monista; teoria unitária temperada; culpabilidade; participação de menor importância; redução de 1/6 a 1/3; art. 31; ajuste; instigação",
+    "nao_confundir": "Diferencia-se de Participação, que detalha as modalidades moral e material, e de Autoria Mediata, Colateral e Coautoria, que trata das formas de autoria. Aqui o foco é a distinção entre autor e partícipe."
+  },
+  {
+    "tema_id": "5073",
+    "descricao": "Autoria Mediata, Colateral e Coautoria envolve o art. 29, caput, do CP. A autoria mediata ocorre em hipóteses como erro determinado por terceiro (art. 20, §2º) e coação irresistível ou obediência hierárquica (art. 22); a coautoria exige divisão de tarefas com liame subjetivo, e a autoria colateral não tem liame subjetivo entre os agentes. O art. 62 trata das agravantes no concurso de pessoas.",
+    "palavras_chave": "autoria mediata; autoria colateral; coautoria; art. 29; art. 20, §2º; art. 22; coação irresistível; obediência hierárquica; divisão de tarefas; liame subjetivo; art. 62",
+    "nao_confundir": "Diferencia-se de Autores e Partícipes, que distingue autor e partícipe, e de Participação, que trata da contribuição acessória. Entre as formas de autoria, o critério é a presença ou ausência de liame subjetivo e o uso de terceiro como instrumento."
+  },
+  {
+    "tema_id": "5076",
+    "descricao": "Comunicabilidade de Circunstâncias, Condições e Elementares corresponde ao art. 30 do CP. Não se comunicam as circunstâncias e condições de caráter pessoal, salvo quando elementares do crime. Exige distinguir circunstâncias objetivas e subjetivas das elementares.",
+    "palavras_chave": "comunicabilidade; art. 30; circunstâncias; condições de caráter pessoal; elementares do crime; circunstâncias objetivas; circunstâncias subjetivas; incomunicabilidade; concurso de pessoas; crime próprio",
+    "nao_confundir": "Diferencia-se de Cooperação Dolosamente Distinta, que cuida do desvio subjetivo entre os agentes, e de Autores e Partícipes. Aqui o critério é saber se a circunstância ou condição pessoal se estende aos demais concorrentes."
+  },
+  {
+    "tema_id": "5075",
+    "descricao": "Cooperação Dolosamente Distinta corresponde ao art. 29, §2º, do CP. Quem quis participar de crime menos grave responde por este, e a pena é aumentada até a metade se o resultado mais grave era previsível. Caracteriza-se pelo desvio subjetivo entre os agentes.",
+    "palavras_chave": "cooperação dolosamente distinta; art. 29, §2º; crime menos grave; resultado mais grave; previsibilidade; aumento até a metade; desvio subjetivo; participação em crime diverso; concurso de pessoas",
+    "nao_confundir": "Diferencia-se de Participação e de Comunicabilidade de Circunstâncias, Condições e Elementares, pois aqui o agente quis concorrer para crime menos grave e outro mais grave foi praticado."
+  },
+  {
+    "tema_id": "5074",
+    "descricao": "Participação envolve o art. 29, caput e §1º, e o art. 31 do CP. Pode ser moral (induzimento ou instigação) ou material (auxílio), e se orienta pela acessoriedade limitada. Inclui a participação de menor importância.",
+    "palavras_chave": "participação; art. 29; art. 29, §1º; art. 31; participação moral; induzimento; instigação; participação material; auxílio; acessoriedade limitada; participação de menor importância",
+    "nao_confundir": "Diferencia-se de Autores e Partícipes, que trata da distinção geral entre autor e partícipe, e de Autoria Mediata, Colateral e Coautoria, que cuida das formas de autoria. Aqui o foco é a contribuição acessória, moral ou material."
+  },
+  {
+    "tema_id": "6717",
+    "descricao": "Crimes contra o meio ambiente trata da Lei 9.605/1998: arts. 2º, 3º (responsabilidade da pessoa jurídica), 6º, 7º e 8º (penas). Os tipos abrangem fauna (arts. 29 a 37), flora (arts. 38 a 53), poluição (arts. 54 a 61), ordenamento urbano e patrimônio cultural (arts. 62 a 65) e administração ambiental (arts. 66 a 69-A).",
+    "palavras_chave": "lei 9.605/1998; crimes ambientais; responsabilidade da pessoa jurídica; fauna; flora; poluição; ordenamento urbano; patrimônio cultural; administração ambiental; penas",
+    "nao_confundir": "É equivalente a Direito Penal - Legislação Especial > Crimes contra o meio ambiente, com o mesmo conteúdo. Diferencia-se de Direito penal econômico e de Dos Crimes Contra a Incolumidade Pública, que são irmãos com outro bem jurídico."
+  }
+]

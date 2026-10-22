@@ -1,0 +1,152 @@
+[
+  {
+    "tema_id": "5502",
+    "descricao": "Acordo de Não Persecução Penal está previsto no art. 28-A do CPP. É negócio celebrado entre o Ministério Público e o investigado, assistido por defensor, antes da denúncia, para infrações sem violência ou grave ameaça e com pena mínima inferior a 4 anos, mediante confissão e cumprimento de condições. Cumprido o acordo, extingue-se a punibilidade.",
+    "palavras_chave": "acordo de não persecução penal; anpp; art. 28-a do cpp; confissão circunstanciada; pena mínima inferior a 4 anos; sem violência ou grave ameaça; condições do acordo; homologação judicial; extinção da punibilidade; ministério público",
+    "nao_confundir": "Diferencia-se de Conclusão e Arquivamento do Inquérito Policial, que encerra a investigação sem acordo, e de Juiz das Garantias, que controla a legalidade da investigação. Aqui há negociação entre o MP e o investigado para evitar a ação penal."
+  },
+  {
+    "tema_id": "5499",
+    "descricao": "Conceito, Finalidade e Características do Inquérito Policial trata do procedimento administrativo, preliminar e investigatório, presidido pelo delegado de polícia (art. 4º do CPP), que apura a infração penal e a autoria para fornecer elementos ao titular da ação penal. É escrito, sigiloso, inquisitivo, dispensável e discricionário.",
+    "palavras_chave": "inquérito policial; art. 4º do cpp; procedimento administrativo; natureza investigatória; delegado de polícia; peça informativa; caráter inquisitivo; sigilo; dispensabilidade; súmula vinculante 14; valor probatório; titular da ação penal",
+    "nao_confundir": "Diferencia-se de Procedimento do Inquérito Policial, que trata das etapas e diligências, e de Inquérito Civil, que é conduzido pelo Ministério Público. Aqui o foco é a noção, a finalidade e as características da investigação policial."
+  },
+  {
+    "tema_id": "5501",
+    "descricao": "Conclusão e Arquivamento do Inquérito Policial abrange o relatório final do delegado e os prazos do art. 10 do CPP (10 dias se preso e 30 dias se solto). O arquivamento é decidido pelo Ministério Público (art. 28 do CPP), nunca pela autoridade policial (art. 17), e o desarquivamento depende de novas provas (art. 18 e Súmula 524 do STF).",
+    "palavras_chave": "conclusão do inquérito; relatório final; art. 10 do cpp; prazo de 10 dias; prazo de 30 dias; arquivamento; art. 28 do cpp; art. 17; art. 18; súmula 524 do stf; novas provas; devolução para diligências",
+    "nao_confundir": "Diferencia-se de Procedimento do Inquérito Policial, que trata da instauração e das diligências, e de Acordo de Não Persecução Penal, que é uma solução negociada antes da denúncia. Aqui o foco é o encerramento da investigação."
+  },
+  {
+    "tema_id": "5504",
+    "descricao": "Inquérito Civil é procedimento administrativo investigatório de atribuição do Ministério Público (CF, art. 129, III, e Lei 7.347/1985), voltado à proteção de interesses difusos e coletivos. Reúne elementos para propor ação civil pública ou firmar termo de ajustamento de conduta, sendo dispensável e presidido por membro do MP.",
+    "palavras_chave": "inquérito civil; art. 129, iii, da cf; lei 7.347/1985; ministério público; ação civil pública; interesses difusos; interesses coletivos; termo de ajustamento de conduta; procedimento administrativo; dispensabilidade; promoção de arquivamento",
+    "nao_confundir": "Diferencia-se de Conceito, Finalidade e Características do Inquérito Policial, que é presidido pelo delegado e apura infração penal, e de Juiz das Garantias, que atua na investigação criminal. Aqui a investigação é extrapenal e conduzida pelo MP."
+  },
+  {
+    "tema_id": "5503",
+    "descricao": "Juiz das Garantias corresponde aos arts. 3º-A a 3º-F do CPP, introduzidos pela Lei 13.964/2019. É o magistrado responsável pelo controle da legalidade da investigação e pela salvaguarda dos direitos do investigado, com competência até o recebimento da denúncia, e reforça a estrutura acusatória do processo.",
+    "palavras_chave": "juiz das garantias; arts. 3º-a a 3º-f; lei 13.964/2019; pacote anticrime; estrutura acusatória; controle da legalidade da investigação; competência até o recebimento da denúncia; cláusula de reserva de jurisdição; vedação da iniciativa do juiz; direitos do investigado",
+    "nao_confundir": "Diferencia-se de Procedimento do Inquérito Policial, conduzido pelo delegado, e de Conclusão e Arquivamento do Inquérito Policial, em que o arquivamento é decidido pelo MP. Aqui o foco é o magistrado que fiscaliza a fase investigatória."
+  },
+  {
+    "tema_id": "5500",
+    "descricao": "Procedimento do Inquérito Policial trata das etapas da investigação: instauração (art. 5º do CPP) de ofício, por requisição, requerimento do ofendido ou auto de prisão em flagrante, as diligências do art. 6º, a identificação criminal, o indiciamento e a incomunicabilidade do indiciado, com os prazos aplicáveis.",
+    "palavras_chave": "procedimento do inquérito; instauração; art. 5º do cpp; notitia criminis; requisição; requerimento do ofendido; auto de prisão em flagrante; diligências; art. 6º; indiciamento; identificação criminal; incomunicabilidade",
+    "nao_confundir": "Diferencia-se de Conclusão e Arquivamento do Inquérito Policial, que trata do fim da investigação, e de Conceito, Finalidade e Características do Inquérito Policial, que trata da natureza do instituto. Aqui o foco é o passo a passo da apuração."
+  },
+  {
+    "tema_id": "5505",
+    "descricao": "Lei Processual no Tempo e no Espaço corresponde aos arts. 1º a 3º do CPP. Trata da aplicação territorial da lei processual penal brasileira e das exceções previstas em tratados e prerrogativas, da sucessão de leis processuais no tempo e das regras de interpretação, analogia e suplemento pelos princípios gerais de direito.",
+    "palavras_chave": "lei processual penal; art. 1º do cpp; art. 2º do cpp; art. 3º do cpp; territorialidade; aplicação imediata; tempus regit actum; interpretação extensiva; analogia; princípios gerais de direito; eficácia da lei processual",
+    "nao_confundir": "Diferencia-se de Nulidades e de Competência, que tratam de vícios e de atribuição jurisdicional. Aqui o foco é a validade da lei processual penal quanto ao território, ao tempo e à sua interpretação."
+  },
+  {
+    "tema_id": "5508",
+    "descricao": "Interpretação da Lei Processual Penal corresponde ao art. 3º do CPP, que admite a interpretação extensiva, a aplicação analógica e o suplemento pelos princípios gerais de direito. Abrange as espécies de interpretação (autêntica, doutrinária e jurisprudencial) e os métodos gramatical, lógico e teleológico, além da integração por analogia e costumes.",
+    "palavras_chave": "interpretação da lei processual; art. 3º do cpp; interpretação extensiva; aplicação analógica; princípios gerais de direito; interpretação autêntica; interpretação doutrinária; interpretação jurisprudencial; método teleológico; integração; costumes",
+    "nao_confundir": "Diferencia-se de Lei processual no Tempo, que trata da sucessão de leis, e de Lei Processual no Espaço, que trata da territorialidade. Aqui o foco é como se interpreta e se completa a norma processual."
+  },
+  {
+    "tema_id": "5506",
+    "descricao": "Lei Processual no Espaço corresponde ao art. 1º do CPP e consagra a territorialidade: a lei processual penal brasileira aplica-se em todo o território nacional (lex fori). Ressalva os tratados, convenções e regras de direito internacional, as prerrogativas constitucionais de certas autoridades, os crimes de responsabilidade e os processos da Justiça Militar.",
+    "palavras_chave": "lei processual no espaço; art. 1º do cpp; territorialidade; lex fori; tratados e convenções; regras de direito internacional; prerrogativas constitucionais; crimes de responsabilidade; justiça militar; território nacional; extraterritorialidade",
+    "nao_confundir": "Diferencia-se de Lei processual no Tempo, que trata da sucessão de leis, e de Interpretação da Lei processual Penal, que trata dos métodos interpretativos. Aqui o foco é o alcance territorial da lei processual."
+  },
+  {
+    "tema_id": "5507",
+    "descricao": "Lei processual no Tempo corresponde ao art. 2º do CPP: a lei processual tem aplicação imediata, sem prejuízo da validade dos atos praticados sob a lei anterior (tempus regit actum). Trata também das normas processuais puras e das normas mistas ou heterotópicas, de conteúdo penal e processual, que seguem a irretroatividade da lei mais gravosa.",
+    "palavras_chave": "lei processual no tempo; art. 2º do cpp; aplicação imediata; tempus regit actum; validade dos atos anteriores; normas processuais puras; normas mistas; normas heterotópicas; irretroatividade; novatio legis in melius; sucessão de leis",
+    "nao_confundir": "Diferencia-se de Lei Processual no Espaço, que trata da territorialidade, e de Interpretação da Lei processual Penal, que trata dos métodos de interpretação. Aqui o foco é a sucessão de leis processuais no tempo."
+  },
+  {
+    "tema_id": "6734",
+    "descricao": "Lei de Execução Penal refere-se à Lei 7.210/1984, que efetiva as disposições da sentença ou decisão criminal e proporciona condições para a integração social do condenado. Abrange assistência, direitos e deveres, trabalho, disciplina, regimes, progressão e regressão, remição, saídas, incidentes de execução e órgãos da execução penal.",
+    "palavras_chave": "lei de execução penal; lei 7.210/1984; execução penal; integração social; assistência ao preso; direitos e deveres do condenado; trabalho do preso; disciplina; progressão de regime; regressão; remição; órgãos da execução penal",
+    "nao_confundir": "É equivalente ao tema Direito Penal - Legislação Especial > Lei de Execução Penal (mesmo conteúdo). Diferencia-se de Prisões em Espécie, que trata das prisões cautelares, e de Sentença Penal, que cuida da decisão a ser executada."
+  },
+  {
+    "tema_id": "5509",
+    "descricao": "Nulidades corresponde aos arts. 563 a 573 do CPP e trata dos vícios dos atos processuais e de suas consequências. Seus filhos são Nulidade Absoluta e Relativa e Nulidades em Espécie. Rege-se pelos princípios do prejuízo (pas de nullité sans grief), da instrumentalidade das formas, da convalidação e da causalidade.",
+    "palavras_chave": "nulidades; arts. 563 a 573 do cpp; vícios processuais; princípio do prejuízo; pas de nullité sans grief; instrumentalidade das formas; convalidação; causalidade; nulidade absoluta; nulidade relativa; preclusão; saneamento",
+    "nao_confundir": "Diferencia-se de Competência, que define o juízo, e de Comunicação dos Atos Processuais, que trata de citação e intimação. Aqui o foco é a invalidade dos atos do processo e seus efeitos."
+  },
+  {
+    "tema_id": "5510",
+    "descricao": "Nulidade Absoluta e Relativa distingue os vícios por interesse tutelado. A absoluta ofende norma de interesse público, tem prejuízo presumido, pode ser reconhecida de ofício e não preclui. A relativa protege interesse das partes, exige prova do prejuízo e deve ser arguida em momento oportuno (art. 571 do CPP), sob pena de preclusão. Aplica-se a Súmula 523 do STF.",
+    "palavras_chave": "nulidade absoluta; nulidade relativa; prejuízo presumido; prejuízo demonstrado; reconhecimento de ofício; preclusão; art. 571 do cpp; súmula 523 do stf; falta de defesa; deficiência de defesa; convalidação",
+    "nao_confundir": "Diferencia-se de Nulidades em Espécie, que lista as hipóteses legais concretas de nulidade, pois aqui o foco é a classificação e o regime jurídico dos vícios, e não cada hipótese."
+  },
+  {
+    "tema_id": "5511",
+    "descricao": "Nulidades em Espécie reúne as hipóteses concretas dos arts. 564 a 570 do CPP: incompetência, suspeição, ilegitimidade de parte, falta de denúncia ou queixa, de exame de corpo de delito, de defensor, de intervenção do Ministério Público, de citação e de intimação. Traz ainda as regras do art. 565 (ninguém aproveita a própria torpeza) e as nulidades sanáveis.",
+    "palavras_chave": "nulidades em espécie; art. 564 do cpp; incompetência; suspeição; ilegitimidade de parte; falta de denúncia; falta de exame de corpo de delito; falta de defensor; falta de citação; art. 565; nulidades sanáveis; arts. 566 a 570",
+    "nao_confundir": "Diferencia-se de Nulidade Absoluta e Relativa, que trata da classificação e do regime dos vícios, pois aqui o foco é o rol de hipóteses legais de nulidade."
+  },
+  {
+    "tema_id": "5512",
+    "descricao": "Parte Geral dos Recursos corresponde aos arts. 574 a 580 do CPP e à teoria geral recursal. Seus filhos são Classificação dos Recursos, Efeito dos Recursos, Pressupostos Objetivos e Subjetivos de Admissibilidade Recursal e Princípios Recursais no Processo Penal.",
+    "palavras_chave": "teoria geral dos recursos; arts. 574 a 580 do cpp; recurso; admissibilidade; classificação dos recursos; efeitos dos recursos; pressupostos recursais; princípios recursais; recurso de ofício; reexame necessário; impugnação das decisões",
+    "nao_confundir": "Diferencia-se de Recursos em Espécies, que trata de cada recurso em particular (apelação, RESE etc.), e de Ações Autônomas de Impugnação, que não são recursos. Aqui o foco são as regras comuns a todos os recursos."
+  },
+  {
+    "tema_id": "5516",
+    "descricao": "Classificação dos Recursos agrupa os recursos conforme critérios doutrinários. Distingue voluntários e de ofício (art. 574 do CPP), ordinários e extraordinários, totais e parciais, e de fundamentação livre ou vinculada. Também diferencia recursos que reformam, invalidam ou esclarecem a decisão impugnada.",
+    "palavras_chave": "classificação dos recursos; recurso voluntário; recurso de ofício; art. 574 do cpp; recurso ordinário; recurso extraordinário; recurso total; recurso parcial; fundamentação livre; fundamentação vinculada; reforma; invalidação",
+    "nao_confundir": "Diferencia-se de Efeito dos Recursos, que trata das consequências do recurso, e de Princípios Recursais no Processo Penal, que trata das diretrizes. Aqui o foco é o agrupamento dos recursos em categorias."
+  },
+  {
+    "tema_id": "5515",
+    "descricao": "Efeito dos Recursos trata das consequências da interposição. Abrange o efeito devolutivo, o suspensivo, o regressivo ou de retratação, o extensivo (art. 580 do CPP), o iterativo e o translativo, indicando quando cada recurso os produz e a extensão da matéria devolvida ao órgão julgador.",
+    "palavras_chave": "efeito dos recursos; efeito devolutivo; efeito suspensivo; efeito regressivo; juízo de retratação; efeito extensivo; art. 580 do cpp; efeito iterativo; efeito translativo; matéria devolvida; extensão do recurso",
+    "nao_confundir": "Diferencia-se de Classificação dos Recursos, que agrupa os recursos em categorias, e de Pressupostos Objetivos e Subjetivos de Admissibilidade Recursal, que trata do cabimento. Aqui o foco é o que o recurso produz depois de interposto."
+  },
+  {
+    "tema_id": "5514",
+    "descricao": "Pressupostos Objetivos e Subjetivos de Admissibilidade Recursal trata das condições para o conhecimento do recurso. Os objetivos são cabimento, adequação, tempestividade, regularidade formal, inexistência de fato impeditivo ou extintivo e preparo quando exigido. Os subjetivos são a legitimidade e o interesse recursal, que depende de sucumbência e utilidade.",
+    "palavras_chave": "pressupostos recursais; admissibilidade recursal; pressupostos objetivos; pressupostos subjetivos; cabimento; adequação; tempestividade; regularidade formal; preparo; legitimidade; interesse recursal; sucumbência",
+    "nao_confundir": "Diferencia-se de Efeito dos Recursos, que trata das consequências do recurso já admitido, e de Princípios Recursais no Processo Penal. Aqui o foco são os requisitos para que o recurso seja conhecido."
+  },
+  {
+    "tema_id": "5513",
+    "descricao": "Princípios Recursais no Processo Penal reúne as diretrizes aplicáveis aos recursos: taxatividade, singularidade ou unirrecorribilidade, fungibilidade (art. 579 do CPP), duplo grau de jurisdição, voluntariedade, dialeticidade, complementaridade e vedação da reformatio in pejus (art. 617 do CPP).",
+    "palavras_chave": "princípios recursais; taxatividade; singularidade; unirrecorribilidade; fungibilidade; art. 579 do cpp; duplo grau de jurisdição; voluntariedade; dialeticidade; complementaridade; reformatio in pejus; art. 617 do cpp",
+    "nao_confundir": "Diferencia-se de Pressupostos Objetivos e Subjetivos de Admissibilidade Recursal, que são requisitos de conhecimento do recurso, e de Efeito dos Recursos. Aqui o foco são as diretrizes que orientam o sistema recursal."
+  },
+  {
+    "tema_id": "5517",
+    "descricao": "Prisões em Espécie corresponde aos arts. 301 a 350 do CPP e às leis especiais de prisão cautelar. Seus filhos são Prisão em Flagrante, Prisão Preventiva, Prisão Temporária, Prisão Domiciliar, Medidas Cautelares Diversas da Prisão e Liberdade Provisória.",
+    "palavras_chave": "prisões em espécie; prisão cautelar; prisão em flagrante; prisão preventiva; prisão temporária; prisão domiciliar; medidas cautelares diversas; liberdade provisória; arts. 301 a 350 do cpp; fiança; restrição da liberdade",
+    "nao_confundir": "Diferencia-se de Teoria Geral das Prisões, que trata de conceitos, direitos e garantias comuns a toda prisão, e de Lei de Execução Penal, que trata da execução da pena. Aqui o foco são as modalidades de prisão e liberdade no processo."
+  },
+  {
+    "tema_id": "5523",
+    "descricao": "Liberdade Provisória corresponde aos arts. 321 a 350 do CPP e trata da liberdade concedida ao preso em flagrante quando ausentes os requisitos da prisão preventiva (art. 310, III). Pode ser com ou sem fiança, vinculada a condições, e abrange a disciplina da fiança, seus valores, cabimento, vedações e quebra.",
+    "palavras_chave": "liberdade provisória; arts. 321 a 350 do cpp; art. 310; fiança; liberdade provisória sem fiança; liberdade vinculada; quebra da fiança; cassação da fiança; valor da fiança; cabimento da fiança; relaxamento versus liberdade",
+    "nao_confundir": "Diferencia-se de Prisão Preventiva, que é a custódia cautelar, e de Medidas Cautelares Diversas da Prisão, que são alternativas à prisão. Aqui o foco é a soltura do preso com ou sem fiança."
+  },
+  {
+    "tema_id": "5522",
+    "descricao": "Medidas Cautelares Diversas da Prisão corresponde aos arts. 319 e 320 do CPP, aplicadas com base na necessidade e na adequação (art. 282). Inclui comparecimento periódico, proibição de acesso a lugares e de contato com pessoas, proibição de ausentar-se da comarca, recolhimento domiciliar noturno, suspensão de função, internação provisória, fiança e monitoração eletrônica.",
+    "palavras_chave": "medidas cautelares diversas da prisão; art. 319 do cpp; art. 320; art. 282; comparecimento periódico; proibição de acesso a lugares; recolhimento domiciliar noturno; suspensão de função; internação provisória; fiança; monitoração eletrônica",
+    "nao_confundir": "Diferencia-se de Prisão Domiciliar, que substitui a preventiva em hipóteses do art. 318, e de Prisão Preventiva, que é a medida extrema. Aqui as medidas são alternativas menos gravosas à prisão."
+  },
+  {
+    "tema_id": "5521",
+    "descricao": "Prisão Domiciliar corresponde aos arts. 317 e 318 do CPP e consiste no recolhimento do investigado ou acusado em sua residência, em substituição à preventiva. Cabe para maior de 80 anos, extremamente debilitado por doença grave, imprescindível aos cuidados de menor de 6 anos ou pessoa com deficiência, gestante e responsáveis por filho de até 12 anos.",
+    "palavras_chave": "prisão domiciliar; arts. 317 e 318 do cpp; substituição da preventiva; maior de 80 anos; doença grave; gestante; mulher com filho até 12 anos; homem único responsável; pessoa com deficiência; art. 318-a; comprovação idônea",
+    "nao_confundir": "Diferencia-se de Medidas Cautelares Diversas da Prisão, que inclui o recolhimento domiciliar noturno como medida autônoma, e de Prisão Preventiva, que ela substitui. Aqui o foco é a custódia cumprida em residência."
+  },
+  {
+    "tema_id": "5519",
+    "descricao": "Prisão Preventiva corresponde aos arts. 311 a 316 do CPP. Exige prova da existência do crime e indício suficiente de autoria (fumus comissi delicti) e perigo gerado pela liberdade (garantia da ordem pública ou econômica, conveniência da instrução, aplicação da lei penal). Tem hipóteses de admissibilidade no art. 313 e reavaliação periódica a cada 90 dias.",
+    "palavras_chave": "prisão preventiva; arts. 311 a 316 do cpp; fumus comissi delicti; periculum libertatis; garantia da ordem pública; ordem econômica; conveniência da instrução criminal; aplicação da lei penal; art. 313; revisão a cada 90 dias; fundamentação",
+    "nao_confundir": "Diferencia-se de Prisão Temporária, cabível só na investigação e com prazo certo, e de Prisão em Flagrante, que é a captura no momento do crime. Aqui a custódia cautelar é decretada pelo juiz, em qualquer fase."
+  },
+  {
+    "tema_id": "5520",
+    "descricao": "Prisão Temporária corresponde à Lei 7.960/1989 e é a custódia cautelar de curta duração, cabível apenas na fase de investigação, quando imprescindível ao inquérito, para os crimes do rol legal. O prazo é de 5 dias, prorrogável por mais 5, e de 30 dias, prorrogável por mais 30, nos crimes hediondos (Lei 8.072/1990).",
+    "palavras_chave": "prisão temporária; lei 7.960/1989; investigação; imprescindível ao inquérito; rol de crimes; prazo de 5 dias; prorrogação; crimes hediondos; prazo de 30 dias; representação do delegado; requerimento do ministério público; vedada de ofício",
+    "nao_confundir": "Diferencia-se de Prisão Preventiva, que cabe em qualquer fase e não tem prazo fixo, e de Prisão em Flagrante, que decorre da situação flagrancial. Aqui a prisão é só para a investigação, em hipóteses taxativas."
+  }
+]

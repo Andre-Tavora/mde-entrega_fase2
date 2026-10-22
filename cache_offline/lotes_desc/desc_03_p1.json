@@ -1,0 +1,62 @@
+[
+  {
+    "tema_id": "4707",
+    "descricao": "Tortura refere-se à Lei 9.455/1997, que pune constranger alguém com violência ou grave ameaça, causando sofrimento físico ou mental, para obter confissão, provocar crime ou por discriminação racial ou religiosa (art. 1º, I), e submeter pessoa sob guarda, poder ou autoridade a intenso sofrimento como castigo pessoal ou medida preventiva (art. 1º, II). Prevê tortura de preso, omissão, resultado qualificado, aumentos de pena, perda do cargo, inafiançabilidade e regime inicial fechado.",
+    "palavras_chave": "lei 9.455/1997; tortura; constranger com violência ou grave ameaça; sofrimento físico ou mental; confissão; castigo pessoal; medida preventiva; tortura de preso; perda do cargo; inafiançável; insuscetível de graça ou anistia; regime inicial fechado",
+    "nao_confundir": "Diferencia-se de Abuso de Autoridade, que pune excessos funcionais por dolo específico sem exigir intenso sofrimento, e de Crimes Hediondos, que traz o regime comum ao qual a tortura é equiparada. Também não se confunde com Violência contra Criança e Adolescente, tratada no ECA."
+  },
+  {
+    "tema_id": "4708",
+    "descricao": "Tráfico de Drogas trata da Lei 11.343/2006: condutas do art. 33 e equiparados (§1º), induzir, instigar ou auxiliar o uso (§2º), oferta eventual sem lucro (§3º) e tráfico privilegiado com redução de 1/6 a 2/3 (§4º). Abrange maquinário (art. 34), associação para o tráfico (art. 35), financiamento (art. 36), colaborador (art. 37) e causas de aumento (art. 40).",
+    "palavras_chave": "lei 11.343/2006; tráfico de drogas; art. 33; tráfico privilegiado; redução de 1/6 a 2/3; associação para o tráfico; financiamento do tráfico; maquinário; colaborador informante; causas de aumento; oferta eventual de droga",
+    "nao_confundir": "Distingue-se do porte para consumo pessoal (art. 28), que não é tráfico, e de Crimes Hediondos, que traz o regime ao qual o tráfico é equiparado. É equivalente ao tema Penal > Tráfico de Drogas (mesmo conteúdo em outro ramo)."
+  },
+  {
+    "tema_id": "4709",
+    "descricao": "Violência contra Criança e Adolescente reúne os crimes do ECA (Lei 8.069/1990, arts. 225 a 244-B), como vexame ou constrangimento (art. 232), exploração sexual por imagens e pornografia infantil (arts. 240 a 241-E), venda de bebida alcoólica e produtos que causem dependência (art. 243) e corrupção de menores (art. 244-B). Inclui a escuta especializada e o depoimento especial (Lei 13.431/2017) e a violência doméstica e familiar contra criança e adolescente (Lei 14.344/2022).",
+    "palavras_chave": "eca; lei 8.069/1990; arts. 225 a 244-B; vexame ou constrangimento; pornografia infantil; exploração sexual; corrupção de menores; bebida alcoólica; lei 13.431/2017; depoimento especial; escuta especializada; lei 14.344/2022",
+    "nao_confundir": "Diferencia-se de Tortura, em que a vítima criança ou adolescente é apenas causa de aumento, e de Estatuto do Idoso - Crimes, que protege outro grupo vulnerável. Não se confunde com Crimes Hediondos, que trata do regime geral."
+  },
+  {
+    "tema_id": "5062",
+    "descricao": "Penal é o tema raiz do Código Penal (Decreto-Lei 2.848/1940), abrangendo a Parte Geral e a Parte Especial. Reúne filhos como Abuso de Autoridade, Ação Penal, Concurso de Crimes, Concurso de Pessoas, Das Lesões Corporais, Direito penal econômico e os Crimes Contra a Administração Judicial, a Administração Pública, a Dignidade Sexual, a Honra e a Liberdade Pessoal.",
+    "palavras_chave": "código penal; decreto-lei 2.848/1940; parte geral; parte especial; concurso de crimes; concurso de pessoas; ação penal; lesões corporais; crimes contra a administração pública; crimes contra a honra; dignidade sexual; direito penal econômico",
+    "nao_confundir": "Diferencia-se dos irmãos Criminologia, que é ciência empírica e não normativa, Direito Penal - Legislação Especial, que cuida das leis extravagantes, e Processo Penal, que trata do rito e não do direito material."
+  },
+  {
+    "tema_id": "6716",
+    "descricao": "Abuso de Autoridade trata da Lei 13.869/2019. Compreende as disposições gerais (arts. 1º a 7º): sujeito ativo, dolo específico, divergência de interpretação que não é crime, ação penal, efeitos da condenação e independência das instâncias; e os tipos penais dos arts. 9º a 38.",
+    "palavras_chave": "lei 13.869/2019; abuso de autoridade; sujeito ativo; dolo específico; divergência de interpretação; ação penal; efeitos da condenação; independência das instâncias; arts. 1º a 7º; arts. 9º a 38; tipos penais",
+    "nao_confundir": "É equivalente ao tema Direito Penal - Legislação Especial > Abuso de Autoridade (mesmo conteúdo). Diferencia-se dos irmãos Dos Crimes Contra a Administração Pública e Dos Crimes Contra a Administração Judicial, que são tipos do Código Penal, e de Tortura, que exige intenso sofrimento."
+  },
+  {
+    "tema_id": "5063",
+    "descricao": "Ação Penal abrange as espécies de ação e suas regras no Código Penal (arts. 100 a 106), como crimes complexos, irretratabilidade da representação, decadência de 6 meses, renúncia e perdão, e no Código de Processo Penal (arts. 24 a 62). Seus filhos são Ação Penal Privada e Ação Penal Pública.",
+    "palavras_chave": "ação penal; arts. 100 a 106; arts. 24 a 62 do cpp; ação penal pública; ação penal privada; representação; irretratabilidade; decadência de 6 meses; renúncia; perdão; crime complexo",
+    "nao_confundir": "É equivalente ao tema Processo Penal > Ação Penal (mesmo conteúdo). Diferencia-se dos irmãos Concurso de Crimes e Concurso de Pessoas, que tratam de aplicação da pena e autoria, e dos filhos Ação Penal Pública e Ação Penal Privada, que detalham cada espécie."
+  },
+  {
+    "tema_id": "5065",
+    "descricao": "Ação Penal Privada é a ação de iniciativa do ofendido, regulada no CP (art. 100, §3º, e arts. 103 a 106) e no CPP (arts. 29 a 31, 38, 48 a 51 e 60). Envolve queixa, ação privada subsidiária da pública, sucessão pelo cônjuge, ascendente, descendente ou irmão, decadência, indivisibilidade, renúncia, perdão e perempção.",
+    "palavras_chave": "ação penal privada; queixa; ação privada subsidiária da pública; sucessão processual; decadência; indivisibilidade; renúncia; perdão; perempção; arts. 103 a 106; arts. 48 a 51 do cpp",
+    "nao_confundir": "Diferencia-se de Ação Penal Pública, irmão em que o Ministério Público é o titular e se aplica a denúncia, pois aqui a iniciativa é do ofendido ou de seus sucessores."
+  },
+  {
+    "tema_id": "5064",
+    "descricao": "Ação Penal Pública é a ação de titularidade privativa do Ministério Público (CF, art. 129, I), regulada no CP (art. 100, §§1º e 2º, arts. 101 e 102) e no CPP (arts. 24 a 28). Divide-se em incondicionada e condicionada à representação.",
+    "palavras_chave": "ação penal pública; ação pública incondicionada; ação pública condicionada; representação; ministério público; titularidade privativa; art. 129, i; art. 100; arts. 24 a 28 do cpp; arquivamento; denúncia",
+    "nao_confundir": "Diferencia-se de Ação Penal Privada, irmão em que a iniciativa é do ofendido por meio de queixa, pois aqui o titular da ação é o Ministério Público."
+  },
+  {
+    "tema_id": "5066",
+    "descricao": "Concurso de Crimes corresponde aos arts. 69 a 72 do Código Penal e trata da aplicação da pena quando o agente pratica mais de um crime. Seus filhos são Concurso Formal (art. 70), Concurso Material (art. 69), Crime Continuado (art. 71) e Pena de Multa no Concurso de Crimes (art. 72).",
+    "palavras_chave": "concurso de crimes; arts. 69 a 72; concurso material; concurso formal; crime continuado; pena de multa no concurso; cúmulo material; exasperação; pluralidade de crimes; aplicação da pena",
+    "nao_confundir": "Diferencia-se do irmão Concurso de Pessoas, que trata de vários agentes em um mesmo crime, pois aqui há um agente e pluralidade de crimes. Também não se confunde com Ação Penal."
+  },
+  {
+    "tema_id": "5068",
+    "descricao": "Concurso Formal corresponde ao art. 70 do CP: com uma só ação ou omissão, o agente pratica dois ou mais crimes, aplicando-se a pena do mais grave aumentada de 1/6 a 1/2. Divide-se em formal próprio, sem desígnios autônomos, e impróprio, com desígnios autônomos e penas somadas, e traz no parágrafo único o cúmulo material benéfico.",
+    "palavras_chave": "concurso formal; art. 70; uma só ação ou omissão; pena do crime mais grave; aumento de 1/6 a 1/2; concurso formal próprio; concurso formal impróprio; desígnios autônomos; cúmulo material benéfico; exasperação",
+    "nao_confundir": "Diferencia-se de Concurso Material (art. 69), que exige mais de uma ação ou omissão com soma das penas, e de Crime Continuado (art. 71), que exige várias condutas em condições semelhantes. Também não se confunde com Pena de Multa no Concurso de Crimes."
+  }
+]

@@ -1,0 +1,158 @@
+[
+  {
+    "tema_id": "5544",
+    "descricao": "Cadeia de Custódia corresponde aos arts. 158-A a 158-F do CPP, introduzidos pela Lei 13.964/2019. É o conjunto de procedimentos para manter e documentar a história cronológica do vestígio coletado em local ou vítima de crime, desde o reconhecimento até o descarte, para garantir sua autenticidade e integridade. As etapas do art. 158-B são reconhecimento, isolamento, fixação, coleta, acondicionamento, transporte, recebimento, processamento, armazenamento e descarte. Os vestígios ficam em central de custódia, e a quebra da cadeia é avaliada pelo juiz quanto ao seu efeito sobre a confiabilidade da prova.",
+    "palavras_chave": "cadeia de custódia; arts. 158-a a 158-f do cpp; lei 13.964/2019; vestígio; rastreabilidade; reconhecimento; isolamento; fixação; coleta; acondicionamento; transporte; central de custódia; quebra da cadeia de custódia; integridade da prova; autenticidade",
+    "nao_confundir": "Diferencia-se de Perícia e de Exame de Corpo de Delito, que analisam o vestígio e produzem o laudo, e de Prova Ilegal e Prova Ilícita, que trata da vedação geral. Aqui o foco é o registro e a preservação do vestígio, desde a coleta até o descarte."
+  },
+  {
+    "tema_id": "5556",
+    "descricao": "Captação Ambiental está prevista no art. 8º-A da Lei 9.296/1996, incluído pela Lei 13.964/2019, e no art. 3º, II, da Lei 12.850/2013. É a captação de sinais eletromagnéticos, ópticos ou acústicos em ambiente, com autorização judicial a requerimento da autoridade policial ou do Ministério Público, quando a prova não puder ser feita por outros meios e houver elementos probatórios razoáveis de autoria e participação em infrações com pena máxima superior a 4 anos ou conexas. O prazo é de 15 dias, renovável por igual período se comprovada a indispensabilidade e a atividade criminosa permanente, habitual ou continuada. A gravação feita por um dos interlocutores pode ser usada pela defesa se demonstrada a integridade.",
+    "palavras_chave": "captação ambiental; art. 8º-a da lei 9.296/1996; lei 13.964/2019; autorização judicial; sinais acústicos; sinais ópticos; gravação ambiental; pena máxima superior a 4 anos; prazo de 15 dias; prova em favor da defesa; integridade da gravação; art. 10-a; sigilo",
+    "nao_confundir": "Diferencia-se de Interceptação Telefônica, que capta comunicação telefônica ou telemática, e de Busca e Apreensão. Aqui o foco é a captação de sinais em ambiente físico e a gravação ambiental feita por interlocutor."
+  },
+  {
+    "tema_id": "5557",
+    "descricao": "Colaboração Premiada corresponde aos arts. 3º-A a 7º da Lei 12.850/2013. É negócio jurídico processual e meio de obtenção de prova, em que o investigado ou acusado colabora de forma efetiva e voluntária. Os resultados exigidos estão no art. 4º: identificação de coautores, revelação da estrutura da organização, prevenção de infrações, recuperação do produto do crime ou localização da vítima. Os benefícios são perdão judicial, redução da pena em até 2/3 ou substituição por restritiva de direitos. O juiz não participa das negociações (art. 4º, §6º), apenas homologa, verificando regularidade, legalidade e voluntariedade. Nenhuma condenação, recebimento de denúncia ou medida cautelar pode se basear apenas nas declarações do colaborador (art. 4º, §16).",
+    "palavras_chave": "colaboração premiada; lei 12.850/2013; arts. 3º-a a 7º; acordo de colaboração; negócio jurídico processual; meio de obtenção de prova; perdão judicial; redução da pena até 2/3; homologação; voluntariedade; art. 4º §16; corroboração; retratação; delação premiada",
+    "nao_confundir": "Diferencia-se de Acordo de Não Persecução Penal, que é negociação do MP com o investigado sem exigir delação, e de Confissão, que é o reconhecimento da própria culpa. Aqui o colaborador entrega informações sobre terceiros em troca de benefícios legais."
+  },
+  {
+    "tema_id": "5548",
+    "descricao": "Confissão corresponde aos arts. 197 a 200 do CPP. É o reconhecimento da autoria ou da responsabilidade pelo próprio acusado. Quanto ao valor, não tem hierarquia sobre as demais provas e é apreciada pelo juiz em confronto com o conjunto probatório (art. 197). Pode ser judicial ou extrajudicial, simples ou qualificada. É divisível e retratável (art. 200). A confissão espontânea gera atenuante (art. 65, III, d, do CP), e o STJ entende que a atenuante se aplica sempre que a confissão for utilizada para formar a convicção do juiz (Súmula 545 do STJ).",
+    "palavras_chave": "confissão; arts. 197 a 200 do cpp; confissão judicial; confissão extrajudicial; confissão simples; confissão qualificada; divisibilidade; retratabilidade; art. 200; atenuante da confissão; art. 65 iii d do cp; súmula 545 do stj; valor probatório; confissão espontânea",
+    "nao_confundir": "Diferencia-se de Interrogatório Judicial, que é o meio de defesa em que a confissão pode ocorrer, e de Colaboração Premiada, que exige entrega de informações sobre terceiros. Aqui o foco é a admissão da própria culpa e seu valor como prova."
+  },
+  {
+    "tema_id": "5549",
+    "descricao": "Declaração do Ofendido corresponde ao art. 201 do CPP. O ofendido é ouvido, sempre que possível, sobre as circunstâncias da infração, quem seja ou presuma ser o autor e as provas que possa indicar. Não é testemunha e não presta compromisso, mas pode ser conduzido coercitivamente se, intimado, deixar de comparecer sem motivo justo (art. 201, §1º). Tem direito a ser comunicado dos atos processuais relativos ao ingresso e à saída do acusado da prisão, à data da audiência e à sentença (§2º), a espaço separado antes da audiência (§4º), a atendimento multidisciplinar (§5º) e à preservação da intimidade (§6º). Nos crimes sexuais e clandestinos, a palavra da vítima tem especial relevância.",
+    "palavras_chave": "declaração do ofendido; declarações da vítima; art. 201 do cpp; ofendido; vítima; condução coercitiva; não presta compromisso; comunicação dos atos processuais; espaço separado; atendimento multidisciplinar; intimidade da vítima; palavra da vítima; crimes sexuais; valor probatório",
+    "nao_confundir": "Diferencia-se de Prova Testemunhal, em que a testemunha é terceiro, presta compromisso e responde por falso testemunho, e de Acareação. Aqui o foco são as declarações de quem sofreu a ofensa, sem compromisso de dizer a verdade."
+  },
+  {
+    "tema_id": "5545",
+    "descricao": "Exame de Corpo de Delito corresponde aos arts. 158 a 164 do CPP e é o exame pericial que comprova a materialidade das infrações que deixam vestígios. É obrigatório nessas infrações, e nem a confissão do acusado pode supri-lo (art. 158). Pode ser direto, feito sobre o próprio corpo de delito, ou indireto, quando desaparecidos os vestígios e a prova testemunhal supre a falta (art. 167). Inclui a autópsia, realizada ao menos 6 horas após o óbito (art. 162), o exame de lesões corporais (art. 168) e a requisição pelo delegado de polícia (art. 6º, VII).",
+    "palavras_chave": "exame de corpo de delito; arts. 158 a 164 do cpp; materialidade do crime; infrações que deixam vestígios; corpo de delito direto; corpo de delito indireto; art. 167; autópsia; exame necroscópico; exame de lesões corporais; confissão não supre; vestígios",
+    "nao_confundir": "Diferencia-se de Perícia, que é o gênero de prova técnica aplicável a qualquer matéria, e de Cadeia de Custódia, que cuida da preservação dos vestígios. Aqui o foco é a prova da materialidade de crimes que deixam vestígios."
+  },
+  {
+    "tema_id": "5559",
+    "descricao": "Infiltração de Agentes corresponde aos arts. 10 a 14 da Lei 12.850/2013, ao art. 53, I, da Lei 11.343/2006 e aos arts. 190-A a 190-E do ECA. É meio de obtenção de prova em que o policial se insere em organização criminosa para obter informações. Exige autorização judicial circunstanciada, motivada e sigilosa, após representação do delegado ou requerimento do MP, quando a prova não puder ser feita por outros meios (art. 10, §2º). O prazo é de até 6 meses, renovável mediante comprovação da necessidade. O agente pode recusar a atuação e responde pelos excessos (art. 13). A Lei 13.964/2019 incluiu a infiltração virtual (art. 10-A).",
+    "palavras_chave": "infiltração de agentes; infiltração policial; arts. 10 a 14 da lei 12.850/2013; organização criminosa; autorização judicial; sigilo; prazo de 6 meses; art. 10 §3º; infiltração virtual; art. 10-a; art. 190-a do eca; art. 53 da lei 11.343; agente infiltrado; excesso",
+    "nao_confundir": "Diferencia-se de Ação Controlada, em que se retarda a intervenção sem inserir agente na organização, e de Colaboração Premiada, que parte de um integrante. Aqui o agente de polícia é inserido na organização para colher provas."
+  },
+  {
+    "tema_id": "5555",
+    "descricao": "Interceptação Telefônica e Quebra do Sigilo de Dados Telefônicos corresponde ao art. 5º, XII, da CF e à Lei 9.296/1996. A interceptação é a captação, por terceiro e sem o conhecimento dos interlocutores, da comunicação telefônica, e exige ordem judicial. Os requisitos do art. 2º são indícios razoáveis de autoria, impossibilidade de prova por outros meios e crime punido com reclusão. O prazo é de 15 dias, renovável por igual tempo (art. 5º), e os tribunais admitem renovações sucessivas fundamentadas. Aplica-se também à comunicação de informática e telemática (art. 1º, parágrafo único). A quebra do sigilo de dados telefônicos alcança os registros de ligações e exige ordem judicial. Trata do encontro fortuito de provas, da gravação clandestina e do crime do art. 10.",
+    "palavras_chave": "interceptação telefônica; quebra do sigilo de dados telefônicos; lei 9.296/1996; art. 5º xii da cf; reserva de jurisdição; ordem judicial; indícios razoáveis de autoria; crime punido com reclusão; prazo de 15 dias; renovação; encontro fortuito de provas; gravação clandestina; comunicação telemática; escuta telefônica",
+    "nao_confundir": "Diferencia-se de Captação Ambiental, que capta sinais em ambiente, e de Busca e Apreensão de aparelhos e dados armazenados. Aqui o foco é a captação da comunicação telefônica em curso e o acesso aos registros de ligações."
+  },
+  {
+    "tema_id": "5547",
+    "descricao": "Interrogatório Judicial corresponde aos arts. 185 a 196 do CPP. É ato personalíssimo, meio de defesa e de prova, em que o juiz ouve o acusado. Garante o direito ao silêncio (art. 5º, LXIII, da CF e art. 186), a entrevista prévia e reservada com o defensor (art. 185, §5º) e a presença do defensor. Realiza-se ao final da instrução (art. 400), regra que o STF estendeu a todos os procedimentos penais. Admite videoconferência em hipóteses excepcionais (art. 185, §2º). Divide-se em perguntas sobre a pessoa do acusado e sobre os fatos (art. 187), e as partes perguntam depois do juiz (art. 188).",
+    "palavras_chave": "interrogatório judicial; arts. 185 a 196 do cpp; direito ao silêncio; art. 186; autodefesa; entrevista prévia com o defensor; art. 185 §5º; videoconferência; ao final da instrução; art. 400; perguntas do juiz; meio de defesa; ato personalíssimo; qualificação do acusado",
+    "nao_confundir": "Diferencia-se de Confissão, que é o conteúdo possível do interrogatório, e de Prova Testemunhal, em que há compromisso de verdade. Aqui o foco é o ato processual em que o acusado exerce a autodefesa."
+  },
+  {
+    "tema_id": "5546",
+    "descricao": "Perícia corresponde aos arts. 158 a 184 do CPP e é a prova técnica ou científica produzida por perito. O exame é feito por perito oficial portador de diploma de curso superior (art. 159) ou, na falta, por duas pessoas idôneas com diploma. Admitem-se quesitos e assistentes técnicos das partes (art. 159, §3º), e o laudo é entregue em até 10 dias (art. 160, parágrafo único). Adota-se o sistema liberatório: o juiz não está adstrito ao laudo e pode aceitá-lo ou rejeitá-lo, total ou parcialmente (art. 182). Inclui exames específicos como o laboratorial, de local, de instrumentos, de documentos, de caligrafia e de incêndio.",
+    "palavras_chave": "perícia; arts. 158 a 184 do cpp; perito oficial; perito não oficial; laudo pericial; quesitos; assistente técnico; art. 159; art. 182; sistema liberatório; livre apreciação do laudo; exame grafotécnico; exame de local; exame laboratorial; prazo de 10 dias",
+    "nao_confundir": "Diferencia-se de Exame de Corpo de Delito, que é a espécie de perícia voltada à materialidade das infrações que deixam vestígios, e de Cadeia de Custódia. Aqui o foco é a prova técnica em geral, o perito, o laudo e sua valoração."
+  },
+  {
+    "tema_id": "5553",
+    "descricao": "Prova Documental corresponde aos arts. 231 a 238 do CPP. Documento é qualquer escrito, instrumento ou papel, público ou particular (art. 232), e as partes podem apresentá-lo em qualquer fase do processo (art. 231). No júri, a juntada exige antecedência mínima de 3 dias úteis (art. 479). Cartas particulares interceptadas ou obtidas por meio criminoso não são admitidas (art. 233). Documentos em língua estrangeira exigem tradução (art. 236), e os originais podem ser desentranhados e devolvidos após o trânsito em julgado (art. 238). Abrange ainda a fotografia autenticada, o documento eletrônico e a requisição de documentos.",
+    "palavras_chave": "prova documental; arts. 231 a 238 do cpp; documento público; documento particular; art. 232; juntada de documentos; art. 231; cartas particulares; art. 233; tradução de documento; art. 236; art. 479; documento eletrônico; desentranhamento; fotografia autenticada",
+    "nao_confundir": "Diferencia-se de Prova Testemunhal, que depende de depoimento oral, e de Perícia, que é a análise técnica do documento. Aqui o foco é o documento como meio de prova, sua juntada e sua admissibilidade."
+  },
+  {
+    "tema_id": "5550",
+    "descricao": "Prova Testemunhal corresponde aos arts. 202 a 225 do CPP. Testemunha é a pessoa que, sem ser parte, depõe sobre fato de que tem conhecimento, mediante compromisso de dizer a verdade, sob pena de falso testemunho (art. 342 do CP). Caracteriza-se pela oralidade, objetividade, judicialidade e retrospectividade (art. 204). Podem se recusar a depor ascendentes, descendentes, afins em linha reta, cônjuge e irmão do acusado, salvo se não houver outro meio (art. 206), e são proibidos de depor os que devam guardar segredo profissional (art. 207). Menores de 14 anos e deficientes mentais não prestam compromisso (art. 208). Adota-se o sistema de perguntas diretas pelas partes (art. 212). O número é de 8 no ordinário (art. 401) e 5 no sumário (art. 532).",
+    "palavras_chave": "prova testemunhal; arts. 202 a 225 do cpp; testemunha; compromisso; falso testemunho; art. 342 do cp; número de testemunhas; art. 401; art. 532; art. 206; art. 207; art. 208; art. 212; perguntas diretas; incomunicabilidade; carta precatória; oitiva por videoconferência",
+    "nao_confundir": "Diferencia-se de Declaração do Ofendido, em que a vítima não presta compromisso, de Interrogatório Judicial, que é a oitiva do acusado, e de Acareação. Aqui o foco são os depoimentos de terceiros sobre os fatos."
+  },
+  {
+    "tema_id": "5551",
+    "descricao": "Reconhecimento de Pessoas e Coisas corresponde aos arts. 226 a 228 do CPP. O reconhecimento de pessoas segue o rito do art. 226: descrição prévia da pessoa, colocação dela ao lado de outras com semelhança, quando possível, e lavratura de auto pormenorizado. O reconhecimento de coisas segue regras análogas (art. 227), e havendo várias pessoas reconhecedoras, cada uma o faz separadamente (art. 228). O STJ (HC 598.886) firmou que as formalidades do art. 226 são garantia mínima e não mera recomendação, e que o reconhecimento fotográfico deve observá-las, não sendo suficiente, isoladamente, para condenação.",
+    "palavras_chave": "reconhecimento de pessoas; reconhecimento de coisas; arts. 226 a 228 do cpp; art. 226; descrição prévia; pessoas semelhantes; auto de reconhecimento; reconhecimento fotográfico; show-up; hc 598.886 do stj; formalidades; falsas memórias; condenação com base em reconhecimento",
+    "nao_confundir": "Diferencia-se de Prova Testemunhal, que é o relato livre, e de Acareação, que confronta versões. Aqui o foco é o ato formal em que alguém identifica pessoa ou coisa já vista."
+  },
+  {
+    "tema_id": "6736",
+    "descricao": "Recursos (Parte 03) - Espécies reúne as espécies de recursos do processo penal, a partir das regras gerais, e cobre os mesmos recursos de Recursos em Espécies: apelação, recurso em sentido estrito, agravo em execução, carta testemunhável, correição parcial, embargos infringentes e de nulidade, embargos de declaração, recurso especial, recurso extraordinário e recursos dos Juizados Especiais.",
+    "palavras_chave": "recursos em espécie; apelação; recurso em sentido estrito; rese; agravo em execução; carta testemunhável; correição parcial; embargos infringentes; embargos de declaração; recurso especial; recurso extraordinário; recursos no juizado especial; espécies recursais",
+    "nao_confundir": "Tem conteúdo sobreposto a Recursos em Espécies. Diferencia-se de Parte Geral dos Recursos, que trata das regras comuns, e de Ações Autônomas de Impugnação, que não são recursos. Aqui o foco é cada recurso em particular."
+  },
+  {
+    "tema_id": "5560",
+    "descricao": "Recursos em Espécies é o tema geral dos recursos em espécie no processo penal. Seus filhos são Agravo em Execução, Apelação, Carta Testemunhável, Correição Parcial, Embargos Infringentes, Embargos de Declaração, Protesto por novo Júri, Recurso Especial, Recurso Extraordinário, Recurso em sentido estrito (RESE) e Recursos no Âmbito dos Juizados Especiais.",
+    "palavras_chave": "recursos em espécies; recursos penais; apelação; recurso em sentido estrito; agravo em execução; carta testemunhável; correição parcial; embargos infringentes; embargos de declaração; recurso especial; recurso extraordinário; protesto por novo júri; recurso nos juizados",
+    "nao_confundir": "Diferencia-se de Parte Geral dos Recursos, que trata dos princípios, pressupostos e efeitos comuns, e de Ações Autônomas de Impugnação. Aqui o foco são as hipóteses de cabimento, prazos e procedimentos de cada recurso."
+  },
+  {
+    "tema_id": "5566",
+    "descricao": "Agravo em Execução está previsto no art. 197 da Lei de Execução Penal (Lei 7.210/1984) e é o recurso cabível contra decisões do juiz da execução penal, como as relativas a progressão de regime, remição, livramento condicional e conversão de penas. Em regra não tem efeito suspensivo, e o Ministério Público tem legitimidade para recorrer. O prazo é de 5 dias (Súmula 700 do STF) e segue-se o rito do recurso em sentido estrito, com juízo de retratação.",
+    "palavras_chave": "agravo em execução; art. 197 da lei de execução penal; lei 7.210/1984; juiz da execução; progressão de regime; remição; livramento condicional; prazo de 5 dias; súmula 700 do stf; rito do rese; juízo de retratação; efeito suspensivo; decisão da execução penal",
+    "nao_confundir": "Diferencia-se de Recurso em sentido estrito (RESE), de que usa o procedimento, mas cuja competência é da fase de conhecimento, e de Apelação. Aqui o foco é o recurso contra decisão do juízo da execução."
+  },
+  {
+    "tema_id": "5562",
+    "descricao": "Apelação corresponde aos arts. 593 a 603 do CPP. Cabe contra sentenças definitivas de condenação ou absolvição, contra decisões definitivas ou com força de definitivas que não comportem RESE e contra decisões do Tribunal do Júri em quatro hipóteses: nulidade posterior à pronúncia, sentença contrária à lei ou à decisão dos jurados, erro ou injustiça na aplicação da pena ou da medida de segurança e decisão manifestamente contrária à prova dos autos (art. 593, III). O prazo é de 5 dias, e as razões são apresentadas em 8 dias (art. 600). É dotada, em regra, de efeitos devolutivo e suspensivo, e a apelação supletiva cobre os pontos não recorridos (art. 593, §4º).",
+    "palavras_chave": "apelação; arts. 593 a 603 do cpp; sentença condenatória; sentença absolutória; art. 593 iii; decisão manifestamente contrária à prova dos autos; erro ou injustiça na aplicação da pena; prazo de 5 dias; razões em 8 dias; art. 600; efeito devolutivo; apelação supletiva; art. 593 §4º; apelação do júri",
+    "nao_confundir": "Diferencia-se de Recurso em sentido estrito (RESE), de cabimento taxativo contra decisões interlocutórias, e de Embargos Infringentes, que atacam acórdão não unânime. Aqui o foco é o recurso principal contra sentença e decisões definitivas."
+  },
+  {
+    "tema_id": "5567",
+    "descricao": "Carta Testemunhável corresponde aos arts. 639 a 646 do CPP e é o recurso cabível contra decisão que denega o recurso em sentido estrito ou o não admite, ou que, admitindo-o, obsta sua expedição e seguimento (art. 639), além de outros casos previstos em lei. O prazo é de 48 horas, é requerida ao escrivão ou secretário (art. 640), e o instrumento é fornecido em 5 dias. Em regra não tem efeito suspensivo (art. 646).",
+    "palavras_chave": "carta testemunhável; arts. 639 a 646 do cpp; denegação de recurso; recurso em sentido estrito não admitido; prazo de 48 horas; art. 640; escrivão; instrumento; formação do instrumento; efeito não suspensivo; art. 646; subsidiariedade; agravo de instrumento",
+    "nao_confundir": "Diferencia-se de Recurso em sentido estrito (RESE) e de Apelação, que atacam o mérito, pois aqui se ataca a decisão que impede o processamento de recurso. Tem natureza de agravo de instrumento."
+  },
+  {
+    "tema_id": "5568",
+    "descricao": "Correição Parcial é medida de correção prevista em leis de organização judiciária e regimentos internos de tribunais (e na Lei 5.010/1966 para a Justiça Federal), e não no CPP. Visa corrigir erros de procedimento (error in procedendo) e atos de inversão tumultuária do processo praticados por juiz, quando não há recurso específico. Discute-se sua natureza como recurso, ação ou medida administrativo-disciplinar. O prazo costuma ser de 5 dias, conforme a norma local.",
+    "palavras_chave": "correição parcial; reclamação correicional; lei 5.010/1966; error in procedendo; inversão tumultuária do processo; organização judiciária; regimento interno; decisão sem recurso próprio; prazo de 5 dias; natureza jurídica; corregedoria; tumulto processual",
+    "nao_confundir": "Diferencia-se de Apelação e de Recurso em sentido estrito, que são recursos previstos no CPP, e de Mandado de Segurança, que protege direito líquido e certo. Aqui o foco é a correção de erros de procedimento do juiz, quando falta recurso próprio."
+  },
+  {
+    "tema_id": "5564",
+    "descricao": "Embargos Infringentes e de Nulidade correspondem ao art. 609, parágrafo único, do CPP e são cabíveis, em favor do réu, contra acórdão não unânime de tribunal, em apelação, RESE ou agravo em execução, quando a decisão for desfavorável ao réu. O prazo é de 10 dias, e o julgamento cabe a órgão do próprio tribunal, restrito à matéria objeto da divergência. Não cabem contra acórdão unânime, nem para o Ministério Público.",
+    "palavras_chave": "embargos infringentes; embargos de nulidade; art. 609 parágrafo único do cpp; acórdão não unânime; voto vencido; divergência; prazo de 10 dias; recurso exclusivo da defesa; matéria objeto da divergência; julgamento no próprio tribunal; decisão desfavorável ao réu",
+    "nao_confundir": "Diferencia-se de Embargos de Declaração, que corrigem vícios da decisão, e de Recurso Especial e Recurso Extraordinário, dirigidos a tribunais superiores. Aqui o foco é a impugnação do voto vencido favorável ao réu no mesmo tribunal."
+  },
+  {
+    "tema_id": "5565",
+    "descricao": "Embargos de Declaração correspondem aos arts. 382 (primeira instância) e 619 e 620 (tribunais) do CPP. Cabem para sanar ambiguidade, obscuridade, contradição ou omissão da decisão, com prazo de 2 dias. Podem ter efeitos infringentes quando o acolhimento altera o resultado. Interrompem o prazo para a interposição de outros recursos e são cabíveis também contra decisões dos Juizados Especiais (art. 83 da Lei 9.099/1995).",
+    "palavras_chave": "embargos de declaração; art. 382 do cpp; art. 619; art. 620; ambiguidade; obscuridade; contradição; omissão; prazo de 2 dias; efeitos infringentes; interrupção do prazo; aclaramento da decisão; prequestionamento; art. 83 da lei 9.099",
+    "nao_confundir": "Diferencia-se de Embargos Infringentes, que atacam o resultado não unânime, e de Apelação, que reforma ou anula a decisão. Aqui o foco é corrigir vício de clareza ou completude da própria decisão pelo mesmo órgão."
+  },
+  {
+    "tema_id": "5563",
+    "descricao": "Protesto por novo Júri era o recurso do art. 607 do CPP, cabível em favor do réu condenado a pena igual ou superior a 20 anos de reclusão por um só crime, que levava a novo julgamento pelo júri. Foi revogado pela Lei 11.689/2008. A aplicação a fatos anteriores à lei é discutida em direito intertemporal. O estudo atual centra-se em sua extinção e na apelação contra a sentença do júri.",
+    "palavras_chave": "protesto por novo júri; art. 607 do cpp; revogação; lei 11.689/2008; pena igual ou superior a 20 anos; novo julgamento pelo júri; recurso extinto; direito intertemporal; sentença do júri; apelação contra o júri; recurso exclusivo da defesa",
+    "nao_confundir": "Diferencia-se de Apelação do júri (art. 593, III), hoje o recurso cabível contra a sentença do júri, e de Embargos Infringentes. Aqui o foco é o recurso extinto e seu regime transitório."
+  },
+  {
+    "tema_id": "5571",
+    "descricao": "Recurso Especial corresponde ao art. 105, III, da CF e é dirigido ao STJ contra acórdão de tribunal de segundo grau, proferido em única ou última instância, que contrarie ou negue vigência a lei federal ou tratado, julgue válido ato de governo local contestado em face de lei federal, ou dê à lei federal interpretação divergente da de outro tribunal. O prazo é de 15 dias. Exige prequestionamento, esgotamento das instâncias ordinárias e vedação ao reexame de prova (Súmula 7 do STJ), com a Súmula 83 do STJ e a Súmula 211 do STJ. Inclui a relevância da questão federal (EC 125/2022), nos termos da lei.",
+    "palavras_chave": "recurso especial; art. 105 iii da cf; stj; contrariar lei federal; divergência jurisprudencial; prequestionamento; súmula 211 do stj; súmula 7 do stj; súmula 83 do stj; prazo de 15 dias; juízo de admissibilidade; relevância da questão federal; ec 125/2022; esgotamento de instância",
+    "nao_confundir": "Diferencia-se de Recurso Extraordinário, dirigido ao STF contra violação da Constituição, e de Apelação, que reexamina fatos e provas. Aqui o foco é a uniformização da interpretação do direito federal infraconstitucional."
+  },
+  {
+    "tema_id": "5570",
+    "descricao": "Recurso Extraordinário corresponde ao art. 102, III, da CF e é dirigido ao STF contra decisão de única ou última instância que contrarie a Constituição, declare a inconstitucionalidade de tratado ou lei federal, julgue válida lei ou ato de governo local contestado em face da Constituição ou julgue válida lei local contestada em face de lei federal. O prazo é de 15 dias. Exige prequestionamento (Súmulas 282 e 356 do STF), repercussão geral da questão constitucional (art. 102, §3º, da CF) e vedação ao reexame de prova (Súmula 279 do STF).",
+    "palavras_chave": "recurso extraordinário; art. 102 iii da cf; stf; repercussão geral; art. 102 §3º; prequestionamento; súmula 282 do stf; súmula 356 do stf; súmula 279 do stf; questão constitucional; prazo de 15 dias; juízo de admissibilidade; agravo contra inadmissão; violação direta da constituição",
+    "nao_confundir": "Diferencia-se de Recurso Especial, dirigido ao STJ contra violação de lei federal, e de Habeas Corpus, que é ação autônoma. Aqui o foco é a defesa da supremacia da Constituição e a repercussão geral."
+  },
+  {
+    "tema_id": "5561",
+    "descricao": "Recurso em sentido estrito (RESE) corresponde aos arts. 581 a 592 do CPP e tem cabimento taxativo, embora admita interpretação extensiva, contra decisões interlocutórias como a rejeição da denúncia ou queixa (art. 581, I), a pronúncia (IV), a que concede, nega ou revoga prisão preventiva ou liberdade provisória (V), a extinção da punibilidade (VIII) e a absolvição sumária em hipóteses legais. O prazo é de 5 dias, com razões em 2 dias (art. 588), juízo de retratação (art. 589) e efeito suspensivo apenas nas hipóteses do art. 584. Aplica-se a Súmula 709 do STF.",
+    "palavras_chave": "recurso em sentido estrito; rese; arts. 581 a 592 do cpp; rol taxativo; interpretação extensiva; rejeição da denúncia; pronúncia; prisão preventiva; prazo de 5 dias; razões em 2 dias; juízo de retratação; art. 589; efeito suspensivo; art. 584; súmula 709 do stf",
+    "nao_confundir": "Diferencia-se de Apelação, que ataca sentenças definitivas, e de Agravo em Execução, que usa o mesmo rito mas ataca decisões da execução. Aqui o foco é a impugnação de decisões interlocutórias de rol taxativo."
+  },
+  {
+    "tema_id": "5569",
+    "descricao": "Recursos no Âmbito dos Juizados Especiais corresponde aos arts. 82 e 83 da Lei 9.099/1995. A apelação é interposta em 10 dias, com razões, contra a sentença que homologa transação ou rejeita denúncia ou queixa, e julgada pela Turma Recursal, composta por três juízes de primeiro grau (art. 82). Cabem embargos de declaração em 5 dias (art. 83). Contra acórdão da Turma Recursal cabe recurso extraordinário (Súmula 640 do STF), mas não recurso especial (Súmula 203 do STJ).",
+    "palavras_chave": "recursos nos juizados especiais; lei 9.099/1995; art. 82; art. 83; apelação; turma recursal; prazo de 10 dias; embargos de declaração; recurso extraordinário; súmula 640 do stf; súmula 203 do stj; não cabe recurso especial; juizado especial criminal",
+    "nao_confundir": "Diferencia-se de Apelação do CPP, de prazo de 5 dias e julgada pelo tribunal, e de Recurso Especial. Aqui o foco é o sistema recursal próprio e simplificado dos Juizados."
+  }
+]

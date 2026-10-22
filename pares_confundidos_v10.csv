@@ -1,0 +1,31 @@
+﻿conjunto,rank,n_erros,tema_correto_id,caminho_correto,tema_previsto_id,caminho_previsto,total_erros_conjunto
+folha_verdade.csv,1,3,4371,Criminologia > Etapas Evolutivas e Escolas Criminológicas,4373,Criminologia > Etapas Evolutivas e Escolas Criminológicas > Escolas Crimonológicas,60
+folha_verdade.csv,2,2,4703,Direito Penal - Legislação Especial > Lei de Execução Penal,5199,Penal > Teoria da Pena,60
+folha_verdade.csv,3,2,4703,Direito Penal - Legislação Especial > Lei de Execução Penal,5201,Penal > Teoria da Pena > Penas Privativas de Liberdade,60
+folha_verdade.csv,4,1,5560,Processo Penal > Recursos em Espécies,6736,Processo Penal > Recursos (Parte 03) - Espécies,60
+folha_verdade.csv,5,1,5199,Penal > Teoria da Pena,5201,Penal > Teoria da Pena > Penas Privativas de Liberdade,60
+folha_verdade.csv,6,1,5562,Processo Penal > Recursos em Espécies > Apelação,5569,Processo Penal > Recursos em Espécies > Recursos no Âmbito dos Juizados Especiais,60
+folha_verdade.csv,7,1,5527,"Processo Penal > Procedimento do Tribunal do Júri > Impronúncia, Desclassificação, Absolvição Sumária e Pronúncia",5533,Processo Penal > Procedimento Ordinário > Defesa Preliminar,60
+folha_verdade.csv,8,1,5477,Processo Penal > Ações Autônomas de Impugnação > Habeas Corpus,5476,Processo Penal > Ações Autônomas de Impugnação,60
+folha_verdade.csv,9,1,5562,Processo Penal > Recursos em Espécies > Apelação,5563,Processo Penal > Recursos em Espécies > Protesto por novo Júri,60
+folha_verdade.csv,10,1,5175,Penal > Iter Criminis,5176,Penal > Iter Criminis > Fases do Iter Criminis,60
+folha_verdade.csv,11,1,4389,Criminologia > Vitimologia,4377,Criminologia > Processos de Criminalização e Cifras Criminais,60
+folha_verdade.csv,12,1,5087,Penal > Dos Crimes Contra a Administração Pública,5093,Penal > Dos Crimes Contra a Administração Pública > Corrupção Ativa,60
+folha_verdade.csv,13,1,5091,Penal > Dos Crimes Contra a Administração Pública > Concussão e Excesso de Exação,5087,Penal > Dos Crimes Contra a Administração Pública,60
+folha_verdade.csv,14,1,5117,Penal > Dos Crimes Contra a Fé Pública e de Falsidade Documental > Dos Crimes contra a Fé Pública,5119,Penal > Dos Crimes Contra a Fé Pública e de Falsidade Documental > De outras falsidades,60
+folha_verdade.csv,15,1,5183,Penal > Lei Penal no Tempo e no Espaço > Conflito Aparente de Normas,4698,Direito Penal - Legislação Especial > Genocídio,60
+folha_verdade.csv,16,1,5530,Processo Penal > Procedimento Ordinário,4701,Direito Penal - Legislação Especial > Juizado Especial Criminal,60
+folha_verdade.csv,17,1,5100,"Penal > Dos Crimes Contra a Administração Pública > Resistência, Desobediência e Desacato",5077,Penal > Das Lesões Corporais,60
+folha_verdade.csv,18,1,5165,Penal > Dos Crimes Contra o Patrimônio > Apropriação indébita,5167,Penal > Dos Crimes Contra o Patrimônio > Abuso de Incapazes,60
+folha_verdade.csv,19,1,5480,Processo Penal > Competência,5484,Processo Penal > Competência > Competência por Prerrogativa de Função,60
+folha_verdade.csv,20,1,4388,Criminologia > Teorias Sociológicas Explicativas da Criminalidade > Teorias Criminológicas em Espécie,4385,Criminologia > Teorias Sociológicas Explicativas da Criminalidade,60
+folha_verdade.csv,21,1,5498,Processo Penal > Inquérito Policial,5499,"Processo Penal > Inquérito Policial > Conceito, Finalidade e Caractéristas do Inquérito Policial",60
+folha_verdade.csv,22,1,5211,Penal > Teoria do Crime: Culpabilidade,5212,Penal > Teoria do Crime: Culpabilidade > Conceito e Elementos da Culpabilidade,60
+folha_verdade.csv,23,1,5524,Processo Penal > Procedimento do Tribunal do Júri,5562,Processo Penal > Recursos em Espécies > Apelação,60
+folha_verdade.csv,24,1,5203,Penal > Teoria da Pena > Segunda Fase da Dosimetria: Agravantes e Atenuantes,5199,Penal > Teoria da Pena,60
+folha_verdade.csv,25,1,5524,Processo Penal > Procedimento do Tribunal do Júri,5487,Processo Penal > Comunicação dos Atos Processuais,60
+folha_verdade.csv,26,1,5087,Penal > Dos Crimes Contra a Administração Pública,5089,Penal > Dos Crimes Contra a Administração Pública > Peculato e Peculato Mediante Erro de Outrem,60
+folha_verdade.csv,27,1,5102,Penal > Dos Crimes Contra a Dignidade Sexual,5103,Penal > Dos Crimes Contra a Dignidade Sexual > Estupro e Estupro de Vulnerável,60
+folha_verdade.csv,28,1,5224,Penal > Teoria do Crime: Fato Típico > Erro de Tipo,5109,Penal > Dos Crimes Contra a Dignidade Sexual > Outros Crimes Contra a Dignidade Sexual,60
+folha_verdade.csv,29,1,5072,Penal > Concurso de Pessoas > Autores e Partícipes,5150,Penal > Dos Crimes Contra a Vida > Homicídio,60
+folha_verdade.csv,30,1,5199,Penal > Teoria da Pena,5205,Penal > Teoria da Pena > Penas Restritivas de Direitos,60

@@ -1,0 +1,93 @@
+﻿id,tema_id,caminho_previsto,depth,m1,m2,status,tema_central_id,extras_ids,aceito_A1,aceito_A2,aceito_A3,aceito_A4,aceito_A5,aceito_A6,aceito_A7
+Q0003,5560,Processo Penal > Recursos em Espécies,2,-0.3359642002063268,1.5414293066831792,REVISAR,5560,5562,True,True,True,True,True,True,True
+Q0005,5576,Processo Penal > Sentença Penal > Fixação da Pena e do Regime Penitenciário,3,0.09615129586451854,0.09615129586451854,REVISAR,5199,,False,False,False,False,False,False,False
+Q0012,5561,Processo Penal > Recursos em Espécies > Recurso em sentido estrito (RESE),3,1.505875240927721,1.505875240927721,REVISAR,5562,4701;5569,False,False,False,False,False,False,False
+Q0018,5540,Processo Penal > Procedimento Sumaríssimo > Competência dos Juizados Especiais Criminais,3,2.2524468857562576,2.2524468857562576,PUBLICAR,4701,5540,False,True,True,True,True,True,True
+Q0023,5524,Processo Penal > Procedimento do Tribunal do Júri,2,-0.11827553958956383,1.0246345148133882,REVISAR,5524,,True,True,True,True,True,True,True
+Q0028,5487,Processo Penal > Comunicação dos Atos Processuais,2,1.4761713073743703,1.289301694936797,REVISAR,5527,5526,False,False,False,False,False,False,False
+Q0031,4385,Criminologia > Teorias Sociológicas Explicativas da Criminalidade,2,4.112538310535362,0.48669893837946354,PUBLICAR,4385,4387;4388,True,True,True,True,True,True,True
+Q0034,5477,Processo Penal > Ações Autônomas de Impugnação > Habeas Corpus,3,2.3604273697479083,2.3604273697479083,PUBLICAR,5477,5590;5594,True,True,True,True,True,True,True
+Q0035,4706,Direito Penal - Legislação Especial > Terrorismo,2,3.5682903752889237,3.5682903752889237,PUBLICAR,4706,,True,True,True,True,True,True,True
+Q0040,5562,Processo Penal > Recursos em Espécies > Apelação,3,1.887062824426037,1.887062824426037,REVISAR,5562,5524;5529,True,True,True,True,True,True,True
+Q0041,5184,Penal > Medida de Segurança,2,5.247928748894923,5.247928748894923,PUBLICAR,5184,,True,True,True,True,True,True,True
+Q0049,5152,"Penal > Dos Crimes Contra a Vida > Induzimento, Instigação ou Auxílio ao Suicídio",3,8.840370738789318,8.840370738789318,PUBLICAR,5152,5149,True,True,True,True,True,True,True
+Q0052,6726,Penal > Teoria da Pena (Parte 1),2,0.9965045997371811,0.02352597189692851,REVISAR,4703,,False,False,False,False,False,False,False
+Q0057,5175,Penal > Iter Criminis,2,6.0875650616877675,0.8335145190646642,PUBLICAR,5175,,True,True,True,True,True,True,True
+Q0058,4384,Criminologia > Teorias Legitimidoras da Pena,2,1.9045143652104564,1.9045143652104564,REVISAR,4389,4377,False,False,False,False,False,False,False
+Q0060,5093,Penal > Dos Crimes Contra a Administração Pública > Corrupção Ativa,3,0.5957136363460709,0.5957136363460709,REVISAR,5087,5093,False,True,True,True,True,True,True
+Q0061,4703,Direito Penal - Legislação Especial > Lei de Execução Penal,2,0.218372900527934,0.218372900527934,REVISAR,4703,,True,True,True,True,True,True,True
+Q0066,4371,Criminologia > Etapas Evolutivas e Escolas Criminológicas,2,5.3058630911857545,0.7310077054730293,PUBLICAR,4371,4373,True,True,True,True,True,True,True
+Q0067,5087,Penal > Dos Crimes Contra a Administração Pública,2,1.9522592269109134,0.22926274710508654,REVISAR,5091,,False,False,True,True,False,True,True
+Q0068,5096,Penal > Dos Crimes Contra a Administração Pública > Condescendência Criminosa,3,0.13128880760592487,0.13128880760592487,REVISAR,5117,5096;5119,False,True,True,True,True,True,False
+Q0077,5173,Penal > Introdução ao Estudo do Direito Penal > Interpretação da Norma Penal,3,0.17000739793778408,0.17000739793778408,REVISAR,5183,,False,False,False,False,False,False,False
+Q0079,5580,Processo Penal > Sistemas e Princípios Processuais Penais,2,3.365715887177417,0.2226542630854471,PUBLICAR,5580,,True,True,True,True,True,True,True
+Q0080,4370,Criminologia > Criminologia no Estado Democrático de Direito > Modelos de Reação ao Delito,3,5.099871561025823,4.817339014911795,PUBLICAR,4368,,False,False,False,True,False,False,True
+Q0086,5092,Penal > Dos Crimes Contra a Administração Pública > Corrupção Passiva,3,0.7067191467835561,0.7067191467835561,REVISAR,5092,,True,True,True,True,True,True,True
+Q0090,5530,Processo Penal > Procedimento Ordinário,2,0.6344772931790388,0.6344772931790388,REVISAR,5530,,True,True,True,True,True,True,True
+Q0091,5208,Penal > Teoria da Pena > Livramento Condicional,3,1.188868371650769,0.792230050815891,REVISAR,4703,,False,False,False,False,False,False,False
+Q0099,5077,Penal > Das Lesões Corporais,2,3.2719487128390194,3.2719487128390194,PUBLICAR,5100,,False,False,False,False,False,False,False
+Q0103,5478,Processo Penal > Ações Autônomas de Impugnação > Revisão Criminal,3,1.7174294441214428,1.7174294441214428,REVISAR,5478,,True,True,True,True,True,True,True
+Q0106,5157,Penal > Dos Crimes Contra o Patrimônio,2,0.26337721814736126,0.9446147924703694,REVISAR,5165,5166,False,False,True,True,False,True,True
+Q0110,5480,Processo Penal > Competência,2,1.6336801287039613,0.21660730122559624,REVISAR,5480,,True,True,True,True,True,True,True
+Q0111,4384,Criminologia > Teorias Legitimidoras da Pena,2,3.6593299121169602,3.6593299121169602,PUBLICAR,4371,,False,False,False,False,False,False,False
+Q0115,4385,Criminologia > Teorias Sociológicas Explicativas da Criminalidade,2,4.2063800236670605,0.4427633738721539,PUBLICAR,4388,4385,False,True,True,True,True,True,True
+Q0117,4384,Criminologia > Teorias Legitimidoras da Pena,2,3.7166995009259827,3.7166995009259827,PUBLICAR,4384,,True,True,True,True,True,True,True
+Q0124,4384,Criminologia > Teorias Legitimidoras da Pena,2,3.2741112176273997,3.2741112176273997,PUBLICAR,4384,,True,True,True,True,True,True,True
+Q0134,5087,Penal > Dos Crimes Contra a Administração Pública,2,-0.4742033422326597,0.3392758233478044,REVISAR,5092,,False,False,True,True,False,True,True
+Q0137,5498,Processo Penal > Inquérito Policial,2,0.3483598011490807,0.3251063926229971,REVISAR,5498,,True,True,True,True,True,True,True
+Q0138,5205,Penal > Teoria da Pena > Penas Restritivas de Direitos,3,0.6995079476314245,0.6995079476314245,REVISAR,6734,5205,False,True,True,True,True,True,False
+Q0139,5212,Penal > Teoria do Crime: Culpabilidade > Conceito e Elementos da Culpabilidade,3,1.4688572288625918,1.4688572288625918,REVISAR,5211,,False,False,False,True,False,False,True
+Q0144,5524,Processo Penal > Procedimento do Tribunal do Júri,2,-0.6206610337677025,0.97578499526887,REVISAR,5524,5529;5562,True,True,True,True,True,True,True
+Q0147,5498,Processo Penal > Inquérito Policial,2,1.265725136279178,1.560740148019124,REVISAR,5498,,True,True,True,True,True,True,True
+Q0150,4708,Direito Penal - Legislação Especial > Tráfico de Drogas,2,2.6230866257006573,1.3053027218777888,PUBLICAR,4708,,True,True,True,True,True,True,True
+Q0160,6727,Penal > Teoria da Pena (Parte 2),2,2.5838221085697164,0.09805735856748576,PUBLICAR,5203,5201;5205,False,False,False,False,False,False,True
+Q0167,5487,Processo Penal > Comunicação dos Atos Processuais,2,1.804151265475772,1.804151265475772,REVISAR,5524,,False,False,False,False,False,False,False
+Q0169,5492,"Processo Penal > Das Questões e Processos Incidentes > Exceção de Suspeição, de Impedimento ou de Incompatibilidade",3,4.971246191258003,4.482130252086864,PUBLICAR,5492,,True,True,True,True,True,True,True
+Q0179,4368,Criminologia > Criminologia no Estado Democrático de Direito,2,2.7798897124389175,0.6380905364807141,PUBLICAR,4368,,True,True,True,True,True,True,True
+Q0186,5202,Penal > Teoria da Pena > Primeira Fase da Dosimetria: Circunstâncias Judiciais,3,5.713564041510201,5.713564041510201,PUBLICAR,5202,,True,True,True,True,True,True,True
+Q0188,5228,Penal > Teoria do Crime: Ilicitude,2,-0.12295450863456736,0.0625823261834233,REVISAR,5228,5233,True,True,True,True,True,True,True
+Q0191,5560,Processo Penal > Recursos em Espécies,2,0.1994544268074483,0.1994544268074483,REVISAR,5560,,True,True,True,True,True,True,True
+Q0194,5218,Penal > Teoria do Crime: Fato Típico,2,0.27354031191428785,0.5260482931695645,REVISAR,5087,5076,False,False,False,False,False,False,False
+Q0201,5103,Penal > Dos Crimes Contra a Dignidade Sexual > Estupro e Estupro de Vulnerável,3,6.148001878827672,6.148001878827672,PUBLICAR,5102,5103,False,True,True,True,True,True,True
+Q0202,5548,Processo Penal > Provas em Espécies > Confissão,3,0.2041515769450104,0.2041515769450104,REVISAR,5224,,False,False,False,False,False,False,False
+Q0208,5150,Penal > Dos Crimes Contra a Vida > Homicídio,3,1.729697302139563,1.729697302139563,REVISAR,5072,,False,False,False,False,False,False,False
+Q0215,5576,Processo Penal > Sentença Penal > Fixação da Pena e do Regime Penitenciário,3,1.4137239660792433,1.4137239660792433,REVISAR,5201,,False,False,False,False,False,False,False
+Q0216,5063,Penal > Ação Penal,2,0.4905384014482115,0.16470148019388642,REVISAR,4701,,False,False,False,False,False,False,False
+Q0221,5201,Penal > Teoria da Pena > Penas Privativas de Liberdade,3,1.4601475571911795,1.4601475571911795,REVISAR,5199,5184;5201;5203,False,True,True,True,True,True,True
+Q0226,5544,Processo Penal > Provas em Espécies > Cadeia de Custódia,3,1.1186719446513216,1.1186719446513216,REVISAR,5544,,True,True,True,True,True,True,True
+Q0230,5211,Penal > Teoria do Crime: Culpabilidade,2,-1.434502379369449,0.3412478371887566,REVISAR,5211,5214,True,True,True,True,True,True,True
+Q0231,5224,Penal > Teoria do Crime: Fato Típico > Erro de Tipo,3,1.8968210646166614,1.8968210646166614,REVISAR,5224,,True,True,True,True,True,True,True
+Q0240,5498,Processo Penal > Inquérito Policial,2,-1.0218298537428994,0.5119732940418422,REVISAR,5498,5473,True,True,True,True,True,True,True
+Q0244,5091,Penal > Dos Crimes Contra a Administração Pública > Concussão e Excesso de Exação,3,2.4148979571742455,2.4148979571742455,PUBLICAR,5087,,False,False,False,True,False,False,True
+Q0245,5185,Penal > Prescrição,2,3.9221254259769243,1.2589948347994895,PUBLICAR,5185,,True,True,True,True,True,True,True
+Q0246,5524,Processo Penal > Procedimento do Tribunal do Júri,2,1.4181528344261753,0.4382075214704173,REVISAR,5527,,False,False,True,True,False,True,True
+Q0249,5466,Processo Penal > Ação Penal,2,0.36475698232902953,0.36475698232902953,REVISAR,5492,,False,False,False,False,False,False,False
+Q0251,5198,Penal > Punibilidade > Decadência,3,0.6101004920402096,0.6101004920402096,REVISAR,5191,5185;5193,False,False,False,True,False,False,True
+Q0253,4384,Criminologia > Teorias Legitimidoras da Pena,2,4.141020990952499,4.141020990952499,PUBLICAR,4371,4372,False,False,False,False,False,False,False
+Q0259,5228,Penal > Teoria do Crime: Ilicitude,2,2.115588928700759,0.02207315440570845,REVISAR,5172,5164,False,False,False,False,False,False,False
+Q0265,5185,Penal > Prescrição,2,0.3697549053203568,0.3697549053203568,REVISAR,5185,5066,True,True,True,True,True,True,True
+Q0274,5157,Penal > Dos Crimes Contra o Patrimônio,2,1.2303755903934253,1.405715757070439,REVISAR,5177,5160,False,False,False,False,False,False,False
+Q0275,5487,Processo Penal > Comunicação dos Atos Processuais,2,2.0855719070141143,2.0855719070141143,REVISAR,4701,5539,False,False,False,False,False,False,False
+Q0276,5545,Processo Penal > Provas em Espécies > Exame de Corpo de Delito,3,0.6385568927599508,0.6385568927599508,REVISAR,5554,5543,False,False,False,False,False,False,False
+Q0277,4696,Direito Penal - Legislação Especial > Estaturo de Idoso - Crimes,2,1.546882384329268,1.546882384329268,REVISAR,4696,,True,True,True,True,True,True,True
+Q0279,5178,"Penal > Iter Criminis > Desistência Voluntária, Arrependimento Eficaz e Arrependimento posterior",3,2.930268568811801,2.930268568811801,PUBLICAR,5185,5178,False,True,True,True,True,True,False
+Q0286,5069,Penal > Concurso de Crimes > Crime Continuado,3,0.9529829273570432,0.9529829273570432,REVISAR,5202,5203;5204,False,False,False,False,False,False,False
+Q0290,5466,Processo Penal > Ação Penal,2,0.8936583852495597,0.008528151446958177,REVISAR,4701,,False,False,False,False,False,False,False
+Q0304,5540,Processo Penal > Procedimento Sumaríssimo > Competência dos Juizados Especiais Criminais,3,0.9421328544561529,0.9421328544561529,REVISAR,4701,5539;5541,False,False,False,False,True,True,True
+Q0308,5498,Processo Penal > Inquérito Policial,2,2.060069385408214,0.1934806665311095,REVISAR,5501,,False,False,True,True,False,True,True
+Q0311,5487,Processo Penal > Comunicação dos Atos Processuais,2,2.4183156641170624,2.4183156641170624,PUBLICAR,5488,,False,False,True,True,False,True,True
+Q0313,5209,Penal > Teoria da Pena > Efeitos da Condenação Penais e Extrapenais,3,0.06623844472072982,0.06623844472072982,REVISAR,5209,,True,True,True,True,True,True,True
+Q0314,5477,Processo Penal > Ações Autônomas de Impugnação > Habeas Corpus,3,4.6071778058809585,4.6071778058809585,PUBLICAR,5477,,True,True,True,True,True,True,True
+Q0315,5185,Penal > Prescrição,2,1.3802312658492757,1.3802312658492757,REVISAR,5185,5187,True,True,True,True,True,True,True
+Q0316,5466,Processo Penal > Ação Penal,2,0.09267194537799162,0.09267194537799162,REVISAR,5224,,False,False,False,False,False,False,False
+Q0319,5071,Penal > Concurso de Pessoas,2,-0.30383789043282583,0.6410419575695387,REVISAR,5073,,False,False,True,True,False,True,True
+Q0320,5550,Processo Penal > Provas em Espécies > Prova Testemunhal,3,2.4690176292764314,2.4690176292764314,PUBLICAR,5550,,True,True,True,True,True,True,True
+Q0323,5550,Processo Penal > Provas em Espécies > Prova Testemunhal,3,0.26046807939027605,0.26046807939027605,REVISAR,5595,,False,False,False,False,False,False,False
+Q0324,5530,Processo Penal > Procedimento Ordinário,2,-1.0617916037403474,0.09351723909482645,REVISAR,4703,4686;6734,False,False,False,False,False,False,False
+Q0325,5198,Penal > Punibilidade > Decadência,3,0.6143402562848195,0.6143402562848195,REVISAR,5473,4704;5494;5541,False,False,False,False,False,False,False
+Q0336,5159,Penal > Dos Crimes Contra o Patrimônio > Furto,3,0.44559727253184,0.44559727253184,REVISAR,5159,5177,True,True,True,True,True,True,True
+Q0338,5550,Processo Penal > Provas em Espécies > Prova Testemunhal,3,0.5221510255499968,0.5221510255499968,REVISAR,5590,,False,False,False,False,False,False,False
+Q0339,5578,Processo Penal > Sentença Penal > Princípio da Correlação entre Acusação e Sentença,3,2.3334459612641796,2.3334459612641796,PUBLICAR,5572,,False,False,False,True,False,False,True
+Q0341,5157,Penal > Dos Crimes Contra o Patrimônio,2,0.25697740595971963,0.6409836512715579,REVISAR,5157,5068,True,True,True,True,True,True,True
+Q0345,5103,Penal > Dos Crimes Contra a Dignidade Sexual > Estupro e Estupro de Vulnerável,3,1.478130025022267,1.478130025022267,REVISAR,5103,,True,True,True,True,True,True,True
+Q0356,5067,Penal > Concurso de Crimes > Concurso Material,3,0.6404421339467987,0.6404421339467987,REVISAR,5066,5070,False,False,False,True,False,False,True

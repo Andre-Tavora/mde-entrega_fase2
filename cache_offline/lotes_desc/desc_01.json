@@ -1,0 +1,152 @@
+[
+  {
+    "tema_id": "4365",
+    "descricao": "Criminologia é a ciência empírica e interdisciplinar que estuda o crime, o criminoso, a vítima e o controle social. Abrange teoria geral, escolas, classificação de criminosos e vítimas, política criminal, criminalização, teorias da pena e vitimologia, e se diferencia do Direito Penal por seu método causal-explicativo, e não normativo.",
+    "palavras_chave": "criminologia; ciência empírica; interdisciplinar; delito; delinquente; vítima; controle social; método causal-explicativo; fenômeno criminal; Garofalo",
+    "nao_confundir": "Não se confunde com Direito Penal - Legislação Especial, Penal e Processo Penal, que são ramos normativos; os subtemas como Vitimologia, Política Criminal e Teoria Geral da Criminologia pertencem aos filhos."
+  },
+  {
+    "tema_id": "4366",
+    "descricao": "Classificação das Vítimas reúne as tipologias da vitimologia que distinguem a vítima conforme sua participação no delito: vítima ideal ou inocente, vítima provocadora, vítima simuladora e vítima imaginária, além do grau de culpa da vítima. Destacam-se as classificações de Mendelsohn e de Hans von Hentig, que graduam a contribuição da vítima para o fato.",
+    "palavras_chave": "classificação das vítimas; vítima ideal; vítima inocente; vítima provocadora; vítima simuladora; vítima imaginária; vítima nata; Mendelsohn; Hans von Hentig; participação da vítima",
+    "nao_confundir": "Diferencia-se de Classificação dos Criminosos, que tipifica o autor do delito, e de Vitimologia e Teorias e Síndromes com Enfoque nas Vítimas, que tratam do estudo geral da vítima e de síndromes específicas."
+  },
+  {
+    "tema_id": "4367",
+    "descricao": "Classificação dos Criminosos agrupa as tipologias do delinquente segundo critérios biológicos, psicológicos e sociais, como o criminoso nato de Lombroso. Na classificação de Ferri aparecem o criminoso nato, louco, habitual, ocasional e passional. Serve para estudar a personalidade do autor e orientar seu tratamento.",
+    "palavras_chave": "classificação dos criminosos; criminoso nato; criminoso louco; criminoso habitual; criminoso ocasional; criminoso passional; Lombroso; Ferri; tipologia do delinquente; personalidade do autor",
+    "nao_confundir": "Diferencia-se de Classificação das Vítimas, que tipifica quem sofre o crime, e das Teorias Sociológicas Explicativas da Criminalidade, que explicam as causas sociais do delito e não os tipos de delinquente."
+  },
+  {
+    "tema_id": "4368",
+    "descricao": "Criminologia no Estado Democrático de Direito examina como o Estado responde ao crime com respeito às garantias e aos direitos fundamentais, tratando de controle social, prevenção e punição. Compreende os Modelos de Reação ao Delito (clássico, ressocializador e integrador) e os Sistemas de Prevenção (primária, secundária e terciária).",
+    "palavras_chave": "estado democrático de direito; controle social; garantias fundamentais; reação ao delito; prevenção do delito; modelo dissuasório; modelo ressocializador; modelo integrador; prevenção primária; prevenção terciária",
+    "nao_confundir": "Distingue-se de Política Criminal e de Teorias Legitimidoras da Pena; as respostas ao crime pertencem ao filho Modelos de Reação ao Delito e a prevenção pertence ao filho Sistemas de Prevenção."
+  },
+  {
+    "tema_id": "4370",
+    "descricao": "Modelos de Reação ao Delito são as formas de resposta estatal e social ao crime: o modelo clássico ou dissuasório, centrado na pena e na intimidação; o modelo ressocializador, voltado ao tratamento e à reintegração do infrator; e o modelo integrador ou restaurativo, que envolve vítima, infrator e comunidade na reparação do dano e na conciliação.",
+    "palavras_chave": "modelos de reação ao delito; modelo clássico; modelo dissuasório; modelo ressocializador; modelo integrador; justiça restaurativa; reparação do dano; conciliação; intimidação; reintegração do infrator",
+    "nao_confundir": "Difere de Sistemas de Prevenção, que atua antes do crime sobre causas e grupos de risco, pois os modelos de reação tratam da resposta ao delito já praticado."
+  },
+  {
+    "tema_id": "4369",
+    "descricao": "Sistemas de Prevenção tratam da prevenção do delito: prevenção primária, dirigida às causas sociais do crime por meio de educação, saúde, emprego e moradia; secundária, voltada a grupos e áreas de risco, com policiamento preventivo; e terciária, dirigida ao condenado e ao preso para evitar a reincidência, por meio da ressocialização.",
+    "palavras_chave": "sistemas de prevenção; prevenção primária; prevenção secundária; prevenção terciária; prevenção criminal; grupos de risco; policiamento preventivo; reincidência; ressocialização; políticas sociais",
+    "nao_confundir": "Difere de Modelos de Reação ao Delito, que cuida das respostas dissuasória, ressocializadora e restaurativa após o crime, e de Política Criminal, que define as estratégias gerais do Estado."
+  },
+  {
+    "tema_id": "4371",
+    "descricao": "Etapas Evolutivas e Escolas Criminológicas abrange a evolução histórica do pensamento sobre o crime e as principais escolas: Escola Clássica de Beccaria e Carrara, Escola Positiva de Lombroso, Ferri e Garofalo, além de correntes como a Escola de Chicago, o labeling approach e a criminologia crítica. Divide-se em Escolas Crimonológicas e Etapas Evolutivas da Criminologia.",
+    "palavras_chave": "escolas criminológicas; evolução histórica; escola clássica; escola positiva; Beccaria; Carrara; Lombroso; Ferri; Garofalo; labeling approach; criminologia crítica",
+    "nao_confundir": "Tema pai de Escolas Crimonológicas e Etapas Evolutivas da Criminologia, que detalham as correntes e a cronologia; não se confunde com Teoria Geral da Criminologia nem com as Teorias Sociológicas Explicativas da Criminalidade."
+  },
+  {
+    "tema_id": "4373",
+    "descricao": "Escolas Criminológicas compreendem as grandes correntes de pensamento sobre o delito: a Escola Clássica, de Beccaria e Carrara, baseada no livre-arbítrio e na pena proporcional; a Escola Positiva, de Lombroso, Ferri e Garofalo, que adota o determinismo e o método científico; a Terza Scuola, a Escola de Chicago, o labeling approach e a criminologia crítica.",
+    "palavras_chave": "escola clássica; escola positiva; livre-arbítrio; determinismo; Beccaria; Carrara; Lombroso; Ferri; Garofalo; terza scuola; escola de Chicago",
+    "nao_confundir": "Difere de Etapas Evolutivas da Criminologia (Antiguidade, Idade Média e Idade Moderna), que trata da cronologia histórica, pois aqui o foco são as escolas de pensamento e seus postulados."
+  },
+  {
+    "tema_id": "4372",
+    "descricao": "Etapas Evolutivas da Criminologia (Antiguidade, Idade Média e Idade Moderna) trata do desenvolvimento histórico do pensamento sobre o crime: a vingança privada, divina e pública, o direito penal da Antiguidade, a influência da Igreja e da Inquisição na Idade Média e o Iluminismo e o humanitarismo, com as críticas de Beccaria às penas cruéis.",
+    "palavras_chave": "etapas evolutivas; antiguidade; idade média; idade moderna; vingança privada; vingança divina; vingança pública; inquisição; iluminismo; humanitarismo; penas cruéis",
+    "nao_confundir": "Difere de Escolas Crimonológicas, que cuida das correntes teóricas como a Escola Clássica e a Escola Positiva, pois aqui o foco são os períodos históricos anteriores à formação das escolas."
+  },
+  {
+    "tema_id": "4374",
+    "descricao": "Política Criminal é o conjunto de estratégias e decisões do Estado para prevenir e reprimir o crime, orientando a criação, a reforma e a aplicação das leis penais. Contempla as Correntes da Política Criminal, como o abolicionismo, o minimalismo penal e o movimento de lei e ordem, e o Direito Penal do Inimigo, de Günther Jakobs.",
+    "palavras_chave": "política criminal; estratégia estatal; prevenção e repressão; reforma penal; abolicionismo; minimalismo penal; lei e ordem; direito penal do inimigo; Jakobs; intervenção penal",
+    "nao_confundir": "Não se confunde com Criminologia no Estado Democrático de Direito nem com Processos de Criminalização e Cifras Criminais; os movimentos ideológicos pertencem a Correntes da Política Criminal e a teoria de Jakobs a Direito Penal do Inimigo."
+  },
+  {
+    "tema_id": "4375",
+    "descricao": "Correntes da Política Criminal reúnem os movimentos que orientam a intervenção penal: abolicionismo, que propõe a extinção do sistema penal; direito penal mínimo e garantismo, de Ferrajoli, com intervenção como última ratio; e movimento de lei e ordem e tolerância zero, que defendem penas rigorosas e ampliação do controle penal.",
+    "palavras_chave": "correntes da política criminal; abolicionismo; direito penal mínimo; minimalismo; garantismo; Ferrajoli; lei e ordem; tolerância zero; última ratio; expansão do direito penal",
+    "nao_confundir": "Difere de Direito Penal do Inimigo, teoria específica de Jakobs, e da Política Criminal geral, que trata das estratégias estatais; aqui interessam os movimentos e suas ideologias."
+  },
+  {
+    "tema_id": "4376",
+    "descricao": "Direito Penal do Inimigo é a teoria de Günther Jakobs que distingue o cidadão, tratado como pessoa que comete um erro, do inimigo, tratado como fonte de perigo e combatido com antecipação da punibilidade, penas desproporcionais e relativização de garantias processuais. Opõe-se ao Direito Penal do cidadão e é criticado por violar a dignidade humana.",
+    "palavras_chave": "direito penal do inimigo; Günther Jakobs; inimigo; cidadão; antecipação da punibilidade; relativização de garantias; penas desproporcionais; direito penal do cidadão; fonte de perigo; dignidade humana",
+    "nao_confundir": "Difere de Correntes da Política Criminal, que reúne abolicionismo, minimalismo e lei e ordem, pois aqui o objeto é exclusivamente a teoria de Jakobs."
+  },
+  {
+    "tema_id": "4377",
+    "descricao": "Processos de Criminalização e Cifras Criminais estudam como condutas são selecionadas e definidas como crime e como o sistema penal atua de modo seletivo, com a distância entre a criminalidade real e a registrada. Abrange a Criminalização Primária e Secundária, a seletividade penal, o labeling approach e as Cifras Criminais, como a cifra negra.",
+    "palavras_chave": "processos de criminalização; seletividade penal; criminalização primária; criminalização secundária; cifras criminais; cifra negra; labeling approach; etiquetamento; criminalidade real; sistema penal",
+    "nao_confundir": "Distingue-se de Teorias Legitimidoras da Pena, que justificam a sanção; os conteúdos de seleção legislativa e de atuação das agências pertencem a Criminalização Primária e Secundária, e o de mensuração da criminalidade a Cifras Criminais."
+  },
+  {
+    "tema_id": "4379",
+    "descricao": "Cifras Criminais designam a diferença entre os crimes realmente ocorridos e aqueles registrados ou punidos pelo sistema. Incluem a cifra negra ou oculta, dos crimes não comunicados ou não apurados, a cifra dourada, ligada aos crimes de colarinho branco, e a cifra cinzenta, dos casos arquivados, além da subnotificação e das pesquisas de vitimização.",
+    "palavras_chave": "cifras criminais; cifra negra; cifra oculta; cifra dourada; cifra cinzenta; colarinho branco; subnotificação; pesquisa de vitimização; criminalidade registrada; estatísticas criminais",
+    "nao_confundir": "Difere de Criminalização Primária e Secundária, que trata da seleção legislativa e da atuação das agências de controle, pois as cifras medem a distância entre os crimes reais e os registrados."
+  },
+  {
+    "tema_id": "4378",
+    "descricao": "Criminalização Primária e Secundária, conforme Zaffaroni, distingue o ato de elaborar a lei penal que define condutas como crime, praticado pelo Legislativo, da aplicação concreta do poder punitivo pelas agências de controle, como polícia, Ministério Público e Judiciário, sobre pessoas selecionadas. Relaciona-se à seletividade do sistema penal e ao etiquetamento.",
+    "palavras_chave": "criminalização primária; criminalização secundária; Zaffaroni; seletividade; agências de controle; poder punitivo; etiquetamento; elaboração da lei penal; aplicação da lei penal; labeling approach",
+    "nao_confundir": "Difere de Cifras Criminais, que quantifica a criminalidade não registrada, pois aqui o foco é a seleção legislativa (primária) e a atuação seletiva das agências de controle (secundária)."
+  },
+  {
+    "tema_id": "4380",
+    "descricao": "Teoria Geral da Criminologia reúne os fundamentos da disciplina como ciência empírica, interdisciplinar e causal-explicativa: seu conceito, seu objeto formado por delito, delinquente, vítima e controle social, seus métodos e suas funções. Divide-se em Conceito e objeto da Criminologia e Métodos e funções da Criminologia.",
+    "palavras_chave": "teoria geral da criminologia; ciência empírica; interdisciplinaridade; objeto da criminologia; delito; delinquente; vítima; controle social; métodos; funções da criminologia",
+    "nao_confundir": "Distingue-se de Etapas Evolutivas e Escolas Criminológicas, que narram a história e as escolas, e de Teorias Sociológicas Explicativas da Criminalidade, que explicam causas; o conceito e os métodos pertencem aos filhos."
+  },
+  {
+    "tema_id": "4381",
+    "descricao": "Conceito e objeto da Criminologia trata da definição da Criminologia como ciência empírica e interdisciplinar que estuda o crime, o criminoso, a vítima e o controle social. Aborda sua autonomia diante do Direito Penal e da Política Criminal, o caráter não normativo e a origem do termo, atribuída a Topinard e Garofalo.",
+    "palavras_chave": "conceito de criminologia; objeto da criminologia; ciência empírica; interdisciplinar; crime; criminoso; vítima; controle social; Topinard; Garofalo; autonomia científica",
+    "nao_confundir": "Difere de Métodos e funções da Criminologia, que trata dos meios de pesquisa e das finalidades da disciplina, pois aqui o foco é a definição da ciência e de seu objeto."
+  },
+  {
+    "tema_id": "4382",
+    "descricao": "Métodos e funções da Criminologia aborda os métodos empíricos, como observação, estatística, biológico e sociológico, o caráter indutivo e interdisciplinar, e as funções da disciplina: informar a sociedade e os poderes públicos sobre o delito, subsidiar a prevenção, avaliar o sistema penal e orientar a política criminal e a intervenção sobre o infrator.",
+    "palavras_chave": "métodos da criminologia; método empírico; método indutivo; estatística criminal; método biológico; método sociológico; funções da criminologia; prevenção; avaliação do sistema penal; política criminal",
+    "nao_confundir": "Difere de Conceito e objeto da Criminologia, que define a ciência e seu objeto, pois aqui o foco são os métodos de pesquisa e as funções da disciplina."
+  },
+  {
+    "tema_id": "4384",
+    "descricao": "Teorias Legitimidoras da Pena são as teorias que procuram justificar a imposição da pena: as absolutas ou retributivas, que veem a pena como castigo e retribuição do mal; as relativas ou preventivas, de prevenção geral e especial, positiva e negativa; e as teorias mistas ou unificadoras, que combinam retribuição e prevenção, com a ressocialização.",
+    "palavras_chave": "teorias da pena; teoria absoluta; teoria retributiva; teoria relativa; prevenção geral; prevenção especial; prevenção positiva; prevenção negativa; teoria mista; teoria unificadora; finalidade da pena",
+    "nao_confundir": "Difere das Teorias Sociológicas Explicativas da Criminalidade, que buscam as causas do crime, pois estas tratam da justificação e dos fins da pena; também não se confunde com Política Criminal."
+  },
+  {
+    "tema_id": "4385",
+    "descricao": "Teorias Sociológicas Explicativas da Criminalidade buscam as causas do crime em fatores individuais, sociais e culturais. Abrange as Teorias de Nível Individual, as Teorias de Nível Sociológico e as Teorias Criminológicas em Espécie, que incluem anomia, associação diferencial, subcultura delinquente e etiquetamento.",
+    "palavras_chave": "teorias sociológicas; causas do crime; etiologia criminal; anomia; associação diferencial; subcultura delinquente; etiquetamento; fatores sociais; fatores individuais; explicação da criminalidade",
+    "nao_confundir": "Difere de Teorias Legitimidoras da Pena, que justificam a punição e não explicam o crime; a divisão entre enfoque individual, sociológico e teorias nominadas pertence aos filhos."
+  },
+  {
+    "tema_id": "4388",
+    "descricao": "Teorias Criminológicas em Espécie tratam das teorias específicas sobre o crime: Escola de Chicago e desorganização social, anomia de Durkheim e Merton, associação diferencial de Sutherland, subcultura delinquente, teoria do etiquetamento ou labeling approach, teoria das janelas quebradas e criminologia crítica.",
+    "palavras_chave": "teorias em espécie; escola de Chicago; desorganização social; anomia; Durkheim; Merton; associação diferencial; Sutherland; subcultura delinquente; labeling approach; janelas quebradas",
+    "nao_confundir": "Difere de Teorias de Nível Individual, centradas nas características do indivíduo, e de Teorias de Nível Sociológico, centradas na estrutura social; aqui o foco são as teorias nominadas e seus autores."
+  },
+  {
+    "tema_id": "4386",
+    "descricao": "Teorias de Nível Individual explicam o delito por características do indivíduo, como fatores biológicos, antropológicos e psicológicos. Compreendem a antropologia criminal de Lombroso, o atavismo, as teorias biotipológicas, a genética e a endocrinologia criminais e a psicanálise e a psicopatia, que atribuem a causa do crime à pessoa do delinquente.",
+    "palavras_chave": "teorias de nível individual; fatores biológicos; fatores psicológicos; antropologia criminal; Lombroso; atavismo; biotipologia; genética criminal; endocrinologia; psicopatia; psicanálise",
+    "nao_confundir": "Difere de Teorias de Nível Sociológico, que explicam o crime pelo meio social, e de Teorias Criminológicas em Espécie, que tratam de teorias nominadas; aqui a causa está no indivíduo."
+  },
+  {
+    "tema_id": "4387",
+    "descricao": "Teorias de Nível Sociológico explicam o crime pela estrutura e pelo meio social, e não pelo indivíduo. Abrangem a desorganização social, a anomia, a associação diferencial, a subcultura delinquente, o labeling approach e as teorias do conflito e do controle social, que veem o delito como fenômeno produzido pela sociedade.",
+    "palavras_chave": "teorias de nível sociológico; estrutura social; meio social; desorganização social; anomia; associação diferencial; subcultura delinquente; teoria do conflito; teoria do controle social; labeling approach",
+    "nao_confundir": "Difere de Teorias de Nível Individual, que atribuem o crime a fatores biológicos e psicológicos do delinquente, e de Teorias Criminológicas em Espécie, que tratam de teorias específicas e seus autores."
+  },
+  {
+    "tema_id": "4383",
+    "descricao": "Teorias e Síndromes com Enfoque nas Vítimas trata de fenômenos psicossociais que envolvem a vítima: síndrome de Estocolmo, síndrome de Lima, síndrome da mulher maltratada, síndrome de Londres, ciclo da violência e teoria das atividades rotineiras. Analisa o comportamento da vítima e seu vínculo com o agressor.",
+    "palavras_chave": "síndrome de Estocolmo; síndrome de Lima; síndrome de Londres; síndrome da mulher maltratada; ciclo da violência; atividades rotineiras; vínculo com o agressor; vítima refém; comportamento da vítima",
+    "nao_confundir": "Difere de Classificação das Vítimas, que traz tipologias de participação no delito, e de Vitimologia, estudo geral da vítima e do Processo de Vitimização."
+  },
+  {
+    "tema_id": "4389",
+    "descricao": "Vitimologia é o estudo científico da vítima, de sua personalidade, de seu papel na gênese do delito e de sua proteção e assistência. Tem origem em Mendelsohn e Hans von Hentig, e trata da posição histórica da vítima e do Processo de Vitimização, abrangendo as vitimizações primária, secundária e terciária.",
+    "palavras_chave": "vitimologia; estudo da vítima; Mendelsohn; Hans von Hentig; papel da vítima; assistência à vítima; vitimização primária; vitimização secundária; vitimização terciária; proteção da vítima",
+    "nao_confundir": "Difere de Classificação das Vítimas e de Teorias e Síndromes com Enfoque nas Vítimas, que são temas irmãos específicos; as fases da vitimização pertencem ao filho Processo de Vitimização."
+  }
+]

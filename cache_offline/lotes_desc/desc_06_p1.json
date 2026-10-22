@@ -1,0 +1,62 @@
+[
+  {
+    "tema_id": "5143",
+    "descricao": "Maus-tratos (art. 136 do CP) consiste em expor a perigo a vida ou a saúde de pessoa sob autoridade, guarda ou vigilância do agente, para fim de educação, ensino, tratamento ou custódia. A conduta ocorre por privação de alimentação ou cuidados, trabalho excessivo ou inadequado, ou abuso de meios de correção ou disciplina.",
+    "palavras_chave": "maus-tratos; art. 136; periclitação da vida e da saúde; autoridade, guarda ou vigilância; educação, ensino, tratamento ou custódia; privação de alimentação; privação de cuidados; trabalho excessivo; abuso de meios de correção; perigo concreto",
+    "nao_confundir": "Diferencia-se de Omissão de Socorro (art. 135), que exige dever genérico de assistir quem está em perigo, e de Abandono de Incapaz (art. 133), pois aqui há relação de autoridade, guarda ou vigilância com finalidade de educação, ensino, tratamento ou custódia."
+  },
+  {
+    "tema_id": "5142",
+    "descricao": "Omissão de Socorro (art. 135 do CP) pune quem deixa de prestar assistência, quando possível fazê-lo sem risco pessoal, a criança abandonada ou extraviada, a pessoa inválida ou ferida, ao desamparo ou em grave e iminente perigo. Também pune quem não pede o socorro da autoridade pública nessas situações.",
+    "palavras_chave": "omissão de socorro; art. 135; dever de assistência; criança abandonada ou extraviada; pessoa inválida ou ferida; grave e iminente perigo; ausência de risco pessoal; pedido de socorro à autoridade pública; crime omissivo próprio",
+    "nao_confundir": "Diferencia-se de Maus-Tratos (art. 136), em que o agente tem a vítima sob sua guarda ou vigilância, e de Abandono de Incapaz (art. 133), que pressupõe o dever de cuidado; na omissão de socorro o dever é genérico e o crime é omissivo."
+  },
+  {
+    "tema_id": "5139",
+    "descricao": "Perigo de contágio venéreo e de moléstia grave abrange os arts. 130 e 131 do CP. O art. 130 pune expor alguém, por relações sexuais ou ato libidinoso, a contágio de moléstia venérea de que o agente sabe ou deve saber estar contaminado; o art. 131 pune praticar, com o fim de transmitir moléstia grave de que está contaminado, ato capaz de produzir o contágio.",
+    "palavras_chave": "perigo de contágio venéreo; perigo de contágio de moléstia grave; art. 130; art. 131; relação sexual; ato libidinoso; ato capaz de produzir o contágio; fim de transmitir; moléstia grave; periclitação da saúde",
+    "nao_confundir": "Diferencia-se de Perigo para a Vida ou a Saúde de Outrem (art. 132), que é tipo genérico e subsidiário, e dos Crimes contra a Saúde Pública (arts. 267 a 285), que protegem a coletividade e não pessoa determinada."
+  },
+  {
+    "tema_id": "5140",
+    "descricao": "Perigo para a Vida ou a Saúde de Outrem (art. 132 do CP) pune expor a vida ou a saúde de outra pessoa a perigo direto e iminente. É crime de perigo concreto, de tipo genérico e subsidiário, que só se aplica quando o fato não constitui crime mais grave.",
+    "palavras_chave": "perigo para a vida ou a saúde de outrem; art. 132; perigo direto e iminente; exposição a perigo; crime de perigo concreto; subsidiariedade; periclitação; vítima determinada; dolo de perigo",
+    "nao_confundir": "Diferencia-se de Perigo de Contágio Venéreo ou de Moléstia Grave (arts. 130 e 131), que têm meio e finalidade específicos, e de Maus-Tratos (art. 136), que exige relação de guarda ou vigilância; o art. 132 é residual."
+  },
+  {
+    "tema_id": "5144",
+    "descricao": "Tema-pai que reúne os crimes que atingem interesses coletivos, correspondendo aos arts. 267 a 285 do CP (saúde pública) e aos arts. 286 a 288-A do CP (paz pública). Seus filhos são Crimes Contra a Paz Pública e Crimes Contra a Saúde Pública.",
+    "palavras_chave": "crimes contra a coletividade; saúde pública; paz pública; arts. 267 a 285; arts. 286 a 288-A; bem jurídico coletivo; perigo comum; sujeito passivo indeterminado; tutela da incolumidade; ordem pública",
+    "nao_confundir": "Diferencia-se de Perigo para a Vida ou a Saúde de Outrem, Maus-Tratos e Omissão de Socorro, que tutelam pessoa determinada, e de Crimes contra a Vida (arts. 121 a 128), que protegem bem individual."
+  },
+  {
+    "tema_id": "5146",
+    "descricao": "Crimes contra a Paz Pública correspondem aos arts. 286 a 288-A do CP e protegem a tranquilidade e a confiança da coletividade na ordem social. Compreendem incitação ao crime, apologia de crime ou criminoso, associação criminosa e constituição de milícia privada.",
+    "palavras_chave": "paz pública; arts. 286 a 288-A; incitação ao crime; apologia de crime ou criminoso; associação criminosa; constituição de milícia privada; tranquilidade social; ordem pública; crime contra a coletividade; incolumidade social",
+    "nao_confundir": "Diferencia-se de Crimes contra a Saúde Pública (arts. 267 a 285), irmão que protege a saúde coletiva e não a tranquilidade social, e do tema-pai 5144, que reúne os dois grupos."
+  },
+  {
+    "tema_id": "5145",
+    "descricao": "Crimes contra a Saúde Pública correspondem aos arts. 267 a 285 do CP e protegem a saúde da coletividade contra condutas que geram perigo comum. Incluem epidemia, envenenamento de água ou substância alimentícia, falsificação e corrupção de produtos e substâncias medicinais e alimentícias.",
+    "palavras_chave": "saúde pública; arts. 267 a 285; epidemia; envenenamento de água potável; substância alimentícia; produtos medicinais; falsificação de produto; corrupção de produto; perigo comum; incolumidade coletiva",
+    "nao_confundir": "Diferencia-se de Crimes contra a Paz Pública (arts. 286 a 288-A), irmão voltado à tranquilidade social, e de Perigo de Contágio Venéreo ou de Moléstia Grave (arts. 130 e 131), que expõem pessoa determinada a perigo."
+  },
+  {
+    "tema_id": "5149",
+    "descricao": "Tema-pai dos crimes contra a vida, correspondendo aos arts. 121 a 128 do CP. Seus filhos são Homicídio (art. 121), Feminicídio (art. 121-A), Induzimento, Instigação ou Auxílio ao Suicídio (art. 122), Infanticídio (art. 123) e Aborto (arts. 124 a 128).",
+    "palavras_chave": "crimes contra a vida; arts. 121 a 128; homicídio; feminicídio; induzimento ao suicídio; instigação ou auxílio ao suicídio; infanticídio; aborto; vida humana; tribunal do júri",
+    "nao_confundir": "Diferencia-se de Perigo para a Vida ou a Saúde de Outrem (art. 132) e Omissão de Socorro (art. 135), que são crimes de perigo, sem resultado morte, e dos Crimes contra a Saúde Pública (arts. 267 a 285)."
+  },
+  {
+    "tema_id": "5154",
+    "descricao": "Aborto abrange os arts. 124 a 128 do CP: autoaborto ou consentimento para o aborto (art. 124), aborto provocado por terceiro sem ou com consentimento da gestante (arts. 125 e 126), forma qualificada (art. 127) e as hipóteses de aborto legal (art. 128). Protege a vida humana intrauterina.",
+    "palavras_chave": "aborto; arts. 124 a 128; autoaborto; aborto provocado por terceiro; consentimento da gestante; aborto qualificado; aborto legal; risco de vida da gestante; gravidez resultante de estupro; vida intrauterina",
+    "nao_confundir": "Diferencia-se de Infanticídio (art. 123), que ocorre durante ou logo após o parto, e de Homicídio (art. 121), que pressupõe vida extrauterina; o aborto atinge a vida intrauterina."
+  },
+  {
+    "tema_id": "5151",
+    "descricao": "Feminicídio (art. 121-A do CP, incluído pela Lei 14.994/2024) é o homicídio de mulher por razões da condição do sexo feminino, ou seja, em contexto de violência doméstica e familiar ou de menosprezo ou discriminação à condição de mulher. A pena é de reclusão de 20 a 40 anos.",
+    "palavras_chave": "feminicídio; art. 121-A; Lei 14.994/2024; razões da condição de sexo feminino; violência doméstica e familiar; menosprezo à condição de mulher; discriminação; reclusão de 20 a 40 anos; crime hediondo; violência de gênero",
+    "nao_confundir": "Diferencia-se de Homicídio (art. 121), que não exige a motivação de gênero, e de Induzimento, Instigação ou Auxílio ao Suicídio (art. 122), irmão em que a morte decorre de ato da própria vítima."
+  }
+]

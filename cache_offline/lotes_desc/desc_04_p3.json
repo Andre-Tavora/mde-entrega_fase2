@@ -1,0 +1,32 @@
+[
+  {
+    "tema_id": "5098",
+    "descricao": "Violência Arbitrária corresponde ao art. 322 do CP, que punia praticar violência no exercício de função ou a pretexto de exercê-la. O dispositivo foi revogado pela Lei 13.869/2019, e a matéria hoje é tratada como abuso de autoridade.",
+    "palavras_chave": "violência arbitrária; art. 322; violência no exercício de função; a pretexto de exercer função; funcionário público; crime funcional; dispositivo revogado; Lei 13.869/2019; abuso de autoridade",
+    "nao_confundir": "Diferencia-se de Resistência, Desobediência e Desacato e de Usurpação de Função Pública, pois aqui a violência é praticada por quem exerce a função ou a invoca como pretexto. Também não se confunde com Concussão e Excesso de Exação e Corrupção Passiva, que giram em torno de exigência ou recebimento de vantagem."
+  },
+  {
+    "tema_id": "5102",
+    "descricao": "Dos Crimes Contra a Dignidade Sexual corresponde ao Título VI do CP, arts. 213 a 234-C, e protege a liberdade e a dignidade sexual, inclusive contra vulnerável. Seus filhos são Assédio Sexual, Corrupção de Menores, Disposições Gerais dos Crimes Contra a Dignidade Sexual, Estupro e Estupro de Vulnerável, Importunação Sexual, Outros Crimes Contra a Dignidade Sexual, Registro Não Autorizado da Intimidade Sexual e Violação Sexual Mediante Fraude.",
+    "palavras_chave": "crimes contra a dignidade sexual; Título VI; arts. 213 a 234-C; liberdade sexual; dignidade sexual; estupro; estupro de vulnerável; assédio sexual; importunação sexual; violação sexual mediante fraude",
+    "nao_confundir": "Diferencia-se de Dos Crimes Contra a Honra, Dos Crimes Contra a Liberdade Pessoal e Das Lesões Corporais, que protegem reputação, autodeterminação e integridade corporal. Aqui o bem jurídico é a liberdade e a dignidade sexual."
+  },
+  {
+    "tema_id": "5106",
+    "descricao": "Assédio Sexual corresponde ao art. 216-A do CP e consiste em constranger alguém com o intuito de obter vantagem ou favorecimento sexual, prevalecendo-se da condição de superior hierárquico ou da ascendência inerente ao exercício de emprego, cargo ou função. O §2º prevê aumento de pena de até 1/3 se a vítima é menor de 18 anos. Exige relação de hierarquia ou ascendência.",
+    "palavras_chave": "assédio sexual; art. 216-A; constrangimento; vantagem sexual; favorecimento sexual; superior hierárquico; ascendência; emprego, cargo ou função; vítima menor de 18 anos; aumento de até 1/3",
+    "nao_confundir": "Diferencia-se de Importunação Sexual e de Estupro e Estupro de Vulnerável, que não dependem de relação de hierarquia ou ascendência, e de Violação Sexual Mediante Fraude. Aqui o constrangimento se apoia na posição de superior hierárquico ou na ascendência funcional."
+  },
+  {
+    "tema_id": "5108",
+    "descricao": "Corrupção de Menores abrange o art. 218 do CP (induzir alguém menor de 14 anos a satisfazer a lascívia de outrem) e o art. 218-A (praticar, na presença de menor de 14 anos, ou induzi-lo a presenciar, conjunção carnal ou outro ato libidinoso, para satisfazer lascívia própria ou de outrem). A vítima é menor de 14 anos, portanto vulnerável.",
+    "palavras_chave": "corrupção de menores; art. 218; art. 218-A; menor de 14 anos; vulnerável; induzir; lascívia; ato libidinoso; conjunção carnal; presença de menor",
+    "nao_confundir": "Diferencia-se de Estupro e Estupro de Vulnerável, em que há prática de ato sexual com a vítima, e de Importunação Sexual. Aqui o agente induz o menor de 14 anos a satisfazer a lascívia de outrem ou pratica o ato na presença dele."
+  },
+  {
+    "tema_id": "5110",
+    "descricao": "Disposições Gerais dos Crimes Contra a Dignidade Sexual reúne regras comuns a todos os crimes do título: art. 225 (ação penal pública incondicionada), art. 226 (causas de aumento de pena), art. 234-A (causas de aumento, como gravidez, transmissão de doença sexualmente transmissível, vítima idosa ou com deficiência) e art. 234-B (segredo de justiça).",
+    "palavras_chave": "disposições gerais; art. 225; art. 226; art. 234-A; art. 234-B; ação penal pública incondicionada; causas de aumento de pena; segredo de justiça; gravidez; doença sexualmente transmissível; vítima idosa ou com deficiência",
+    "nao_confundir": "Diferencia-se de Estupro e Estupro de Vulnerável, Assédio Sexual e Importunação Sexual, que definem condutas típicas. Aqui estão regras comuns a todos os crimes do título, e não um tipo penal."
+  }
+]

@@ -1,0 +1,661 @@
+﻿id,tema_id,caminho_previsto,depth,m1,m2,status,leis_citadas
+Q0001,5527,"Processo Penal > Procedimento do Tribunal do Júri > Impronúncia, Desclassificação, Absolvição Sumária e Pronúncia",3,3.4816079584212396,3.4816079584212396,PUBLICAR,
+Q0002,4384,Criminologia > Teorias Legitimidoras da Pena,2,3.3681874768198314,3.3681874768198314,PUBLICAR,
+Q0003,5560,Processo Penal > Recursos em Espécies,2,-0.3359650942759984,1.5414293066831792,REVISAR,
+Q0004,5480,Processo Penal > Competência,2,3.9016494100681625,1.4893845122160219,PUBLICAR,
+Q0005,5576,Processo Penal > Sentença Penal > Fixação da Pena e do Regime Penitenciário,3,0.09615511056178416,0.09615511056178416,REVISAR,
+Q0006,5160,Penal > Dos Crimes Contra o Patrimônio > Roubo,3,0.8735985824507155,0.8735985824507155,REVISAR,
+Q0007,5466,Processo Penal > Ação Penal,2,2.2240732780400063,0.17185034494915996,REVISAR,código penal
+Q0008,6719,Penal > Dos Crimes contra a Administração Pública (Parte 2),2,1.8865084233086602,0.2252658502338596,REVISAR,
+Q0009,5165,Penal > Dos Crimes Contra o Patrimônio > Apropriação indébita,3,2.531075370803409,2.531075370803409,PUBLICAR,
+Q0010,6717,Penal > Crimes contra o meio ambiente,2,4.449423370791331,0.49050310624792903,PUBLICAR,
+Q0011,4702,Direito Penal - Legislação Especial > Lavagem de Dinheiro,2,0.3549863788126606,0.3549863788126606,REVISAR,
+Q0012,5561,Processo Penal > Recursos em Espécies > Recurso em sentido estrito (RESE),3,1.5058781019506702,1.5058781019506702,REVISAR,lei 9.099/1995 | lei 9.099/1995.
+Q0013,5503,Processo Penal > Inquérito Policial > Juiz das Garantias,3,3.4972088656242466,3.4972088656242466,PUBLICAR,lei nº 13.964/2019
+Q0014,5477,Processo Penal > Ações Autônomas de Impugnação > Habeas Corpus,3,2.4508284182503965,2.4508284182503965,PUBLICAR,
+Q0015,5498,Processo Penal > Inquérito Policial,2,0.4611868752777708,0.8068860448378006,REVISAR,código de processo penal
+Q0016,5571,Processo Penal > Recursos em Espécies > Recurso Especial,3,0.12111220973118453,0.12111220973118453,REVISAR,lei nº 13.964/2019 | constituição
+Q0017,5530,Processo Penal > Procedimento Ordinário,2,0.9999306891890001,0.9999306891890001,REVISAR,
+Q0018,5540,Processo Penal > Procedimento Sumaríssimo > Competência dos Juizados Especiais Criminais,3,2.2524403292453323,2.2524403292453323,PUBLICAR,
+Q0019,5475,Processo Penal > Ação Penal > Ação Civil Ex Delicto,3,6.392393041848178,5.556300688680926,PUBLICAR,constituição
+Q0020,5571,Processo Penal > Recursos em Espécies > Recurso Especial,3,0.3935002399177794,0.3935002399177794,REVISAR,cf | código penal
+Q0021,5503,Processo Penal > Inquérito Policial > Juiz das Garantias,3,4.748126708691188,4.748126708691188,PUBLICAR,
+Q0022,5092,Penal > Dos Crimes Contra a Administração Pública > Corrupção Passiva,3,0.48162404337430953,0.48162404337430953,REVISAR,
+Q0023,5524,Processo Penal > Procedimento do Tribunal do Júri,2,-0.1182787582403817,1.0246333227204927,REVISAR,
+Q0024,4385,Criminologia > Teorias Sociológicas Explicativas da Criminalidade,2,-0.1269935760316736,1.0348777735854329,REVISAR,
+Q0025,5093,Penal > Dos Crimes Contra a Administração Pública > Corrupção Ativa,3,1.9979980934644237,1.9979980934644237,REVISAR,
+Q0026,5131,Penal > Dos Crimes Contra a Liberdade Pessoal > Violência Psicológica contra a Mulher,3,2.8903472078526105,2.8903472078526105,PUBLICAR,
+Q0027,5487,Processo Penal > Comunicação dos Atos Processuais,2,1.026478094795956,1.026478094795956,REVISAR,
+Q0028,5487,Processo Penal > Comunicação dos Atos Processuais,2,1.4761701152814748,1.289297999448821,REVISAR,código de processo penal
+Q0029,4684,Direito Penal - Legislação Especial > Abuso de Autoridade,2,3.461383982481014,0.8315821335512661,PUBLICAR,lei nº 13.869/2019 | lei nº 13.869/2019.
+Q0030,5128,Penal > Dos Crimes Contra a Liberdade Pessoal,2,1.308259469286138,0.5872449379667461,REVISAR,
+Q0031,4385,Criminologia > Teorias Sociológicas Explicativas da Criminalidade,2,4.112534853465965,0.4866963157750934,PUBLICAR,
+Q0032,5498,Processo Penal > Inquérito Policial,2,1.5966895567979784,1.1291355353667543,REVISAR,
+Q0033,5519,Processo Penal > Prisões em Espécie > Prisão Preventiva,3,1.178041573864773,1.178041573864773,REVISAR,código de processo penal
+Q0034,5477,Processo Penal > Ações Autônomas de Impugnação > Habeas Corpus,3,2.3604302307708576,2.3604302307708576,PUBLICAR,
+Q0035,4706,Direito Penal - Legislação Especial > Terrorismo,2,3.568289183196028,3.568289183196028,PUBLICAR,lei no 13.260/2016
+Q0036,5466,Processo Penal > Ação Penal,2,0.2879642663951296,0.2879642663951296,REVISAR,código penal | lei nº 11.340/2006
+Q0037,5132,"Penal > Dos Crimes Contra a Liberdade Pessoal > Sequestro, Cárcere Privado, Redução à Condição Análoga à de Escravo e Tráfico de Pessoas",3,2.7006978289391697,2.7006978289391697,PUBLICAR,código penal tipifica | código penal
+Q0038,5466,Processo Penal > Ação Penal,2,1.737081856556201,1.534419111991543,REVISAR,
+Q0039,4687,Direito Penal - Legislação Especial > Crimes contra a Economia Popular,2,4.325507041651525,4.325507041651525,PUBLICAR,
+Q0040,5562,Processo Penal > Recursos em Espécies > Apelação,3,1.8870687848905146,1.8870687848905146,REVISAR,
+Q0041,5184,Penal > Medida de Segurança,2,5.247926603127711,5.247926603127711,PUBLICAR,código penal adota o sistema do duplo bin | código penal
+Q0042,5225,Penal > Teoria do Crime: Fato Típico > Resultado,3,0.8534606564354599,0.8534606564354599,REVISAR,
+Q0043,5204,Penal > Teoria da Pena > Terceira fase da Dosimetria: Causas de Aumento e de Diminuição,3,0.33891974604059083,0.33891974604059083,REVISAR,código penal
+Q0044,5548,Processo Penal > Provas em Espécies > Confissão,3,1.0978272334482284,1.0978272334482284,REVISAR,
+Q0045,5091,Penal > Dos Crimes Contra a Administração Pública > Concussão e Excesso de Exação,3,4.979853928853473,4.979853928853473,PUBLICAR,
+Q0046,5580,Processo Penal > Sistemas e Princípios Processuais Penais,2,0.5143520992066533,0.07570409262932642,REVISAR,código de processo penal
+Q0047,5466,Processo Penal > Ação Penal,2,0.6839759971733859,0.0430449040737253,REVISAR,código penal
+Q0048,5209,Penal > Teoria da Pena > Efeitos da Condenação Penais e Extrapenais,3,0.031628030347042646,0.031628030347042646,REVISAR,
+Q0049,5152,"Penal > Dos Crimes Contra a Vida > Induzimento, Instigação ou Auxílio ao Suicídio",3,8.840370977207897,8.840370977207897,PUBLICAR,
+Q0050,4708,Direito Penal - Legislação Especial > Tráfico de Drogas,2,0.24105726925447968,0.24105726925447968,REVISAR,lei no 11.343/2006
+Q0051,5466,Processo Penal > Ação Penal,2,0.9735797044088459,0.4268100673292867,REVISAR,
+Q0052,6726,Penal > Teoria da Pena (Parte 1),2,0.9965017387142319,0.023522157199662885,REVISAR,
+Q0053,5540,Processo Penal > Procedimento Sumaríssimo > Competência dos Juizados Especiais Criminais,3,1.6447057837218173,1.6447057837218173,REVISAR,lei nº 9.099
+Q0054,5174,Penal > Introdução ao Estudo do Direito Penal > Classificações dos Crimes,3,0.42980866522008654,0.42980866522008654,REVISAR,constituição
+Q0055,5535,Processo Penal > Procedimento Ordinário > Audiência de Instrução e Julgamento,3,1.2994543523799322,1.2994543523799322,REVISAR,código de processo penal
+Q0056,5066,Penal > Concurso de Crimes,2,1.6650699135719584,0.3325137108228491,REVISAR,
+Q0057,5175,Penal > Iter Criminis,2,6.087563154339135,0.833516426413297,PUBLICAR,
+Q0058,4384,Criminologia > Teorias Legitimidoras da Pena,2,1.9045177030705638,1.9045177030705638,REVISAR,
+Q0059,4384,Criminologia > Teorias Legitimidoras da Pena,2,3.61235968917725,3.61235968917725,PUBLICAR,
+Q0060,5093,Penal > Dos Crimes Contra a Administração Pública > Corrupção Ativa,3,0.5957122058345963,0.5957122058345963,REVISAR,
+Q0061,4703,Direito Penal - Legislação Especial > Lei de Execução Penal,2,0.21837379459760564,0.21837379459760564,REVISAR,
+Q0062,5466,Processo Penal > Ação Penal,2,0.46089731922387145,0.46089731922387145,REVISAR,código penal brasileiro
+Q0063,5487,Processo Penal > Comunicação dos Atos Processuais,2,0.1951331350174721,0.1951331350174721,REVISAR,código de processo penal | lei  nº 11.340/2006 | lei nº 11.340/06
+Q0064,5198,Penal > Punibilidade > Decadência,3,0.22517680719340127,0.22517680719340127,REVISAR,
+Q0065,5161,Penal > Dos Crimes Contra o Patrimônio > Extorsão,3,4.581103981147658,4.581103981147658,PUBLICAR,código penal
+Q0066,4371,Criminologia > Etapas Evolutivas e Escolas Criminológicas,2,5.305866309836572,0.7310084207287666,PUBLICAR,
+Q0067,5087,Penal > Dos Crimes Contra a Administração Pública,2,1.9522591077016238,0.22926072054716418,REVISAR,código penal o t
+Q0068,5096,Penal > Dos Crimes Contra a Administração Pública > Condescendência Criminosa,3,0.13128988048953083,0.13128988048953083,REVISAR,
+Q0069,5508,Processo Penal > Lei Processual no Tempo e no Espaço > Interpretação da Lei processual Penal,3,0.5858391743732021,0.5858391743732021,REVISAR,
+Q0070,5185,Penal > Prescrição,2,1.4821082436910125,1.4821082436910125,REVISAR,lei nº 11.343/2006 | código penal
+Q0071,5228,Penal > Teoria do Crime: Ilicitude,2,2.123150814349069,0.9522646414616593,REVISAR,
+Q0072,5498,Processo Penal > Inquérito Policial,2,0.526952325465448,0.25044937284177937,REVISAR,
+Q0073,5087,Penal > Dos Crimes Contra a Administração Pública,2,-1.4537606851063112,0.4615928842495798,REVISAR,
+Q0074,6727,Penal > Teoria da Pena (Parte 2),2,2.340480290187242,0.508332885378171,PUBLICAR,
+Q0075,5185,Penal > Prescrição,2,0.9667502866723616,0.9667502866723616,REVISAR,
+Q0076,4380,Criminologia > Teoria Geral da Criminologia,2,0.504463268754999,0.05816344610614088,REVISAR,
+Q0077,5173,Penal > Introdução ao Estudo do Direito Penal > Interpretação da Norma Penal,3,0.17000894765854824,0.17000894765854824,REVISAR,lei  12.015/2009 | lei  2.889/1956 | lei 2.889/1956 | código penal | código penal  brasileiro | código eleitoral
+Q0078,4691,Direito Penal - Legislação Especial > Crimes de Trânsito,2,0.9678974578738773,0.9678974578738773,REVISAR,código de tr
+Q0079,5580,Processo Penal > Sistemas e Princípios Processuais Penais,2,3.3657139798287843,0.22264937550457553,PUBLICAR,
+Q0080,4370,Criminologia > Criminologia no Estado Democrático de Direito > Modelos de Reação ao Delito,3,5.099873468374456,4.81733758440032,PUBLICAR,
+Q0081,4371,Criminologia > Etapas Evolutivas e Escolas Criminológicas,2,3.002088242178088,0.4599157689569422,PUBLICAR,
+Q0082,5091,Penal > Dos Crimes Contra a Administração Pública > Concussão e Excesso de Exação,3,2.123804236039799,2.123804236039799,REVISAR,código penal
+Q0083,5150,Penal > Dos Crimes Contra a Vida > Homicídio,3,5.0702300091125005,5.0702300091125005,PUBLICAR,
+Q0084,5114,Penal > Dos Crimes contra a Família > Dos Crimes Contra a Assistência Familiar,3,0.5452227620519468,0.5452227620519468,REVISAR,
+Q0085,5076,"Penal > Concurso de Pessoas > Comunicabilidade de Circunstâncias, Condições e Elementares",3,2.279303905549483,2.279303905549483,PUBLICAR,
+Q0086,5092,Penal > Dos Crimes Contra a Administração Pública > Corrupção Passiva,3,0.7067181335045949,0.7067181335045949,REVISAR,
+Q0087,4703,Direito Penal - Legislação Especial > Lei de Execução Penal,2,1.0077094092704915,0.5074096809356137,REVISAR,
+Q0088,4389,Criminologia > Vitimologia,2,4.305766038779046,2.0072582228386633,PUBLICAR,
+Q0089,5063,Penal > Ação Penal,2,0.3882140933740157,0.3882140933740157,REVISAR,
+Q0090,5530,Processo Penal > Procedimento Ordinário,2,0.6344749089932478,0.6344749089932478,REVISAR,código de  processo  penal | código  de  processo  penal
+Q0091,5208,Penal > Teoria da Pena > Livramento Condicional,3,1.1888640801163453,0.7922267129557836,REVISAR,
+Q0092,5487,Processo Penal > Comunicação dos Atos Processuais,2,0.48877176432049296,0.48877176432049296,REVISAR,
+Q0093,5142,Penal > Dos Crimes Contra a Periclitação da Vida e da Saúde > Omissão de Socorro,3,0.5122554938580297,0.5122554938580297,REVISAR,
+Q0094,4385,Criminologia > Teorias Sociológicas Explicativas da Criminalidade,2,2.5936495804384263,0.48932343239859843,PUBLICAR,
+Q0095,5197,Penal > Punibilidade > Perdão Judicial,3,0.1425797060586036,0.1425797060586036,REVISAR,
+Q0096,5480,Processo Penal > Competência,2,2.906891385283068,0.5922032310743912,PUBLICAR,
+Q0097,6728,Penal > Tráfico de Drogas,2,1.3505639835924317,0.20421012181719256,REVISAR,lei nº 9.613/1998
+Q0098,5548,Processo Penal > Provas em Espécies > Confissão,3,4.078470006795539,4.078470006795539,PUBLICAR,constituição
+Q0099,5077,Penal > Das Lesões Corporais,2,3.271949904931915,3.271949904931915,PUBLICAR,
+Q0100,5103,Penal > Dos Crimes Contra a Dignidade Sexual > Estupro e Estupro de Vulnerável,3,2.2779487270776144,2.2779487270776144,PUBLICAR,
+Q0101,6724,Penal > Lei Maria da Penha,2,1.201565842744185,1.0959668170010302,REVISAR,
+Q0102,5577,Processo Penal > Sentença Penal > Efeitos Decorrentes da Sentença Penal Condenatória,3,0.41551345543024176,0.41551345543024176,REVISAR,
+Q0103,5478,Processo Penal > Ações Autônomas de Impugnação > Revisão Criminal,3,1.7174292057028637,1.7174292057028637,REVISAR,
+Q0104,5498,Processo Penal > Inquérito Policial,2,1.906438646693152,0.9146284150635786,REVISAR,
+Q0105,4385,Criminologia > Teorias Sociológicas Explicativas da Criminalidade,2,4.6319220515383694,0.8470454367122588,PUBLICAR,
+Q0106,5157,Penal > Dos Crimes Contra o Patrimônio,2,0.26337823142632244,0.9446149712843037,REVISAR,
+Q0107,5119,Penal > Dos Crimes Contra a Fé Pública e de Falsidade Documental > De outras falsidades,3,2.153097343651093,2.153097343651093,REVISAR,
+Q0108,5530,Processo Penal > Procedimento Ordinário,2,-0.824474273423144,0.05020409066257603,REVISAR,código de processo penal
+Q0109,4708,Direito Penal - Legislação Especial > Tráfico de Drogas,2,0.561031815035685,0.561031815035685,REVISAR,
+Q0110,5480,Processo Penal > Competência,2,1.6336801287039613,0.2166006255053814,REVISAR,código penal
+Q0111,4384,Criminologia > Teorias Legitimidoras da Pena,2,3.659326812675432,3.659326812675432,PUBLICAR,constituição
+Q0112,6725,Penal > Organizações Criminosas,2,0.15581284834673426,0.15581284834673426,REVISAR,
+Q0113,5185,Penal > Prescrição,2,0.5532075195365236,0.5532075195365236,REVISAR,
+Q0114,5466,Processo Penal > Ação Penal,2,0.3487353748056714,0.3343894481288201,REVISAR,
+Q0115,4385,Criminologia > Teorias Sociológicas Explicativas da Criminalidade,2,4.206377162644111,0.44276349308144347,PUBLICAR,
+Q0116,4708,Direito Penal - Legislação Especial > Tráfico de Drogas,2,2.5705718706704808,1.7138566952714287,PUBLICAR,
+Q0117,4384,Criminologia > Teorias Legitimidoras da Pena,2,3.7166997393445618,3.7166997393445618,PUBLICAR,
+Q0118,5519,Processo Penal > Prisões em Espécie > Prisão Preventiva,3,0.09822753568455411,0.09822753568455411,REVISAR,
+Q0119,5505,Processo Penal > Lei Processual no Tempo e no Espaço,2,0.7915630577618913,0.097089852692128,REVISAR,
+Q0120,5580,Processo Penal > Sistemas e Princípios Processuais Penais,2,1.7239610956344258,0.5124954163111672,REVISAR,
+Q0121,5466,Processo Penal > Ação Penal,2,2.3207655858558844,0.7087264332223429,PUBLICAR,
+Q0122,6727,Penal > Teoria da Pena (Parte 2),2,0.718340724886021,0.12365102568514219,REVISAR,
+Q0123,4368,Criminologia > Criminologia no Estado Democrático de Direito,2,2.383846192807839,0.8094768689856497,PUBLICAR,
+Q0124,4384,Criminologia > Teorias Legitimidoras da Pena,2,3.274109787115925,3.274109787115925,PUBLICAR,
+Q0125,4703,Direito Penal - Legislação Especial > Lei de Execução Penal,2,0.6573144319851294,0.38321281401281126,REVISAR,
+Q0126,5466,Processo Penal > Ação Penal,2,1.608427237575547,0.34198506540750095,REVISAR,código penal brasileiro aplicam
+Q0127,5530,Processo Penal > Procedimento Ordinário,2,1.1873882595571228,0.1763555026573682,REVISAR,"lei
+nº 11.343/2006 | código de processo penal | lei nº 11.343/2006 | código penal | constituição"
+Q0128,5466,Processo Penal > Ação Penal,2,0.4763700342155843,0.07477388857405298,REVISAR,
+Q0129,5535,Processo Penal > Procedimento Ordinário > Audiência de Instrução e Julgamento,3,0.4290367433273383,0.4290367433273383,REVISAR,
+Q0130,5205,Penal > Teoria da Pena > Penas Restritivas de Direitos,3,2.642505319190213,2.642505319190213,PUBLICAR,
+Q0131,5074,Penal > Concurso de Pessoas > Participação,3,1.159171864138255,1.159171864138255,REVISAR,
+Q0132,5487,Processo Penal > Comunicação dos Atos Processuais,2,2.1327069902195657,2.1327069902195657,REVISAR,
+Q0133,5524,Processo Penal > Procedimento do Tribunal do Júri,2,2.604140335017492,0.0029772166433934544,PUBLICAR,
+Q0134,5087,Penal > Dos Crimes Contra a Administração Pública,2,-0.474204057488397,0.3392747504641984,REVISAR,código penal brasileiro em vigor
+Q0135,5169,Penal > Dos Crimes Contra o Patrimônio > Receptação,3,3.109038934118173,3.109038934118173,PUBLICAR,
+Q0136,6724,Penal > Lei Maria da Penha,2,4.433389862026621,1.4431987573593323,PUBLICAR,
+Q0137,5498,Processo Penal > Inquérito Policial,2,0.34836015877694937,0.3251042468557852,REVISAR,constituição
+Q0138,5205,Penal > Teoria da Pena > Penas Restritivas de Direitos,3,0.6995081860500036,0.6995081860500036,REVISAR,
+Q0139,5212,Penal > Teoria do Crime: Culpabilidade > Conceito e Elementos da Culpabilidade,3,1.4688615203970157,1.4688615203970157,REVISAR,
+Q0140,5070,Penal > Concurso de Crimes > Pena de Multa no Concurso de Crimes,3,0.3697659282294694,0.3697659282294694,REVISAR,
+Q0141,4385,Criminologia > Teorias Sociológicas Explicativas da Criminalidade,2,4.185856215407789,1.09973718379283,PUBLICAR,
+Q0142,5113,Penal > Dos Crimes contra a Família > Dos Crimes Contra o Estado de Filiação,3,1.0496699291040095,1.0496699291040095,REVISAR,
+Q0143,5505,Processo Penal > Lei Processual no Tempo e no Espaço,2,1.7092314185966755,0.28169306205048983,REVISAR,
+Q0144,5524,Processo Penal > Procedimento do Tribunal do Júri,2,-0.6206610337677025,0.97578499526887,REVISAR,código de processo penal
+Q0145,4702,Direito Penal - Legislação Especial > Lavagem de Dinheiro,2,2.053250682410283,1.6082594186072692,REVISAR,lei nº 12.683
+Q0146,5548,Processo Penal > Provas em Espécies > Confissão,3,0.7689739003089757,0.7689739003089757,REVISAR,constituição
+Q0147,5498,Processo Penal > Inquérito Policial,2,1.26572191762836,1.5607382406704913,REVISAR,
+Q0148,5203,Penal > Teoria da Pena > Segunda Fase da Dosimetria: Agravantes e Atenuantes,3,3.292879919707282,3.292879919707282,PUBLICAR,
+Q0149,5498,Processo Penal > Inquérito Policial,2,1.0804250995209186,0.9022537047721437,REVISAR,
+Q0150,4708,Direito Penal - Legislação Especial > Tráfico de Drogas,2,2.623089129095738,1.3053039139706843,PUBLICAR,
+Q0151,5522,Processo Penal > Prisões em Espécie > Medidas Cautelares Diversas da Prisão,3,2.411272465472818,2.411272465472818,PUBLICAR,código  de  processo  penal | código de processo penal passou  a  estabelecer  a  pris
+Q0152,5466,Processo Penal > Ação Penal,2,0.8290671788212727,0.8290671788212727,REVISAR,código de processo penal
+Q0153,5175,Penal > Iter Criminis,2,4.6124906553523735,0.946413843821575,PUBLICAR,
+Q0154,5134,"Penal > Dos Crimes contra a Organização do Trabalho, a Propriedade Imaterial e ao Sentimento Religioso",2,0.4003086095209185,0.46946284722194953,REVISAR,
+Q0155,5184,Penal > Medida de Segurança,2,1.813656900864757,1.813656900864757,REVISAR,
+Q0156,5207,Penal > Teoria da Pena > Suspensão Condicional da Pena,3,1.9549645145068535,1.9549645145068535,REVISAR,
+Q0157,5520,Processo Penal > Prisões em Espécie > Prisão Temporária,3,1.104009960273773,1.104009960273773,REVISAR,código penal
+Q0158,6727,Penal > Teoria da Pena (Parte 2),2,0.009716505100406003,0.009716505100406003,REVISAR,lei no 9.455
+Q0159,5150,Penal > Dos Crimes Contra a Vida > Homicídio,3,1.5952450668986922,1.5952450668986922,REVISAR,
+Q0160,6727,Penal > Teoria da Pena (Parte 2),2,2.5838221085697164,0.09805735856748576,PUBLICAR,
+Q0161,5518,Processo Penal > Prisões em Espécie > Prisão em Flagrante,3,2.6244950583555715,2.6244950583555715,PUBLICAR,
+Q0162,4380,Criminologia > Teoria Geral da Criminologia,2,-0.6902303061491968,0.5208399326882414,REVISAR,
+Q0163,4708,Direito Penal - Legislação Especial > Tráfico de Drogas,2,1.166329428184949,1.166329428184949,REVISAR,lei nº 4.898/1965. | lei nº 4.898/1965 | código penal
+Q0164,6727,Penal > Teoria da Pena (Parte 2),2,0.8509855052013129,0.48431820822003324,REVISAR,
+Q0165,5530,Processo Penal > Procedimento Ordinário,2,0.5306131447725009,0.5306131447725009,REVISAR,
+Q0166,5530,Processo Penal > Procedimento Ordinário,2,-0.9802754292676616,0.25855771052657106,REVISAR,código penal
+Q0167,5487,Processo Penal > Comunicação dos Atos Processuais,2,1.8041519807315094,1.8041519807315094,REVISAR,
+Q0168,5225,Penal > Teoria do Crime: Fato Típico > Resultado,3,1.2014279465441673,1.2014279465441673,REVISAR,
+Q0169,5492,"Processo Penal > Das Questões e Processos Incidentes > Exceção de Suspeição, de Impedimento ou de Incompatibilidade",3,4.971247264141609,4.4821319806215625,PUBLICAR,código de processo penal
+Q0170,5185,Penal > Prescrição,2,1.2313637769701957,1.2081394091719564,REVISAR,código penal militar e terminou de cumprir a pena no ano de
+Q0171,5185,Penal > Prescrição,2,0.19740549407479602,0.19740549407479602,REVISAR,lei nº 13.964/2019 | código penal
+Q0172,5466,Processo Penal > Ação Penal,2,0.7093674971054025,0.19778498339324901,REVISAR,
+Q0173,5537,Processo Penal > Procedimento Ordinário > Sentença,3,0.09580201384105891,0.09580201384105891,REVISAR,
+Q0174,5063,Penal > Ação Penal,2,0.06339036887354244,0.06339036887354244,REVISAR,código penal
+Q0175,5092,Penal > Dos Crimes Contra a Administração Pública > Corrupção Passiva,3,0.48255044694250415,0.48255044694250415,REVISAR,código de tr | código penal
+Q0176,5081,Penal > Dos Crimes Contra a Administração Judicial > Falso Testemunha ou Falsa Perícia e Corrupção Ativa de Testemunha ou Perito,3,2.614236075739523,2.614236075739523,PUBLICAR,
+Q0177,5548,Processo Penal > Provas em Espécies > Confissão,3,0.8938797841144908,0.8938797841144908,REVISAR,
+Q0178,4697,Direito Penal - Legislação Especial > Estatuto do Desarmamento,2,0.39555214649468073,0.39555214649468073,REVISAR,lei nº 10.826 | lei nº 10.826/2003
+Q0179,4368,Criminologia > Criminologia no Estado Democrático de Direito,2,2.779889831648207,0.6380905364807141,PUBLICAR,
+Q0180,5554,Processo Penal > Provas em Espécies > Busca e Apreensão,3,1.5975924208263477,1.5975924208263477,REVISAR,
+Q0181,4695,Direito Penal - Legislação Especial > Crimes Tributários,2,0.544346141692222,0.544346141692222,REVISAR,
+Q0182,5139,Penal > Dos Crimes Contra a Periclitação da Vida e da Saúde > Perigo de Contágio Venéreo e de Moléstia Grave,3,1.7731473298806568,1.7731473298806568,REVISAR,
+Q0183,5185,Penal > Prescrição,2,0.9507891398783563,0.9507891398783563,REVISAR,
+Q0184,5518,Processo Penal > Prisões em Espécie > Prisão em Flagrante,3,1.0755937567546967,1.0755937567546967,REVISAR,
+Q0185,5576,Processo Penal > Sentença Penal > Fixação da Pena e do Regime Penitenciário,3,1.0937497282042346,1.0937497282042346,REVISAR,
+Q0186,5202,Penal > Teoria da Pena > Primeira Fase da Dosimetria: Circunstâncias Judiciais,3,5.713563564673043,5.713563564673043,PUBLICAR,código penal
+Q0187,5198,Penal > Punibilidade > Decadência,3,0.17774751198636274,0.17774751198636274,REVISAR,
+Q0188,5228,Penal > Teoria do Crime: Ilicitude,2,-0.12295653519248972,0.06258244539271285,REVISAR,
+Q0189,5063,Penal > Ação Penal,2,0.4459774621475594,1.234008106617022,REVISAR,
+Q0190,5540,Processo Penal > Procedimento Sumaríssimo > Competência dos Juizados Especiais Criminais,3,1.7025704177629333,1.7025704177629333,REVISAR,código penal
+Q0191,5560,Processo Penal > Recursos em Espécies,2,0.1994551420631856,0.1994551420631856,REVISAR,código de processo penal
+Q0192,5091,Penal > Dos Crimes Contra a Administração Pública > Concussão e Excesso de Exação,3,3.7222918487533025,3.7222918487533025,PUBLICAR,
+Q0193,5557,Processo Penal > Provas em Espécies > Colaboração Premiada,3,2.7578035316710103,2.7578035316710103,PUBLICAR,
+Q0194,5218,Penal > Teoria do Crime: Fato Típico,2,0.2735385237749446,0.5260492468438809,REVISAR,
+Q0195,4371,Criminologia > Etapas Evolutivas e Escolas Criminológicas,2,3.2786695010021205,0.512421478385539,PUBLICAR,
+Q0196,4385,Criminologia > Teorias Sociológicas Explicativas da Criminalidade,2,3.611339600422369,0.9571655356020718,PUBLICAR,
+Q0197,5498,Processo Penal > Inquérito Policial,2,3.159649049852817,0.6456231886392425,PUBLICAR,
+Q0198,5073,"Penal > Concurso de Pessoas > Autoria Mediata, Colateral e Coautoria",3,3.3961727744938353,3.3961727744938353,PUBLICAR,
+Q0199,5218,Penal > Teoria do Crime: Fato Típico,2,0.9252460712553625,0.028406505692861295,REVISAR,código  penal  brasileiro  admite  a  exculpa
+Q0200,6725,Penal > Organizações Criminosas,2,3.3063636055683543,0.8986228334173054,PUBLICAR,
+Q0201,5103,Penal > Dos Crimes Contra a Dignidade Sexual > Estupro e Estupro de Vulnerável,3,6.148001878827672,6.148001878827672,PUBLICAR,
+Q0202,5548,Processo Penal > Provas em Espécies > Confissão,3,0.20415026564282535,0.20415026564282535,REVISAR,
+Q0203,4702,Direito Penal - Legislação Especial > Lavagem de Dinheiro,2,6.080030140907127,1.3908978332482818,PUBLICAR,
+Q0204,5505,Processo Penal > Lei Processual no Tempo e no Espaço,2,1.291865371602647,0.1922319084177131,REVISAR,
+Q0205,5574,Processo Penal > Sentença Penal > Sentença Absolutória,3,0.5836654841658175,0.5836654841658175,REVISAR,
+Q0206,5487,Processo Penal > Comunicação dos Atos Processuais,2,1.2149397398319666,1.2149397398319666,REVISAR,
+Q0207,5185,Penal > Prescrição,2,0.43205325269649997,0.43205325269649997,REVISAR,
+Q0208,5150,Penal > Dos Crimes Contra a Vida > Homicídio,3,1.729696467674536,1.729696467674536,REVISAR,
+Q0209,5498,Processo Penal > Inquérito Policial,2,1.783958695584949,0.18709101476673684,REVISAR,
+Q0210,4697,Direito Penal - Legislação Especial > Estatuto do Desarmamento,2,1.883031630894732,1.883031630894732,REVISAR,lei nº 10.826/2003
+Q0211,5487,Processo Penal > Comunicação dos Atos Processuais,2,1.5097073405300758,1.5097073405300758,REVISAR,
+Q0212,5487,Processo Penal > Comunicação dos Atos Processuais,2,1.3508772111360443,1.3508772111360443,REVISAR,código de processo civil
+Q0213,4708,Direito Penal - Legislação Especial > Tráfico de Drogas,2,0.052340232833038236,0.052340232833038236,REVISAR,lei nº 11.343/2006 | lei nº 11.343
+Q0214,5494,Processo Penal > Das Questões e Processos Incidentes > Exceção de Litispendência e de Coisa Julgada,3,1.1763578312660155,1.1763578312660155,REVISAR,
+Q0215,5576,Processo Penal > Sentença Penal > Fixação da Pena e do Regime Penitenciário,3,1.4137251581721388,1.4137251581721388,REVISAR,
+Q0216,5063,Penal > Ação Penal,2,0.49053971275039654,0.16470052651957,REVISAR,
+Q0217,4384,Criminologia > Teorias Legitimidoras da Pena,2,5.318040580536423,5.318040580536423,PUBLICAR,
+Q0218,5518,Processo Penal > Prisões em Espécie > Prisão em Flagrante,3,5.906107226653573,5.906107226653573,PUBLICAR,
+Q0219,5074,Penal > Concurso de Pessoas > Participação,3,3.3505933786566287,2.131791071171196,PUBLICAR,
+Q0220,5501,Processo Penal > Inquérito Policial > Conclusão e Arquivamento do Inquérito Policial,3,3.479371816818131,3.479371816818131,PUBLICAR,
+Q0221,5201,Penal > Teoria da Pena > Penas Privativas de Liberdade,3,1.4601446961682303,1.4601446961682303,REVISAR,
+Q0222,4376,Criminologia > Política Criminal > Direito Penal do Inimigo,3,0.9468502619112016,0.9468502619112016,REVISAR,
+Q0223,5084,Penal > Dos Crimes Contra a Administração Judicial > Favorecimento Pessoal e Real,3,5.238934414511259,5.238934414511259,PUBLICAR,
+Q0224,5207,Penal > Teoria da Pena > Suspensão Condicional da Pena,3,1.6606154402700444,1.6606154402700444,REVISAR,
+Q0225,5571,Processo Penal > Recursos em Espécies > Recurso Especial,3,0.8739317522765617,0.8739317522765617,REVISAR,constituição
+Q0226,5544,Processo Penal > Provas em Espécies > Cadeia de Custódia,3,1.1186759977671663,1.1186759977671663,REVISAR,código de rastreamento | código de processo penal disciplina acerca do procedimento da cadeia de cust | lei nº 13.964/19
+Q0227,5103,Penal > Dos Crimes Contra a Dignidade Sexual > Estupro e Estupro de Vulnerável,3,3.200809184821135,3.200809184821135,PUBLICAR,
+Q0228,5208,Penal > Teoria da Pena > Livramento Condicional,3,1.2683926853327598,1.2683926853327598,REVISAR,
+Q0229,5505,Processo Penal > Lei Processual no Tempo e no Espaço,2,-0.2085668895291133,0.18010163603193075,REVISAR,
+Q0230,5211,Penal > Teoria do Crime: Culpabilidade,2,-1.4345056576249116,0.3412461682587029,REVISAR,
+Q0231,5224,Penal > Teoria do Crime: Fato Típico > Erro de Tipo,3,1.8968213030352405,1.8968213030352405,REVISAR,
+Q0232,5080,"Penal > Dos Crimes Contra a Administração Judicial > Denunciação Caluniosa, Comunicação Falsa de Crime ou Contravenção e Autoacusação Falsa",3,0.13105884131458811,0.13105884131458811,REVISAR,código penal
+Q0233,5178,"Penal > Iter Criminis > Desistência Voluntária, Arrependimento Eficaz e Arrependimento posterior",3,8.792574027741127,8.792574027741127,PUBLICAR,
+Q0234,4380,Criminologia > Teoria Geral da Criminologia,2,2.7081656511827354,0.3165849378735084,PUBLICAR,
+Q0235,6733,Processo Penal > Competência (Parte 2),2,1.3760488639986272,0.37469902914342956,REVISAR,
+Q0236,5530,Processo Penal > Procedimento Ordinário,2,0.27148746447755734,0.02960064078529001,REVISAR,
+Q0237,5178,"Penal > Iter Criminis > Desistência Voluntária, Arrependimento Eficaz e Arrependimento posterior",3,10.657615007998645,10.657615007998645,PUBLICAR,
+Q0238,5466,Processo Penal > Ação Penal,2,-0.6356802763918048,1.2566632911263436,REVISAR,código de processo penal
+Q0239,5207,Penal > Teoria da Pena > Suspensão Condicional da Pena,3,0.6152756087435511,0.6152756087435511,REVISAR,código penal
+Q0240,5498,Processo Penal > Inquérito Policial,2,-1.02183098623115,0.5119701946003139,REVISAR,
+Q0241,5224,Penal > Teoria do Crime: Fato Típico > Erro de Tipo,3,1.8995303838087594,1.8995303838087594,REVISAR,
+Q0242,5560,Processo Penal > Recursos em Espécies,2,0.32407443612189013,0.22957616022956095,REVISAR,
+Q0243,5178,"Penal > Iter Criminis > Desistência Voluntária, Arrependimento Eficaz e Arrependimento posterior",3,8.765861136963245,8.60811226272351,PUBLICAR,
+Q0244,5091,Penal > Dos Crimes Contra a Administração Pública > Concussão e Excesso de Exação,3,2.414897837964956,2.414897837964956,PUBLICAR,
+Q0245,5185,Penal > Prescrição,2,3.9221285254184526,1.2589969805667014,PUBLICAR,
+Q0246,5524,Processo Penal > Procedimento do Tribunal do Júri,2,1.418151046286832,0.43820930960976057,REVISAR,
+Q0247,5502,Processo Penal > Inquérito Policial > Acordo de Não Persecução Penal,3,3.6100281627508357,3.6100281627508357,PUBLICAR,
+Q0248,5087,Penal > Dos Crimes Contra a Administração Pública,2,1.1598865171459094,0.005862546248444289,REVISAR,
+Q0249,5466,Processo Penal > Ação Penal,2,0.36475650549187133,0.36475650549187133,REVISAR,
+Q0250,5202,Penal > Teoria da Pena > Primeira Fase da Dosimetria: Circunstâncias Judiciais,3,1.3134543993509205,1.3134543993509205,REVISAR,
+Q0251,5198,Penal > Punibilidade > Decadência,3,0.610101445714526,0.610101445714526,REVISAR,código penal
+Q0252,5208,Penal > Teoria da Pena > Livramento Condicional,3,2.491106609246029,2.491106609246029,PUBLICAR,
+Q0253,4384,Criminologia > Teorias Legitimidoras da Pena,2,4.141019202813156,4.141019202813156,PUBLICAR,
+Q0254,5487,Processo Penal > Comunicação dos Atos Processuais,2,2.5577428898334245,2.199803496726849,PUBLICAR,lei nº 11.340/2016
+Q0255,5211,Penal > Teoria do Crime: Culpabilidade,2,-1.0904803908843839,0.040923951126481395,REVISAR,
+Q0256,5218,Penal > Teoria do Crime: Fato Típico,2,1.1083495385600308,1.883206599939431,REVISAR,
+Q0257,5218,Penal > Teoria do Crime: Fato Típico,2,-1.0765660186513712,0.6511367330944466,REVISAR,constituição | código em seu dispositivo prefacial
+Q0258,5545,Processo Penal > Provas em Espécies > Exame de Corpo de Delito,3,3.4688433213773164,3.4688433213773164,PUBLICAR,
+Q0259,5228,Penal > Teoria do Crime: Ilicitude,2,2.115584994794204,0.022068862871284622,REVISAR,
+Q0260,4368,Criminologia > Criminologia no Estado Democrático de Direito,2,0.3484082147286296,0.3484082147286296,REVISAR,
+Q0261,5466,Processo Penal > Ação Penal,2,1.4915566029087097,0.15901617314602667,REVISAR,código penal
+Q0262,5184,Penal > Medida de Segurança,2,0.4142496391528425,0.4142496391528425,REVISAR,
+Q0263,5548,Processo Penal > Provas em Espécies > Confissão,3,0.7646698509843173,0.7646698509843173,REVISAR,
+Q0264,5103,Penal > Dos Crimes Contra a Dignidade Sexual > Estupro e Estupro de Vulnerável,3,2.8342092217999113,2.8342092217999113,PUBLICAR,
+Q0265,5185,Penal > Prescrição,2,0.36975991211051795,0.36975991211051795,REVISAR,
+Q0266,5524,Processo Penal > Procedimento do Tribunal do Júri,2,1.550670817979439,0.1617379051677137,REVISAR,
+Q0267,5518,Processo Penal > Prisões em Espécie > Prisão em Flagrante,3,1.0727001413813957,1.0727001413813957,REVISAR,lei nº 11.343
+Q0268,5228,Penal > Teoria do Crime: Ilicitude,2,0.02704513171023759,0.02704513171023759,REVISAR,
+Q0269,5170,Penal > Introdução ao Estudo do Direito Penal,2,0.008769022714920638,1.7426771381231978,REVISAR,
+Q0270,5092,Penal > Dos Crimes Contra a Administração Pública > Corrupção Passiva,3,0.5526594514795882,0.5526594514795882,REVISAR,código penal
+Q0271,5560,Processo Penal > Recursos em Espécies,2,-0.2660972658079013,0.9937083422112121,REVISAR,código de
+Q0272,6734,Processo Penal > Lei de Execução Penal,2,2.361122860345521,0.019170332787419753,PUBLICAR,
+Q0273,5096,Penal > Dos Crimes Contra a Administração Pública > Condescendência Criminosa,3,1.1828030709572372,1.1828030709572372,REVISAR,
+Q0274,5157,Penal > Dos Crimes Contra o Patrimônio,2,1.2303765440677417,1.4057138497218062,REVISAR,
+Q0275,5487,Processo Penal > Comunicação dos Atos Processuais,2,2.0855732183162994,2.0855732183162994,REVISAR,lei nº 9.099/1995 | lei nº 9.099/1995.
+Q0276,5545,Processo Penal > Provas em Espécies > Exame de Corpo de Delito,3,0.638556833155306,0.638556833155306,REVISAR,
+Q0277,4696,Direito Penal - Legislação Especial > Estaturo de Idoso - Crimes,2,1.5468835764221636,1.5468835764221636,REVISAR,
+Q0278,5207,Penal > Teoria da Pena > Suspensão Condicional da Pena,3,0.08393425392685483,0.08393425392685483,REVISAR,
+Q0279,5178,"Penal > Iter Criminis > Desistência Voluntária, Arrependimento Eficaz e Arrependimento posterior",3,2.9302716682533294,2.9302716682533294,PUBLICAR,
+Q0280,5487,Processo Penal > Comunicação dos Atos Processuais,2,1.1473205508310507,1.1473205508310507,REVISAR,
+Q0281,5555,Processo Penal > Provas em Espécies > Interceptação Telefônica e Quebra do Sigilo de Dados Telefônicos,3,1.817191836855475,1.817191836855475,REVISAR,
+Q0282,4697,Direito Penal - Legislação Especial > Estatuto do Desarmamento,2,0.11861318422881162,0.11861318422881162,REVISAR,
+Q0283,5496,"Processo Penal > Das Questões e Processos Incidentes > Medidas Assecuratórias: Sequestro, Hipoteca Legal e Arresto",3,0.6281822370021866,0.6281822370021866,REVISAR,
+Q0284,5530,Processo Penal > Procedimento Ordinário,2,-0.8014099763814251,0.5146849070704111,REVISAR,código de processo penal | código penal
+Q0285,4376,Criminologia > Política Criminal > Direito Penal do Inimigo,3,3.1982676967131516,3.1982676967131516,PUBLICAR,
+Q0286,5069,Penal > Concurso de Crimes > Crime Continuado,3,0.9529841194499387,0.9529841194499387,REVISAR,
+Q0287,5228,Penal > Teoria do Crime: Ilicitude,2,1.6578117902536222,1.6850099729818115,REVISAR,código penal
+Q0288,5066,Penal > Concurso de Crimes,2,-0.5707468583481496,0.18895636542602423,REVISAR,código penal
+Q0289,4704,Direito Penal - Legislação Especial > Lei Maria da Penha,2,0.7945175020910096,0.7945175020910096,REVISAR,lei nº 11.340/2006 | lei nº 11.340/2006.
+Q0290,5466,Processo Penal > Ação Penal,2,0.8936576699938223,0.008529820377011887,REVISAR,lei nº 9.099/1995
+Q0291,4708,Direito Penal - Legislação Especial > Tráfico de Drogas,2,1.0843858982038386,1.0843858982038386,REVISAR,
+Q0292,4374,Criminologia > Política Criminal,2,2.515498873644697,0.7652079349631027,PUBLICAR,constituição
+Q0293,5185,Penal > Prescrição,2,2.5529265378600994,0.03972319273459313,PUBLICAR,
+Q0294,5214,Penal > Teoria do Crime: Culpabilidade > Erro de Proibição,3,0.4977940622601835,0.4977940622601835,REVISAR,
+Q0295,5487,Processo Penal > Comunicação dos Atos Processuais,2,2.859850489728385,0.5791186266688602,PUBLICAR,
+Q0296,5063,Penal > Ação Penal,2,1.6253435612750469,0.04585687233538405,REVISAR,
+Q0297,4689,Direito Penal - Legislação Especial > Crimes contra o Sistema Financeiro,2,1.4470462984868586,1.4470462984868586,REVISAR,lei 8137/90
+Q0298,5228,Penal > Teoria do Crime: Ilicitude,2,0.04224129013488387,0.04224129013488387,REVISAR,
+Q0299,4384,Criminologia > Teorias Legitimidoras da Pena,2,2.134180847669196,2.134180847669196,REVISAR,
+Q0300,5084,Penal > Dos Crimes Contra a Administração Judicial > Favorecimento Pessoal e Real,3,4.808260663120944,4.808260663120944,PUBLICAR,
+Q0301,5197,Penal > Punibilidade > Perdão Judicial,3,3.2231557317787267,3.2231557317787267,PUBLICAR,
+Q0302,5214,Penal > Teoria do Crime: Culpabilidade > Erro de Proibição,3,0.14463130428801207,0.14463130428801207,REVISAR,
+Q0303,5466,Processo Penal > Ação Penal,2,1.0857881463151404,0.5646973412943836,REVISAR,
+Q0304,5540,Processo Penal > Procedimento Sumaríssimo > Competência dos Juizados Especiais Criminais,3,0.9421333312933111,0.9421333312933111,REVISAR,lei nº 9.099/1995
+Q0305,5063,Penal > Ação Penal,2,2.69186681142751,0.08976023559746604,PUBLICAR,
+Q0306,5144,Penal > Dos Crimes Contra a Saúde Pública e Dos Crimes Contra à Paz Pública,2,0.4833746847642404,0.5499605872955131,REVISAR,
+Q0307,5548,Processo Penal > Provas em Espécies > Confissão,3,0.9410619674279648,0.9410619674279648,REVISAR,
+Q0308,5498,Processo Penal > Inquérito Policial,2,2.060069385408214,0.1934806665311095,REVISAR,
+Q0309,5206,Penal > Teoria da Pena > Pena de Multa,3,0.9080801801317939,0.9080801801317939,REVISAR,lei nº 9.605/98. | lei nº 9.605/98
+Q0310,5508,Processo Penal > Lei Processual no Tempo e no Espaço > Interpretação da Lei processual Penal,3,2.045400657418649,2.045400657418649,REVISAR,código  de  processo  penal | código  de  processo  penal  de  natureza  h
+Q0311,5487,Processo Penal > Comunicação dos Atos Processuais,2,2.418319478814328,2.418319478814328,PUBLICAR,
+Q0312,4384,Criminologia > Teorias Legitimidoras da Pena,2,4.930830848943149,4.930830848943149,PUBLICAR,
+Q0313,5209,Penal > Teoria da Pena > Efeitos da Condenação Penais e Extrapenais,3,0.06624327269695662,0.06624327269695662,REVISAR,
+Q0314,5477,Processo Penal > Ações Autônomas de Impugnação > Habeas Corpus,3,4.60717482564872,4.60717482564872,PUBLICAR,constituição
+Q0315,5185,Penal > Prescrição,2,1.3802335308257772,1.3802335308257772,REVISAR,
+Q0316,5466,Processo Penal > Ação Penal,2,0.09267194537799162,0.09267194537799162,REVISAR,código penal
+Q0317,5198,Penal > Punibilidade > Decadência,3,3.9046373951808326,3.9046373951808326,PUBLICAR,
+Q0318,5178,"Penal > Iter Criminis > Desistência Voluntária, Arrependimento Eficaz e Arrependimento posterior",3,4.391945928108525,4.391945928108525,PUBLICAR,
+Q0319,5071,Penal > Concurso de Pessoas,2,-0.3038369367585094,0.6410421959881178,REVISAR,
+Q0320,5550,Processo Penal > Provas em Espécies > Prova Testemunhal,3,2.469018761764682,2.469018761764682,PUBLICAR,
+Q0321,5071,Penal > Concurso de Pessoas,2,2.8845682754042694,1.4631597773455987,PUBLICAR,
+Q0322,5560,Processo Penal > Recursos em Espécies,2,-0.43337244395229835,1.2902001541514574,REVISAR,
+Q0323,5550,Processo Penal > Provas em Espécies > Prova Testemunhal,3,0.2604662912509328,0.2604662912509328,REVISAR,constituição
+Q0324,5530,Processo Penal > Procedimento Ordinário,2,-1.0617932726704011,0.093517358304116,REVISAR,código penal s
+Q0325,5198,Penal > Punibilidade > Decadência,3,0.6143402562848195,0.6143402562848195,REVISAR,lei nº 11.340/2006
+Q0326,4708,Direito Penal - Legislação Especial > Tráfico de Drogas,2,2.8206025393610337,0.9992795641620278,PUBLICAR,
+Q0327,5548,Processo Penal > Provas em Espécies > Confissão,3,0.32386137034273776,0.32386137034273776,REVISAR,
+Q0328,4382,Criminologia > Teoria Geral da Criminologia > Métodos e funções da Criminologia,3,1.1303548926219875,1.1303548926219875,REVISAR,
+Q0329,5548,Processo Penal > Provas em Espécies > Confissão,3,0.9205927018086788,0.9205927018086788,REVISAR,
+Q0330,5501,Processo Penal > Inquérito Policial > Conclusão e Arquivamento do Inquérito Policial,3,1.2579372149810926,1.2579372149810926,REVISAR,código de processo penal
+Q0331,5477,Processo Penal > Ações Autônomas de Impugnação > Habeas Corpus,3,6.001036819604057,6.001036819604057,PUBLICAR,
+Q0332,5541,Processo Penal > Procedimento Sumaríssimo > Transação Penal,3,1.585911828191688,1.585911828191688,REVISAR,
+Q0333,5178,"Penal > Iter Criminis > Desistência Voluntária, Arrependimento Eficaz e Arrependimento posterior",3,5.117506229501896,4.987742124041546,PUBLICAR,
+Q0334,4381,Criminologia > Teoria Geral da Criminologia > Conceito e objeto da Criminologia,3,2.734177866423662,2.26918578598778,PUBLICAR,
+Q0335,5063,Penal > Ação Penal,2,0.06166698395755876,0.06166698395755876,REVISAR,código penal
+Q0336,5159,Penal > Dos Crimes Contra o Patrimônio > Furto,3,0.4455965572761027,0.4455965572761027,REVISAR,
+Q0337,4684,Direito Penal - Legislação Especial > Abuso de Autoridade,2,2.680437256263377,0.5782907585755552,PUBLICAR,lei nº 13.869/2019
+Q0338,5550,Processo Penal > Provas em Espécies > Prova Testemunhal,3,0.5221492374106536,0.5221492374106536,REVISAR,código de processo penal
+Q0339,5578,Processo Penal > Sentença Penal > Princípio da Correlação entre Acusação e Sentença,3,2.3334451267991527,2.3334451267991527,PUBLICAR,
+Q0340,5074,Penal > Concurso de Pessoas > Participação,3,1.1426794385347554,1.1426794385347554,REVISAR,
+Q0341,5157,Penal > Dos Crimes Contra o Patrimônio,2,0.2569765714946928,0.6409859162480593,REVISAR,
+Q0342,5545,Processo Penal > Provas em Espécies > Exame de Corpo de Delito,3,2.2308049570964243,2.2308049570964243,REVISAR,código de processo penal
+Q0343,5466,Processo Penal > Ação Penal,2,0.5551874087110811,0.7150712955124829,REVISAR,
+Q0344,6717,Penal > Crimes contra o meio ambiente,2,2.2224098210579895,0.4253584646279771,REVISAR,lei nº 9.605/1998
+Q0345,5103,Penal > Dos Crimes Contra a Dignidade Sexual > Estupro e Estupro de Vulnerável,3,1.4781331244637954,1.4781331244637954,REVISAR,código penal
+Q0346,5466,Processo Penal > Ação Penal,2,0.43764028491289064,0.3001975462188673,REVISAR,código de defesa do consumidor | código de processo penal estabelece que do despacho que admitir | código de processo penal passou a estabelecer que o assistente da acusa
+Q0347,5198,Penal > Punibilidade > Decadência,3,0.4837376908667368,0.4837376908667368,REVISAR,código penal
+Q0348,5093,Penal > Dos Crimes Contra a Administração Pública > Corrupção Ativa,3,2.0752082510775516,2.0752082510775516,REVISAR,
+Q0349,5066,Penal > Concurso de Crimes,2,-0.25651996050077264,0.09585001003669102,REVISAR,
+Q0350,4702,Direito Penal - Legislação Especial > Lavagem de Dinheiro,2,2.349472151412815,1.8224339206638245,PUBLICAR,
+Q0351,5228,Penal > Teoria do Crime: Ilicitude,2,1.0914040912648977,1.0604911645183508,REVISAR,
+Q0352,5512,Processo Penal > Parte Geral dos Recursos,2,0.28464937310033456,0.28464937310033456,REVISAR,
+Q0353,5185,Penal > Prescrição,2,1.1914328225373882,1.1914328225373882,REVISAR,
+Q0354,5218,Penal > Teoria do Crime: Fato Típico,2,0.06058407752081596,0.4827157210916946,REVISAR,
+Q0355,5570,Processo Penal > Recursos em Espécies > Recurso Extraordinário,3,0.7579287456408621,0.7579287456408621,REVISAR,lei nº 11.343/2006
+Q0356,5067,Penal > Concurso de Crimes > Concurso Material,3,0.6404421339467987,0.6404421339467987,REVISAR,código penal brasileiro
+Q0357,5098,Penal > Dos Crimes Contra a Administração Pública > Violência Arbitrária,3,0.20185936270813531,0.20185936270813531,REVISAR,
+Q0358,5133,"Penal > Dos Crimes Contra a Liberdade Pessoal > Dos Crimes contra a Inviolabilidade do Domicílio, Contra a Inviolabilidade da Correspondência e Contra a Inviolabilidade dos Segredos",3,1.6107280798877737,1.6107280798877737,REVISAR,
+Q0359,5530,Processo Penal > Procedimento Ordinário,2,2.83092001611684,2.83092001611684,PUBLICAR,código penal e do c | lei nº 9.099/1995 | lei nº 9.099/1995.
+Q0360,4381,Criminologia > Teoria Geral da Criminologia > Conceito e objeto da Criminologia,3,0.5257131010433236,0.5257131010433236,REVISAR,código de processo penal determina que todos os sujeitos processuais zelem pela integridade f
+Q0361,5213,Penal > Teoria do Crime: Culpabilidade > Inimputabilidade,3,3.2976696493353383,3.2976696493353383,PUBLICAR,
+Q0362,5557,Processo Penal > Provas em Espécies > Colaboração Premiada,3,5.514013397868445,5.514013397868445,PUBLICAR,lei nº 12.850 | lei nº 12.850/2013.
+Q0363,5092,Penal > Dos Crimes Contra a Administração Pública > Corrupção Passiva,3,0.06824976788176329,0.06824976788176329,REVISAR,
+Q0364,5088,Penal > Dos Crimes Contra a Administração Pública > Noções gerais dos crimes praticados contra a administração pública,3,0.038157651290511296,0.038157651290511296,REVISAR,
+Q0365,5185,Penal > Prescrição,2,1.239390140235586,1.239390140235586,REVISAR,
+Q0366,5203,Penal > Teoria da Pena > Segunda Fase da Dosimetria: Agravantes e Atenuantes,3,0.9943640144846562,0.9943640144846562,REVISAR,
+Q0367,5530,Processo Penal > Procedimento Ordinário,2,3.8962795733801214,1.309038286506155,PUBLICAR,
+Q0368,5498,Processo Penal > Inquérito Policial,2,-0.19040492124991903,1.358061339703208,REVISAR,código de processo penal
+Q0369,6723,Penal > Lavagem de Dinheiro,2,4.992118921615958,0.6164080394305422,PUBLICAR,lei nº 9.613
+Q0370,5523,Processo Penal > Prisões em Espécie > Liberdade Provisória,3,1.6065375154285988,1.6065375154285988,REVISAR,
+Q0371,5466,Processo Penal > Ação Penal,2,3.074449289683221,0.8602390815829866,PUBLICAR,
+Q0372,5555,Processo Penal > Provas em Espécies > Interceptação Telefônica e Quebra do Sigilo de Dados Telefônicos,3,6.240798391033385,6.240798391033385,PUBLICAR,
+Q0373,5180,Penal > Lei Penal no Tempo e no Espaço,2,1.625344731528691,0.838569944974445,REVISAR,
+Q0374,5147,Penal > Dos Crimes contra as Finanças Públicas,2,6.4177158770298135,6.4177158770298135,PUBLICAR,lei nº 201/67.
+Q0375,5224,Penal > Teoria do Crime: Fato Típico > Erro de Tipo,3,3.314456216664219,3.314456216664219,PUBLICAR,
+Q0376,5222,Penal > Teoria do Crime: Fato Típico > Crime Doloso e Culposo,3,2.8991282985907856,2.8991282985907856,PUBLICAR,
+Q0377,5477,Processo Penal > Ações Autônomas de Impugnação > Habeas Corpus,3,3.135512427309436,3.135512427309436,PUBLICAR,
+Q0378,5206,Penal > Teoria da Pena > Pena de Multa,3,1.3807541015670948,1.3807541015670948,REVISAR,
+Q0379,6724,Penal > Lei Maria da Penha,2,1.0916067373186893,1.0916067373186893,REVISAR,lei nº 11.340 | lei nº 11.340/2006
+Q0380,5537,Processo Penal > Procedimento Ordinário > Sentença,3,1.8213227317078116,1.8213227317078116,REVISAR,código de processo penal
+Q0381,5502,Processo Penal > Inquérito Policial > Acordo de Não Persecução Penal,3,6.3979914829298,6.3979914829298,PUBLICAR,código de processo penal contempla o acordo de n
+Q0382,5226,Penal > Teoria do Crime: Fato Típico > Nexo Causal e Imputação Objetiva,3,0.15539412472090097,0.15539412472090097,REVISAR,constituição
+Q0383,4702,Direito Penal - Legislação Especial > Lavagem de Dinheiro,2,5.893859272815053,0.2163546710060178,PUBLICAR,lei nº 9.613 | lei no 9.613/98
+Q0384,5495,Processo Penal > Das Questões e Processos Incidentes > Restituição de Coisas Apreendidas,3,0.18600963065307052,0.18600963065307052,REVISAR,
+Q0385,5557,Processo Penal > Provas em Espécies > Colaboração Premiada,3,4.317591984978561,4.317591984978561,PUBLICAR,lei nº 12.850/2013 | lei nº 12.850
+Q0386,4385,Criminologia > Teorias Sociológicas Explicativas da Criminalidade,2,0.4291938660876293,0.01138932842700946,REVISAR,
+Q0387,5590,Processo Penal > Teoria Geral das Provas,2,-0.7098154084760222,0.029467909899310918,REVISAR,código de processo penal
+Q0388,5530,Processo Penal > Procedimento Ordinário,2,0.021271486108656035,0.021271486108656035,REVISAR,código de processo penal | lei nº 9.099
+Q0389,5226,Penal > Teoria do Crime: Fato Típico > Nexo Causal e Imputação Objetiva,3,1.6136745610571417,1.6136745610571417,REVISAR,
+Q0390,4374,Criminologia > Política Criminal,2,0.554337012565072,1.4936451145086211,REVISAR,
+Q0391,5466,Processo Penal > Ação Penal,2,0.2161565632455824,0.2161565632455824,REVISAR,código de processo penal
+Q0392,5208,Penal > Teoria da Pena > Livramento Condicional,3,4.949564723374576,4.949564723374576,PUBLICAR,código penal
+Q0393,5157,Penal > Dos Crimes Contra o Patrimônio,2,2.2487218846446075,1.4194163787077052,REVISAR,
+Q0394,5480,Processo Penal > Competência,2,1.3006833983412323,1.3006833983412323,REVISAR,
+Q0395,5478,Processo Penal > Ações Autônomas de Impugnação > Revisão Criminal,3,1.3978531155297196,1.3978531155297196,REVISAR,
+Q0396,5095,Penal > Dos Crimes Contra a Administração Pública > Prevaricação,3,1.7489227385044792,1.7489227385044792,REVISAR,
+Q0397,5063,Penal > Ação Penal,2,0.5371181119615551,0.5371181119615551,REVISAR,
+Q0398,5178,"Penal > Iter Criminis > Desistência Voluntária, Arrependimento Eficaz e Arrependimento posterior",3,8.222974922501074,8.222974922501074,PUBLICAR,
+Q0399,5095,Penal > Dos Crimes Contra a Administração Pública > Prevaricação,3,3.021838712609834,3.021838712609834,PUBLICAR,
+Q0400,5198,Penal > Punibilidade > Decadência,3,0.6877855556787145,0.6877855556787145,REVISAR,código penal
+Q0401,5209,Penal > Teoria da Pena > Efeitos da Condenação Penais e Extrapenais,3,2.634926420147317,2.634926420147317,PUBLICAR,constituição
+Q0402,6716,Penal > Abuso de Autoridade,2,1.4506143141096652,0.06470226208936669,REVISAR,lei 13.869/2019
+Q0403,5180,Penal > Lei Penal no Tempo e no Espaço,2,1.195109081282172,0.50132031367772,REVISAR,
+Q0404,5116,Penal > Dos Crimes Contra a Fé Pública e de Falsidade Documental,2,3.6796498464850718,0.8397322797918809,PUBLICAR,
+Q0405,5466,Processo Penal > Ação Penal,2,0.2173080691765059,0.2173080691765059,REVISAR,código de processo penal
+Q0406,5095,Penal > Dos Crimes Contra a Administração Pública > Prevaricação,3,0.07262517993826467,0.07262517993826467,REVISAR,
+Q0407,5578,Processo Penal > Sentença Penal > Princípio da Correlação entre Acusação e Sentença,3,5.744418687724821,5.665855118124771,PUBLICAR,
+Q0408,5495,Processo Penal > Das Questões e Processos Incidentes > Restituição de Coisas Apreendidas,3,10.026055154856794,10.026055154856794,PUBLICAR,
+Q0409,5215,Penal > Teoria do Crime: Culpabilidade > Coação Moral Irresistível,3,1.229626040029661,1.229626040029661,REVISAR,
+Q0410,5213,Penal > Teoria do Crime: Culpabilidade > Inimputabilidade,3,3.9527265503611586,3.9527265503611586,PUBLICAR,
+Q0411,5094,Penal > Dos Crimes Contra a Administração Pública > Contrabando ou Descaminho,3,2.553418743001185,2.553418743001185,PUBLICAR,
+Q0412,5095,Penal > Dos Crimes Contra a Administração Pública > Prevaricação,3,0.7734414655717625,0.7734414655717625,REVISAR,código penal
+Q0413,5100,"Penal > Dos Crimes Contra a Administração Pública > Resistência, Desobediência e Desacato",3,1.5766340577902174,1.5766340577902174,REVISAR,
+Q0414,5165,Penal > Dos Crimes Contra o Patrimônio > Apropriação indébita,3,0.6356141985714174,0.6356141985714174,REVISAR,lei nº 8.078 | lei nº 8.137
+Q0415,5565,Processo Penal > Recursos em Espécies > Embargos de Declaração,3,0.06956243066719425,0.06956243066719425,REVISAR,lei nº 8.078 | lei nº 8.137
+Q0416,5232,Penal > Teoria do Crime: Ilicitude > Estrito Cumprimento do Dever Legal,3,0.09725803686530465,0.09725803686530465,REVISAR,
+Q0417,4376,Criminologia > Política Criminal > Direito Penal do Inimigo,3,3.2594214459070194,3.2594214459070194,PUBLICAR,
+Q0418,5131,Penal > Dos Crimes Contra a Liberdade Pessoal > Violência Psicológica contra a Mulher,3,1.2224317845589052,1.2224317845589052,REVISAR,código de processo penal | código penal e a lei de execu | lei nº 11.340 | constituição
+Q0419,4385,Criminologia > Teorias Sociológicas Explicativas da Criminalidade,2,0.41127536701322454,1.2215941690134589,REVISAR,
+Q0420,6724,Penal > Lei Maria da Penha,2,6.935124675555398,1.3680428868913932,PUBLICAR,lei nº 11.340
+Q0421,5560,Processo Penal > Recursos em Espécies,2,-1.6094052553001692,0.27363306929486697,REVISAR,lei nº 13.964/2019. | lei nº 13.964/2019
+Q0422,5180,Penal > Lei Penal no Tempo e no Espaço,2,0.06880195767576147,0.5949828700248792,REVISAR,
+Q0423,5185,Penal > Prescrição,2,0.6389945550962937,0.6389945550962937,REVISAR,lei nº 8.078 | lei nº 8.137
+Q0424,5466,Processo Penal > Ação Penal,2,-1.166544441002359,0.6199982627709177,REVISAR,
+Q0425,5577,Processo Penal > Sentença Penal > Efeitos Decorrentes da Sentença Penal Condenatória,3,0.8086876737558368,0.8086876737558368,REVISAR,
+Q0426,5178,"Penal > Iter Criminis > Desistência Voluntária, Arrependimento Eficaz e Arrependimento posterior",3,4.448819823330927,4.448819823330927,PUBLICAR,código penal
+Q0427,5574,Processo Penal > Sentença Penal > Sentença Absolutória,3,1.630956595508957,1.630956595508957,REVISAR,
+Q0428,5063,Penal > Ação Penal,2,3.350030170409047,0.2722767395114243,PUBLICAR,
+Q0429,5150,Penal > Dos Crimes Contra a Vida > Homicídio,3,2.1281720195219043,2.1281720195219043,REVISAR,
+Q0430,6724,Penal > Lei Maria da Penha,2,1.682156672764079,0.9301528902709046,REVISAR,lei nº 11.340
+Q0431,5466,Processo Penal > Ação Penal,2,2.586288113527055,0.4779854887928776,PUBLICAR,código de processo penal prev
+Q0432,5063,Penal > Ação Penal,2,3.5210660222605314,0.07190404751612167,PUBLICAR,código processual penal | código de processo penal estatui que a a
+Q0433,5071,Penal > Concurso de Pessoas,2,2.098117509012199,0.7783871894547296,REVISAR,
+Q0434,5498,Processo Penal > Inquérito Policial,2,-0.23507549878695233,0.33951884131749743,REVISAR,código de processo penal
+Q0435,4376,Criminologia > Política Criminal > Direito Penal do Inimigo,3,1.5187865084690402,1.5187865084690402,REVISAR,
+Q0436,6724,Penal > Lei Maria da Penha,2,7.219320824464841,2.703579351639867,PUBLICAR,lei nº 11.340
+Q0437,5180,Penal > Lei Penal no Tempo e no Espaço,2,1.8669816324837392,0.8019446703108848,REVISAR,
+Q0438,5116,Penal > Dos Crimes Contra a Fé Pública e de Falsidade Documental,2,0.2181441927794392,0.1576279418636739,REVISAR,
+Q0439,5087,Penal > Dos Crimes Contra a Administração Pública,2,0.7386600007915232,1.135394426408797,REVISAR,código penal e n | código penal
+Q0440,5498,Processo Penal > Inquérito Policial,2,5.69752543833833,0.43983624763392903,PUBLICAR,
+Q0441,5542,Processo Penal > Procedimento Sumaríssimo > Suspensão Condicional do Processo,3,0.533249337523162,0.533249337523162,REVISAR,lei nº 9.099
+Q0442,5466,Processo Penal > Ação Penal,2,4.0706842117244975,0.9581362843583028,PUBLICAR,
+Q0443,5216,Penal > Teoria do Crime: Culpabilidade > Obediência Hierárquica,3,4.301345159093505,4.301345159093505,PUBLICAR,
+Q0444,5545,Processo Penal > Provas em Espécies > Exame de Corpo de Delito,3,5.04199643336824,5.04199643336824,PUBLICAR,código de processo penal
+Q0445,4705,Direito Penal - Legislação Especial > Organizações Criminosas,2,0.1676843826120531,0.1676843826120531,REVISAR,código penal e nas leis n | lei nº 12.850
+Q0446,5466,Processo Penal > Ação Penal,2,0.34769009417128327,0.34769009417128327,REVISAR,
+Q0447,5189,Penal > Prescrição > Prescrição da Pretensão Executória,3,3.8017298180527934,3.292035831373634,PUBLICAR,
+Q0448,5572,Processo Penal > Sentença Penal,2,-0.10446431173601711,0.02271042327983963,REVISAR,
+Q0449,5231,Penal > Teoria do Crime: Ilicitude > Legítima Defesa,3,7.334529633016918,7.334529633016918,PUBLICAR,código penal e na descri
+Q0450,5570,Processo Penal > Recursos em Espécies > Recurso Extraordinário,3,1.5639766188144533,1.5639766188144533,REVISAR,
+Q0451,5498,Processo Penal > Inquérito Policial,2,1.4456301702120564,0.11200053920564645,REVISAR,
+Q0452,5498,Processo Penal > Inquérito Policial,2,4.5629344324379115,0.670043883944734,PUBLICAR,
+Q0453,6724,Penal > Lei Maria da Penha,2,5.501423972522406,1.3794902947150653,PUBLICAR,lei nº 11.340
+Q0454,5180,Penal > Lei Penal no Tempo e no Espaço,2,-0.3058989950012574,0.2995022385281141,REVISAR,
+Q0455,5530,Processo Penal > Procedimento Ordinário,2,0.8053985255867033,0.36717921418980026,REVISAR,código de processo penal
+Q0456,5063,Penal > Ação Penal,2,0.6869563667282237,0.3400340159185067,REVISAR,código penal brasileiro adotou a teoria da atividade
+Q0457,5477,Processo Penal > Ações Autônomas de Impugnação > Habeas Corpus,3,2.068753295299719,2.068753295299719,REVISAR,
+Q0458,5223,Penal > Teoria do Crime: Fato Típico > Crimes Omissivos e Comissivos,3,1.8968872110747785,1.8968872110747785,REVISAR,
+Q0459,5087,Penal > Dos Crimes Contra a Administração Pública,2,-1.725556479341752,0.02871372324953203,REVISAR,lei nº 8.078 | lei nº 8.137
+Q0460,5144,Penal > Dos Crimes Contra a Saúde Pública e Dos Crimes Contra à Paz Pública,2,3.6149342843725956,0.5816461612253674,PUBLICAR,
+Q0461,5560,Processo Penal > Recursos em Espécies,2,-0.3125546229922209,1.419659592371564,REVISAR,
+Q0462,5071,Penal > Concurso de Pessoas,2,1.7766456689055454,0.9845138194024008,REVISAR,
+Q0463,5087,Penal > Dos Crimes Contra a Administração Pública,2,-0.6655730862467237,0.17503653287228627,REVISAR,código penal
+Q0464,4689,Direito Penal - Legislação Especial > Crimes contra o Sistema Financeiro,2,6.3682393232923635,6.3682393232923635,PUBLICAR,lei nº 7.492
+Q0465,5466,Processo Penal > Ação Penal,2,0.8845078468245093,0.7268464411198989,REVISAR,código de processo penal
+Q0466,5222,Penal > Teoria do Crime: Fato Típico > Crime Doloso e Culposo,3,1.5902534605228196,1.5902534605228196,REVISAR,
+Q0467,5491,Processo Penal > Das Questões e Processos Incidentes > Questões Prejudiciais e Preliminares,3,1.1281053837530335,1.1281053837530335,REVISAR,
+Q0468,5184,Penal > Medida de Segurança,2,3.711577856550763,3.711577856550763,PUBLICAR,
+Q0469,4374,Criminologia > Política Criminal,2,2.1077227043218825,1.0492573976624504,REVISAR,constituição
+Q0470,5201,Penal > Teoria da Pena > Penas Privativas de Liberdade,3,1.026968816635284,1.026968816635284,REVISAR,
+Q0471,5198,Penal > Punibilidade > Decadência,3,0.5640662230848141,0.5640662230848141,REVISAR,
+Q0472,5116,Penal > Dos Crimes Contra a Fé Pública e de Falsidade Documental,2,2.0242130255109876,0.5059647877836326,REVISAR,código penal
+Q0473,5498,Processo Penal > Inquérito Policial,2,2.7323151434674386,0.5445070928569002,PUBLICAR,
+Q0474,4385,Criminologia > Teorias Sociológicas Explicativas da Criminalidade,2,-1.3921862690646858,0.2663265746646708,REVISAR,
+Q0475,5178,"Penal > Iter Criminis > Desistência Voluntária, Arrependimento Eficaz e Arrependimento posterior",3,0.12120244037686678,0.12120244037686678,REVISAR,
+Q0476,5524,Processo Penal > Procedimento do Tribunal do Júri,2,-1.5121706821654222,0.12275039998549886,REVISAR,código de processo penal
+Q0477,5475,Processo Penal > Ação Penal > Ação Civil Ex Delicto,3,2.130327636063101,2.130327636063101,REVISAR,
+Q0478,5480,Processo Penal > Competência,2,2.989390249946786,1.331775977338685,PUBLICAR,
+Q0479,5496,"Processo Penal > Das Questões e Processos Incidentes > Medidas Assecuratórias: Sequestro, Hipoteca Legal e Arresto",3,2.8180924373423655,2.8180924373423655,PUBLICAR,
+Q0480,5202,Penal > Teoria da Pena > Primeira Fase da Dosimetria: Circunstâncias Judiciais,3,0.06760659646845202,0.06760659646845202,REVISAR,
+Q0481,5227,Penal > Teoria do Crime: Fato Típico > Tipicidade,3,0.47470903565107037,0.47470903565107037,REVISAR,cf
+Q0482,5505,Processo Penal > Lei Processual no Tempo e no Espaço,2,1.5430693935601543,0.05686114269625886,REVISAR,
+Q0483,5178,"Penal > Iter Criminis > Desistência Voluntária, Arrependimento Eficaz e Arrependimento posterior",3,8.1306610601692,8.1306610601692,PUBLICAR,
+Q0484,4702,Direito Penal - Legislação Especial > Lavagem de Dinheiro,2,3.2317086027853046,1.9628098947642867,PUBLICAR,código de processo penal | lei nº 3.689
+Q0485,5185,Penal > Prescrição,2,0.3931430497468922,0.3931430497468922,REVISAR,código penal
+Q0486,5564,Processo Penal > Recursos em Espécies > Embargos Infringentes,3,2.508283789820405,2.508283789820405,PUBLICAR,código de processo penal acerca das rela
+Q0487,5159,Penal > Dos Crimes Contra o Patrimônio > Furto,3,1.7864250899950607,1.7864250899950607,REVISAR,
+Q0488,5090,Penal > Dos Crimes Contra a Administração Pública > Emprego Irregular de Verbas ou Rendas Públicas,3,13.56410170034201,13.56410170034201,PUBLICAR,
+Q0489,5185,Penal > Prescrição,2,3.1011630581251817,2.388857562737231,PUBLICAR,
+Q0490,5212,Penal > Teoria do Crime: Culpabilidade > Conceito e Elementos da Culpabilidade,3,1.200733075531466,1.200733075531466,REVISAR,
+Q0491,5162,Penal > Dos Crimes Contra o Patrimônio > Esbulho Possessório,3,0.596514023855593,0.596514023855593,REVISAR,
+Q0492,5159,Penal > Dos Crimes Contra o Patrimônio > Furto,3,0.9947485195563175,0.9947485195563175,REVISAR,
+Q0493,5502,Processo Penal > Inquérito Policial > Acordo de Não Persecução Penal,3,2.807268330518988,2.807268330518988,PUBLICAR,
+Q0494,5501,Processo Penal > Inquérito Policial > Conclusão e Arquivamento do Inquérito Policial,3,1.1307694623683888,1.1307694623683888,REVISAR,lei 13.964/2019
+Q0495,5087,Penal > Dos Crimes Contra a Administração Pública,2,0.6646420509671129,0.9188056600599062,REVISAR,
+Q0496,5198,Penal > Punibilidade > Decadência,3,0.45689037799893484,0.45689037799893484,REVISAR,código penal
+Q0497,5561,Processo Penal > Recursos em Espécies > Recurso em sentido estrito (RESE),3,4.006013537523023,3.8767351045405487,PUBLICAR,
+Q0498,5131,Penal > Dos Crimes Contra a Liberdade Pessoal > Violência Psicológica contra a Mulher,3,0.8569327494587737,0.8569327494587737,REVISAR,lei nº 11.340
+Q0499,5226,Penal > Teoria do Crime: Fato Típico > Nexo Causal e Imputação Objetiva,3,0.361633826003497,0.361633826003497,REVISAR,código penal disp
+Q0500,5081,Penal > Dos Crimes Contra a Administração Judicial > Falso Testemunha ou Falsa Perícia e Corrupção Ativa de Testemunha ou Perito,3,0.20177631974470067,0.20177631974470067,REVISAR,lei nº 8.078 | lei nº 8.137
+Q0501,6724,Penal > Lei Maria da Penha,2,5.701825532345725,0.601976161071816,PUBLICAR,lei nº 11.340
+Q0502,5099,Penal > Dos Crimes Contra a Administração Pública > Usurpação de Função Pública,3,3.215710100407164,3.215710100407164,PUBLICAR,
+Q0503,4378,Criminologia > Processos de Criminalização e Cifras Criminais > Criminalização Primária e Secundária,3,3.0308524789899502,3.0308524789899502,PUBLICAR,
+Q0504,5222,Penal > Teoria do Crime: Fato Típico > Crime Doloso e Culposo,3,2.686705117868791,2.686705117868791,PUBLICAR,código penal
+Q0505,5092,Penal > Dos Crimes Contra a Administração Pública > Corrupção Passiva,3,0.001066404915087027,0.001066404915087027,REVISAR,código penal de
+Q0506,5180,Penal > Lei Penal no Tempo e no Espaço,2,0.8905478194851364,0.05583112815706315,REVISAR,
+Q0507,5214,Penal > Teoria do Crime: Culpabilidade > Erro de Proibição,3,1.5097670779212082,1.5097670779212082,REVISAR,código penal brasileiro
+Q0508,4700,Direito Penal - Legislação Especial > Interceptação Telefônica,2,2.903205705114873,2.903205705114873,PUBLICAR,lei nº 9.296
+Q0509,5498,Processo Penal > Inquérito Policial,2,3.670237896418582,0.5800741915965313,PUBLICAR,
+Q0510,5550,Processo Penal > Provas em Espécies > Prova Testemunhal,3,1.248050663406068,1.248050663406068,REVISAR,
+Q0511,5550,Processo Penal > Provas em Espécies > Prova Testemunhal,3,0.3080000520558617,0.3080000520558617,REVISAR,código de processo penal acerca das rela
+Q0512,5480,Processo Penal > Competência,2,1.1960188556529863,1.1960188556529863,REVISAR,
+Q0513,4688,Direito Penal - Legislação Especial > Crimes contra o meio ambiente,2,4.068417556662682,2.0996557887776524,PUBLICAR,lei nº 9.605/98
+Q0514,5466,Processo Penal > Ação Penal,2,0.12672792489372142,0.12672792489372142,REVISAR,código de processo penal
+Q0515,6724,Penal > Lei Maria da Penha,2,3.576793432479316,0.9511577250370964,PUBLICAR,lei nº 11.340
+Q0516,4689,Direito Penal - Legislação Especial > Crimes contra o Sistema Financeiro,2,0.264218678069855,0.264218678069855,REVISAR,lei nº 7.716
+Q0517,5466,Processo Penal > Ação Penal,2,0.8043761488982799,0.27934437178517424,REVISAR,
+Q0518,5087,Penal > Dos Crimes Contra a Administração Pública,2,0.6519013077173921,0.004472356266960631,REVISAR,
+Q0519,5498,Processo Penal > Inquérito Policial,2,1.3773075599418605,0.413917462273135,REVISAR,
+Q0520,5100,"Penal > Dos Crimes Contra a Administração Pública > Resistência, Desobediência e Desacato",3,0.13639064295049863,0.13639064295049863,REVISAR,código penal
+Q0521,5063,Penal > Ação Penal,2,0.2688837470602268,0.2688837470602268,REVISAR,constituição
+Q0522,5560,Processo Penal > Recursos em Espécies,2,-0.3667090054329183,0.48224639511284284,REVISAR,
+Q0523,5502,Processo Penal > Inquérito Policial > Acordo de Não Persecução Penal,3,2.4522778116488766,2.4522778116488766,PUBLICAR,
+Q0524,5185,Penal > Prescrição,2,2.576403784392875,2.576403784392875,PUBLICAR,
+Q0525,5202,Penal > Teoria da Pena > Primeira Fase da Dosimetria: Circunstâncias Judiciais,3,0.90853175681226,0.90853175681226,REVISAR,lei nº 11.343/2006. | lei nº 11.343/2006 | código penal | lei nº 11.340/2006.
+Q0526,4385,Criminologia > Teorias Sociológicas Explicativas da Criminalidade,2,1.079485611676974,1.737205662310216,REVISAR,
+Q0527,5207,Penal > Teoria da Pena > Suspensão Condicional da Pena,3,0.41269921004021803,0.41269921004021803,REVISAR,
+Q0528,5180,Penal > Lei Penal no Tempo e no Espaço,2,0.8014662863460291,0.6075441162743358,REVISAR,
+Q0529,5089,Penal > Dos Crimes Contra a Administração Pública > Peculato e Peculato Mediante Erro de Outrem,3,5.248262673621211,5.248262673621211,PUBLICAR,
+Q0530,5479,Processo Penal > Ações Autônomas de Impugnação > Mandado de Segurança,3,0.9709635060201691,0.9709635060201691,REVISAR,código de processo penal e a configura
+Q0531,5466,Processo Penal > Ação Penal,2,1.9222515622886354,0.0877443343495008,REVISAR,
+Q0532,5159,Penal > Dos Crimes Contra o Patrimônio > Furto,3,2.246535725673943,2.246535725673943,REVISAR,
+Q0533,5134,"Penal > Dos Crimes contra a Organização do Trabalho, a Propriedade Imaterial e ao Sentimento Religioso",2,1.8267727197884103,1.1856120675109452,REVISAR,
+Q0534,4378,Criminologia > Processos de Criminalização e Cifras Criminais > Criminalização Primária e Secundária,3,1.0513361708965023,1.0513361708965023,REVISAR,
+Q0535,6724,Penal > Lei Maria da Penha,2,7.239861066268755,0.166400741299908,PUBLICAR,lei nº 11.340
+Q0536,5544,Processo Penal > Provas em Espécies > Cadeia de Custódia,3,2.7075489747194643,2.7075489747194643,PUBLICAR,código de processo penal entrou em vigor em
+Q0537,5484,Processo Penal > Competência > Competência por Prerrogativa de Função,3,4.779658466033551,2.9460189944695614,PUBLICAR,constituição
+Q0538,5230,Penal > Teoria do Crime: Ilicitude > Estado de Necessidade,3,1.7920890623263173,1.7920890623263173,REVISAR,
+Q0539,5165,Penal > Dos Crimes Contra o Patrimônio > Apropriação indébita,3,5.878804529833679,5.878804529833679,PUBLICAR,
+Q0540,5548,Processo Penal > Provas em Espécies > Confissão,3,0.473123842236741,0.473123842236741,REVISAR,
+Q0541,5096,Penal > Dos Crimes Contra a Administração Pública > Condescendência Criminosa,3,5.820365716472655,5.820365716472655,PUBLICAR,
+Q0542,5519,Processo Penal > Prisões em Espécie > Prisão Preventiva,3,0.7767868382304215,0.7767868382304215,REVISAR,código de processo penal | lei nº 13.964/19 | código de processo penal quanto | lei nº 3.689/1941
+Q0543,5560,Processo Penal > Recursos em Espécies,2,0.07944210183527822,0.6748570721879235,REVISAR,
+Q0544,5480,Processo Penal > Competência,2,0.6570576058113451,0.6570576058113451,REVISAR,constituição
+Q0545,4376,Criminologia > Política Criminal > Direito Penal do Inimigo,3,0.9828452959909022,0.9828452959909022,REVISAR,
+Q0546,5087,Penal > Dos Crimes Contra a Administração Pública,2,2.060890800472274,0.30033671842600906,REVISAR,código penal
+Q0547,5185,Penal > Prescrição,2,2.9521029120409183,2.9521029120409183,PUBLICAR,código penal
+Q0548,5560,Processo Penal > Recursos em Espécies,2,0.18517883557015669,1.698616299524498,REVISAR,
+Q0549,4703,Direito Penal - Legislação Especial > Lei de Execução Penal,2,4.356870562503428,0.34248330226127344,PUBLICAR,lei nº 7.210/84
+Q0550,5165,Penal > Dos Crimes Contra o Patrimônio > Apropriação indébita,3,2.567110226038393,2.567110226038393,PUBLICAR,
+Q0551,5466,Processo Penal > Ação Penal,2,4.450032140058041,0.26886210954858747,PUBLICAR,
+Q0552,5510,Processo Penal > Nulidades > Nulidade Absoluta e Relativa,3,0.23646707705602843,0.23646707705602843,REVISAR,código de processo penal
+Q0553,5087,Penal > Dos Crimes Contra a Administração Pública,2,-0.35465047394335647,0.7416615785289937,REVISAR,
+Q0554,5132,"Penal > Dos Crimes Contra a Liberdade Pessoal > Sequestro, Cárcere Privado, Redução à Condição Análoga à de Escravo e Tráfico de Pessoas",3,6.413550158642464,6.413550158642464,PUBLICAR,
+Q0555,5208,Penal > Teoria da Pena > Livramento Condicional,3,1.9896117630660166,1.9896117630660166,REVISAR,código penal veda que o juiz da execu | código penal
+Q0556,4385,Criminologia > Teorias Sociológicas Explicativas da Criminalidade,2,2.7755754250368327,0.8455567817835954,PUBLICAR,
+Q0557,5502,Processo Penal > Inquérito Policial > Acordo de Não Persecução Penal,3,0.9191876397232264,0.9191876397232264,REVISAR,lei no 9.099/1995 | lei nº 9.099
+Q0558,5512,Processo Penal > Parte Geral dos Recursos,2,0.7314308615073903,0.7314308615073903,REVISAR,
+Q0559,5092,Penal > Dos Crimes Contra a Administração Pública > Corrupção Passiva,3,1.9749642959273137,1.9749642959273137,REVISAR,
+Q0560,4697,Direito Penal - Legislação Especial > Estatuto do Desarmamento,2,0.94381596632762,0.94381596632762,REVISAR,código de processo penal determina
+Q0561,5116,Penal > Dos Crimes Contra a Fé Pública e de Falsidade Documental,2,3.269839504199141,0.05161199720911913,PUBLICAR,
+Q0562,5087,Penal > Dos Crimes Contra a Administração Pública,2,1.4778566899669614,1.2742826780179124,REVISAR,
+Q0563,4385,Criminologia > Teorias Sociológicas Explicativas da Criminalidade,2,-0.10613092056776097,1.2895383761142756,REVISAR,
+Q0564,4385,Criminologia > Teorias Sociológicas Explicativas da Criminalidade,2,-1.002574338381641,0.41444559410384585,REVISAR,
+Q0565,5466,Processo Penal > Ação Penal,2,2.128547556425181,1.2516933595742987,REVISAR,código de processo penal
+Q0566,5083,Penal > Dos Crimes Contra a Administração Judicial > Fraude Processual,3,0.2955591727536051,0.2955591727536051,REVISAR,
+Q0567,5201,Penal > Teoria da Pena > Penas Privativas de Liberdade,3,2.0531393693882976,2.0531393693882976,REVISAR,
+Q0568,5227,Penal > Teoria do Crime: Fato Típico > Tipicidade,3,0.9649146287760821,0.9649146287760821,REVISAR,
+Q0569,4385,Criminologia > Teorias Sociológicas Explicativas da Criminalidade,2,-0.2717143513586482,1.2714754845735516,REVISAR,
+Q0570,5560,Processo Penal > Recursos em Espécies,2,-0.5262954926976882,0.40993284183868095,REVISAR,
+Q0571,5550,Processo Penal > Provas em Espécies > Prova Testemunhal,3,2.416452674119861,2.416452674119861,PUBLICAR,
+Q0572,4697,Direito Penal - Legislação Especial > Estatuto do Desarmamento,2,4.9163468862114925,4.9163468862114925,PUBLICAR,lei nº 10.826
+Q0573,5198,Penal > Punibilidade > Decadência,3,0.3077465110007509,0.3077465110007509,REVISAR,código penal
+Q0574,5548,Processo Penal > Provas em Espécies > Confissão,3,0.28283429562891893,0.28283429562891893,REVISAR,
+Q0575,5479,Processo Penal > Ações Autônomas de Impugnação > Mandado de Segurança,3,0.9299084569339486,0.9299084569339486,REVISAR,
+Q0576,5089,Penal > Dos Crimes Contra a Administração Pública > Peculato e Peculato Mediante Erro de Outrem,3,2.3981502455486656,2.3536872275904956,PUBLICAR,
+Q0577,6724,Penal > Lei Maria da Penha,2,2.757235932772776,0.8125930677111581,PUBLICAR,lei nº 11.340
+Q0578,6723,Penal > Lavagem de Dinheiro,2,8.01374002985078,0.9672384830781606,PUBLICAR,lei nº 9.613
+Q0579,5547,Processo Penal > Provas em Espécies > Interrogatório Judicial,3,0.09093751886498858,0.09093751886498858,REVISAR,código de processo penal
+Q0580,5565,Processo Penal > Recursos em Espécies > Embargos de Declaração,3,0.02100053659404022,0.02100053659404022,REVISAR,lei nº 7.716/89 | lei nº 7.716
+Q0581,5466,Processo Penal > Ação Penal,2,0.41805817553666635,0.20965583593604897,REVISAR,código de processo penal
+Q0582,5198,Penal > Punibilidade > Decadência,3,0.6350570061453364,0.6350570061453364,REVISAR,
+Q0583,5185,Penal > Prescrição,2,1.5509356892634827,0.9835950323151623,REVISAR,
+Q0584,5185,Penal > Prescrição,2,2.610991858123862,2.610991858123862,PUBLICAR,
+Q0585,5178,"Penal > Iter Criminis > Desistência Voluntária, Arrependimento Eficaz e Arrependimento posterior",3,4.132341016592186,4.132341016592186,PUBLICAR,
+Q0586,5519,Processo Penal > Prisões em Espécie > Prisão Preventiva,3,1.2553141002059096,1.2553141002059096,REVISAR,
+Q0587,5185,Penal > Prescrição,2,1.7611959165361863,0.22751922825141158,REVISAR,código penal
+Q0588,4385,Criminologia > Teorias Sociológicas Explicativas da Criminalidade,2,0.10018005067323976,1.8826017100560177,REVISAR,
+Q0589,5209,Penal > Teoria da Pena > Efeitos da Condenação Penais e Extrapenais,3,0.24674506181321565,0.24674506181321565,REVISAR,
+Q0590,5230,Penal > Teoria do Crime: Ilicitude > Estado de Necessidade,3,2.4921850110164723,2.4921850110164723,PUBLICAR,
+Q0591,5512,Processo Penal > Parte Geral dos Recursos,2,0.37864766146957773,0.37864766146957773,REVISAR,código de processo penal
+Q0592,5087,Penal > Dos Crimes Contra a Administração Pública,2,1.1190036660697942,0.3631873198675617,REVISAR,lei nº 8.666/93 | código penal | lei nº 14.133/2021
+Q0593,5530,Processo Penal > Procedimento Ordinário,2,-1.0341666585166989,0.16591255561151552,REVISAR,código penal
+Q0594,5089,Penal > Dos Crimes Contra a Administração Pública > Peculato e Peculato Mediante Erro de Outrem,3,0.22056055566419897,0.22056055566419897,REVISAR,
+Q0595,5498,Processo Penal > Inquérito Policial,2,2.8866554088085463,0.6329580985045977,PUBLICAR,código de processo penal
+Q0596,5180,Penal > Lei Penal no Tempo e no Espaço,2,0.4570939501189404,0.6072265841001467,REVISAR,
+Q0597,5530,Processo Penal > Procedimento Ordinário,2,-0.6688127102660708,0.5386453250017809,REVISAR,código de processo penal
+Q0598,4385,Criminologia > Teorias Sociológicas Explicativas da Criminalidade,2,1.2999934035962264,0.5893340121605082,REVISAR,
+Q0599,5466,Processo Penal > Ação Penal,2,0.9829669676730046,0.23541643858753059,REVISAR,
+Q0600,5185,Penal > Prescrição,2,1.5762448197454901,1.5762448197454901,REVISAR,código penal | código penal prev
+Q0601,5541,Processo Penal > Procedimento Sumaríssimo > Transação Penal,3,0.9447730493817419,0.9447730493817419,REVISAR,lei nº 9.099
+Q0602,5466,Processo Penal > Ação Penal,2,1.7092446099728917,0.09278462677355304,REVISAR,
+Q0603,5092,Penal > Dos Crimes Contra a Administração Pública > Corrupção Passiva,3,2.1750555751991856,2.1750555751991856,REVISAR,
+Q0604,5087,Penal > Dos Crimes Contra a Administração Pública,2,0.7898079813577299,0.12697370393230223,REVISAR,código penal e nas circunst
+Q0605,5487,Processo Penal > Comunicação dos Atos Processuais,2,0.05642432378132556,0.05642432378132556,REVISAR,
+Q0606,5204,Penal > Teoria da Pena > Terceira fase da Dosimetria: Causas de Aumento e de Diminuição,3,0.18883669303838335,0.18883669303838335,REVISAR,código penal
+Q0607,4385,Criminologia > Teorias Sociológicas Explicativas da Criminalidade,2,0.01627603979162151,1.2128079765089943,REVISAR,
+Q0608,5180,Penal > Lei Penal no Tempo e no Espaço,2,1.5559234723317665,0.2763897318309363,REVISAR,
+Q0609,5206,Penal > Teoria da Pena > Pena de Multa,3,0.21887091381395374,0.21887091381395374,REVISAR,lei nº 8.078 | lei nº 8.137
+Q0610,4700,Direito Penal - Legislação Especial > Interceptação Telefônica,2,1.4397041064430223,1.4397041064430223,REVISAR,lei nº 9.296
+Q0611,5116,Penal > Dos Crimes Contra a Fé Pública e de Falsidade Documental,2,1.4479421369089045,0.06944160543307287,REVISAR,código penal
+Q0612,5466,Processo Penal > Ação Penal,2,3.1453311755814024,0.042479234616719985,PUBLICAR,
+Q0613,4689,Direito Penal - Legislação Especial > Crimes contra o Sistema Financeiro,2,2.8006425452908834,2.8006425452908834,PUBLICAR,lei nº 7.492 | código penal
+Q0614,5466,Processo Penal > Ação Penal,2,0.6497012939282976,0.44532124199532763,REVISAR,lei nº 2.848/1940 | código penal brasileiro
+Q0615,5198,Penal > Punibilidade > Decadência,3,4.058863093000796,4.058863093000796,PUBLICAR,
+Q0616,5063,Penal > Ação Penal,2,0.23985528573158366,0.23985528573158366,REVISAR,
+Q0617,5498,Processo Penal > Inquérito Policial,2,2.27362239588357,0.2804357122904779,PUBLICAR,
+Q0618,5224,Penal > Teoria do Crime: Fato Típico > Erro de Tipo,3,3.6033395483066446,3.6033395483066446,PUBLICAR,
+Q0619,5540,Processo Penal > Procedimento Sumaríssimo > Competência dos Juizados Especiais Criminais,3,1.0457717463725134,1.0457717463725134,REVISAR,lei nº 9.099
+Q0620,5147,Penal > Dos Crimes contra as Finanças Públicas,2,5.798260441558747,5.798260441558747,PUBLICAR,código penal
+Q0621,5548,Processo Penal > Provas em Espécies > Confissão,3,0.28264180387209237,0.28264180387209237,REVISAR,lei nº 7.492
+Q0622,5180,Penal > Lei Penal no Tempo e no Espaço,2,1.8684104871387142,0.9244581803886032,REVISAR,
+Q0623,5544,Processo Penal > Provas em Espécies > Cadeia de Custódia,3,2.081633510951317,2.081633510951317,REVISAR,código de processo penal
+Q0624,6724,Penal > Lei Maria da Penha,2,6.4794568963360595,1.3666814777463223,PUBLICAR,lei nº 11.340
+Q0625,5092,Penal > Dos Crimes Contra a Administração Pública > Corrupção Passiva,3,1.0057654487308216,1.0057654487308216,REVISAR,código penal
+Q0626,5505,Processo Penal > Lei Processual no Tempo e no Espaço,2,0.9723984113160009,0.33332500930431674,REVISAR,código de processo penal acerca das rela
+Q0627,5126,Penal > Dos Crimes Contra a Incolumidade Pública > Dos Crimes de Perigo Comum,3,6.652045631887852,4.843939414354677,PUBLICAR,código penal
+Q0628,5502,Processo Penal > Inquérito Policial > Acordo de Não Persecução Penal,3,1.0560387177103037,1.0560387177103037,REVISAR,código de processo penal brasileiro
+Q0629,4371,Criminologia > Etapas Evolutivas e Escolas Criminológicas,2,0.4246127089241529,0.21636706618025858,REVISAR,
+Q0630,5084,Penal > Dos Crimes Contra a Administração Judicial > Favorecimento Pessoal e Real,3,8.130917259788355,8.130917259788355,PUBLICAR,
+Q0631,5087,Penal > Dos Crimes Contra a Administração Pública,2,1.6907998603690415,1.3897650047431487,REVISAR,lei nº 8.137/90
+Q0632,5092,Penal > Dos Crimes Contra a Administração Pública > Corrupção Passiva,3,3.074792745831373,3.074792745831373,PUBLICAR,
+Q0633,5466,Processo Penal > Ação Penal,2,0.10480377637549587,0.10480377637549587,REVISAR,código penal | código penal brasileiro
+Q0634,5487,Processo Penal > Comunicação dos Atos Processuais,2,3.1937450555683027,3.1937450555683027,PUBLICAR,código de processo penal
+Q0635,5213,Penal > Teoria do Crime: Culpabilidade > Inimputabilidade,3,0.7213320180439289,0.7213320180439289,REVISAR,
+Q0636,5087,Penal > Dos Crimes Contra a Administração Pública,2,-1.5886268859088188,0.2901096765867681,REVISAR,lei nº 8.078 | lei nº 8.137
+Q0637,5091,Penal > Dos Crimes Contra a Administração Pública > Concussão e Excesso de Exação,3,0.980712962780875,0.980712962780875,REVISAR,
+Q0638,5091,Penal > Dos Crimes Contra a Administração Pública > Concussão e Excesso de Exação,3,0.772936351495523,0.772936351495523,REVISAR,código penal
+Q0639,4707,Direito Penal - Legislação Especial > Tortura,2,3.329810714480628,3.329810714480628,PUBLICAR,lei nº 9.455/1997 | lei nº 9.455
+Q0640,5227,Penal > Teoria do Crime: Fato Típico > Tipicidade,3,3.106104196468272,3.106104196468272,PUBLICAR,
+Q0641,5093,Penal > Dos Crimes Contra a Administração Pública > Corrupção Ativa,3,0.7833568016697168,0.7833568016697168,REVISAR,código penal
+Q0642,6724,Penal > Lei Maria da Penha,2,5.7574986304561895,1.4055645641199792,PUBLICAR,lei nº 11.340
+Q0643,4374,Criminologia > Política Criminal,2,-0.41426397771259804,0.03802587657522771,REVISAR,lei nº 15.397/2026 | lei nº 15.358/2026
+Q0644,5183,Penal > Lei Penal no Tempo e no Espaço > Conflito Aparente de Normas,3,2.01982876728107,2.01982876728107,REVISAR,
+Q0645,5226,Penal > Teoria do Crime: Fato Típico > Nexo Causal e Imputação Objetiva,3,3.0647791729120195,3.0647791729120195,PUBLICAR,
+Q0646,4374,Criminologia > Política Criminal,2,0.16680726048442907,0.16680726048442907,REVISAR,
+Q0647,5487,Processo Penal > Comunicação dos Atos Processuais,2,1.334757717228082,1.334757717228082,REVISAR,
+Q0648,5555,Processo Penal > Provas em Espécies > Interceptação Telefônica e Quebra do Sigilo de Dados Telefônicos,3,0.016554013907411402,0.016554013907411402,REVISAR,lei no 12.850/13 | lei nº 12.850
+Q0649,5208,Penal > Teoria da Pena > Livramento Condicional,3,0.7447640569081511,0.7447640569081511,REVISAR,
+Q0650,5199,Penal > Teoria da Pena,2,0.9936189239901152,0.13964643045722935,REVISAR,
+Q0651,6724,Penal > Lei Maria da Penha,2,2.4876666386971946,0.8367805659171417,PUBLICAR,lei nº 11.340
+Q0652,5087,Penal > Dos Crimes Contra a Administração Pública,2,-1.2188664491546306,0.3793282659877164,REVISAR,código do processo penal
+Q0653,6724,Penal > Lei Maria da Penha,2,2.363267461047079,0.8767642262077571,PUBLICAR,lei nº 11.340
+Q0654,5487,Processo Penal > Comunicação dos Atos Processuais,2,0.871041135665557,0.871041135665557,REVISAR,
+Q0655,4385,Criminologia > Teorias Sociológicas Explicativas da Criminalidade,2,0.06024287500576353,0.06024287500576353,REVISAR,
+Q0656,6724,Penal > Lei Maria da Penha,2,5.448178039037841,2.6608563490567185,PUBLICAR,lei nº 11.340
+Q0657,6716,Penal > Abuso de Autoridade,2,5.221188471122506,1.5102892024671384,PUBLICAR,lei nº 13.869/2019 | lei nº 4.898
+Q0658,4374,Criminologia > Política Criminal,2,0.37448361588373746,0.37428173376350404,REVISAR,
+Q0659,4702,Direito Penal - Legislação Especial > Lavagem de Dinheiro,2,1.307816628135944,0.6124941188127666,REVISAR,lei nº 9.613

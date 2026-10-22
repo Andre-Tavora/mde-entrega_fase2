@@ -1,0 +1,32 @@
+[
+  {
+    "tema_id": "5198",
+    "descricao": "Decadência é a perda do direito de queixa ou de representação pelo decurso do prazo, causa de extinção da punibilidade (art. 107, IV, do CP). Em regra o prazo é de seis meses, contado do dia em que o ofendido veio a saber quem é o autor do crime (art. 103). Aplica-se à ação penal privada e à pública condicionada à representação, e o prazo não se suspende nem se interrompe.",
+    "palavras_chave": "decadência; art. 103; art. 107 IV; prazo de seis meses; conhecimento da autoria; ação penal privada; representação; queixa-crime; prazo decadencial; não se suspende nem interrompe",
+    "nao_confundir": "Diferencia-se de Perempção, que é a perda do direito de prosseguir em ação privada já iniciada, e de Renúncia, Perdão do Ofendido e Retratação, que dependem de ato do ofendido. Diferencia-se também de Prescrição, que extingue a pretensão do Estado. Na decadência o ofendido perde o direito de agir antes de propor a ação."
+  },
+  {
+    "tema_id": "5192",
+    "descricao": "Morte do agente é causa de extinção da punibilidade prevista no art. 107, I, do CP. Decorre do princípio da intranscendência da pena, pelo qual a sanção penal não passa da pessoa do condenado. Os efeitos civis da condenação, como a obrigação de reparar o dano, são preservados.",
+    "palavras_chave": "morte do agente; art. 107 I; extinção da punibilidade; intranscendência da pena; pessoalidade da pena; certidão de óbito; certidão de óbito falsa; efeitos civis; reparação do dano; herdeiros",
+    "nao_confundir": "Diferencia-se de Perdão Judicial e de Anistia, Graça e Indulto, que dependem de ato de poder, e de Decadência e Perempção, que dependem do decurso do prazo ou da inércia. Aqui a causa extintiva é um fato natural, o falecimento do agente."
+  },
+  {
+    "tema_id": "5197",
+    "descricao": "Perdão Judicial é a faculdade do juiz de deixar de aplicar a pena em hipóteses expressamente previstas em lei, e é causa de extinção da punibilidade (art. 107, IX, do CP). Aplica-se, por exemplo, ao homicídio culposo (art. 121, §5º) e à lesão corporal culposa (art. 129, §8º) quando as consequências da infração atingem o próprio agente de forma tão grave que a sanção se torna desnecessária. A sentença concessiva não é considerada para efeito de reincidência (art. 120), e a Súmula 18 do STJ lhe atribui natureza declaratória.",
+    "palavras_chave": "perdão judicial; art. 107 IX; art. 120; hipóteses previstas em lei; homicídio culposo; lesão corporal culposa; consequências graves para o agente; desnecessidade da pena; sentença declaratória; Súmula 18 do STJ; reincidência",
+    "nao_confundir": "Diferencia-se de Renúncia, Perdão do Ofendido e Retratação, em que o perdão é do ofendido na ação privada, e de Anistia, Graça e Indulto, que decorrem de ato do Legislativo ou do Executivo. Aqui a decisão é do juiz e só cabe nos casos que a lei prevê."
+  },
+  {
+    "tema_id": "5195",
+    "descricao": "Perempção é a perda do direito de prosseguir na ação penal exclusivamente privada em razão da inércia ou do abandono do querelante, e é causa de extinção da punibilidade (art. 107, IV, do CP). As hipóteses estão no art. 60 do CPP: paralisação do processo por 30 dias seguidos, morte ou incapacidade do querelante sem sucessão no prazo legal, ausência injustificada a ato ou falta de pedido de condenação nas alegações finais, e extinção da pessoa jurídica querelante sem sucessor.",
+    "palavras_chave": "perempção; art. 107 IV; art. 60 do CPP; ação penal privada; querelante; inércia; abandono do processo; 30 dias seguidos; alegações finais; sucessão do querelante; extinção da punibilidade",
+    "nao_confundir": "Diferencia-se de Decadência, que ocorre antes de a ação ser proposta, e de Renúncia, Perdão do Ofendido e Retratação, em que há manifestação de vontade do ofendido. Na perempção a perda do direito decorre da inércia do querelante com a ação já em curso."
+  },
+  {
+    "tema_id": "5196",
+    "descricao": "Reúne três causas de extinção da punibilidade: a renúncia ao direito de queixa e o perdão do ofendido, na ação penal privada (art. 107, V, do CP, com os arts. 104 a 106), e a retratação do agente, nos casos em que a lei a admite (art. 107, VI). A renúncia é ato unilateral anterior ao oferecimento da queixa e pode ser expressa ou tácita. O perdão é concedido após o início da ação e depende de aceitação do querelado. A retratação aparece, por exemplo, na calúnia e na difamação (art. 143) e no falso testemunho (art. 342, §2º).",
+    "palavras_chave": "renúncia; perdão do ofendido; retratação; art. 107 V; art. 107 VI; arts. 104 a 106; ação penal privada; renúncia tácita; aceitação do perdão; art. 143; falso testemunho",
+    "nao_confundir": "Diferencia-se de Perdão Judicial, concedido pelo juiz, e de Decadência e Perempção, que decorrem da inércia do titular da ação. Diferencia-se também de Anistia, Graça e Indulto. Aqui a extinção decorre de ato de vontade do ofendido ou do próprio agente."
+  }
+]

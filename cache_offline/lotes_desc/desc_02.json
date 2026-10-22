@@ -1,0 +1,152 @@
+[
+  {
+    "tema_id": "4390",
+    "descricao": "Processo de Vitimização descreve as etapas pelas quais a pessoa se torna e permanece vítima: vitimização primária (dano causado diretamente pelo crime), secundária ou sobrevitimização (tratamento inadequado pelas instâncias formais de controle, como polícia e Judiciário) e terciária (abandono e estigmatização pela família, comunidade e mídia). Abrange ainda a revitimização.",
+    "palavras_chave": "vitimização primária; vitimização secundária; vitimização terciária; sobrevitimização; revitimização; instâncias formais de controle; estigmatização; heterovitimização; processo de vitimização; vítima",
+    "nao_confundir": "Diferencia-se da Classificação das Vítimas e das Teorias e Síndromes com Enfoque nas Vítimas, pois trata das fases e fontes do dano sofrido, e não de tipologias de vítimas nem de síndromes específicas."
+  },
+  {
+    "tema_id": "4683",
+    "descricao": "Direito Penal - Legislação Especial reúne as leis penais extravagantes, fora do Código Penal, que definem crimes e contravenções em microssistemas próprios, aplicando-se o princípio da especialidade e, subsidiariamente, a parte geral do CP. Abrange temas como Abuso de Autoridade, Crimes Hediondos, Estatuto do Desarmamento, Genocídio, Crimes de Trânsito e Contravenções Penais.",
+    "palavras_chave": "legislação penal especial; leis penais extravagantes; lei especial; princípio da especialidade; microssistema penal; contravenção penal; tipo penal especial; aplicação subsidiária do cp; crime previsto em lei especial",
+    "nao_confundir": "Diferencia-se de Penal, que cuida do Código Penal (parte geral e crimes em espécie), de Processo Penal e de Criminologia; cada lei específica pertence ao respectivo filho, como Abuso de Autoridade, Genocídio ou Terrorismo."
+  },
+  {
+    "tema_id": "4684",
+    "descricao": "Abuso de Autoridade trata da Lei 13.869/2019, que pune o agente público, servidor ou não, que age no exercício de suas funções ou a pretexto de exercê-las com finalidade específica de prejudicar outrem, beneficiar a si ou a terceiro, ou por mero capricho ou satisfação pessoal. Envolve decretação abusiva de prisão, condução coercitiva e uso indevido de algemas, com ação penal pública incondicionada.",
+    "palavras_chave": "lei 13.869/2019; abuso de autoridade; agente público; dolo específico; finalidade específica; prisão manifestamente descabida; condução coercitiva; algemas; ação penal privada subsidiária; efeitos da condenação; perda do cargo",
+    "nao_confundir": "É equivalente ao tema Penal > Abuso de Autoridade (mesmo conteúdo em outro ramo) e não se confunde com Identificação Criminal, Interceptação Telefônica e Tortura, que têm leis próprias, nem com a Violência Arbitrária e a Prevaricação do Código Penal."
+  },
+  {
+    "tema_id": "4685",
+    "descricao": "Biossegurança refere-se à Lei 11.105/2005, que estabelece normas para o uso de técnicas de engenharia genética, organismos geneticamente modificados (OGM) e pesquisa com células-tronco embrionárias. Tipifica condutas como a clonagem humana, a engenharia genética em célula germinal humana e a liberação de OGM no meio ambiente em desacordo com a lei, sob controle da CTNBio.",
+    "palavras_chave": "lei 11.105/2005; biossegurança; organismos geneticamente modificados; ogm; transgênicos; engenharia genética; células-tronco embrionárias; clonagem humana; ctnbio; liberação no meio ambiente",
+    "nao_confundir": "Distingue-se de Crimes contra o meio ambiente, regido pela Lei 9.605/98 e voltado à fauna, flora e poluição, pois aqui o objeto é a manipulação genética e o uso de OGM e células-tronco."
+  },
+  {
+    "tema_id": "4686",
+    "descricao": "Contravenções Penais tratam do Decreto-Lei 3.688/1941, que define as infrações penais de menor gravidade, punidas com prisão simples e/ou multa. Destacam-se a ação penal pública incondicionada, a não punição da tentativa, a inaplicabilidade da extraterritorialidade e figuras como jogo do bicho, vias de fato e perturbação do trabalho ou do sossego alheio.",
+    "palavras_chave": "contravenção penal; lei das contravenções penais; decreto-lei 3.688/41; prisão simples; vias de fato; jogo do bicho; perturbação do sossego; tentativa de contravenção; crime anão; infração de menor potencial ofensivo",
+    "nao_confundir": "Diferencia-se de Crimes Hediondos, Crimes de Trânsito e demais temas que tratam de crimes (reclusão ou detenção), pois a contravenção é espécie distinta de infração penal, com pena de prisão simples."
+  },
+  {
+    "tema_id": "4692",
+    "descricao": "Crimes Eleitorais abrangem os tipos penais do Código Eleitoral (Lei 4.737/1965) e de leis eleitorais correlatas, como corrupção eleitoral (compra de votos), boca de urna, propaganda ilícita, calúnia, difamação e injúria eleitorais e inscrição fraudulenta de eleitor. A ação é pública incondicionada, com atuação do Ministério Público Eleitoral e processo na Justiça Eleitoral.",
+    "palavras_chave": "crime eleitoral; código eleitoral; justiça eleitoral; ministério público eleitoral; corrupção eleitoral; compra de votos; boca de urna; propaganda eleitoral; inscrição fraudulenta de eleitor; conexão eleitoral",
+    "nao_confundir": "Distingue-se de Crimes Tributários, Abuso de Autoridade e demais leis especiais por proteger a lisura do processo eleitoral e ser julgado pela Justiça Eleitoral, e não pela justiça comum."
+  },
+  {
+    "tema_id": "4693",
+    "descricao": "Crimes Hediondos trata do regime jurídico da Lei 8.072/1990, que adota rol taxativo (sistema legal) de delitos como homicídio qualificado, latrocínio, extorsão mediante sequestro e estupro, e equipara a eles tortura, tráfico de drogas e terrorismo. São insuscetíveis de anistia, graça, indulto e fiança, com regras próprias de progressão de regime, livramento condicional e prisão temporária de trinta dias.",
+    "palavras_chave": "lei 8.072/90; crime hediondo; crime equiparado a hediondo; rol taxativo; insuscetível de anistia, graça e indulto; inafiançável; progressão de regime; livramento condicional; prisão temporária de 30 dias; latrocínio; extorsão mediante sequestro",
+    "nao_confundir": "Trata do regime comum dos crimes hediondos; tortura, tráfico de drogas e terrorismo, embora equiparados, têm lei própria e pertencem aos temas Tortura, Tráfico de Drogas e Terrorismo."
+  },
+  {
+    "tema_id": "4695",
+    "descricao": "Crimes Tributários abrangem os crimes contra a ordem tributária da Lei 8.137/1990, como supressão ou redução de tributo mediante omissão de informação, fraude, falsificação ou inserção de elementos inexatos em documentos fiscais. Envolvem o lançamento definitivo como condição de punibilidade nos crimes materiais (Súmula Vinculante 24), a sonegação fiscal e os delitos previdenciários do Código Penal.",
+    "palavras_chave": "lei 8.137/90; crime contra a ordem tributária; sonegação fiscal; supressão ou redução de tributo; súmula vinculante 24; lançamento definitivo; crime material tributário; apropriação indébita previdenciária; sonegação de contribuição previdenciária; extinção da punibilidade pelo pagamento",
+    "nao_confundir": "Diferencia-se de Crimes contra a Economia Popular e de Crimes contra o Sistema Financeiro, que protegem outros bens jurídicos, e do Contrabando ou Descaminho, tratado entre os crimes contra a Administração Pública."
+  },
+  {
+    "tema_id": "4687",
+    "descricao": "Crimes contra a Economia Popular referem-se à Lei 1.521/1951, que protege o patrimônio de um número indeterminado de pessoas contra práticas como a usura pecuniária ou real (agiotagem), a venda fraudulenta e as especulações fraudulentas conhecidas como bola de neve, cadeias e pichardismo, antecessoras da pirâmide financeira.",
+    "palavras_chave": "lei 1.521/51; economia popular; usura; agiotagem; pirâmide financeira; bola de neve; pichardismo; ganhos ilícitos em detrimento do povo; bem jurídico coletivo; número indeterminado de pessoas",
+    "nao_confundir": "Não se confunde com Crimes previstos no CDC e com Crimes Tributários, que tutelam relações de consumo e ordem tributária, nem com Crimes contra o Sistema Financeiro, que exigem a figura da instituição financeira."
+  },
+  {
+    "tema_id": "4689",
+    "descricao": "Crimes contra o Sistema Financeiro Nacional compreendem a Lei 7.492/1986, que pune condutas praticadas no âmbito de instituições financeiras, como gestão fraudulenta ou temerária, operação não autorizada, empréstimo vedado e evasão de divisas. A ação é pública incondicionada, de iniciativa do Ministério Público Federal, com competência da Justiça Federal.",
+    "palavras_chave": "lei 7.492/86; sistema financeiro nacional; instituição financeira; gestão fraudulenta; gestão temerária; evasão de divisas; operação de câmbio não autorizada; justiça federal; colarinho branco; banco central",
+    "nao_confundir": "Diferencia-se de Lavagem de Dinheiro (Lei 9.613/98), de Crimes contra a Economia Popular e de Crimes Tributários, que têm leis e bens jurídicos próprios."
+  },
+  {
+    "tema_id": "4688",
+    "descricao": "Crimes contra o meio ambiente tratam da Lei 9.605/1998, que tipifica delitos contra a fauna, a flora, a poluição, o ordenamento urbano e o patrimônio cultural, além de crimes contra a administração ambiental. Destacam-se a responsabilidade penal da pessoa jurídica prevista na Constituição, a desconsideração da personalidade jurídica e as penas restritivas de direitos.",
+    "palavras_chave": "lei 9.605/98; crime ambiental; responsabilidade penal da pessoa jurídica; poluição; fauna; flora; desconsideração da personalidade jurídica; pena restritiva de direitos; transação penal ambiental; dano ambiental",
+    "nao_confundir": "É equivalente ao tema Penal > Crimes contra o meio ambiente (mesmo conteúdo em outro ramo) e se distingue de Biossegurança, que trata de OGM, engenharia genética e células-tronco pela Lei 11.105/05."
+  },
+  {
+    "tema_id": "4690",
+    "descricao": "Crimes de Racismo abrangem a Lei 7.716/1989, que pune a discriminação ou preconceito de raça, cor, etnia, religião ou procedência nacional, como impedir acesso a emprego, estabelecimento ou serviço. O racismo é crime inafiançável e imprescritível, conforme a Constituição, e a injúria racial passou a ser tratada na própria lei, com equiparação ao racismo pela jurisprudência do STF.",
+    "palavras_chave": "lei 7.716/89; racismo; discriminação racial; preconceito de raça ou cor; injúria racial; inafiançável; imprescritível; etnia; procedência nacional; incitação à discriminação",
+    "nao_confundir": "Diferencia-se de Genocídio, que exige a intenção de destruir grupo, e dos Crimes contra a Honra (Injúria) do Código Penal, que tratam de ofensas sem motivação racial."
+  },
+  {
+    "tema_id": "4691",
+    "descricao": "Crimes de Trânsito referem-se ao Código de Trânsito Brasileiro (Lei 9.503/1997), com tipos como homicídio culposo e lesão corporal culposa na direção de veículo, embriaguez ao volante, racha, fuga do local do acidente, omissão de socorro e direção sem habilitação. Admite penas de suspensão ou proibição de se obter permissão ou habilitação e aplicação subsidiária da Lei 9.099/95.",
+    "palavras_chave": "código de trânsito brasileiro; ctb; lei 9.503/97; homicídio culposo na direção de veículo; lesão corporal culposa; embriaguez ao volante; racha; fuga do local do acidente; suspensão da habilitação; direção sem habilitação; perigo de dano",
+    "nao_confundir": "Distingue-se dos crimes dolosos de Homicídio e Lesões Corporais do Código Penal e da Omissão de Socorro comum, aplicando-se aqui a norma especial do CTB quando a conduta ocorre na direção de veículo automotor."
+  },
+  {
+    "tema_id": "4694",
+    "descricao": "Crimes previstos no CDC reúnem os tipos penais da Lei 8.078/1990 praticados nas relações de consumo, como omissão de informação sobre nocividade ou periculosidade, publicidade enganosa ou abusiva, cobrança vexatória de dívida e abuso em bancos de dados e cadastros de consumidores. A ação é pública incondicionada, admitindo assistente de acusação.",
+    "palavras_chave": "código de defesa do consumidor; lei 8.078/90; relação de consumo; publicidade enganosa; publicidade abusiva; cobrança vexatória; fornecedor; consumidor; banco de dados e cadastro de consumidores; omissão de informação; nocividade",
+    "nao_confundir": "Diferencia-se de Crimes contra a Economia Popular e de Crimes Tributários, que protegem a coletividade e a arrecadação, pois aqui o bem jurídico é a relação de consumo regida pelo CDC."
+  },
+  {
+    "tema_id": "4696",
+    "descricao": "Estatuto do Idoso - Crimes abrange os tipos penais da Lei 10.741/2003, como discriminar o idoso, abandoná-lo em hospitais ou entidades, expô-lo a perigo, negar-lhe acesso a operações bancárias e apropriar-se de seus proventos ou cartão. A ação é pública incondicionada, sem escusas absolutórias patrimoniais, e aplica-se o rito da Lei 9.099/95 aos crimes de pena máxima até quatro anos.",
+    "palavras_chave": "estatuto do idoso; estatuto da pessoa idosa; lei 10.741/2003; pessoa com 60 anos ou mais; abandono de idoso; discriminação do idoso; apropriação de proventos do idoso; ação penal pública incondicionada; escusa absolutória afastada; rito sumaríssimo",
+    "nao_confundir": "Não se confunde com Violência contra Criança e Adolescente (estatuto distinto), com Maus-Tratos e Abandono do Código Penal nem com Crimes previstos no CDC, pois o bem protegido é a pessoa idosa."
+  },
+  {
+    "tema_id": "4697",
+    "descricao": "Estatuto do Desarmamento refere-se à Lei 10.826/2003, que regula registro, posse e porte de armas de fogo e define crimes como posse irregular de arma de uso permitido, porte ilegal, disparo de arma de fogo, posse ou porte de arma de uso restrito, comércio ilegal e tráfico internacional de arma. São crimes de perigo abstrato, ligados ao Sinarm e ao registro.",
+    "palavras_chave": "lei 10.826/2003; estatuto do desarmamento; posse irregular de arma de fogo; porte ilegal de arma de fogo; arma de uso restrito; arma de uso permitido; disparo de arma de fogo; sinarm; comércio ilegal de arma de fogo; crime de perigo abstrato; munição",
+    "nao_confundir": "Distingue-se de Organizações Criminosas e de Terrorismo, que podem envolver armas, e do uso de arma como causa de aumento no Roubo, que pertence aos Crimes contra o Patrimônio."
+  },
+  {
+    "tema_id": "4698",
+    "descricao": "Genocídio trata da Lei 2.889/1956, que pune quem, com a intenção especial de destruir, no todo ou em parte, grupo nacional, étnico, racial ou religioso, mata membros do grupo, causa lesão grave, impõe condições de existência que levem à destruição física, impede nascimentos ou transfere à força crianças do grupo. Exige dolo específico e é crime hediondo.",
+    "palavras_chave": "lei 2.889/56; genocídio; destruir grupo nacional, étnico, racial ou religioso; dolo específico; matar membros do grupo; medidas para impedir nascimentos; transferência forçada de crianças; crime hediondo; convenção para prevenção e repressão do genocídio; estatuto de roma",
+    "nao_confundir": "Difere de Crimes de Racismo, que punem a discriminação sem o propósito de destruição do grupo, e do Homicídio comum, pois o genocídio exige a finalidade de aniquilar o grupo como tal."
+  },
+  {
+    "tema_id": "4699",
+    "descricao": "Identificação Criminal disciplina a Lei 12.037/2009 e a garantia constitucional de que o civilmente identificado não será submetido à identificação criminal, salvo nas hipóteses legais, como documento rasurado, incompleto ou com informações conflitantes. Compreende o processo datiloscópico e o fotográfico e a coleta de perfil genético (DNA) de condenados por certos crimes, com banco de perfis genéticos.",
+    "palavras_chave": "lei 12.037/2009; identificação criminal; identificação civil; processo datiloscópico; processo fotográfico; perfil genético; coleta de dna; banco de perfis genéticos; documento rasurado; indiciado; constrangimento",
+    "nao_confundir": "Não se confunde com Interceptação Telefônica, com Abuso de Autoridade, que pune o constrangimento ilegal, nem com o Inquérito Policial, tema do Processo Penal."
+  },
+  {
+    "tema_id": "4700",
+    "descricao": "Interceptação Telefônica refere-se à Lei 9.296/1996 e à cláusula constitucional que exige ordem judicial (reserva de jurisdição) para a interceptação de comunicações telefônicas e do fluxo de comunicações em sistemas de informática e telemática. Exige indícios razoáveis de autoria, inexistência de outro meio de prova e fato punível com reclusão, com prazo de quinze dias renovável.",
+    "palavras_chave": "lei 9.296/96; interceptação telefônica; reserva de jurisdição; escuta; gravação clandestina; prova ilícita; indícios razoáveis de autoria; prazo de 15 dias renovável; encontro fortuito de provas; telemática; sigilo das comunicações",
+    "nao_confundir": "Difere de Identificação Criminal, da quebra de sigilo bancário ou de dados cadastrais e de Organizações Criminosas, em que a captação ambiental e a infiltração têm regime próprio na Lei 12.850/13."
+  },
+  {
+    "tema_id": "4701",
+    "descricao": "Juizado Especial Criminal trata da Lei 9.099/1995, que processa as infrações de menor potencial ofensivo (contravenções e crimes com pena máxima de até dois anos). Orienta-se pela oralidade, simplicidade, informalidade, economia processual e celeridade, com termo circunstanciado, composição civil dos danos, transação penal e suspensão condicional do processo.",
+    "palavras_chave": "lei 9.099/95; juizado especial criminal; infração de menor potencial ofensivo; termo circunstanciado; composição civil dos danos; transação penal; suspensão condicional do processo; procedimento sumaríssimo; oralidade; celeridade; conciliação",
+    "nao_confundir": "É equivalente ao tema Processo Penal > Procedimento Sumaríssimo > Competência dos Juizados Especiais Criminais (mesmo conteúdo) e se distingue de Lei Maria da Penha, em que a Lei 9.099/95 não se aplica, e de Contravenções Penais, que tratam do direito material."
+  },
+  {
+    "tema_id": "4702",
+    "descricao": "Lavagem de Dinheiro refere-se à Lei 9.613/1998, que pune ocultar ou dissimular a natureza, origem, localização, movimentação ou propriedade de bens, direitos ou valores provenientes de infração penal. Envolve as fases de colocação, ocultação e integração, a autonomia do processo em relação à infração antecedente, o COAF e as pessoas obrigadas a comunicar operações suspeitas.",
+    "palavras_chave": "lei 9.613/98; lavagem de dinheiro; ocultação de bens; dissimulação; infração penal antecedente; colocação; integração; coaf; operação suspeita; autolavagem; pessoas obrigadas",
+    "nao_confundir": "É equivalente ao tema Penal > Lavagem de Dinheiro (mesmo conteúdo) e difere de Crimes contra o Sistema Financeiro, de Organizações Criminosas e da Receptação do Código Penal."
+  },
+  {
+    "tema_id": "4704",
+    "descricao": "Lei Maria da Penha refere-se à Lei 11.340/2006, que trata da violência doméstica e familiar contra a mulher, nas formas física, psicológica, sexual, patrimonial e moral. Prevê medidas protetivas de urgência, Juizados de Violência Doméstica e Familiar e veda a aplicação da Lei 9.099/95; na lesão corporal, a ação penal é pública incondicionada, e o descumprimento de medida protetiva é crime.",
+    "palavras_chave": "lei 11.340/2006; violência doméstica e familiar; medida protetiva de urgência; afastamento do lar; súmula 536 do stj; súmula 542 do stj; ação penal pública incondicionada; descumprimento de medida protetiva; juizado de violência doméstica; violência patrimonial; violência moral",
+    "nao_confundir": "É equivalente ao tema Penal > Lei Maria da Penha (mesmo conteúdo) e difere de Juizado Especial Criminal, de Feminicídio e de Violência Psicológica contra a Mulher, que são tipos do Código Penal."
+  },
+  {
+    "tema_id": "4703",
+    "descricao": "Lei de Execução Penal trata da Lei 7.210/1984, que disciplina a execução das penas e medidas de segurança, com jurisdicionalização, individualização e humanização. Abrange classificação, regimes, progressão e regressão, remição pelo trabalho ou estudo, faltas disciplinares, regime disciplinar diferenciado, saída temporária, direitos do preso e órgãos da execução.",
+    "palavras_chave": "lei 7.210/84; execução penal; juízo da execução; progressão de regime; regressão de regime; remição; falta grave; regime disciplinar diferenciado; saída temporária; direitos do preso; exame criminológico",
+    "nao_confundir": "É equivalente ao tema Processo Penal > Lei de Execução Penal (mesmo conteúdo) e difere de Organizações Criminosas e demais leis especiais, assim como da Teoria da Pena, que trata da dosimetria e das espécies de pena no Código Penal."
+  },
+  {
+    "tema_id": "4705",
+    "descricao": "Organizações Criminosas refere-se à Lei 12.850/2013, que define organização criminosa como associação de quatro ou mais pessoas, estruturalmente ordenada e com divisão de tarefas, voltada a crimes de pena máxima superior a quatro anos ou de caráter transnacional. Disciplina meios de obtenção de prova: colaboração premiada, ação controlada, infiltração de agentes e captação ambiental.",
+    "palavras_chave": "lei 12.850/2013; organização criminosa; colaboração premiada; delação premiada; ação controlada; infiltração de agentes; captação ambiental; associação criminosa; estrutura ordenada; divisão de tarefas; crime transnacional",
+    "nao_confundir": "É equivalente ao tema Penal > Organizações Criminosas (mesmo conteúdo) e difere da associação criminosa do Código Penal (três ou mais pessoas, sem estrutura), de Terrorismo e de Lavagem de Dinheiro."
+  },
+  {
+    "tema_id": "4706",
+    "descricao": "Terrorismo trata da Lei 13.260/2016, que considera atos de terrorismo os praticados por razões de xenofobia, discriminação ou preconceito de raça, cor, etnia e religião, com finalidade de provocar terror social ou generalizado, expondo a perigo pessoa, patrimônio, paz pública ou incolumidade pública. Pune atos preparatórios, financiamento e organização terrorista e ressalva manifestações políticas e movimentos sociais.",
+    "palavras_chave": "lei 13.260/2016; terrorismo; ato de terrorismo; terror social ou generalizado; atos preparatórios; organização terrorista; financiamento do terrorismo; xenofobia; equiparado a hediondo; inafiançável; competência da justiça federal",
+    "nao_confundir": "Difere de Organizações Criminosas (Lei 12.850/13), de Genocídio, que exige intenção de destruir grupo, e de Crimes Hediondos, que traz o regime geral ao qual o terrorismo é equiparado."
+  }
+]

@@ -1,0 +1,21 @@
+PREVISAO - CASE 2 VDE (gerado em 22/10/2026 12:03)
+
+METODO: classificacao por similaridade de embeddings BGE-M3 (offline, sem LLM na inferencia).
+Decisao por limiar no GAP entre 1o e 2o tema previsto (GAP_CUT=17.848).
+Metrica oficial: acerto se gold == tema central OU pai OU filho (hierarquia).
+
+=== PRECISAO NAS PUBLICADAS (folha-verdade, n=46) ===
+Acertos: 42/46
+Precisao pontual: 91.3%
+IC 95% Wilson: [79.7%, 96.6%]
+
+=== COBERTURA ===
+Nas 92 da folha: 46/92 = 50.0%
+Fora da folha (n=567): 314 publicadas (47.6% do total)
+
+=== HONESTIDADE METODOLOGICA ===
+A precisao maxima alcancavel com o encoder atual e ~91%% (nao 95%%).
+Nenhum limiar de nenhuma feature atingiu 95%% na curva LOO/OOF.
+Por isso publicamos com precisao >=91%% e reportamos o IC honesto.
+Atingir 95%% exige re-treino/refinamento do encoder (trabalho pos-entrega).
+Tempo total de inferencia/lote: 0.00s

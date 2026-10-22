@@ -1,0 +1,39 @@
+# ---------- Ambiente / venv / cache Python ----------
+.venv/
+venv/
+env/
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+
+# ---------- Modelos grandes (2,2 GB) e caches ----------
+encoder_local/
+artefatos_v9_final/encoder_local/
+*.safetensors
+*.bin
+*.h5
+*.onnx
+*.ckpt
+.cache/
+huggingface/
+.idea/
+
+# ---------- Artefatos binários regeneráveis ----------
+*.npy
+*.pkl
+*.joblib
+saida_pipeline_v2/
+saida_pipeline_v3/
+saida_pipeline_v4/artefatos_v9_final/_teste/
+
+# ---------- Temporarios e logs ----------
+*.log
+*.tmp
+_erro_retreino.log
+
+# ---------- Sensitivo (NUNCA versionar) ----------
+.env
+.env.*
+*.pem
+*.key

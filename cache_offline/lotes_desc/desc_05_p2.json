@@ -1,0 +1,62 @@
+[
+  {
+    "tema_id": "5122",
+    "descricao": "Calúnia consiste em imputar falsamente a alguém fato definido como crime (art. 138 do CP), ofendendo a honra objetiva da vítima. Também responde quem, sabendo falsa a imputação, a propala ou divulga, sendo punível a calúnia contra os mortos, e admite-se em regra a exceção da verdade.",
+    "palavras_chave": "calúnia; imputação falsa; fato criminoso; honra objetiva; propalar; divulgar; calúnia contra os mortos; exceção da verdade; reputação",
+    "nao_confundir": "Diferente da difamação, o fato imputado é crime e precisa ser falso, e diferente da injúria, há imputação de fato determinado."
+  },
+  {
+    "tema_id": "5123",
+    "descricao": "Difamação consiste em imputar a alguém fato ofensivo à sua reputação (art. 139 do CP), atingindo a honra objetiva. Pouco importa se o fato é verdadeiro ou falso, e a exceção da verdade só é admitida quando o ofendido é funcionário público e a ofensa se relaciona ao exercício de suas funções.",
+    "palavras_chave": "difamação; fato ofensivo; reputação; honra objetiva; imputação de fato; funcionário público; exceção da verdade; terceiros; fato determinado",
+    "nao_confundir": "Diferente da calúnia, o fato imputado não é crime, e diferente da injúria, há imputação de fato concreto que chega ao conhecimento de terceiros."
+  },
+  {
+    "tema_id": "5121",
+    "descricao": "Disposições Gerais e Comuns aos Crimes Contra a Honra reúnem regras aplicáveis a calúnia, difamação e injúria, como causas de aumento de pena, exclusão do crime na ofensa irrogada em juízo, na crítica literária ou artística e no conceito desfavorável de funcionário público, retratação antes da sentença, pedido de explicações e regras da ação penal, em regra privada.",
+    "palavras_chave": "disposições comuns; causas de aumento; exclusão do crime; imunidade judiciária; retratação; pedido de explicações; ação penal privada; queixa-crime; crítica literária",
+    "nao_confundir": "Diferente dos irmãos, não define um tipo penal específico, mas regras transversais aplicáveis à calúnia, à difamação e à injúria."
+  },
+  {
+    "tema_id": "5124",
+    "descricao": "Injúria consiste em ofender a dignidade ou o decoro de alguém (art. 140 do CP), atingindo a honra subjetiva sem imputar fato determinado. Não admite exceção da verdade, permite perdão judicial em caso de provocação ou retorsão imediata e possui formas qualificadas, como a injúria real e a praticada com elementos de religião ou condição de pessoa idosa ou com deficiência.",
+    "palavras_chave": "injúria; dignidade; decoro; honra subjetiva; injúria real; perdão judicial; retorsão imediata; xingamento; qualidade negativa; sem imputação de fato",
+    "nao_confundir": "Diferente da calúnia e da difamação, não há imputação de fato, apenas atribuição de qualidade negativa que ofende a autoestima da vítima."
+  },
+  {
+    "tema_id": "5125",
+    "descricao": "Dos Crimes Contra a Incolumidade Pública protegem a segurança da coletividade contra situações de perigo a número indeterminado de pessoas. O título abrange os crimes de perigo comum, como incêndio e explosão, os crimes contra a segurança dos meios de comunicação e transporte e os crimes contra a saúde pública, admitindo em vários tipos a forma culposa.",
+    "palavras_chave": "incolumidade pública; perigo comum; segurança coletiva; incêndio; explosão; meios de transporte; saúde pública; crime de perigo; forma culposa; vítima indeterminada",
+    "nao_confundir": "É o tema agregador; seus filhos tratam separadamente do perigo comum e da segurança dos meios de comunicação, transporte e serviços públicos."
+  },
+  {
+    "tema_id": "5127",
+    "descricao": "Dos Crimes Contra a Segurança dos Meios de Comunicação e Transporte e Outros Serviços Públicos punem condutas que expõem a perigo transportes e serviços essenciais, como atentado contra a segurança de transporte ferroviário, marítimo, fluvial ou aéreo, arremesso de projétil contra veículo em movimento e atentado contra serviço de utilidade pública ou telecomunicações.",
+    "palavras_chave": "meios de transporte; meios de comunicação; transporte ferroviário; transporte aéreo; arremesso de projétil; serviço de utilidade pública; telecomunicações; atentado; segurança coletiva",
+    "nao_confundir": "Diferente dos crimes de perigo comum, o perigo recai especificamente sobre transportes, comunicações e serviços públicos essenciais."
+  },
+  {
+    "tema_id": "5126",
+    "descricao": "Dos Crimes de Perigo Comum abrangem condutas que expõem a perigo a vida, a integridade física ou o patrimônio de número indeterminado de pessoas, como incêndio, explosão, uso de gás tóxico, inundação, desabamento e difusão de doença ou praga. Muitos tipos admitem forma culposa, e o resultado lesivo grave atua como qualificadora.",
+    "palavras_chave": "perigo comum; incêndio; explosão; gás tóxico; inundação; desabamento; difusão de doença; forma culposa; resultado qualificador; perigo concreto",
+    "nao_confundir": "Diferente dos crimes contra a segurança dos transportes e serviços públicos, o perigo decorre de meios de destruição ampla, como fogo, explosivos e inundação."
+  },
+  {
+    "tema_id": "5128",
+    "descricao": "Dos Crimes Contra a Liberdade Pessoal protegem a liberdade individual em suas várias dimensões, como autodeterminação, locomoção e intimidade. Abrangem constrangimento ilegal, ameaça, perseguição, violência psicológica contra a mulher, intimidação sistemática, sequestro e cárcere privado, redução à condição análoga à de escravo, tráfico de pessoas e violação de domicílio, correspondência e segredos.",
+    "palavras_chave": "liberdade pessoal; constrangimento ilegal; ameaça; perseguição; sequestro; cárcere privado; trabalho escravo; tráfico de pessoas; violação de domicílio; segredos",
+    "nao_confundir": "É o tema agregador; seus filhos tratam separadamente de ameaça e perseguição, inviolabilidades, bullying, privação da liberdade e violência psicológica."
+  },
+  {
+    "tema_id": "5130",
+    "descricao": "Ameaça e Perseguição tutelam a tranquilidade e a liberdade psíquica da vítima. A ameaça consiste em prometer a alguém, por palavra, escrito ou gesto, mal injusto e grave (art. 147 do CP), e a perseguição, ou stalking, consiste em perseguir reiteradamente alguém, ameaçando sua integridade ou invadindo sua esfera de liberdade (art. 147-A do CP).",
+    "palavras_chave": "ameaça; perseguição; stalking; mal injusto e grave; reiteração; tranquilidade psíquica; liberdade individual; intimidação; representação",
+    "nao_confundir": "Diferente da violência psicológica contra a mulher, não exige vítima mulher nem dano emocional, e diferente do sequestro, não há privação da liberdade de locomoção."
+  },
+  {
+    "tema_id": "5133",
+    "descricao": "Dos Crimes contra a Inviolabilidade do Domicílio, Contra a Inviolabilidade da Correspondência e Contra a Inviolabilidade dos Segredos protegem a intimidade e a privacidade. Incluem violação de domicílio, violação e sonegação de correspondência, divulgação de segredo, violação de segredo profissional e invasão de dispositivo informático.",
+    "palavras_chave": "violação de domicílio; correspondência; sonegação de correspondência; divulgação de segredo; segredo profissional; invasão de dispositivo informático; intimidade; privacidade; casa",
+    "nao_confundir": "Diferente da ameaça e do sequestro, o bem protegido é a esfera privada, como casa, comunicações e segredos, e não a liberdade psíquica ou de locomoção."
+  }
+]

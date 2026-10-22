@@ -1,0 +1,32 @@
+[
+  {
+    "tema_id": "5171",
+    "descricao": "Conceito e Fontes do Direito Penal trata da definição, das funções e do objeto do direito penal. Trata também das fontes materiais e formais, com a lei como fonte formal imediata e os costumes, a doutrina, a jurisprudência e os princípios gerais do direito como fontes mediatas ou subsidiárias.",
+    "palavras_chave": "conceito de direito penal; fontes do direito penal; fonte material; fonte formal; lei penal; costumes; doutrina; jurisprudência; princípios gerais do direito; função do direito penal",
+    "nao_confundir": "Diferencia-se de Princípios do Direito Penal, que tratam das garantias e limites ao poder punitivo, e de Interpretação da Norma Penal, que trata da extração do sentido da lei. Aqui o foco é a definição da disciplina e a origem das normas penais."
+  },
+  {
+    "tema_id": "5173",
+    "descricao": "Interpretação da Norma Penal trata dos métodos e resultados de se extrair o sentido da lei penal. Quanto ao sujeito, a interpretação pode ser autêntica, doutrinária ou jurisprudencial. Quanto ao modo, pode ser gramatical, teleológica, sistemática ou histórica. Quanto ao resultado, pode ser declarativa, restritiva ou extensiva. Inclui a interpretação analógica e a analogia.",
+    "palavras_chave": "interpretação da norma penal; interpretação autêntica; interpretação doutrinária; interpretação jurisprudencial; interpretação gramatical; interpretação teleológica; interpretação extensiva; interpretação restritiva; interpretação analógica; analogia",
+    "nao_confundir": "Diferencia-se de Conceito e Fontes do Direito Penal, que trata da origem das normas, e de Princípios do Direito Penal, que trata das garantias fundamentais. Aqui o foco é o método de compreensão e a aplicação do texto legal."
+  },
+  {
+    "tema_id": "5172",
+    "descricao": "Princípios do Direito Penal reúne as garantias e limites ao poder punitivo do Estado. Entre eles estão a legalidade, a anterioridade, a irretroatividade da lei mais severa, a taxatividade, a intervenção mínima, a fragmentariedade, a lesividade, a culpabilidade, a humanidade e a proporcionalidade.",
+    "palavras_chave": "princípios do direito penal; legalidade; anterioridade; irretroatividade; taxatividade; intervenção mínima; fragmentariedade; lesividade; culpabilidade; humanidade; proporcionalidade",
+    "nao_confundir": "Diferencia-se de Conceito e Fontes do Direito Penal, que trata da definição da disciplina, e de Interpretação da Norma Penal, que trata dos métodos de extrair o sentido da lei. Diferencia-se também de Classificações dos Crimes, que organiza tipos penais. Aqui o foco são as garantias e os limites ao poder punitivo."
+  },
+  {
+    "tema_id": "5175",
+    "descricao": "Iter Criminis estuda o caminho percorrido pelo crime, da cogitação ao exaurimento. Seus filhos são Crime Consumado e Tentado, Crime Impossível, Desistência Voluntária, Arrependimento Eficaz e Arrependimento posterior e Fases do Iter Criminis. Corresponde, na parte geral do CP, aos arts. 14 a 17.",
+    "palavras_chave": "iter criminis; cogitação; atos preparatórios; atos de execução; consumação; exaurimento; tentativa; desistência voluntária; arrependimento eficaz; arrependimento posterior; crime impossível",
+    "nao_confundir": "Diferencia-se de Concurso de Pessoas e Concurso de Crimes, que tratam da pluralidade de agentes e de condutas, e de Ação Penal. Diferencia-se também de Introdução ao Estudo do Direito Penal. Aqui o foco são as etapas de realização do crime e suas consequências para a punição."
+  },
+  {
+    "tema_id": "5177",
+    "descricao": "Crime Consumado e Tentado corresponde ao art. 14 do CP. O crime é consumado quando reúne todos os elementos de sua definição legal. É tentado quando, iniciada a execução, não se consuma por circunstâncias alheias à vontade do agente, e a pena é em regra reduzida.",
+    "palavras_chave": "crime consumado; crime tentado; art. 14; início da execução; circunstâncias alheias à vontade do agente; tentativa; tentativa perfeita; tentativa imperfeita; redução de pena; todos os elementos da definição legal",
+    "nao_confundir": "Diferencia-se de Crime Impossível, em que o meio ou o objeto torna impossível a consumação, e de Desistência Voluntária, Arrependimento Eficaz e Arrependimento posterior, em que a não consumação decorre da vontade do agente. Diferencia-se também de Fases do Iter Criminis, que descreve o percurso do crime."
+  }
+]

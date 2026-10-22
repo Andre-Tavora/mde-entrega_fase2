@@ -1,0 +1,14 @@
+{
+  "calibrador": {
+    "coef": 0.2312382489703078,
+    "intercept": 0.13789621836250074
+  },
+  "limiar_B": 0.5,
+  "regra_B": {
+    "prec": 0,
+    "cov": 0,
+    "n_pub": 0
+  },
+  "shift": "('pequeno', 92, 0)",
+  "n": 92
+}

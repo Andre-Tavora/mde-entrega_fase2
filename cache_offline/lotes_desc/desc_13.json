@@ -1,0 +1,152 @@
+[
+  {
+    "tema_id": "5518",
+    "descricao": "Prisão em Flagrante corresponde aos arts. 301 a 310 do CPP e é a prisão cautelar de quem é surpreendido cometendo ou logo após cometer a infração. Espécies: própria (art. 302, I e II), imprópria ou quase flagrante (III) e presumida ou ficta (IV). Estuda o flagrante obrigatório e o facultativo, o preparado (Súmula 145 do STF), o esperado e o forjado, o crime permanente, a lavratura do auto, a comunicação ao juiz em 24 horas (art. 306) e as providências do art. 310: relaxamento, conversão em preventiva ou liberdade provisória.",
+    "palavras_chave": "prisão em flagrante; arts. 301 a 310 do cpp; flagrante próprio; flagrante impróprio; quase flagrante; flagrante presumido; flagrante preparado; súmula 145 do stf; flagrante esperado; flagrante forjado; auto de prisão em flagrante; art. 306; art. 310; conversão em preventiva",
+    "nao_confundir": "Diferencia-se de Prisão Preventiva e de Prisão Temporária, que são decretadas pelo juiz, e de Audiência de Custódia, que é o ato posterior de apresentação do preso. Aqui o foco é a captura pela situação flagrancial, que qualquer pessoa pode fazer."
+  },
+  {
+    "tema_id": "5530",
+    "descricao": "Procedimento Ordinário corresponde aos arts. 394 a 405 do CPP e é o rito comum para crimes com pena máxima igual ou superior a 4 anos. Seus filhos são Oferecimento, Rejeição e Recebimento da Peça Acusatória, Absolvição Sumária, Alegações Orais, Audiência de Instrução e Julgamento, Classificação dos Procedimentos, Defesa Preliminar e Sentença.",
+    "palavras_chave": "procedimento ordinário; arts. 394 a 405 do cpp; rito comum; pena máxima igual ou superior a 4 anos; resposta à acusação; absolvição sumária; audiência una; alegações orais; sentença; aplicação subsidiária; art. 394 §5º; procedimento comum",
+    "nao_confundir": "Diferencia-se de Procedimento Sumário e Procedimento Sumaríssimo, que são ritos comuns para crimes de menor gravidade, e de Procedimento do Tribunal do Júri, que é rito especial. Aqui o foco é o rito-base do primeiro grau."
+  },
+  {
+    "tema_id": "5531",
+    "descricao": "Oferecimento, Rejeição e Recebimento da Peça Acusatória trata da fase inicial do procedimento. Abrange o oferecimento da denúncia ou queixa (art. 41 e prazos do art. 46), as hipóteses de rejeição liminar do art. 395 (inépcia, falta de pressuposto ou condição da ação, falta de justa causa), o recebimento e a citação do réu (art. 396), a Súmula 709 do STF e o efeito interruptivo da prescrição (art. 117, I, do CP).",
+    "palavras_chave": "oferecimento da denúncia; rejeição da denúncia; recebimento da denúncia; art. 395 do cpp; art. 396 do cpp; inépcia; justa causa; condição da ação; pressuposto processual; peça acusatória; súmula 709 do stf; interrupção da prescrição; art. 41; art. 46",
+    "nao_confundir": "Diferencia-se de Denúncia, em Ação Penal, que trata dos requisitos da peça, e de Defesa Preliminar, que é a resposta do réu depois do recebimento. Aqui o foco é o juízo de admissibilidade da acusação."
+  },
+  {
+    "tema_id": "5534",
+    "descricao": "Absolvição Sumária corresponde ao art. 397 do CPP e é a sentença de mérito proferida após a resposta à acusação, sem instrução. Cabe se o juiz reconhecer existência manifesta de causa excludente de ilicitude, de culpabilidade (salvo inimputabilidade), fato evidentemente atípico ou extinção da punibilidade. Contra ela cabe apelação (art. 593, I).",
+    "palavras_chave": "absolvição sumária; art. 397 do cpp; excludente de ilicitude; excludente de culpabilidade; fato manifestamente atípico; extinção da punibilidade; inimputabilidade; absolvição imprópria; resposta à acusação; apelação; julgamento antecipado; art. 593 i",
+    "nao_confundir": "Diferencia-se de Impronúncia, Desclassificação, Absolvição Sumária e Pronúncia do Júri (art. 415), que é a absolvição sumária própria do procedimento do júri, e de Sentença. Aqui o foco é a absolvição antecipada no rito comum."
+  },
+  {
+    "tema_id": "5536",
+    "descricao": "Alegações Orais corresponde ao art. 403 do CPP e trata do debate oral que encerra a instrução. Acusação e defesa têm 20 minutos cada, prorrogáveis por 10, e a sentença pode ser proferida em audiência. Em casos complexos ou com muitos réus, o juiz pode substituir as alegações por memoriais escritos em 5 dias sucessivos (art. 403, §3º). Antes disso há o requerimento de diligências do art. 402.",
+    "palavras_chave": "alegações orais; art. 403 do cpp; debates orais; 20 minutos; prorrogação de 10 minutos; memoriais; alegações finais; art. 403 §3º; diligências; art. 402; encerramento da instrução; sentença em audiência",
+    "nao_confundir": "Diferencia-se de Audiência de Instrução e Julgamento, que abrange a produção de provas, e de Sentença. Aqui o foco são as manifestações finais das partes, antes do julgamento."
+  },
+  {
+    "tema_id": "5535",
+    "descricao": "Audiência de Instrução e Julgamento corresponde aos arts. 399 a 405 do CPP. É a audiência una realizada em até 60 dias (art. 400), em que se tomam as declarações do ofendido, as testemunhas de acusação e de defesa (até 8 por fato, art. 401), esclarecimentos dos peritos, acareações, reconhecimentos e, por último, o interrogatório. Regem-na oralidade, concentração, imediação e identidade física do juiz (art. 399, §2º), com o sistema de perguntas diretas do art. 212.",
+    "palavras_chave": "audiência de instrução e julgamento; arts. 399 a 405 do cpp; audiência una; art. 400; prazo de 60 dias; 8 testemunhas; art. 401; interrogatório ao final; identidade física do juiz; oralidade; concentração; art. 212; gravação audiovisual; art. 405",
+    "nao_confundir": "Diferencia-se de Defesa Preliminar, que antecede a audiência, e de Alegações Orais, que são as manifestações finais. Aqui o foco é a produção oral da prova perante o juiz."
+  },
+  {
+    "tema_id": "5532",
+    "descricao": "Classificação dos Procedimentos corresponde ao art. 394 do CPP. O procedimento pode ser comum (ordinário, sumário e sumaríssimo) ou especial, definido pela pena máxima cominada: ordinário se igual ou superior a 4 anos, sumário se inferior a 4 anos e sumaríssimo para infrações de menor potencial ofensivo. Os arts. 395 a 398 aplicam-se a todos os procedimentos de primeiro grau (art. 394, §4º) e o ordinário é subsidiário aos demais.",
+    "palavras_chave": "classificação dos procedimentos; art. 394 do cpp; procedimento comum; procedimento especial; procedimento ordinário; procedimento sumário; procedimento sumaríssimo; pena máxima cominada; infração de menor potencial ofensivo; aplicação subsidiária; art. 394 §4º; art. 394 §5º",
+    "nao_confundir": "Diferencia-se de Procedimento Ordinário, Procedimento Sumário e Procedimento Sumaríssimo, que detalham cada rito. Aqui o foco é o critério que define qual procedimento aplicar."
+  },
+  {
+    "tema_id": "5533",
+    "descricao": "Defesa Preliminar, ou resposta à acusação, corresponde aos arts. 396 e 396-A do CPP. É a peça de defesa apresentada em 10 dias a partir da citação, em que se alegam preliminares, apresentam-se documentos e justificações, especificam-se provas e se arrola até 8 testemunhas. Não sendo apresentada, o juiz nomeia defensor para oferecê-la em 10 dias (art. 396-A, §2º). É obrigatória, sob pena de nulidade.",
+    "palavras_chave": "defesa preliminar; resposta à acusação; art. 396 do cpp; art. 396-a; prazo de 10 dias; arguição de preliminares; rol de testemunhas; defensor dativo; defesa técnica; citação; art. 396-a §2º; nulidade por falta de defesa",
+    "nao_confundir": "Diferencia-se de Absolvição Sumária, que é a decisão do juiz após a defesa, e de Oferecimento, Rejeição e Recebimento da Peça Acusatória, que é a fase anterior. Aqui o foco é a primeira manifestação do réu."
+  },
+  {
+    "tema_id": "5537",
+    "descricao": "Sentença, no procedimento ordinário, trata da decisão final proferida em audiência ou em 10 dias após os memoriais (art. 403, §3º, do CPP). Observa os requisitos formais do art. 381, a fundamentação, a correlação com a acusação e as hipóteses de absolvição (art. 386) e condenação (art. 387). A publicação (art. 389) marca o início do prazo recursal.",
+    "palavras_chave": "sentença; procedimento ordinário; art. 381 do cpp; art. 386; art. 387; art. 389; requisitos da sentença; fundamentação; dispositivo; publicação da sentença; prazo de 10 dias; art. 403 §3º; absolvição; condenação",
+    "nao_confundir": "Diferencia-se do tema raiz Sentença Penal, que trata da classificação dos provimentos, dos efeitos da condenação e da fixação da pena, e de Sentença do Júri. Aqui o foco é o momento e o contexto da sentença no rito ordinário."
+  },
+  {
+    "tema_id": "5539",
+    "descricao": "Procedimento Sumaríssimo corresponde à Lei 9.099/1995 e ao art. 394, §1º, III, do CPP. É o rito dos Juizados Especiais Criminais para infrações de menor potencial ofensivo, orientado por oralidade, simplicidade, informalidade, economia processual e celeridade (art. 62). Seus filhos são Competência dos Juizados Especiais Criminais, Suspensão Condicional do Processo e Transação Penal.",
+    "palavras_chave": "procedimento sumaríssimo; lei 9.099/1995; juizado especial criminal; infração de menor potencial ofensivo; termo circunstanciado; audiência preliminar; composição civil; transação penal; suspensão condicional do processo; oralidade; celeridade; turma recursal",
+    "nao_confundir": "Diferencia-se de Procedimento Ordinário e Procedimento Sumário, que são ritos do CPP para crimes de maior pena. Aqui o foco são os crimes de menor potencial ofensivo e os institutos despenalizadores."
+  },
+  {
+    "tema_id": "5540",
+    "descricao": "Competência dos Juizados Especiais Criminais corresponde ao art. 98, I, da CF e aos arts. 60 e 61 da Lei 9.099/1995. Compete-lhes julgar infrações de menor potencial ofensivo: contravenções e crimes com pena máxima não superior a 2 anos (Lei 11.313/2006), cumulada ou não com multa. Fixa-se pelo lugar da infração (art. 63), com termo circunstanciado e vedação de citação por edital (art. 66, parágrafo único). Não se aplica aos crimes de violência doméstica da Lei Maria da Penha (art. 41; Súmula 536 do STJ).",
+    "palavras_chave": "competência dos juizados especiais criminais; jecrim; art. 98 i da cf; lei 9.099/1995; arts. 60 e 61; infração de menor potencial ofensivo; pena máxima não superior a 2 anos; lei 11.313/2006; termo circunstanciado; art. 66; lei maria da penha; súmula 536 do stj",
+    "nao_confundir": "Tem o mesmo conteúdo do equivalente Direito Penal - Legislação Especial > Juizado Especial Criminal. Diferencia-se de Transação Penal e de Suspensão Condicional do Processo, que são institutos aplicados nos Juizados. Aqui o foco é quais infrações ficam sob a competência do Juizado."
+  },
+  {
+    "tema_id": "5542",
+    "descricao": "Suspensão Condicional do Processo corresponde ao art. 89 da Lei 9.099/1995. O Ministério Público, ao oferecer a denúncia, pode propor a suspensão por 2 a 4 anos nos crimes com pena mínima igual ou inferior a 1 ano, se o acusado não estiver sendo processado ou não tiver sido condenado por outro crime e se presentes os requisitos do sursis (art. 77 do CP). Há condições legais (reparação do dano, proibição de frequentar lugares, comparecimento mensal) e hipóteses de revogação. Cumprido o período, extingue-se a punibilidade. Aplicam-se as Súmulas 243 e 337 do STJ e 696 do STF.",
+    "palavras_chave": "suspensão condicional do processo; sursis processual; art. 89 da lei 9.099/1995; pena mínima igual ou inferior a 1 ano; período de prova; 2 a 4 anos; condições; revogação; extinção da punibilidade; súmula 243 do stj; súmula 337 do stj; súmula 696 do stf",
+    "nao_confundir": "Diferencia-se de Transação Penal, que é proposta antes da denúncia e evita a ação penal, e de Acordo de Não Persecução Penal, do inquérito. Aqui o processo é iniciado e depois suspenso, mediante condições."
+  },
+  {
+    "tema_id": "5541",
+    "descricao": "Transação Penal corresponde ao art. 76 da Lei 9.099/1995 e ao art. 98, I, da CF. É a proposta de pena restritiva de direitos ou multa feita pelo Ministério Público, na audiência preliminar, antes da denúncia, nas infrações de menor potencial ofensivo de ação pública ou privada. Não cabe a quem foi condenado por pena privativa de liberdade ou beneficiado nos últimos 5 anos. A aceitação não gera reincidência nem antecedentes. O descumprimento permite o oferecimento de denúncia (Súmula Vinculante 35).",
+    "palavras_chave": "transação penal; art. 76 da lei 9.099/1995; proposta do ministério público; audiência preliminar; pena restritiva de direitos; multa; vedações; prazo de 5 anos; ausência de reincidência; descumprimento; súmula vinculante 35; homologação",
+    "nao_confundir": "Diferencia-se de Suspensão Condicional do Processo, que ocorre após a denúncia, e de Acordo de Não Persecução Penal, que se aplica a crimes de média gravidade. Aqui o foco é a aplicação imediata de pena não privativa de liberdade, sem processo."
+  },
+  {
+    "tema_id": "5538",
+    "descricao": "Procedimento Sumário corresponde aos arts. 531 a 538 do CPP e é o rito comum aplicável a crimes com pena máxima inferior a 4 anos (art. 394, §1º, II). Tem audiência una em até 30 dias (art. 531), até 5 testemunhas (art. 532), alegações orais de 20 minutos sem prorrogação (art. 534), sentença em audiência e aplicação subsidiária do ordinário (art. 394, §5º). Aplica-se também às infrações de menor potencial ofensivo que não puderem ser julgadas no Juizado (art. 538).",
+    "palavras_chave": "procedimento sumário; arts. 531 a 538 do cpp; pena máxima inferior a 4 anos; audiência una; prazo de 30 dias; 5 testemunhas; art. 532; alegações orais; art. 534; art. 538; sentença em audiência; aplicação subsidiária do rito ordinário",
+    "nao_confundir": "Diferencia-se de Procedimento Ordinário, de pena máxima igual ou superior a 4 anos, com 8 testemunhas e prazos maiores, e de Procedimento Sumaríssimo, dos Juizados. Aqui o foco é o rito intermediário de crimes de gravidade média."
+  },
+  {
+    "tema_id": "5524",
+    "descricao": "Procedimento do Tribunal do Júri corresponde aos arts. 406 a 497 do CPP, ao art. 5º, XXXVIII, da CF e à Lei 11.689/2008. É o rito especial para crimes dolosos contra a vida e conexos. Seus filhos são Impronúncia, Desclassificação, Absolvição Sumária e Pronúncia, Organização do Júri e Sessão de Julgamento, Princípios Constitucionais do Júri, Procedimento Bifásico do Tribunal do Júri e Sentença do Júri.",
+    "palavras_chave": "tribunal do júri; procedimento do júri; arts. 406 a 497 do cpp; art. 5º xxxviii da cf; crimes dolosos contra a vida; procedimento bifásico; pronúncia; conselho de sentença; plenário do júri; jurados; juiz presidente; lei 11.689/2008",
+    "nao_confundir": "Diferencia-se de Procedimento Ordinário, que é rito comum, e de Competência em Razão da Matéria, que trata da competência do Júri. Aqui o foco é o procedimento especial do julgamento popular."
+  },
+  {
+    "tema_id": "5527",
+    "descricao": "Impronúncia, Desclassificação, Absolvição Sumária e Pronúncia corresponde aos arts. 413 a 421 do CPP e trata das decisões que encerram a primeira fase do júri. A pronúncia exige prova da materialidade e indícios suficientes de autoria ou participação (art. 413). A impronúncia (art. 414) ocorre sem esses elementos e não faz coisa julgada material. A absolvição sumária (art. 415) reconhece inexistência do fato, negativa de autoria, atipicidade ou excludente. A desclassificação (art. 419) remete ao juízo competente. Contra a pronúncia cabe RESE, e contra impronúncia e absolvição sumária, apelação (art. 416).",
+    "palavras_chave": "pronúncia; impronúncia; absolvição sumária; desclassificação; arts. 413 a 421 do cpp; materialidade; indícios suficientes de autoria; in dubio pro societate; art. 414; art. 415; art. 419; rese contra pronúncia; apelação art. 416; judicium accusationis",
+    "nao_confundir": "Diferencia-se de Absolvição Sumária do rito ordinário (art. 397) e de Sentença do Júri, proferida após o plenário. Aqui o foco são as decisões que encerram a primeira fase do procedimento do júri."
+  },
+  {
+    "tema_id": "5528",
+    "descricao": "Organização do Júri e Sessão de Julgamento corresponde aos arts. 425 a 472 e 473 a 497 do CPP. Trata do alistamento anual dos jurados, do sorteio de 25 jurados para a reunião (art. 433) e da formação do Conselho de Sentença com 7 jurados, das recusas imotivadas (3 por parte, art. 468), dos impedimentos e escusas, do desaforamento (arts. 427 e 428), dos debates (1h30 para cada parte, réplica e tréplica de 1h, art. 477), da incomunicabilidade e do uso de algemas (Súmula Vinculante 11 e art. 474, §3º).",
+    "palavras_chave": "organização do júri; sessão de julgamento; arts. 425 a 472; conselho de sentença; 7 jurados; sorteio de 25 jurados; art. 433; recusas peremptórias; art. 468; desaforamento; debates orais; art. 477; quesitação; incomunicabilidade; súmula vinculante 11",
+    "nao_confundir": "Diferencia-se de Impronúncia, Desclassificação, Absolvição Sumária e Pronúncia, que encerram a fase de pronúncia, e de Princípios Constitucionais do Júri. Aqui o foco é a composição do júri e o desenrolar do plenário."
+  },
+  {
+    "tema_id": "5525",
+    "descricao": "Princípios Constitucionais do Júri corresponde ao art. 5º, XXXVIII, da CF. São a plenitude de defesa (mais ampla que a ampla defesa), o sigilo das votações, a soberania dos veredictos e a competência mínima para julgar os crimes dolosos contra a vida. Abrange ainda a íntima convicção dos jurados, o quesito absolutório genérico (art. 483, III, do CPP) e a relatividade da soberania, que permite apelação por decisão manifestamente contrária à prova (art. 593, III, d).",
+    "palavras_chave": "princípios constitucionais do júri; art. 5º xxxviii da cf; plenitude de defesa; sigilo das votações; soberania dos veredictos; competência para crimes dolosos contra a vida; íntima convicção; quesito absolutório genérico; art. 483 iii; art. 593 iii d; júri",
+    "nao_confundir": "Diferencia-se de Procedimento Bifásico do Tribunal do Júri, que trata das fases, e de Organização do Júri e Sessão de Julgamento. Aqui o foco são as garantias constitucionais que estruturam o júri."
+  },
+  {
+    "tema_id": "5526",
+    "descricao": "Procedimento Bifásico do Tribunal do Júri trata das duas fases do rito. A primeira, o sumário da culpa (judicium accusationis), vai da denúncia à pronúncia (arts. 406 a 421), com resposta de 10 dias, audiência una (art. 411) e prazo de 90 dias para encerrar (art. 412). A segunda, o juízo da causa (judicium causae), vai da preparação do plenário (art. 422) ao julgamento pelo Conselho de Sentença (arts. 422 a 497).",
+    "palavras_chave": "procedimento bifásico; sumário da culpa; judicium accusationis; judicium causae; primeira fase do júri; segunda fase do júri; arts. 406 a 421; arts. 422 a 497; preparação do plenário; art. 422; art. 411; art. 412; prazo de 90 dias; pronúncia",
+    "nao_confundir": "Diferencia-se de Princípios Constitucionais do Júri, que trata das garantias, e de Organização do Júri e Sessão de Julgamento, que detalha o plenário. Aqui o foco é a estrutura em duas fases e o que ocorre em cada uma."
+  },
+  {
+    "tema_id": "5529",
+    "descricao": "Sentença do Júri corresponde aos arts. 492 e 493 do CPP. É proferida pelo juiz presidente conforme o veredicto dos jurados. Em condenação, fixa a pena (base, agravantes, atenuantes, causas de aumento e diminuição reconhecidas pelo júri), decide sobre prisão e pode determinar a execução imediata da pena (art. 492, I, e; STF, Tema 1068). Em absolvição, põe fim ao processo (art. 492, II). Trata da desclassificação (art. 492, §§1º e 2º) e do recurso de apelação (art. 593, III), sem o antigo protesto por novo júri.",
+    "palavras_chave": "sentença do júri; art. 492 do cpp; art. 493; juiz presidente; veredicto; fixação da pena; execução imediata da pena; stf tema 1068; absolvição pelo júri; desclassificação; apelação art. 593 iii; soberania dos veredictos; protesto por novo júri extinto",
+    "nao_confundir": "Diferencia-se de Sentença no procedimento ordinário, proferida pelo juiz singular, e de Impronúncia, Desclassificação, Absolvição Sumária e Pronúncia, que são decisões da primeira fase. Aqui o foco é a sentença que aplica o veredicto do Conselho de Sentença."
+  },
+  {
+    "tema_id": "6735",
+    "descricao": "Provas em Espécie é variante de grafia do tema Provas em Espécies e abrange os meios de prova típicos do CPP e das leis especiais, como exame de corpo de delito e perícia, interrogatório, confissão, declarações do ofendido, testemunhas, reconhecimento, acareação, documentos, busca e apreensão, interceptação telefônica, captação ambiental, colaboração premiada, ação controlada, infiltração de agentes e cadeia de custódia.",
+    "palavras_chave": "provas em espécie; meios de prova; arts. 155 a 250 do cpp; exame de corpo de delito; perícia; interrogatório; confissão; testemunha; reconhecimento; acareação; prova documental; busca e apreensão; interceptação telefônica; colaboração premiada",
+    "nao_confundir": "Diferencia-se de Teoria Geral das Provas, que trata de princípios, ônus, sistemas de avaliação e ilicitude. Aqui o foco são os meios de prova em espécie, e não os conceitos gerais."
+  },
+  {
+    "tema_id": "5543",
+    "descricao": "Provas em Espécies é o tema geral dos meios de prova nominados, previstos nos arts. 155 a 250 do CPP e em leis especiais. Seus filhos são Acareação, Ação Controlada, Busca e Apreensão, Cadeia de Custódia, Captação Ambiental, Colaboração Premiada, Confissão, Declaração do Ofendido, Exame de Corpo de Delito, Infiltração de Agentes, Interceptação Telefônica e Quebra do Sigilo de Dados Telefônicos, Interrogatório Judicial, Perícia, Prova Documental, Prova Testemunhal e Reconhecimento de Pessoas e Coisas.",
+    "palavras_chave": "provas em espécies; meios de prova; arts. 155 a 250 do cpp; meios de obtenção de prova; exame de corpo de delito; perícia; interrogatório; testemunha; reconhecimento; documento; busca e apreensão; interceptação; colaboração premiada; cadeia de custódia; provas típicas",
+    "nao_confundir": "Diferencia-se de Teoria Geral das Provas, que trata de princípios, ônus, sistemas de avaliação, prova emprestada e prova ilícita. Aqui o foco é cada meio de prova em particular."
+  },
+  {
+    "tema_id": "5552",
+    "descricao": "Acareação corresponde aos arts. 229 e 230 do CPP. É o meio de prova que coloca frente a frente pessoas que prestaram declarações divergentes sobre fato ou circunstância relevante, para esclarecer a contradição. Pode ocorrer entre acusados, entre testemunhas, entre acusado e testemunha, entre acusado ou testemunha e o ofendido, e entre ofendidos. Pode ser determinada de ofício ou a requerimento das partes, inclusive por precatória.",
+    "palavras_chave": "acareação; arts. 229 e 230 do cpp; declarações divergentes; confronto entre depoimentos; entre acusados; entre testemunhas; entre acusado e ofendido; contradição; esclarecimento; precatória; requerimento das partes; de ofício",
+    "nao_confundir": "Diferencia-se de Prova Testemunhal e de Interrogatório Judicial, que colhem as declarações a serem confrontadas, e de Reconhecimento de Pessoas e Coisas. Aqui o foco é o confronto direto entre depoentes para superar divergências."
+  },
+  {
+    "tema_id": "5558",
+    "descricao": "Ação Controlada corresponde aos arts. 8º e 9º da Lei 12.850/2013 (Organizações Criminosas). Consiste em retardar a intervenção policial ou administrativa sobre a ação praticada por organização criminosa, mantendo-a sob observação e acompanhamento, para que a medida se concretize no momento mais eficaz à formação de provas e à obtenção de informações. Exige comunicação prévia ao juiz, que estabelece limites e a comunica ao Ministério Público, e o procedimento é sigiloso.",
+    "palavras_chave": "ação controlada; flagrante retardado; flagrante diferido; lei 12.850/2013; art. 8º; art. 9º; organização criminosa; retardamento da intervenção policial; comunicação prévia ao juiz; sigilo; observação e acompanhamento; formação de provas",
+    "nao_confundir": "Diferencia-se de Infiltração de Agentes, em que o agente se insere na organização, e de Prisão em Flagrante, em que a prisão é imediata, pois aqui a intervenção é adiada de forma deliberada e autorizada."
+  },
+  {
+    "tema_id": "5554",
+    "descricao": "Busca e Apreensão corresponde aos arts. 240 a 250 do CPP. É meio de obtenção de prova que pode ser domiciliar (art. 240, §1º) ou pessoal (art. 240, §2º). Exige mandado fundamentado, com indicação do local e da finalidade (art. 243), cumprido de dia (garantia do art. 5º, XI, da CF), e dispensa-o apenas na busca pessoal com fundada suspeita (art. 244) e em flagrante delito, hipótese em que a entrada em domicílio exige justa causa (STF, Tema 280). Abrange a busca em escritórios de advocacia e em locais de autoridades.",
+    "palavras_chave": "busca e apreensão; arts. 240 a 250 do cpp; busca domiciliar; busca pessoal; mandado de busca; art. 243; fundada suspeita; art. 244; inviolabilidade do domicílio; art. 5º xi da cf; entrada em domicílio sem mandado; stf tema 280; escritório de advocacia; apreensão de objetos",
+    "nao_confundir": "Diferencia-se de Interceptação Telefônica e Captação Ambiental, que captam comunicações, e de Restituição de Coisas Apreendidas, que trata do destino do que foi apreendido. Aqui o foco é a diligência de procurar e recolher pessoas e objetos."
+  }
+]

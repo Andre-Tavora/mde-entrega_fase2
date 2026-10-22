@@ -1,0 +1,62 @@
+[
+  {
+    "tema_id": "6725",
+    "descricao": "Organizações Criminosas corresponde à Lei 12.850/2013. Define organização criminosa como a associação de 4 ou mais pessoas, estruturalmente ordenada e com divisão de tarefas, ainda que informal, voltada a obter vantagem mediante infrações penais de pena máxima superior a 4 anos ou de caráter transnacional. Pune promover, constituir, financiar ou integrar a organização e disciplina os meios de obtenção de prova, como colaboração premiada, ação controlada, infiltração de agentes e captação ambiental.",
+    "palavras_chave": "organização criminosa; Lei 12.850/2013; associação de 4 ou mais pessoas; divisão de tarefas; colaboração premiada; ação controlada; infiltração de agentes; captação ambiental; financiar organização criminosa; integrar organização criminosa; investigação criminal",
+    "nao_confundir": "Tem o mesmo conteúdo do equivalente Direito Penal - Legislação Especial > Organizações Criminosas. Diferencia-se de Concurso de Pessoas, que é a colaboração eventual para um crime determinado, e de Lavagem de Dinheiro e Direito penal econômico. Aqui o crime é a própria estrutura estável e organizada, com meios próprios de investigação."
+  },
+  {
+    "tema_id": "5185",
+    "descricao": "Prescrição corresponde aos arts. 109 a 119 do CP. Trata da perda do direito de punir do Estado pelo decurso do tempo. Seus filhos são Conceito, Regras Gerais e Fundamentos da Prescrição, Contagem dos Prazos e Causas Suspensivas e Interruptivas da Prescrição, Outras Prescrições, Prescrição da Pretensão Executória e Prescrição da Pretensão Punitiva.",
+    "palavras_chave": "prescrição; arts. 109 a 119; perda do direito de punir; decurso do tempo; pretensão punitiva; pretensão executória; prazos prescricionais; causas interruptivas; causas suspensivas; imprescritibilidade",
+    "nao_confundir": "Diferencia-se de Punibilidade, que reúne as demais causas de extinção da punibilidade, como Decadência e Perempção, e de Ação Penal. Aqui a causa extintiva é o decurso do prazo legal sem exercício da pretensão estatal."
+  },
+  {
+    "tema_id": "5186",
+    "descricao": "Conceito, Regras Gerais e Fundamentos da Prescrição trata da natureza e dos fundamentos do instituto, como a segurança jurídica, o esquecimento do fato e a ausência de utilidade da pena. Abrange as regras gerais de cálculo, com prazos fixados pelo máximo da pena (art. 109), a redução pela metade para o menor de 21 anos ao tempo do crime ou maior de 70 anos na sentença (art. 115), a prescrição pena a pena no concurso de crimes (art. 119) e os crimes imprescritíveis previstos na Constituição.",
+    "palavras_chave": "conceito de prescrição; fundamentos da prescrição; art. 109; prazos prescricionais; pena máxima cominada; art. 115; redução pela metade; menor de 21 anos; maior de 70 anos; art. 119; imprescritibilidade",
+    "nao_confundir": "Diferencia-se de Contagem dos Prazos e Causas Suspensivas e Interruptivas da Prescrição, que trata do termo inicial e dos eventos que paralisam ou zeram o prazo, de Prescrição da Pretensão Punitiva e de Prescrição da Pretensão Executória. Aqui o foco é a teoria geral e as regras comuns."
+  },
+  {
+    "tema_id": "5187",
+    "descricao": "Contagem dos Prazos e Causas Suspensivas e Interruptivas da Prescrição trata do termo inicial (art. 111), das causas impeditivas ou suspensivas (art. 116) e das causas interruptivas (art. 117). Entre estas estão o recebimento da denúncia ou queixa, a pronúncia, a decisão confirmatória da pronúncia, a publicação de sentença ou acórdão condenatórios recorríveis, o início ou a continuação do cumprimento da pena e a reincidência.",
+    "palavras_chave": "contagem do prazo prescricional; termo inicial; art. 111; causas suspensivas; art. 116; causas interruptivas; art. 117; recebimento da denúncia; pronúncia; sentença condenatória recorrível; reincidência; início do cumprimento da pena",
+    "nao_confundir": "Diferencia-se de Conceito, Regras Gerais e Fundamentos da Prescrição, que trata da teoria geral e dos prazos, de Prescrição da Pretensão Punitiva e de Prescrição da Pretensão Executória, que tratam das modalidades. Diferencia-se também de Outras Prescrições. Aqui o foco é quando o prazo começa e o que o suspende ou interrompe."
+  },
+  {
+    "tema_id": "5190",
+    "descricao": "Outras Prescrições reúne hipóteses que fogem das modalidades principais da pretensão punitiva e executória. Abrange a prescrição da pena de multa (art. 114), das penas restritivas de direitos (mesmos prazos da pena privativa de liberdade) e da medida de segurança, a prescrição no concurso de crimes (art. 119) e a chamada prescrição virtual ou antecipada, que não é admitida pela Súmula 438 do STJ.",
+    "palavras_chave": "outras prescrições; prescrição da pena de multa; art. 114; penas restritivas de direitos; prescrição da medida de segurança; prescrição no concurso de crimes; art. 119; prescrição virtual; prescrição antecipada; Súmula 438 do STJ",
+    "nao_confundir": "Diferencia-se de Prescrição da Pretensão Punitiva e de Prescrição da Pretensão Executória, que tratam das modalidades regulares ligadas à pena privativa de liberdade. Diferencia-se também de Conceito, Regras Gerais e Fundamentos da Prescrição. Aqui o foco são as penas e situações especiais."
+  },
+  {
+    "tema_id": "5189",
+    "descricao": "Prescrição da Pretensão Executória é a perda do direito de executar a pena já imposta por sentença condenatória transitada em julgado. Regula-se pela pena aplicada, com os prazos do art. 109, aumentados de um terço se o condenado é reincidente (art. 110), e tem os termos iniciais do art. 112. Abrange também a evasão do condenado e a revogação do livramento condicional (art. 113).",
+    "palavras_chave": "prescrição da pretensão executória; PPE; pena aplicada; trânsito em julgado; art. 110; reincidente; aumento de um terço; art. 112; termo inicial; art. 113; evasão do condenado; livramento condicional",
+    "nao_confundir": "Diferencia-se de Prescrição da Pretensão Punitiva, que ocorre antes do trânsito em julgado e afasta todos os efeitos da condenação. Diferencia-se também de Outras Prescrições e de Contagem dos Prazos e Causas Suspensivas e Interruptivas da Prescrição. Aqui há condenação definitiva e os efeitos secundários subsistem."
+  },
+  {
+    "tema_id": "5188",
+    "descricao": "Prescrição da Pretensão Punitiva é a perda do direito de punir antes do trânsito em julgado da condenação. Abrange a modalidade em abstrato, calculada pelo máximo da pena cominada (art. 109), e as modalidades com base na pena aplicada, retroativa e intercorrente ou superveniente (art. 110, §1º), cabíveis após o trânsito em julgado para a acusação. A prescrição retroativa não pode ter termo inicial anterior ao recebimento da denúncia ou queixa.",
+    "palavras_chave": "prescrição da pretensão punitiva; PPP; prescrição em abstrato; prescrição retroativa; prescrição intercorrente; prescrição superveniente; art. 109; art. 110 §1º; pena aplicada; trânsito em julgado para a acusação; recebimento da denúncia",
+    "nao_confundir": "Diferencia-se de Prescrição da Pretensão Executória, que ocorre após o trânsito em julgado e não apaga os efeitos da condenação. Diferencia-se também de Outras Prescrições e de Conceito, Regras Gerais e Fundamentos da Prescrição. Aqui a prescrição apaga todos os efeitos penais, inclusive a reincidência."
+  },
+  {
+    "tema_id": "5191",
+    "descricao": "Punibilidade trata das causas de extinção da punibilidade do art. 107 do CP e de institutos correlatos. Seus filhos são Abolitio Criminis, Anistia, Graça e Indulto, Decadência, Morte do agente, Perdão Judicial, Perempção e Renúncia, Perdão do Ofendido e Retratação. A prescrição, também causa extintiva, tem tema próprio.",
+    "palavras_chave": "punibilidade; extinção da punibilidade; art. 107; morte do agente; anistia; graça; indulto; abolitio criminis; decadência; perempção; renúncia; perdão do ofendido; retratação; perdão judicial",
+    "nao_confundir": "Diferencia-se de Prescrição, que tem tema próprio, de Ação Penal e de Medida de Segurança. Aqui o foco são as causas que extinguem o direito de punir sem negar a existência do crime."
+  },
+  {
+    "tema_id": "5194",
+    "descricao": "Abolitio Criminis é a lei posterior que deixa de considerar crime o fato (art. 2º, caput, e art. 107, III, do CP). Faz cessar a execução e os efeitos penais da sentença condenatória, mesmo com trânsito em julgado, mas preserva os efeitos civis. Pela Súmula 611 do STF, após o trânsito em julgado a aplicação de lei mais benigna cabe ao juízo da execução.",
+    "palavras_chave": "abolitio criminis; art. 2º; art. 107 III; supressão do tipo penal; lei posterior; retroatividade; cessação dos efeitos penais; efeitos civis; juízo da execução; Súmula 611 do STF",
+    "nao_confundir": "Diferencia-se de Anistia, Graça e Indulto, que perdoam o fato ou a pena sem alterar a lei penal, e de Lei penal no Tempo, que trata da sucessão de leis em geral. Aqui há a descriminalização formal do fato por lei nova."
+  },
+  {
+    "tema_id": "5193",
+    "descricao": "Anistia, Graça e Indulto são formas de clemência estatal que extinguem a punibilidade (art. 107, II, do CP). A anistia é concedida por lei do Congresso Nacional, alcança fatos e apaga seus efeitos penais. A graça é individual e o indulto é coletivo, concedidos pelo Presidente da República, e atingem a pena, sem afastar os efeitos secundários da condenação. O procedimento da graça e do indulto consta da Lei de Execução Penal.",
+    "palavras_chave": "anistia; graça; indulto; art. 107 II; clemência estatal; lei do Congresso Nacional; Presidente da República; decreto de indulto; indulto coletivo; graça individual; crimes hediondos; Lei de Execução Penal",
+    "nao_confundir": "Diferencia-se de Abolitio Criminis, em que a lei deixa de considerar o fato crime, de Perdão Judicial, concedido pelo juiz em hipóteses legais, e de Renúncia, Perdão do Ofendido e Retratação. Aqui o perdão vem de ato do Poder Legislativo ou do Executivo."
+  }
+]

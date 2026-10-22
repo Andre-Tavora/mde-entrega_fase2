@@ -1,0 +1,93 @@
+﻿id,status,depth,m1,tipo,caminho_previsto,tema_central_caminho
+Q0003,REVISAR,2,-0.3359642002063268,EXATO,Processo Penal > Recursos em Espécies,Processo Penal > Recursos em Espécies
+Q0005,REVISAR,3,0.0961512958645185,OUTRO_RAMO,Processo Penal > Sentença Penal > Fixação da Pena e do Regime Penitenciário,Penal > Teoria da Pena
+Q0012,REVISAR,3,1.505875240927721,IRMAO,Processo Penal > Recursos em Espécies > Recurso em sentido estrito (RESE),Processo Penal > Recursos em Espécies > Apelação
+Q0018,PUBLICAR,3,2.2524468857562576,EXTRA,Processo Penal > Procedimento Sumaríssimo > Competência dos Juizados Especiais Criminais,Direito Penal - Legislação Especial > Juizado Especial Criminal
+Q0023,REVISAR,2,-0.1182755395895638,EXATO,Processo Penal > Procedimento do Tribunal do Júri,Processo Penal > Procedimento do Tribunal do Júri
+Q0028,REVISAR,2,1.4761713073743703,MESMO_RAMO,Processo Penal > Comunicação dos Atos Processuais,"Processo Penal > Procedimento do Tribunal do Júri > Impronúncia, Desclassificação, Absolvição Sumária e Pronúncia"
+Q0031,PUBLICAR,2,4.112538310535362,EXATO,Criminologia > Teorias Sociológicas Explicativas da Criminalidade,Criminologia > Teorias Sociológicas Explicativas da Criminalidade
+Q0034,PUBLICAR,3,2.3604273697479083,EXATO,Processo Penal > Ações Autônomas de Impugnação > Habeas Corpus,Processo Penal > Ações Autônomas de Impugnação > Habeas Corpus
+Q0035,PUBLICAR,2,3.568290375288924,EXATO,Direito Penal - Legislação Especial > Terrorismo,Direito Penal - Legislação Especial > Terrorismo
+Q0040,REVISAR,3,1.887062824426037,EXATO,Processo Penal > Recursos em Espécies > Apelação,Processo Penal > Recursos em Espécies > Apelação
+Q0041,PUBLICAR,2,5.247928748894923,EXATO,Penal > Medida de Segurança,Penal > Medida de Segurança
+Q0049,PUBLICAR,3,8.840370738789318,EXATO,"Penal > Dos Crimes Contra a Vida > Induzimento, Instigação ou Auxílio ao Suicídio","Penal > Dos Crimes Contra a Vida > Induzimento, Instigação ou Auxílio ao Suicídio"
+Q0052,REVISAR,2,0.9965045997371812,OUTRO_RAMO,Penal > Teoria da Pena (Parte 1),Direito Penal - Legislação Especial > Lei de Execução Penal
+Q0057,PUBLICAR,2,6.087565061687768,EXATO,Penal > Iter Criminis,Penal > Iter Criminis
+Q0058,REVISAR,2,1.9045143652104564,IRMAO,Criminologia > Teorias Legitimidoras da Pena,Criminologia > Vitimologia
+Q0060,REVISAR,3,0.5957136363460709,EXTRA,Penal > Dos Crimes Contra a Administração Pública > Corrupção Ativa,Penal > Dos Crimes Contra a Administração Pública
+Q0061,REVISAR,2,0.218372900527934,EXATO,Direito Penal - Legislação Especial > Lei de Execução Penal,Direito Penal - Legislação Especial > Lei de Execução Penal
+Q0066,PUBLICAR,2,5.3058630911857545,EXATO,Criminologia > Etapas Evolutivas e Escolas Criminológicas,Criminologia > Etapas Evolutivas e Escolas Criminológicas
+Q0067,REVISAR,2,1.9522592269109131,PAI,Penal > Dos Crimes Contra a Administração Pública,Penal > Dos Crimes Contra a Administração Pública > Concussão e Excesso de Exação
+Q0068,REVISAR,3,0.1312888076059248,EXTRA,Penal > Dos Crimes Contra a Administração Pública > Condescendência Criminosa,Penal > Dos Crimes Contra a Fé Pública e de Falsidade Documental > Dos Crimes contra a Fé Pública
+Q0077,REVISAR,3,0.170007397937784,MESMO_RAMO,Penal > Introdução ao Estudo do Direito Penal > Interpretação da Norma Penal,Penal > Lei Penal no Tempo e no Espaço > Conflito Aparente de Normas
+Q0079,PUBLICAR,2,3.365715887177417,EXATO,Processo Penal > Sistemas e Princípios Processuais Penais,Processo Penal > Sistemas e Princípios Processuais Penais
+Q0080,PUBLICAR,3,5.099871561025823,FILHO,Criminologia > Criminologia no Estado Democrático de Direito > Modelos de Reação ao Delito,Criminologia > Criminologia no Estado Democrático de Direito
+Q0086,REVISAR,3,0.7067191467835561,EXATO,Penal > Dos Crimes Contra a Administração Pública > Corrupção Passiva,Penal > Dos Crimes Contra a Administração Pública > Corrupção Passiva
+Q0090,REVISAR,2,0.6344772931790388,EXATO,Processo Penal > Procedimento Ordinário,Processo Penal > Procedimento Ordinário
+Q0091,REVISAR,3,1.188868371650769,OUTRO_RAMO,Penal > Teoria da Pena > Livramento Condicional,Direito Penal - Legislação Especial > Lei de Execução Penal
+Q0099,PUBLICAR,2,3.2719487128390194,MESMO_RAMO,Penal > Das Lesões Corporais,"Penal > Dos Crimes Contra a Administração Pública > Resistência, Desobediência e Desacato"
+Q0103,REVISAR,3,1.7174294441214428,EXATO,Processo Penal > Ações Autônomas de Impugnação > Revisão Criminal,Processo Penal > Ações Autônomas de Impugnação > Revisão Criminal
+Q0106,REVISAR,2,0.2633772181473612,PAI,Penal > Dos Crimes Contra o Patrimônio,Penal > Dos Crimes Contra o Patrimônio > Apropriação indébita
+Q0110,REVISAR,2,1.6336801287039613,EXATO,Processo Penal > Competência,Processo Penal > Competência
+Q0111,PUBLICAR,2,3.65932991211696,IRMAO,Criminologia > Teorias Legitimidoras da Pena,Criminologia > Etapas Evolutivas e Escolas Criminológicas
+Q0115,PUBLICAR,2,4.2063800236670605,EXTRA,Criminologia > Teorias Sociológicas Explicativas da Criminalidade,Criminologia > Teorias Sociológicas Explicativas da Criminalidade > Teorias Criminológicas em Espécie
+Q0117,PUBLICAR,2,3.716699500925983,EXATO,Criminologia > Teorias Legitimidoras da Pena,Criminologia > Teorias Legitimidoras da Pena
+Q0124,PUBLICAR,2,3.2741112176274,EXATO,Criminologia > Teorias Legitimidoras da Pena,Criminologia > Teorias Legitimidoras da Pena
+Q0134,REVISAR,2,-0.4742033422326597,PAI,Penal > Dos Crimes Contra a Administração Pública,Penal > Dos Crimes Contra a Administração Pública > Corrupção Passiva
+Q0137,REVISAR,2,0.3483598011490807,EXATO,Processo Penal > Inquérito Policial,Processo Penal > Inquérito Policial
+Q0138,REVISAR,3,0.6995079476314245,EXTRA,Penal > Teoria da Pena > Penas Restritivas de Direitos,Processo Penal > Lei de Execução Penal
+Q0139,REVISAR,3,1.4688572288625918,FILHO,Penal > Teoria do Crime: Culpabilidade > Conceito e Elementos da Culpabilidade,Penal > Teoria do Crime: Culpabilidade
+Q0144,REVISAR,2,-0.6206610337677025,EXATO,Processo Penal > Procedimento do Tribunal do Júri,Processo Penal > Procedimento do Tribunal do Júri
+Q0147,REVISAR,2,1.265725136279178,EXATO,Processo Penal > Inquérito Policial,Processo Penal > Inquérito Policial
+Q0150,PUBLICAR,2,2.6230866257006573,EXATO,Direito Penal - Legislação Especial > Tráfico de Drogas,Direito Penal - Legislação Especial > Tráfico de Drogas
+Q0160,PUBLICAR,2,2.5838221085697164,MESMO_RAMO,Penal > Teoria da Pena (Parte 2),Penal > Teoria da Pena > Segunda Fase da Dosimetria: Agravantes e Atenuantes
+Q0167,REVISAR,2,1.804151265475772,IRMAO,Processo Penal > Comunicação dos Atos Processuais,Processo Penal > Procedimento do Tribunal do Júri
+Q0169,PUBLICAR,3,4.971246191258003,EXATO,"Processo Penal > Das Questões e Processos Incidentes > Exceção de Suspeição, de Impedimento ou de Incompatibilidade","Processo Penal > Das Questões e Processos Incidentes > Exceção de Suspeição, de Impedimento ou de Incompatibilidade"
+Q0179,PUBLICAR,2,2.779889712438917,EXATO,Criminologia > Criminologia no Estado Democrático de Direito,Criminologia > Criminologia no Estado Democrático de Direito
+Q0186,PUBLICAR,3,5.713564041510201,EXATO,Penal > Teoria da Pena > Primeira Fase da Dosimetria: Circunstâncias Judiciais,Penal > Teoria da Pena > Primeira Fase da Dosimetria: Circunstâncias Judiciais
+Q0188,REVISAR,2,-0.1229545086345673,EXATO,Penal > Teoria do Crime: Ilicitude,Penal > Teoria do Crime: Ilicitude
+Q0191,REVISAR,2,0.1994544268074483,EXATO,Processo Penal > Recursos em Espécies,Processo Penal > Recursos em Espécies
+Q0194,REVISAR,2,0.2735403119142878,IRMAO,Penal > Teoria do Crime: Fato Típico,Penal > Dos Crimes Contra a Administração Pública
+Q0201,PUBLICAR,3,6.148001878827672,EXTRA,Penal > Dos Crimes Contra a Dignidade Sexual > Estupro e Estupro de Vulnerável,Penal > Dos Crimes Contra a Dignidade Sexual
+Q0202,REVISAR,3,0.2041515769450104,OUTRO_RAMO,Processo Penal > Provas em Espécies > Confissão,Penal > Teoria do Crime: Fato Típico > Erro de Tipo
+Q0208,REVISAR,3,1.729697302139563,MESMO_RAMO,Penal > Dos Crimes Contra a Vida > Homicídio,Penal > Concurso de Pessoas > Autores e Partícipes
+Q0215,REVISAR,3,1.413723966079243,OUTRO_RAMO,Processo Penal > Sentença Penal > Fixação da Pena e do Regime Penitenciário,Penal > Teoria da Pena > Penas Privativas de Liberdade
+Q0216,REVISAR,2,0.4905384014482115,OUTRO_RAMO,Penal > Ação Penal,Direito Penal - Legislação Especial > Juizado Especial Criminal
+Q0221,REVISAR,3,1.4601475571911795,EXTRA,Penal > Teoria da Pena > Penas Privativas de Liberdade,Penal > Teoria da Pena
+Q0226,REVISAR,3,1.1186719446513216,EXATO,Processo Penal > Provas em Espécies > Cadeia de Custódia,Processo Penal > Provas em Espécies > Cadeia de Custódia
+Q0230,REVISAR,2,-1.434502379369449,EXATO,Penal > Teoria do Crime: Culpabilidade,Penal > Teoria do Crime: Culpabilidade
+Q0231,REVISAR,3,1.8968210646166612,EXATO,Penal > Teoria do Crime: Fato Típico > Erro de Tipo,Penal > Teoria do Crime: Fato Típico > Erro de Tipo
+Q0240,REVISAR,2,-1.0218298537428994,EXATO,Processo Penal > Inquérito Policial,Processo Penal > Inquérito Policial
+Q0244,PUBLICAR,3,2.414897957174245,FILHO,Penal > Dos Crimes Contra a Administração Pública > Concussão e Excesso de Exação,Penal > Dos Crimes Contra a Administração Pública
+Q0245,PUBLICAR,2,3.922125425976924,EXATO,Penal > Prescrição,Penal > Prescrição
+Q0246,REVISAR,2,1.4181528344261751,PAI,Processo Penal > Procedimento do Tribunal do Júri,"Processo Penal > Procedimento do Tribunal do Júri > Impronúncia, Desclassificação, Absolvição Sumária e Pronúncia"
+Q0249,REVISAR,2,0.3647569823290295,MESMO_RAMO,Processo Penal > Ação Penal,"Processo Penal > Das Questões e Processos Incidentes > Exceção de Suspeição, de Impedimento ou de Incompatibilidade"
+Q0251,REVISAR,3,0.6101004920402096,FILHO,Penal > Punibilidade > Decadência,Penal > Punibilidade
+Q0253,PUBLICAR,2,4.141020990952499,IRMAO,Criminologia > Teorias Legitimidoras da Pena,Criminologia > Etapas Evolutivas e Escolas Criminológicas
+Q0259,REVISAR,2,2.115588928700759,MESMO_RAMO,Penal > Teoria do Crime: Ilicitude,Penal > Introdução ao Estudo do Direito Penal > Princípios do Direito Penal
+Q0265,REVISAR,2,0.3697549053203568,EXATO,Penal > Prescrição,Penal > Prescrição
+Q0274,REVISAR,2,1.2303755903934253,MESMO_RAMO,Penal > Dos Crimes Contra o Patrimônio,Penal > Iter Criminis > Crime Consumado e Tentado
+Q0275,REVISAR,2,2.0855719070141143,OUTRO_RAMO,Processo Penal > Comunicação dos Atos Processuais,Direito Penal - Legislação Especial > Juizado Especial Criminal
+Q0276,REVISAR,3,0.6385568927599508,IRMAO,Processo Penal > Provas em Espécies > Exame de Corpo de Delito,Processo Penal > Provas em Espécies > Busca e Apreensão
+Q0277,REVISAR,2,1.546882384329268,EXATO,Direito Penal - Legislação Especial > Estaturo de Idoso - Crimes,Direito Penal - Legislação Especial > Estaturo de Idoso - Crimes
+Q0279,PUBLICAR,3,2.930268568811801,EXTRA,"Penal > Iter Criminis > Desistência Voluntária, Arrependimento Eficaz e Arrependimento posterior",Penal > Prescrição
+Q0286,REVISAR,3,0.9529829273570432,MESMO_RAMO,Penal > Concurso de Crimes > Crime Continuado,Penal > Teoria da Pena > Primeira Fase da Dosimetria: Circunstâncias Judiciais
+Q0290,REVISAR,2,0.8936583852495597,OUTRO_RAMO,Processo Penal > Ação Penal,Direito Penal - Legislação Especial > Juizado Especial Criminal
+Q0304,REVISAR,3,0.9421328544561528,OUTRO_RAMO,Processo Penal > Procedimento Sumaríssimo > Competência dos Juizados Especiais Criminais,Direito Penal - Legislação Especial > Juizado Especial Criminal
+Q0308,REVISAR,2,2.060069385408214,PAI,Processo Penal > Inquérito Policial,Processo Penal > Inquérito Policial > Conclusão e Arquivamento do Inquérito Policial
+Q0311,PUBLICAR,2,2.4183156641170624,PAI,Processo Penal > Comunicação dos Atos Processuais,Processo Penal > Comunicação dos Atos Processuais > Citação e Contagem dos Prazos
+Q0313,REVISAR,3,0.0662384447207298,EXATO,Penal > Teoria da Pena > Efeitos da Condenação Penais e Extrapenais,Penal > Teoria da Pena > Efeitos da Condenação Penais e Extrapenais
+Q0314,PUBLICAR,3,4.607177805880959,EXATO,Processo Penal > Ações Autônomas de Impugnação > Habeas Corpus,Processo Penal > Ações Autônomas de Impugnação > Habeas Corpus
+Q0315,REVISAR,2,1.3802312658492757,EXATO,Penal > Prescrição,Penal > Prescrição
+Q0316,REVISAR,2,0.0926719453779916,OUTRO_RAMO,Processo Penal > Ação Penal,Penal > Teoria do Crime: Fato Típico > Erro de Tipo
+Q0319,REVISAR,2,-0.3038378904328258,PAI,Penal > Concurso de Pessoas,"Penal > Concurso de Pessoas > Autoria Mediata, Colateral e Coautoria"
+Q0320,PUBLICAR,3,2.4690176292764314,EXATO,Processo Penal > Provas em Espécies > Prova Testemunhal,Processo Penal > Provas em Espécies > Prova Testemunhal
+Q0323,REVISAR,3,0.260468079390276,MESMO_RAMO,Processo Penal > Provas em Espécies > Prova Testemunhal,Processo Penal > Teoria Geral das Provas > Princípios Relativos à Prova Penal
+Q0324,REVISAR,2,-1.0617916037403474,OUTRO_RAMO,Processo Penal > Procedimento Ordinário,Direito Penal - Legislação Especial > Lei de Execução Penal
+Q0325,REVISAR,3,0.6143402562848195,OUTRO_RAMO,Penal > Punibilidade > Decadência,Processo Penal > Ação Penal > Denúncia
+Q0336,REVISAR,3,0.44559727253184,EXATO,Penal > Dos Crimes Contra o Patrimônio > Furto,Penal > Dos Crimes Contra o Patrimônio > Furto
+Q0338,REVISAR,3,0.5221510255499968,MESMO_RAMO,Processo Penal > Provas em Espécies > Prova Testemunhal,Processo Penal > Teoria Geral das Provas
+Q0339,PUBLICAR,3,2.33344596126418,FILHO,Processo Penal > Sentença Penal > Princípio da Correlação entre Acusação e Sentença,Processo Penal > Sentença Penal
+Q0341,REVISAR,2,0.2569774059597196,EXATO,Penal > Dos Crimes Contra o Patrimônio,Penal > Dos Crimes Contra o Patrimônio
+Q0345,REVISAR,3,1.478130025022267,EXATO,Penal > Dos Crimes Contra a Dignidade Sexual > Estupro e Estupro de Vulnerável,Penal > Dos Crimes Contra a Dignidade Sexual > Estupro e Estupro de Vulnerável
+Q0356,REVISAR,3,0.6404421339467987,FILHO,Penal > Concurso de Crimes > Concurso Material,Penal > Concurso de Crimes

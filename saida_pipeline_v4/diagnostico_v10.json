@@ -1,0 +1,771 @@
+{
+  "n": 92,
+  "temas_gabarito": 61,
+  "temas_total": 377,
+  "raizes": [
+    "Criminologia",
+    "Direito Penal - Legislação Especial",
+    "Penal",
+    "Processo Penal"
+  ],
+  "disciplinas": [
+    "criminologia",
+    "direito civil - legislacao especial",
+    "direito penal - legislacao especial",
+    "direito processual penal",
+    "penal",
+    "processo penal"
+  ],
+  "crosstab_disc_raiz": {
+    "criminologia": {
+      "Criminologia": 10,
+      "Direito Penal - Legislação Especial": 0,
+      "Penal": 0,
+      "Processo Penal": 0
+    },
+    "direito civil - legislacao especial": {
+      "Criminologia": 0,
+      "Direito Penal - Legislação Especial": 1,
+      "Penal": 0,
+      "Processo Penal": 1
+    },
+    "direito penal - legislacao especial": {
+      "Criminologia": 0,
+      "Direito Penal - Legislação Especial": 5,
+      "Penal": 0,
+      "Processo Penal": 0
+    },
+    "direito processual penal": {
+      "Criminologia": 0,
+      "Direito Penal - Legislação Especial": 0,
+      "Penal": 0,
+      "Processo Penal": 1
+    },
+    "penal": {
+      "Criminologia": 0,
+      "Direito Penal - Legislação Especial": 2,
+      "Penal": 40,
+      "Processo Penal": 1
+    },
+    "processo penal": {
+      "Criminologia": 0,
+      "Direito Penal - Legislação Especial": 4,
+      "Penal": 0,
+      "Processo Penal": 27
+    }
+  },
+  "grade": [
+    {
+      "wd": 0,
+      "tau": 1,
+      "exato": 36.95652173913043,
+      "f1": 39.33645589383295,
+      "equiv": 39.130434782608695,
+      "aceito": 64.13043478260869,
+      "top3": 52.17391304347826,
+      "pai_raiz": 0
+    },
+    {
+      "wd": 0,
+      "tau": 1.5,
+      "exato": 39.130434782608695,
+      "f1": 39.82825917252147,
+      "equiv": 41.30434782608695,
+      "aceito": 66.30434782608695,
+      "top3": 52.17391304347826,
+      "pai_raiz": 0
+    },
+    {
+      "wd": 0,
+      "tau": 2,
+      "exato": 44.565217391304344,
+      "f1": 42.654176424668236,
+      "equiv": 46.73913043478261,
+      "aceito": 66.30434782608695,
+      "top3": 52.17391304347826,
+      "pai_raiz": 0
+    },
+    {
+      "wd": 0,
+      "tau": 2.5,
+      "exato": 44.565217391304344,
+      "f1": 42.10772833723653,
+      "equiv": 46.73913043478261,
+      "aceito": 67.3913043478261,
+      "top3": 52.17391304347826,
+      "pai_raiz": 0
+    },
+    {
+      "wd": 0,
+      "tau": 3,
+      "exato": 44.565217391304344,
+      "f1": 41.014832162373146,
+      "equiv": 46.73913043478261,
+      "aceito": 67.3913043478261,
+      "top3": 52.17391304347826,
+      "pai_raiz": 0
+    },
+    {
+      "wd": 0.25,
+      "tau": 1,
+      "exato": 36.95652173913043,
+      "f1": 39.1608118657299,
+      "equiv": 39.130434782608695,
+      "aceito": 64.13043478260869,
+      "top3": 52.17391304347826,
+      "pai_raiz": 0
+    },
+    {
+      "wd": 0.25,
+      "tau": 1.5,
+      "exato": 39.130434782608695,
+      "f1": 39.65261514441843,
+      "equiv": 41.30434782608695,
+      "aceito": 66.30434782608695,
+      "top3": 52.17391304347826,
+      "pai_raiz": 0
+    },
+    {
+      "wd": 0.25,
+      "tau": 2,
+      "exato": 44.565217391304344,
+      "f1": 42.478532396565186,
+      "equiv": 46.73913043478261,
+      "aceito": 66.30434782608695,
+      "top3": 52.17391304347826,
+      "pai_raiz": 0
+    },
+    {
+      "wd": 0.25,
+      "tau": 2.5,
+      "exato": 44.565217391304344,
+      "f1": 41.93208430913349,
+      "equiv": 46.73913043478261,
+      "aceito": 67.3913043478261,
+      "top3": 52.17391304347826,
+      "pai_raiz": 0
+    },
+    {
+      "wd": 0.25,
+      "tau": 3,
+      "exato": 44.565217391304344,
+      "f1": 40.8391881342701,
+      "equiv": 46.73913043478261,
+      "aceito": 67.3913043478261,
+      "top3": 52.17391304347826,
+      "pai_raiz": 0
+    },
+    {
+      "wd": 0.5,
+      "tau": 1,
+      "exato": 36.95652173913043,
+      "f1": 38.61436377829821,
+      "equiv": 40.21739130434783,
+      "aceito": 66.30434782608695,
+      "top3": 52.17391304347826,
+      "pai_raiz": 0
+    },
+    {
+      "wd": 0.5,
+      "tau": 1.5,
+      "exato": 39.130434782608695,
+      "f1": 39.10616705698673,
+      "equiv": 42.391304347826086,
+      "aceito": 68.47826086956522,
+      "top3": 52.17391304347826,
+      "pai_raiz": 0
+    },
+    {
+      "wd": 0.5,
+      "tau": 2,
+      "exato": 44.565217391304344,
+      "f1": 41.932084309133494,
+      "equiv": 47.82608695652174,
+      "aceito": 68.47826086956522,
+      "top3": 52.17391304347826,
+      "pai_raiz": 0
+    },
+    {
+      "wd": 0.5,
+      "tau": 2.5,
+      "exato": 44.565217391304344,
+      "f1": 41.385636221701795,
+      "equiv": 47.82608695652174,
+      "aceito": 69.56521739130434,
+      "top3": 52.17391304347826,
+      "pai_raiz": 0
+    },
+    {
+      "wd": 0.5,
+      "tau": 3,
+      "exato": 44.565217391304344,
+      "f1": 40.29274004683841,
+      "equiv": 47.82608695652174,
+      "aceito": 69.56521739130434,
+      "top3": 52.17391304347826,
+      "pai_raiz": 0
+    },
+    {
+      "wd": 1,
+      "tau": 1,
+      "exato": 36.95652173913043,
+      "f1": 38.61436377829821,
+      "equiv": 40.21739130434783,
+      "aceito": 67.3913043478261,
+      "top3": 52.17391304347826,
+      "pai_raiz": 0
+    },
+    {
+      "wd": 1,
+      "tau": 1.5,
+      "exato": 39.130434782608695,
+      "f1": 39.10616705698673,
+      "equiv": 42.391304347826086,
+      "aceito": 69.56521739130434,
+      "top3": 52.17391304347826,
+      "pai_raiz": 0
+    },
+    {
+      "wd": 1,
+      "tau": 2,
+      "exato": 44.565217391304344,
+      "f1": 41.932084309133494,
+      "equiv": 47.82608695652174,
+      "aceito": 69.56521739130434,
+      "top3": 52.17391304347826,
+      "pai_raiz": 0
+    },
+    {
+      "wd": 1,
+      "tau": 2.5,
+      "exato": 44.565217391304344,
+      "f1": 41.385636221701795,
+      "equiv": 47.82608695652174,
+      "aceito": 70.65217391304348,
+      "top3": 52.17391304347826,
+      "pai_raiz": 0
+    },
+    {
+      "wd": 1,
+      "tau": 3,
+      "exato": 44.565217391304344,
+      "f1": 40.29274004683841,
+      "equiv": 47.82608695652174,
+      "aceito": 70.65217391304348,
+      "top3": 52.17391304347826,
+      "pai_raiz": 0
+    },
+    {
+      "wd": 2,
+      "tau": 1,
+      "exato": 38.04347826086957,
+      "f1": 39.051522248243565,
+      "equiv": 41.30434782608695,
+      "aceito": 68.47826086956522,
+      "top3": 53.2608695652174,
+      "pai_raiz": 1
+    },
+    {
+      "wd": 2,
+      "tau": 1.5,
+      "exato": 40.21739130434783,
+      "f1": 40.08977361436378,
+      "equiv": 43.47826086956522,
+      "aceito": 70.65217391304348,
+      "top3": 53.2608695652174,
+      "pai_raiz": 1
+    },
+    {
+      "wd": 2,
+      "tau": 2,
+      "exato": 45.65217391304348,
+      "f1": 42.915690866510545,
+      "equiv": 48.91304347826087,
+      "aceito": 70.65217391304348,
+      "top3": 53.2608695652174,
+      "pai_raiz": 1
+    },
+    {
+      "wd": 2,
+      "tau": 2.5,
+      "exato": 45.65217391304348,
+      "f1": 42.36924277907884,
+      "equiv": 48.91304347826087,
+      "aceito": 71.73913043478261,
+      "top3": 53.2608695652174,
+      "pai_raiz": 1
+    },
+    {
+      "wd": 2,
+      "tau": 3,
+      "exato": 45.65217391304348,
+      "f1": 41.276346604215455,
+      "equiv": 48.91304347826087,
+      "aceito": 71.73913043478261,
+      "top3": 53.2608695652174,
+      "pai_raiz": 1
+    }
+  ],
+  "global_cfg": {
+    "wd": 2,
+    "tau": 2,
+    "borda": true
+  },
+  "categorias_tau0": {
+    "filho_do_correto": 21,
+    "outra_raiz": 12,
+    "mesma_raiz_outro_ramo": 23,
+    "equivalente": 2,
+    "exato": 31,
+    "pai_do_correto": 3
+  },
+  "categorias_v9": {
+    "exato": 41,
+    "outra_raiz": 12,
+    "mesma_raiz_outro_ramo": 19,
+    "equivalente": 2,
+    "filho_do_correto": 9,
+    "pai_do_correto": 9
+  },
+  "categorias_v10": {
+    "exato": 42,
+    "filho_do_correto": 10,
+    "mesma_raiz_outro_ramo": 21,
+    "equivalente": 3,
+    "pai_raiz": 1,
+    "pai_do_correto": 10,
+    "outra_raiz": 5
+  },
+  "mudancas_vs_v9": {
+    "outra_raiz_para_acerto": 4,
+    "outra_raiz_para_mesma_raiz": 2,
+    "continuam_outra_raiz": 5,
+    "regressoes": 0
+  },
+  "aninhado": {
+    "exato": 42.391304347826086,
+    "equiv": 45.65217391304348,
+    "aceito_restrito": 68.47826086956522,
+    "ganho_vs_v9_exato": -1.108695652173914,
+    "ganho_vs_v9_aceito": 2.1782608695652215,
+    "ganho_vs_tau0_exato": 8.691304347826083,
+    "ganho_vs_tau0_aceito": 6.478260869565219,
+    "configs": {
+      "(2, 2)": 88,
+      "(2, 2.5)": 1,
+      "(0, 2)": 3
+    },
+    "bootstrap": {
+      "media": -2.143478260869565,
+      "p2_5": -5.434782608695652,
+      "p97_5": 0.0
+    }
+  },
+  "margem_m1": {
+    "tabela": [
+      {
+        "pctl": 0,
+        "limiar": -1.4345047039505952,
+        "publicadas": 92,
+        "cobertura": 100.0,
+        "prec_exata": 45.65217391304348,
+        "prec_equiv": 48.91304347826087,
+        "prec_aceito": 70.65217391304348
+      },
+      {
+        "pctl": 10,
+        "limiar": 0.09659326926625547,
+        "publicadas": 82,
+        "cobertura": 89.13043478260869,
+        "prec_exata": 41.46341463414634,
+        "prec_equiv": 45.1219512195122,
+        "prec_aceito": 67.07317073170732
+      },
+      {
+        "pctl": 20,
+        "limiar": 0.3195710723609986,
+        "publicadas": 73,
+        "cobertura": 79.34782608695652,
+        "prec_exata": 43.83561643835616,
+        "prec_equiv": 47.94520547945205,
+        "prec_aceito": 69.86301369863014
+      },
+      {
+        "pctl": 30,
+        "limiar": 0.6391233472647478,
+        "publicadas": 64,
+        "cobertura": 69.56521739130434,
+        "prec_exata": 45.3125,
+        "prec_equiv": 50.0,
+        "prec_aceito": 71.875
+      },
+      {
+        "pctl": 40,
+        "limiar": 1.2048634725888032,
+        "publicadas": 55,
+        "cobertura": 59.78260869565217,
+        "prec_exata": 49.09090909090909,
+        "prec_equiv": 52.72727272727272,
+        "prec_aceito": 74.54545454545455
+      },
+      {
+        "pctl": 50,
+        "limiar": 1.590283044655958,
+        "publicadas": 46,
+        "cobertura": 50.0,
+        "prec_exata": 52.17391304347826,
+        "prec_equiv": 56.52173913043478,
+        "prec_aceito": 76.08695652173914
+      },
+      {
+        "pctl": 60,
+        "limiar": 1.9112989854254423,
+        "publicadas": 37,
+        "cobertura": 40.21739130434783,
+        "prec_exata": 51.35135135135135,
+        "prec_equiv": 56.75675675675676,
+        "prec_aceito": 81.08108108108108
+      },
+      {
+        "pctl": 70,
+        "limiar": 2.4172952157732315,
+        "publicadas": 28,
+        "cobertura": 30.434782608695656,
+        "prec_exata": 57.14285714285714,
+        "prec_equiv": 60.71428571428571,
+        "prec_aceito": 82.14285714285714
+      },
+      {
+        "pctl": 80,
+        "limiar": 3.6187742007096677,
+        "publicadas": 19,
+        "cobertura": 20.652173913043477,
+        "prec_exata": 73.68421052631578,
+        "prec_equiv": 73.68421052631578,
+        "prec_aceito": 89.47368421052632
+      },
+      {
+        "pctl": 90,
+        "limiar": 4.588400729736893,
+        "publicadas": 10,
+        "cobertura": 10.869565217391305,
+        "prec_exata": 80.0,
+        "prec_equiv": 80.0,
+        "prec_aceito": 100.0
+      }
+    ],
+    "fina": {
+      "exata": {
+        "publicadas": 10,
+        "cobertura": 10.869565217391305,
+        "limiar": 4.607181024531776,
+        "prec": 80.0,
+        "wilson_lo": 49.01568467207233,
+        "wilson_hi": 94.33190520193067
+      },
+      "equiv": {
+        "publicadas": 10,
+        "cobertura": 10.869565217391305,
+        "limiar": 4.607181024531776,
+        "prec": 80.0,
+        "wilson_lo": 49.01568467207233,
+        "wilson_hi": 94.33190520193067
+      },
+      "aceito": {
+        "publicadas": 40,
+        "cobertura": 43.47826086956522,
+        "limiar": 1.8870544797757685,
+        "prec": 80.0,
+        "wilson_lo": 65.24239261814333,
+        "wilson_hi": 89.50013502683314
+      },
+      "aceito85": {
+        "publicadas": 22,
+        "cobertura": 23.91304347826087,
+        "limiar": 3.159123585258655,
+        "prec": 86.36363636363636,
+        "wilson_lo": 66.66458812053,
+        "wilson_hi": 95.25108273576373
+      }
+    }
+  },
+  "margem_m2": {
+    "tabela": [
+      {
+        "pctl": 0,
+        "limiar": 0.022069697336311478,
+        "publicadas": 92,
+        "cobertura": 100.0,
+        "prec_exata": 45.65217391304348,
+        "prec_equiv": 48.91304347826087,
+        "prec_aceito": 70.65217391304348
+      },
+      {
+        "pctl": 10,
+        "limiar": 0.19395957865136304,
+        "publicadas": 82,
+        "cobertura": 89.13043478260869,
+        "prec_exata": 47.5609756097561,
+        "prec_equiv": 50.0,
+        "prec_aceito": 71.95121951219512
+      },
+      {
+        "pctl": 20,
+        "limiar": 0.34594990463539027,
+        "publicadas": 73,
+        "cobertura": 79.34782608695652,
+        "prec_exata": 47.94520547945205,
+        "prec_equiv": 50.68493150684932,
+        "prec_aceito": 71.23287671232876
+      },
+      {
+        "pctl": 30,
+        "limiar": 0.5233209091706754,
+        "publicadas": 64,
+        "cobertura": 69.56521739130434,
+        "prec_exata": 48.4375,
+        "prec_equiv": 51.5625,
+        "prec_aceito": 71.875
+      },
+      {
+        "pctl": 40,
+        "limiar": 0.6644284012780088,
+        "publicadas": 55,
+        "cobertura": 59.78260869565217,
+        "prec_exata": 50.90909090909091,
+        "prec_equiv": 54.54545454545454,
+        "prec_aceito": 70.9090909090909
+      },
+      {
+        "pctl": 50,
+        "limiar": 0.9487981744602914,
+        "publicadas": 46,
+        "cobertura": 50.0,
+        "prec_exata": 52.17391304347826,
+        "prec_equiv": 56.52173913043478,
+        "prec_aceito": 71.73913043478261
+      },
+      {
+        "pctl": 60,
+        "limiar": 1.474422337069872,
+        "publicadas": 37,
+        "cobertura": 40.21739130434783,
+        "prec_exata": 54.054054054054056,
+        "prec_equiv": 59.45945945945946,
+        "prec_aceito": 72.97297297297297
+      },
+      {
+        "pctl": 70,
+        "limiar": 1.862184373792654,
+        "publicadas": 28,
+        "cobertura": 30.434782608695656,
+        "prec_exata": 50.0,
+        "prec_equiv": 57.14285714285714,
+        "prec_aceito": 75.0
+      },
+      {
+        "pctl": 80,
+        "limiar": 2.4145762859549302,
+        "publicadas": 19,
+        "cobertura": 20.652173913043477,
+        "prec_exata": 52.63157894736842,
+        "prec_equiv": 57.89473684210527,
+        "prec_aceito": 78.94736842105263
+      },
+      {
+        "pctl": 90,
+        "limiar": 4.050022551246757,
+        "publicadas": 10,
+        "cobertura": 10.869565217391305,
+        "prec_exata": 70.0,
+        "prec_equiv": 70.0,
+        "prec_aceito": 90.0
+      }
+    ],
+    "fina": {
+      "exata": null,
+      "equiv": null,
+      "aceito": {
+        "publicadas": 13,
+        "cobertura": 14.130434782608695,
+        "limiar": 3.6593265742568533,
+        "prec": 84.61538461538461,
+        "wilson_lo": 57.764829491368985,
+        "wilson_hi": 95.6742736817262
+      },
+      "aceito85": {
+        "publicadas": 12,
+        "cobertura": 13.043478260869565,
+        "limiar": 3.9361812275306476,
+        "prec": 91.66666666666666,
+        "wilson_lo": 64.61140782014047,
+        "wilson_hi": 98.51352905492264
+      }
+    }
+  },
+  "grupos_equivalencia": [
+    [
+      {
+        "tema_id": "4684",
+        "caminho": "Direito Penal - Legislação Especial > Abuso de Autoridade"
+      },
+      {
+        "tema_id": "6716",
+        "caminho": "Penal > Abuso de Autoridade"
+      }
+    ],
+    [
+      {
+        "tema_id": "4688",
+        "caminho": "Direito Penal - Legislação Especial > Crimes contra o meio ambiente"
+      },
+      {
+        "tema_id": "6717",
+        "caminho": "Penal > Crimes contra o meio ambiente"
+      }
+    ],
+    [
+      {
+        "tema_id": "4701",
+        "caminho": "Direito Penal - Legislação Especial > Juizado Especial Criminal"
+      },
+      {
+        "tema_id": "5540",
+        "caminho": "Processo Penal > Procedimento Sumaríssimo > Competência dos Juizados Especiais Criminais"
+      }
+    ],
+    [
+      {
+        "tema_id": "4702",
+        "caminho": "Direito Penal - Legislação Especial > Lavagem de Dinheiro"
+      },
+      {
+        "tema_id": "6723",
+        "caminho": "Penal > Lavagem de Dinheiro"
+      }
+    ],
+    [
+      {
+        "tema_id": "4704",
+        "caminho": "Direito Penal - Legislação Especial > Lei Maria da Penha"
+      },
+      {
+        "tema_id": "6724",
+        "caminho": "Penal > Lei Maria da Penha"
+      }
+    ],
+    [
+      {
+        "tema_id": "4703",
+        "caminho": "Direito Penal - Legislação Especial > Lei de Execução Penal"
+      },
+      {
+        "tema_id": "6734",
+        "caminho": "Processo Penal > Lei de Execução Penal"
+      }
+    ],
+    [
+      {
+        "tema_id": "4705",
+        "caminho": "Direito Penal - Legislação Especial > Organizações Criminosas"
+      },
+      {
+        "tema_id": "6725",
+        "caminho": "Penal > Organizações Criminosas"
+      }
+    ],
+    [
+      {
+        "tema_id": "4708",
+        "caminho": "Direito Penal - Legislação Especial > Tráfico de Drogas"
+      },
+      {
+        "tema_id": "6728",
+        "caminho": "Penal > Tráfico de Drogas"
+      }
+    ],
+    [
+      {
+        "tema_id": "5063",
+        "caminho": "Penal > Ação Penal"
+      },
+      {
+        "tema_id": "5466",
+        "caminho": "Processo Penal > Ação Penal"
+      }
+    ],
+    [
+      {
+        "tema_id": "5087",
+        "caminho": "Penal > Dos Crimes Contra a Administração Pública"
+      },
+      {
+        "tema_id": "6718",
+        "caminho": "Penal > Dos Crimes Contra a Administração Pública (Parte 1)"
+      },
+      {
+        "tema_id": "6719",
+        "caminho": "Penal > Dos Crimes contra a Administração Pública (Parte 2)"
+      }
+    ],
+    [
+      {
+        "tema_id": "5157",
+        "caminho": "Penal > Dos Crimes Contra o Patrimônio"
+      },
+      {
+        "tema_id": "6720",
+        "caminho": "Penal > Dos Crimes Contra o Patrimônio (Parte 1)"
+      },
+      {
+        "tema_id": "6721",
+        "caminho": "Penal > Dos Crimes contra o Patrimônio (Parte 2)"
+      }
+    ],
+    [
+      {
+        "tema_id": "5199",
+        "caminho": "Penal > Teoria da Pena"
+      },
+      {
+        "tema_id": "6726",
+        "caminho": "Penal > Teoria da Pena (Parte 1)"
+      },
+      {
+        "tema_id": "6727",
+        "caminho": "Penal > Teoria da Pena (Parte 2)"
+      }
+    ],
+    [
+      {
+        "tema_id": "5480",
+        "caminho": "Processo Penal > Competência"
+      },
+      {
+        "tema_id": "6732",
+        "caminho": "Processo Penal > Competência (Parte 1)"
+      },
+      {
+        "tema_id": "6733",
+        "caminho": "Processo Penal > Competência (Parte 2)"
+      }
+    ],
+    [
+      {
+        "tema_id": "5572",
+        "caminho": "Processo Penal > Sentença Penal"
+      },
+      {
+        "tema_id": "6737",
+        "caminho": "Processo Penal > Sentença Penal (Parte 1)"
+      },
+      {
+        "tema_id": "6738",
+        "caminho": "Processo Penal > Sentença Penal (Parte 2)"
+      }
+    ]
+  ],
+  "questoes_em_classes_multi": 19,
+  "erros_restantes": 26,
+  "top3": 53.2608695652174
+}

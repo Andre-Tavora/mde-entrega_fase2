@@ -1,0 +1,1759 @@
+﻿id,nivel,tema_id,caminho,depth,S
+Q0001,0,5527,"Processo Penal > Procedimento do Tribunal do Júri > Impronúncia, Desclassificação, Absolvição Sumária e Pronúncia",3,8.384451903649776
+Q0001,1,5524,Processo Penal > Procedimento do Tribunal do Júri,2,4.463961185516846
+Q0001,2,5465,Processo Penal,1,-0.18519775214753417
+Q0002,0,4384,Criminologia > Teorias Legitimidoras da Pena,2,8.498863095151396
+Q0002,1,4365,Criminologia,1,0.9074905357610573
+Q0003,0,5568,Processo Penal > Recursos em Espécies > Correição Parcial,3,5.6883260792970365
+Q0003,1,5560,Processo Penal > Recursos em Espécies,2,3.810931678337859
+Q0003,2,5465,Processo Penal,1,-0.06367962974127483
+Q0004,0,5480,Processo Penal > Competência,2,7.60484710558597
+Q0004,1,5465,Processo Penal,1,-0.1375196668017833
+Q0005,0,5576,Processo Penal > Sentença Penal > Fixação da Pena e do Regime Penitenciário,3,5.934804429757964
+Q0005,1,5572,Processo Penal > Sentença Penal,2,0.04509143528496076
+Q0005,2,5465,Processo Penal,1,-0.17136339938252146
+Q0006,0,5160,Penal > Dos Crimes Contra o Patrimônio > Roubo,3,5.864533759678665
+Q0006,1,5157,Penal > Dos Crimes Contra o Patrimônio,2,0.5470419160646931
+Q0006,2,5062,Penal,1,-1.0258088277190098
+Q0007,0,5471,Processo Penal > Ação Penal > Ação Penal Pública Condicionada,3,6.410458060703719
+Q0007,1,5466,Processo Penal > Ação Penal,2,6.220529432512932
+Q0007,2,5465,Processo Penal,1,-0.4211992458555175
+Q0008,0,6719,Penal > Dos Crimes contra a Administração Pública (Parte 2),2,5.346449325955823
+Q0008,1,5062,Penal,1,-0.9590796575364562
+Q0009,0,5165,Penal > Dos Crimes Contra o Patrimônio > Apropriação indébita,3,6.9791275151621095
+Q0009,1,5157,Penal > Dos Crimes Contra o Patrimônio,2,1.1913727730921797
+Q0009,2,5062,Penal,1,-0.5164017526779384
+Q0010,0,6717,Penal > Crimes contra o meio ambiente,2,7.134090175987065
+Q0010,1,5062,Penal,1,-1.1817845364232071
+Q0011,0,4702,Direito Penal - Legislação Especial > Lavagem de Dinheiro,2,4.796214906859601
+Q0011,1,4683,Direito Penal - Legislação Especial,1,0.9340860433215044
+Q0012,0,5561,Processo Penal > Recursos em Espécies > Recurso em sentido estrito (RESE),3,6.543589577816859
+Q0012,1,5560,Processo Penal > Recursos em Espécies,2,4.473336738234185
+Q0012,2,5465,Processo Penal,1,0.2653096107907624
+Q0013,0,5503,Processo Penal > Inquérito Policial > Juiz das Garantias,3,8.469808172428538
+Q0013,1,5498,Processo Penal > Inquérito Policial,2,2.5368758307285573
+Q0013,2,5465,Processo Penal,1,0.24815696486259775
+Q0014,0,5477,Processo Penal > Ações Autônomas de Impugnação > Habeas Corpus,3,6.585158883013535
+Q0014,1,5476,Processo Penal > Ações Autônomas de Impugnação,2,0.33335089712995475
+Q0014,2,5465,Processo Penal,1,1.297645957970632
+Q0015,0,5500,Processo Penal > Inquérito Policial > Procedimento do Inquérito Policial,3,5.944031391123707
+Q0015,1,5498,Processo Penal > Inquérito Policial,2,5.137145346285906
+Q0015,2,5465,Processo Penal,1,0.09156914265502966
+Q0016,0,5571,Processo Penal > Recursos em Espécies > Recurso Especial,3,6.109659811390405
+Q0016,1,5560,Processo Penal > Recursos em Espécies,2,2.478014724831434
+Q0016,2,5465,Processo Penal,1,-0.41090448718909006
+Q0017,0,5530,Processo Penal > Procedimento Ordinário,2,4.942604332788096
+Q0017,1,5465,Processo Penal,1,-0.09165319214660515
+Q0018,0,5540,Processo Penal > Procedimento Sumaríssimo > Competência dos Juizados Especiais Criminais,3,8.082668791081991
+Q0018,1,5539,Processo Penal > Procedimento Sumaríssimo,2,-0.36810944839329174
+Q0018,2,5465,Processo Penal,1,-0.32239233047785676
+Q0019,0,5475,Processo Penal > Ação Penal > Ação Civil Ex Delicto,3,9.797840294026223
+Q0019,1,5466,Processo Penal > Ação Penal,2,4.241539605345297
+Q0019,2,5465,Processo Penal,1,-0.7856355335873704
+Q0020,0,5571,Processo Penal > Recursos em Espécies > Recurso Especial,3,5.023309172684346
+Q0020,1,5560,Processo Penal > Recursos em Espécies,2,2.3489035701941496
+Q0020,2,5465,Processo Penal,1,-0.3289626765931676
+Q0021,0,5503,Processo Penal > Inquérito Policial > Juiz das Garantias,3,9.002493881784405
+Q0021,1,5498,Processo Penal > Inquérito Policial,2,-0.7293294531266097
+Q0021,2,5465,Processo Penal,1,0.02704870405105822
+Q0022,0,5092,Penal > Dos Crimes Contra a Administração Pública > Corrupção Passiva,3,5.915724316413102
+Q0022,1,5087,Penal > Dos Crimes Contra a Administração Pública,2,0.28318086541505966
+Q0022,2,5062,Penal,1,-0.06423288982859916
+Q0023,0,5528,Processo Penal > Procedimento do Tribunal do Júri > Organização do Júri e Sessão de Julgamento,3,6.3017272966106255
+Q0023,1,5524,Processo Penal > Procedimento do Tribunal do Júri,2,4.934314026621901
+Q0023,2,5465,Processo Penal,1,0.028254257064903088
+Q0024,0,4388,Criminologia > Teorias Sociológicas Explicativas da Criminalidade > Teorias Criminológicas em Espécie,3,4.920524953844884
+Q0024,1,4385,Criminologia > Teorias Sociológicas Explicativas da Criminalidade,2,3.758653604227778
+Q0024,2,4365,Criminologia,1,2.240968164923796
+Q0025,0,5093,Penal > Dos Crimes Contra a Administração Pública > Corrupção Ativa,3,7.175333067577612
+Q0025,1,5087,Penal > Dos Crimes Contra a Administração Pública,2,0.15896454439216903
+Q0025,2,5062,Penal,1,-0.3798687820194162
+Q0026,0,5131,Penal > Dos Crimes Contra a Liberdade Pessoal > Violência Psicológica contra a Mulher,3,6.794848200191078
+Q0026,1,5128,Penal > Dos Crimes Contra a Liberdade Pessoal,2,0.13310533282917367
+Q0026,2,5062,Penal,1,-1.671490162632741
+Q0027,0,5487,Processo Penal > Comunicação dos Atos Processuais,2,4.912355881104561
+Q0027,1,5465,Processo Penal,1,0.7626336755141159
+Q0028,0,5487,Processo Penal > Comunicação dos Atos Processuais,2,6.700086384147798
+Q0028,1,5465,Processo Penal,1,0.6586669827613508
+Q0029,0,4684,Direito Penal - Legislação Especial > Abuso de Autoridade,2,7.17507536138668
+Q0029,1,4683,Direito Penal - Legislação Especial,1,0.8538644019909305
+Q0030,0,5130,Penal > Dos Crimes Contra a Liberdade Pessoal > Ameaça e Perseguição,3,5.25263010639853
+Q0030,1,5128,Penal > Dos Crimes Contra a Liberdade Pessoal,2,4.665385168431784
+Q0030,2,5062,Penal,1,-0.787443223828425
+Q0031,0,4385,Criminologia > Teorias Sociológicas Explicativas da Criminalidade,2,7.810375646428791
+Q0031,1,4365,Criminologia,1,1.5537429191420244
+Q0032,0,5500,Processo Penal > Inquérito Policial > Procedimento do Inquérito Policial,3,6.294069725034969
+Q0032,1,5498,Processo Penal > Inquérito Policial,2,5.164934189668215
+Q0032,2,5465,Processo Penal,1,0.11569755617386214
+Q0033,0,5519,Processo Penal > Prisões em Espécie > Prisão Preventiva,3,5.9656296172136845
+Q0033,1,5517,Processo Penal > Prisões em Espécie,2,0.17601881984550755
+Q0033,2,5465,Processo Penal,1,0.23458094594060688
+Q0034,0,5477,Processo Penal > Ações Autônomas de Impugnação > Habeas Corpus,3,6.901598028516117
+Q0034,1,5476,Processo Penal > Ações Autônomas de Impugnação,2,3.2663822946671797
+Q0034,2,5465,Processo Penal,1,-0.32348815038427703
+Q0035,0,4706,Direito Penal - Legislação Especial > Terrorismo,2,6.985446777026544
+Q0035,1,4683,Direito Penal - Legislação Especial,1,1.144777175134302
+Q0036,0,5466,Processo Penal > Ação Penal,2,5.644262463259168
+Q0036,1,5465,Processo Penal,1,-0.7290095079433448
+Q0037,0,5132,"Penal > Dos Crimes Contra a Liberdade Pessoal > Sequestro, Cárcere Privado, Redução à Condição Análoga à de Escravo e Tráfico de Pessoas",3,7.840438130022342
+Q0037,1,5128,Penal > Dos Crimes Contra a Liberdade Pessoal,2,3.051492104527692
+Q0037,2,5062,Penal,1,-1.0414670879000167
+Q0038,0,5466,Processo Penal > Ação Penal,2,5.557799948771172
+Q0038,1,5465,Processo Penal,1,0.11491925061844113
+Q0039,0,4687,Direito Penal - Legislação Especial > Crimes contra a Economia Popular,2,7.659628134193207
+Q0039,1,4683,Direito Penal - Legislação Especial,1,1.106348003089222
+Q0040,0,5562,Processo Penal > Recursos em Espécies > Apelação,3,6.198008880908599
+Q0040,1,5560,Processo Penal > Recursos em Espécies,2,3.9687377363806107
+Q0040,2,5465,Processo Penal,1,-0.32657025649216664
+Q0041,0,5184,Penal > Medida de Segurança,2,9.573375010900246
+Q0041,1,5062,Penal,1,-0.6203497138955572
+Q0042,0,5225,Penal > Teoria do Crime: Fato Típico > Resultado,3,5.842318948752189
+Q0042,1,5218,Penal > Teoria do Crime: Fato Típico,2,1.03390056041041
+Q0042,2,5062,Penal,1,-0.3047531601276665
+Q0043,0,5204,Penal > Teoria da Pena > Terceira fase da Dosimetria: Causas de Aumento e de Diminuição,3,5.685327568627152
+Q0043,1,5199,Penal > Teoria da Pena,2,3.1699706547742594
+Q0043,2,5062,Penal,1,-0.009826367370617345
+Q0044,0,5548,Processo Penal > Provas em Espécies > Confissão,3,5.402148382198447
+Q0044,1,5543,Processo Penal > Provas em Espécies,2,0.46955159256486706
+Q0044,2,5465,Processo Penal,1,-0.23032042771016265
+Q0045,0,5091,Penal > Dos Crimes Contra a Administração Pública > Concussão e Excesso de Exação,3,9.722273880704531
+Q0045,1,5087,Penal > Dos Crimes Contra a Administração Pública,2,4.161515497189768
+Q0045,2,5062,Penal,1,-0.9488919435705672
+Q0046,0,5582,Processo Penal > Sistemas e Princípios Processuais Penais > Princípios do Processo Penal,3,5.504205268488363
+Q0046,1,5580,Processo Penal > Sistemas e Princípios Processuais Penais,2,5.4285011758590365
+Q0046,2,5465,Processo Penal,1,0.3791202621226852
+Q0047,0,5470,Processo Penal > Ação Penal > Ação Penal Pública Incondicionada,3,5.060834503228323
+Q0047,1,5466,Processo Penal > Ação Penal,2,5.0177895991545975
+Q0047,2,5465,Processo Penal,1,-0.5176112209256056
+Q0048,0,5209,Penal > Teoria da Pena > Efeitos da Condenação Penais e Extrapenais,3,4.543591865526982
+Q0048,1,5199,Penal > Teoria da Pena,2,1.896963593549679
+Q0048,2,5062,Penal,1,-0.6485169889294348
+Q0049,0,5152,"Penal > Dos Crimes Contra a Vida > Induzimento, Instigação ou Auxílio ao Suicídio",3,12.706073191562796
+Q0049,1,5149,Penal > Dos Crimes Contra a Vida,2,2.520524401305818
+Q0049,2,5062,Penal,1,-0.19455651867180607
+Q0050,0,4708,Direito Penal - Legislação Especial > Tráfico de Drogas,2,5.230162203625186
+Q0050,1,4683,Direito Penal - Legislação Especial,1,1.770273375505603
+Q0051,0,5466,Processo Penal > Ação Penal,2,4.685583168974265
+Q0051,1,5465,Processo Penal,1,-0.2731435935720068
+Q0052,0,6726,Penal > Teoria da Pena (Parte 1),2,4.153611711926169
+Q0052,1,5062,Penal,1,0.3655435339946582
+Q0053,0,5540,Processo Penal > Procedimento Sumaríssimo > Competência dos Juizados Especiais Criminais,3,7.848478471655079
+Q0053,1,5539,Processo Penal > Procedimento Sumaríssimo,2,2.4981578344670266
+Q0053,2,5465,Processo Penal,1,0.01336380959267542
+Q0054,0,5174,Penal > Introdução ao Estudo do Direito Penal > Classificações dos Crimes,3,4.865998295716169
+Q0054,1,5170,Penal > Introdução ao Estudo do Direito Penal,2,0.6276525659947275
+Q0054,2,5062,Penal,1,-0.09704217929487186
+Q0055,0,5535,Processo Penal > Procedimento Ordinário > Audiência de Instrução e Julgamento,3,7.150089247186177
+Q0055,1,5530,Processo Penal > Procedimento Ordinário,2,3.5990148289643455
+Q0055,2,5465,Processo Penal,1,-0.0282522911288563
+Q0056,0,5069,Penal > Concurso de Crimes > Crime Continuado,3,5.4899311789170255
+Q0056,1,5066,Penal > Concurso de Crimes,2,4.316641354330052
+Q0056,2,5062,Penal,1,-0.027036318241119017
+Q0057,0,5176,Penal > Iter Criminis > Fases do Iter Criminis,3,9.750416580445803
+Q0057,1,5175,Penal > Iter Criminis,2,8.916900154032506
+Q0057,2,5062,Penal,1,-0.5213734147886457
+Q0058,0,4384,Criminologia > Teorias Legitimidoras da Pena,2,5.651434826831411
+Q0058,1,4365,Criminologia,1,0.2862934574497804
+Q0059,0,4384,Criminologia > Teorias Legitimidoras da Pena,2,6.89585450051011
+Q0059,1,4365,Criminologia,1,-0.21297622945314143
+Q0060,0,5093,Penal > Dos Crimes Contra a Administração Pública > Corrupção Ativa,3,6.271580212653538
+Q0060,1,5087,Penal > Dos Crimes Contra a Administração Pública,2,3.0000538510240324
+Q0060,2,5062,Penal,1,-1.2459405906370022
+Q0061,0,4703,Direito Penal - Legislação Especial > Lei de Execução Penal,2,3.7236741017402077
+Q0061,1,4683,Direito Penal - Legislação Especial,1,1.4409169170432516
+Q0062,0,5466,Processo Penal > Ação Penal,2,4.082496912412282
+Q0062,1,5465,Processo Penal,1,-1.2974819131808648
+Q0063,0,5487,Processo Penal > Comunicação dos Atos Processuais,2,4.047649932264489
+Q0063,1,5465,Processo Penal,1,-0.5719628952573732
+Q0064,0,5198,Penal > Punibilidade > Decadência,3,6.78514981602209
+Q0064,1,5191,Penal > Punibilidade,2,1.852279941672585
+Q0064,2,5062,Penal,1,-1.2464414861482518
+Q0065,0,5161,Penal > Dos Crimes Contra o Patrimônio > Extorsão,3,7.703238755310261
+Q0065,1,5157,Penal > Dos Crimes Contra o Patrimônio,2,2.679399381117371
+Q0065,2,5062,Penal,1,-1.3189323416786387
+Q0066,0,4371,Criminologia > Etapas Evolutivas e Escolas Criminológicas,2,8.853585503951736
+Q0066,1,4365,Criminologia,1,1.8769861893659736
+Q0067,0,5093,Penal > Dos Crimes Contra a Administração Pública > Corrupção Ativa,3,5.189812263574739
+Q0067,1,5087,Penal > Dos Crimes Contra a Administração Pública,2,4.916276371154383
+Q0067,2,5062,Penal,1,-0.8345292253128895
+Q0068,0,5096,Penal > Dos Crimes Contra a Administração Pública > Condescendência Criminosa,3,5.603085812167495
+Q0068,1,5087,Penal > Dos Crimes Contra a Administração Pública,2,1.2432939482974055
+Q0068,2,5062,Penal,1,-1.3224504997842836
+Q0069,0,5508,Processo Penal > Lei Processual no Tempo e no Espaço > Interpretação da Lei processual Penal,3,7.706482637242976
+Q0069,1,5505,Processo Penal > Lei Processual no Tempo e no Espaço,2,0.17611891563643362
+Q0069,2,5465,Processo Penal,1,0.4707813666136293
+Q0070,0,5185,Penal > Prescrição,2,5.356393181017808
+Q0070,1,5062,Penal,1,-1.219833170789193
+Q0071,0,5228,Penal > Teoria do Crime: Ilicitude,2,5.2078906490945975
+Q0071,1,5062,Penal,1,-0.9900732228686484
+Q0072,0,5500,Processo Penal > Inquérito Policial > Procedimento do Inquérito Policial,3,5.286482404234483
+Q0072,1,5498,Processo Penal > Inquérito Policial,2,4.9050446761885835
+Q0072,2,5465,Processo Penal,1,0.039440846256522624
+Q0073,0,5101,Penal > Dos Crimes Contra a Administração Pública > Tráfico de Influência,3,5.1991980346561535
+Q0073,1,5087,Penal > Dos Crimes Contra a Administração Pública,2,3.2838444653002625
+Q0073,2,5062,Penal,1,-1.321935151341294
+Q0074,0,6727,Penal > Teoria da Pena (Parte 2),2,4.993999309233862
+Q0074,1,5062,Penal,1,-0.9345554493796708
+Q0075,0,5185,Penal > Prescrição,2,6.128881127551205
+Q0075,1,5062,Penal,1,-0.9855402278193255
+Q0076,0,4381,Criminologia > Teoria Geral da Criminologia > Conceito e objeto da Criminologia,3,4.967104358993068
+Q0076,1,4380,Criminologia > Teoria Geral da Criminologia,2,4.908940912886927
+Q0076,2,4365,Criminologia,1,4.207103551846529
+Q0077,0,5173,Penal > Introdução ao Estudo do Direito Penal > Interpretação da Norma Penal,3,4.498819937660211
+Q0077,1,5170,Penal > Introdução ao Estudo do Direito Penal,2,0.7983361937840595
+Q0077,2,5062,Penal,1,-0.558007147203387
+Q0078,0,4691,Direito Penal - Legislação Especial > Crimes de Trânsito,2,3.3384439313536607
+Q0078,1,4683,Direito Penal - Legislação Especial,1,0.6522767218578652
+Q0079,0,5581,Processo Penal > Sistemas e Princípios Processuais Penais > Sistemas Processuais Penais,3,7.282038264239499
+Q0079,1,5580,Processo Penal > Sistemas e Princípios Processuais Penais,2,7.059388888734923
+Q0079,2,5465,Processo Penal,1,0.18361082606542317
+Q0080,0,4370,Criminologia > Criminologia no Estado Democrático de Direito > Modelos de Reação ao Delito,3,12.30523243866436
+Q0080,1,4368,Criminologia > Criminologia no Estado Democrático de Direito,2,7.48789485426404
+Q0080,2,4365,Criminologia,1,1.6251260239098742
+Q0081,0,4371,Criminologia > Etapas Evolutivas e Escolas Criminológicas,2,8.041443542305402
+Q0081,1,4365,Criminologia,1,2.5675884709158447
+Q0082,0,5091,Penal > Dos Crimes Contra a Administração Pública > Concussão e Excesso de Exação,3,6.257593531256684
+Q0082,1,5087,Penal > Dos Crimes Contra a Administração Pública,2,0.45524640605542727
+Q0082,2,5062,Penal,1,-0.7658751367324966
+Q0083,0,5150,Penal > Dos Crimes Contra a Vida > Homicídio,3,9.249277517811784
+Q0083,1,5149,Penal > Dos Crimes Contra a Vida,2,1.8756517317824155
+Q0083,2,5062,Penal,1,-0.3284762622788459
+Q0084,0,5114,Penal > Dos Crimes contra a Família > Dos Crimes Contra a Assistência Familiar,3,5.231282375211043
+Q0084,1,5111,Penal > Dos Crimes contra a Família,2,1.4922726114900113
+Q0084,2,5062,Penal,1,-1.608667275395489
+Q0085,0,5076,"Penal > Concurso de Pessoas > Comunicabilidade de Circunstâncias, Condições e Elementares",3,6.5131083773509815
+Q0085,1,5071,Penal > Concurso de Pessoas,2,2.4312415744887543
+Q0085,2,5062,Penal,1,-1.1027274036390662
+Q0086,0,5092,Penal > Dos Crimes Contra a Administração Pública > Corrupção Passiva,3,4.557013110284613
+Q0086,1,5087,Penal > Dos Crimes Contra a Administração Pública,2,0.6509969747200397
+Q0086,2,5062,Penal,1,-1.2732085659975607
+Q0087,0,4703,Direito Penal - Legislação Especial > Lei de Execução Penal,2,6.570591069625048
+Q0087,1,4683,Direito Penal - Legislação Especial,1,1.7998187373972485
+Q0088,0,4389,Criminologia > Vitimologia,2,8.867699517162597
+Q0088,1,4365,Criminologia,1,3.151502631962992
+Q0089,0,5063,Penal > Ação Penal,2,4.814360492606477
+Q0089,1,5062,Penal,1,-1.061091495789979
+Q0090,0,5530,Processo Penal > Procedimento Ordinário,2,5.006127555417184
+Q0090,1,5465,Processo Penal,1,0.1434300482058013
+Q0091,0,5208,Penal > Teoria da Pena > Livramento Condicional,3,5.571656530528498
+Q0091,1,5199,Penal > Teoria da Pena,2,3.070606436913377
+Q0091,2,5062,Penal,1,-0.6256771774040346
+Q0092,0,5487,Processo Penal > Comunicação dos Atos Processuais,2,4.813162064492326
+Q0092,1,5465,Processo Penal,1,0.5643082883674669
+Q0093,0,5142,Penal > Dos Crimes Contra a Periclitação da Vida e da Saúde > Omissão de Socorro,3,6.9723830330565235
+Q0093,1,5138,Penal > Dos Crimes Contra a Periclitação da Vida e da Saúde,2,0.6112221491912473
+Q0093,2,5062,Penal,1,-0.6327181953319394
+Q0094,0,4385,Criminologia > Teorias Sociológicas Explicativas da Criminalidade,2,6.0149805306577315
+Q0094,1,4365,Criminologia,1,1.6934309572298032
+Q0095,0,5197,Penal > Punibilidade > Perdão Judicial,3,3.994451404157972
+Q0095,1,5191,Penal > Punibilidade,2,-0.3134673507276453
+Q0095,2,5062,Penal,1,0.32768173385946764
+Q0096,0,5483,Processo Penal > Competência > Comeptência Territorial,3,7.836037867420773
+Q0096,1,5480,Processo Penal > Competência,2,5.986071606805905
+Q0096,2,5465,Processo Penal,1,0.31988071156148773
+Q0097,0,6728,Penal > Tráfico de Drogas,2,5.620955860647561
+Q0097,1,5062,Penal,1,-1.318561085179729
+Q0098,0,5548,Processo Penal > Provas em Espécies > Confissão,3,8.386293050674354
+Q0098,1,5543,Processo Penal > Provas em Espécies,2,-0.544171016946291
+Q0098,2,5465,Processo Penal,1,-0.23009353596590598
+Q0099,0,5077,Penal > Das Lesões Corporais,2,6.72818804926874
+Q0099,1,5062,Penal,1,-0.22463091245450084
+Q0100,0,5103,Penal > Dos Crimes Contra a Dignidade Sexual > Estupro e Estupro de Vulnerável,3,6.787487027425474
+Q0100,1,5102,Penal > Dos Crimes Contra a Dignidade Sexual,2,1.6912718245763756
+Q0100,2,5062,Penal,1,-1.1380846866817718
+Q0101,0,6724,Penal > Lei Maria da Penha,2,6.785278762573534
+Q0101,1,5062,Penal,1,-1.1093022563543666
+Q0102,0,5577,Processo Penal > Sentença Penal > Efeitos Decorrentes da Sentença Penal Condenatória,3,5.413151699178013
+Q0102,1,5572,Processo Penal > Sentença Penal,2,2.647109182041632
+Q0102,2,5465,Processo Penal,1,-0.5887257428013865
+Q0103,0,5478,Processo Penal > Ações Autônomas de Impugnação > Revisão Criminal,3,6.602630761971331
+Q0103,1,5476,Processo Penal > Ações Autônomas de Impugnação,2,0.06176579144158689
+Q0103,2,5465,Processo Penal,1,0.5518384067476473
+Q0104,0,5500,Processo Penal > Inquérito Policial > Procedimento do Inquérito Policial,3,7.134805755133828
+Q0104,1,5498,Processo Penal > Inquérito Policial,2,6.22017734007025
+Q0104,2,5465,Processo Penal,1,0.5056240300663095
+Q0105,0,4385,Criminologia > Teorias Sociológicas Explicativas da Criminalidade,2,7.356004418329033
+Q0105,1,4365,Criminologia,1,2.109375099066704
+Q0106,0,5166,Penal > Dos Crimes Contra o Patrimônio > Estelionato,3,4.651400903256645
+Q0106,1,5157,Penal > Dos Crimes Contra o Patrimônio,2,3.173160628075684
+Q0106,2,5062,Penal,1,-1.0375530307416798
+Q0107,0,5119,Penal > Dos Crimes Contra a Fé Pública e de Falsidade Documental > De outras falsidades,3,8.008997169366355
+Q0107,1,5116,Penal > Dos Crimes Contra a Fé Pública e de Falsidade Documental,2,5.4864180550342585
+Q0107,2,5062,Penal,1,-0.9800195777126873
+Q0108,0,5535,Processo Penal > Procedimento Ordinário > Audiência de Instrução e Julgamento,3,4.8829408992092915
+Q0108,1,5530,Processo Penal > Procedimento Ordinário,2,4.0082625351235714
+Q0108,2,5465,Processo Penal,1,-0.2485536958583683
+Q0109,0,4708,Direito Penal - Legislação Especial > Tráfico de Drogas,2,4.551224065852603
+Q0109,1,4683,Direito Penal - Legislação Especial,1,2.0461386378494293
+Q0110,0,5480,Processo Penal > Competência,2,5.851954890253095
+Q0110,1,5465,Processo Penal,1,0.017397315079969305
+Q0111,0,4384,Criminologia > Teorias Legitimidoras da Pena,2,7.4083041319674265
+Q0111,1,4365,Criminologia,1,1.2683840719127568
+Q0112,0,6725,Penal > Organizações Criminosas,2,3.778068581499884
+Q0112,1,5062,Penal,1,-0.4581944467360708
+Q0113,0,5185,Penal > Prescrição,2,4.2557013415015215
+Q0113,1,5062,Penal,1,-0.4378866928253829
+Q0114,0,5466,Processo Penal > Ação Penal,2,4.57530078550691
+Q0114,1,5465,Processo Penal,1,-0.5863430457865235
+Q0115,0,4385,Criminologia > Teorias Sociológicas Explicativas da Criminalidade,2,6.603853769061044
+Q0115,1,4365,Criminologia,1,0.34189852151001454
+Q0116,0,4708,Direito Penal - Legislação Especial > Tráfico de Drogas,2,6.188556514681148
+Q0116,1,4683,Direito Penal - Legislação Especial,1,1.4523042241219037
+Q0117,0,4384,Criminologia > Teorias Legitimidoras da Pena,2,7.814134983172574
+Q0117,1,4365,Criminologia,1,0.6679062821852874
+Q0118,0,5519,Processo Penal > Prisões em Espécie > Prisão Preventiva,3,5.073674402961429
+Q0118,1,5517,Processo Penal > Prisões em Espécie,2,0.1962492639069521
+Q0118,2,5465,Processo Penal,1,-0.04332357474122462
+Q0119,0,5508,Processo Penal > Lei Processual no Tempo e no Espaço > Interpretação da Lei processual Penal,3,6.047064681443427
+Q0119,1,5505,Processo Penal > Lei Processual no Tempo e no Espaço,2,5.91250298950651
+Q0119,2,5465,Processo Penal,1,-0.014068637477895558
+Q0120,0,5582,Processo Penal > Sistemas e Princípios Processuais Penais > Princípios do Processo Penal,3,6.493286176435741
+Q0120,1,5580,Processo Penal > Sistemas e Princípios Processuais Penais,2,5.980790760124574
+Q0120,2,5465,Processo Penal,1,0.7300811833657247
+Q0121,0,5466,Processo Penal > Ação Penal,2,7.240129344896916
+Q0121,1,5465,Processo Penal,1,-0.5169483490923018
+Q0122,0,6727,Penal > Teoria da Pena (Parte 2),2,4.033609928989753
+Q0122,1,5062,Penal,1,0.26156422872515717
+Q0123,0,4368,Criminologia > Criminologia no Estado Democrático de Direito,2,6.177318606545169
+Q0123,1,4365,Criminologia,1,1.173550198448727
+Q0124,0,4384,Criminologia > Teorias Legitimidoras da Pena,2,6.544306595700541
+Q0124,1,4365,Criminologia,1,0.1360171886824036
+Q0125,0,4703,Direito Penal - Legislação Especial > Lei de Execução Penal,2,4.574124188006029
+Q0125,1,4683,Direito Penal - Legislação Especial,1,0.8284380088419897
+Q0126,0,5466,Processo Penal > Ação Penal,2,5.123862237667549
+Q0126,1,5465,Processo Penal,1,-0.8459580136692291
+Q0127,0,5530,Processo Penal > Procedimento Ordinário,2,5.508161897764758
+Q0127,1,5465,Processo Penal,1,0.04625169803470128
+Q0128,0,5466,Processo Penal > Ação Penal,2,4.482808076670521
+Q0128,1,5465,Processo Penal,1,0.43947626500759335
+Q0129,0,5535,Processo Penal > Procedimento Ordinário > Audiência de Instrução e Julgamento,3,6.86403523449407
+Q0129,1,5530,Processo Penal > Procedimento Ordinário,2,4.2694139651165095
+Q0129,2,5465,Processo Penal,1,-0.43044497629189316
+Q0130,0,5205,Penal > Teoria da Pena > Penas Restritivas de Direitos,3,7.111221125221361
+Q0130,1,5199,Penal > Teoria da Pena,2,0.5390717789200405
+Q0130,2,5062,Penal,1,-0.5395271615485976
+Q0131,0,5074,Penal > Concurso de Pessoas > Participação,3,7.3888671716737555
+Q0131,1,5071,Penal > Concurso de Pessoas,2,3.728940537023593
+Q0131,2,5062,Penal,1,0.013538104426967512
+Q0132,0,5487,Processo Penal > Comunicação dos Atos Processuais,2,6.798800942930701
+Q0132,1,5465,Processo Penal,1,-0.24466554720310912
+Q0133,0,5529,Processo Penal > Procedimento do Tribunal do Júri > Sentença do Júri,3,6.724797436048151
+Q0133,1,5524,Processo Penal > Procedimento do Tribunal do Júri,2,6.721820219404758
+Q0133,2,5465,Processo Penal,1,0.5802522281373514
+Q0134,0,5089,Penal > Dos Crimes Contra a Administração Pública > Peculato e Peculato Mediante Erro de Outrem,3,4.269309571728631
+Q0134,1,5087,Penal > Dos Crimes Contra a Administração Pública,2,3.0850248890275886
+Q0134,2,5062,Penal,1,-0.9007311811792381
+Q0135,0,5169,Penal > Dos Crimes Contra o Patrimônio > Receptação,3,6.5613273931230545
+Q0135,1,5157,Penal > Dos Crimes Contra o Patrimônio,2,3.0773566973565876
+Q0135,2,5062,Penal,1,-0.7285241116087786
+Q0136,0,6724,Penal > Lei Maria da Penha,2,7.822567904748065
+Q0136,1,5062,Penal,1,-0.7715987651989468
+Q0137,0,5500,Processo Penal > Inquérito Policial > Procedimento do Inquérito Policial,3,4.926974814715933
+Q0137,1,5498,Processo Penal > Inquérito Policial,2,3.925687192729142
+Q0137,2,5465,Processo Penal,1,-0.5785861035095385
+Q0138,0,5205,Penal > Teoria da Pena > Penas Restritivas de Direitos,3,7.857080058866016
+Q0138,1,5199,Penal > Teoria da Pena,2,2.417436596302954
+Q0138,2,5062,Penal,1,-0.6265812074009671
+Q0139,0,5212,Penal > Teoria do Crime: Culpabilidade > Conceito e Elementos da Culpabilidade,3,8.357176818376486
+Q0139,1,5211,Penal > Teoria do Crime: Culpabilidade,2,5.536413225334175
+Q0139,2,5062,Penal,1,-0.7668474320329999
+Q0140,0,5070,Penal > Concurso de Crimes > Pena de Multa no Concurso de Crimes,3,4.829342514341329
+Q0140,1,5066,Penal > Concurso de Crimes,2,2.185830944597864
+Q0140,2,5062,Penal,1,-0.7853484661590753
+Q0141,0,4385,Criminologia > Teorias Sociológicas Explicativas da Criminalidade,2,7.597536232350917
+Q0141,1,4365,Criminologia,1,1.7325622822936981
+Q0142,0,5113,Penal > Dos Crimes contra a Família > Dos Crimes Contra o Estado de Filiação,3,4.08178056256429
+Q0142,1,5111,Penal > Dos Crimes contra a Família,2,1.9144557179881319
+Q0142,2,5062,Penal,1,-1.258859970773009
+Q0143,0,5508,Processo Penal > Lei Processual no Tempo e no Espaço > Interpretação da Lei processual Penal,3,6.893581070093642
+Q0143,1,5505,Processo Penal > Lei Processual no Tempo e no Espaço,2,6.481774544566239
+Q0143,2,5465,Processo Penal,1,1.1686171428971974
+Q0144,0,5529,Processo Penal > Procedimento do Tribunal do Júri > Sentença do Júri,3,5.508818436732735
+Q0144,1,5524,Processo Penal > Procedimento do Tribunal do Júri,2,3.9123724076961626
+Q0144,2,5465,Processo Penal,1,0.5237833526801836
+Q0145,0,4702,Direito Penal - Legislação Especial > Lavagem de Dinheiro,2,6.0885974146096835
+Q0145,1,4683,Direito Penal - Legislação Especial,1,0.5851972877538496
+Q0146,0,5548,Processo Penal > Provas em Espécies > Confissão,3,4.523582823821348
+Q0146,1,5543,Processo Penal > Provas em Espécies,2,0.2139300501817496
+Q0146,2,5465,Processo Penal,1,-0.7727063971712664
+Q0147,0,5502,Processo Penal > Inquérito Policial > Acordo de Não Persecução Penal,3,6.5999561651930465
+Q0147,1,5498,Processo Penal > Inquérito Policial,2,4.914331810781618
+Q0147,2,5465,Processo Penal,1,-0.3827824393310172
+Q0148,0,5203,Penal > Teoria da Pena > Segunda Fase da Dosimetria: Agravantes e Atenuantes,3,9.083263545531693
+Q0148,1,5199,Penal > Teoria da Pena,2,2.0927506523174872
+Q0148,2,5062,Penal,1,-0.607990303102488
+Q0149,0,5500,Processo Penal > Inquérito Policial > Procedimento do Inquérito Policial,3,5.327438576546991
+Q0149,1,5498,Processo Penal > Inquérito Policial,2,4.425184871774848
+Q0149,2,5465,Processo Penal,1,-0.9037178260909385
+Q0150,0,4708,Direito Penal - Legislação Especial > Tráfico de Drogas,2,6.778173258301225
+Q0150,1,4683,Direito Penal - Legislação Especial,1,0.958798207462456
+Q0151,0,5522,Processo Penal > Prisões em Espécie > Medidas Cautelares Diversas da Prisão,3,7.277356664008625
+Q0151,1,5517,Processo Penal > Prisões em Espécie,2,1.339207925311676
+Q0151,2,5465,Processo Penal,1,0.17916473932383095
+Q0152,0,5466,Processo Penal > Ação Penal,2,5.8649682186445276
+Q0152,1,5465,Processo Penal,1,0.6369125049268839
+Q0153,0,5175,Penal > Iter Criminis,2,7.761621035552932
+Q0153,1,5062,Penal,1,-0.10439515511178632
+Q0154,0,5135,"Penal > Dos Crimes contra a Organização do Trabalho, a Propriedade Imaterial e ao Sentimento Religioso > Dos Crimes Contra a Organização do Trabalho",3,4.363928971453484
+Q0154,1,5134,"Penal > Dos Crimes contra a Organização do Trabalho, a Propriedade Imaterial e ao Sentimento Religioso",2,3.894466124231535
+Q0154,2,5062,Penal,1,-0.6537659125457586
+Q0155,0,5184,Penal > Medida de Segurança,2,6.325497797464196
+Q0155,1,5062,Penal,1,0.3764656339895647
+Q0156,0,5207,Penal > Teoria da Pena > Suspensão Condicional da Pena,3,6.611082521527983
+Q0156,1,5199,Penal > Teoria da Pena,2,1.3043722434015403
+Q0156,2,5062,Penal,1,-0.2383998640416845
+Q0157,0,5520,Processo Penal > Prisões em Espécie > Prisão Temporária,3,6.764353498503581
+Q0157,1,5517,Processo Penal > Prisões em Espécie,2,0.24649087258772312
+Q0157,2,5465,Processo Penal,1,0.027471174577194335
+Q0158,0,6727,Penal > Teoria da Pena (Parte 2),2,4.105722039675645
+Q0158,1,5062,Penal,1,-0.4792023249994035
+Q0159,0,5150,Penal > Dos Crimes Contra a Vida > Homicídio,3,6.884515636466676
+Q0159,1,5149,Penal > Dos Crimes Contra a Vida,2,1.4484935729160169
+Q0159,2,5062,Penal,1,-0.5039311026321747
+Q0160,0,6727,Penal > Teoria da Pena (Parte 2),2,5.93830121012082
+Q0160,1,5062,Penal,1,-0.3868869621210473
+Q0161,0,5518,Processo Penal > Prisões em Espécie > Prisão em Flagrante,3,6.5176784507743335
+Q0161,1,5517,Processo Penal > Prisões em Espécie,2,0.012392239707016497
+Q0161,2,5465,Processo Penal,1,-0.8624816065278516
+Q0162,0,4381,Criminologia > Teoria Geral da Criminologia > Conceito e objeto da Criminologia,3,3.788284633831987
+Q0162,1,4380,Criminologia > Teoria Geral da Criminologia,2,2.5772143949945487
+Q0162,2,4365,Criminologia,1,2.0611994583545616
+Q0163,0,4708,Direito Penal - Legislação Especial > Tráfico de Drogas,2,4.823915737679879
+Q0163,1,4683,Direito Penal - Legislação Especial,1,1.1036151534645477
+Q0164,0,6727,Penal > Teoria da Pena (Parte 2),2,3.524091699181266
+Q0164,1,5062,Penal,1,-1.2174912622457335
+Q0165,0,5530,Processo Penal > Procedimento Ordinário,2,3.9214402008622664
+Q0165,1,5465,Processo Penal,1,-0.07542358888774298
+Q0166,0,5537,Processo Penal > Procedimento Ordinário > Sentença,3,4.0595096862981945
+Q0166,1,5530,Processo Penal > Procedimento Ordinário,2,2.820676546503962
+Q0166,2,5465,Processo Penal,1,-1.037497502620874
+Q0167,0,5487,Processo Penal > Comunicação dos Atos Processuais,2,6.257592049364268
+Q0167,1,5465,Processo Penal,1,-0.1904240318545354
+Q0168,0,5225,Penal > Teoria do Crime: Fato Típico > Resultado,3,4.540587229950967
+Q0168,1,5218,Penal > Teoria do Crime: Fato Típico,2,1.056520340339303
+Q0168,2,5062,Penal,1,-0.18464077559486713
+Q0169,0,5492,"Processo Penal > Das Questões e Processos Incidentes > Exceção de Suspeição, de Impedimento ou de Incompatibilidade",3,8.330479336157948
+Q0169,1,5490,Processo Penal > Das Questões e Processos Incidentes,2,3.8483473555363856
+Q0169,2,5465,Processo Penal,1,-0.378852862396351
+Q0170,0,5185,Penal > Prescrição,2,5.000018167025811
+Q0170,1,5062,Penal,1,-0.9371858841872744
+Q0171,0,5185,Penal > Prescrição,2,5.246768699987496
+Q0171,1,5062,Penal,1,-1.180618354712246
+Q0172,0,5466,Processo Penal > Ação Penal,2,5.49570128627374
+Q0172,1,5465,Processo Penal,1,-0.6893136360668302
+Q0173,0,5537,Processo Penal > Procedimento Ordinário > Sentença,3,4.614643184599821
+Q0173,1,5530,Processo Penal > Procedimento Ordinário,2,2.456096142233739
+Q0173,2,5465,Processo Penal,1,-0.30397746323380403
+Q0174,0,5063,Penal > Ação Penal,2,4.06587428788802
+Q0174,1,5062,Penal,1,-1.227619053992515
+Q0175,0,5092,Penal > Dos Crimes Contra a Administração Pública > Corrupção Passiva,3,7.933671202221493
+Q0175,1,5087,Penal > Dos Crimes Contra a Administração Pública,2,2.7457141517308488
+Q0175,2,5062,Penal,1,-0.6801469904756204
+Q0176,0,5081,Penal > Dos Crimes Contra a Administração Judicial > Falso Testemunha ou Falsa Perícia e Corrupção Ativa de Testemunha ou Perito,3,7.28686771422505
+Q0176,1,5079,Penal > Dos Crimes Contra a Administração Judicial,2,0.8895765440887087
+Q0176,2,5062,Penal,1,-1.6604467091516435
+Q0177,0,5548,Processo Penal > Provas em Espécies > Confissão,3,6.675934439168838
+Q0177,1,5543,Processo Penal > Provas em Espécies,2,-0.07117965573560905
+Q0177,2,5465,Processo Penal,1,0.14404433891956567
+Q0178,0,4697,Direito Penal - Legislação Especial > Estatuto do Desarmamento,2,5.990209944005151
+Q0178,1,4683,Direito Penal - Legislação Especial,1,1.6855602451451384
+Q0179,0,4369,Criminologia > Criminologia no Estado Democrático de Direito > Sistemas de Prevenção,3,8.75343785312333
+Q0179,1,4368,Criminologia > Criminologia no Estado Democrático de Direito,2,8.115347316642616
+Q0179,2,4365,Criminologia,1,2.1289006903062018
+Q0180,0,5554,Processo Penal > Provas em Espécies > Busca e Apreensão,3,5.47654602658099
+Q0180,1,5543,Processo Penal > Provas em Espécies,2,0.8305160859994631
+Q0180,2,5465,Processo Penal,1,-0.585262747102288
+Q0181,0,4695,Direito Penal - Legislação Especial > Crimes Tributários,2,3.869025606459587
+Q0181,1,4683,Direito Penal - Legislação Especial,1,1.535566077396223
+Q0182,0,5139,Penal > Dos Crimes Contra a Periclitação da Vida e da Saúde > Perigo de Contágio Venéreo e de Moléstia Grave,3,5.8354518293653745
+Q0182,1,5138,Penal > Dos Crimes Contra a Periclitação da Vida e da Saúde,2,0.9030231734433348
+Q0182,2,5062,Penal,1,-0.4778281132330079
+Q0183,0,5185,Penal > Prescrição,2,5.414290871222967
+Q0183,1,5062,Penal,1,-1.4012353498867198
+Q0184,0,5518,Processo Penal > Prisões em Espécie > Prisão em Flagrante,3,4.289369902158443
+Q0184,1,5517,Processo Penal > Prisões em Espécie,2,-0.04693651918495217
+Q0184,2,5465,Processo Penal,1,-0.39852181780555734
+Q0185,0,5576,Processo Penal > Sentença Penal > Fixação da Pena e do Regime Penitenciário,3,4.865422624491609
+Q0185,1,5572,Processo Penal > Sentença Penal,2,-0.041403970507179505
+Q0185,2,5465,Processo Penal,1,-0.4306199938171201
+Q0186,0,5202,Penal > Teoria da Pena > Primeira Fase da Dosimetria: Circunstâncias Judiciais,3,11.560360210812982
+Q0186,1,5199,Penal > Teoria da Pena,2,1.2829508670141705
+Q0186,2,5062,Penal,1,-0.17374790179779576
+Q0187,0,5198,Penal > Punibilidade > Decadência,3,3.5789765566261105
+Q0187,1,5191,Penal > Punibilidade,2,-1.1154285238290826
+Q0187,2,5062,Penal,1,-1.075153590883168
+Q0188,0,5233,Penal > Teoria do Crime: Ilicitude > Causas Supralegais de Exclusão da Ilicitude,3,5.063842456336359
+Q0188,1,5228,Penal > Teoria do Crime: Ilicitude,2,4.8783034757511565
+Q0188,2,5062,Penal,1,-0.1440475207188308
+Q0189,0,5065,Penal > Ação Penal > Ação Penal Privada,3,5.357144853511558
+Q0189,1,5063,Penal > Ação Penal,2,4.123136746894536
+Q0189,2,5062,Penal,1,-0.511640769358976
+Q0190,0,5540,Processo Penal > Procedimento Sumaríssimo > Competência dos Juizados Especiais Criminais,3,6.418419560192061
+Q0190,1,5539,Processo Penal > Procedimento Sumaríssimo,2,1.5703829325726715
+Q0190,2,5465,Processo Penal,1,0.10772402778847417
+Q0191,0,5560,Processo Penal > Recursos em Espécies,2,6.047896935542332
+Q0191,1,5465,Processo Penal,1,0.47724520168863366
+Q0192,0,5091,Penal > Dos Crimes Contra a Administração Pública > Concussão e Excesso de Exação,3,8.040157826350567
+Q0192,1,5087,Penal > Dos Crimes Contra a Administração Pública,2,2.4060929667025612
+Q0192,2,5062,Penal,1,-1.3470436250367088
+Q0193,0,5557,Processo Penal > Provas em Espécies > Colaboração Premiada,3,7.611646049328543
+Q0193,1,5543,Processo Penal > Provas em Espécies,2,-0.2896704296600715
+Q0193,2,5465,Processo Penal,1,-0.3562541890495386
+Q0194,0,5221,Penal > Teoria do Crime: Fato Típico > Conduta,3,5.674710214449887
+Q0194,1,5218,Penal > Teoria do Crime: Fato Típico,2,5.1486609676060064
+Q0194,2,5062,Penal,1,-1.2686310128835794
+Q0195,0,4371,Criminologia > Etapas Evolutivas e Escolas Criminológicas,2,6.701783985147986
+Q0195,1,4365,Criminologia,1,1.205051228572951
+Q0196,0,4385,Criminologia > Teorias Sociológicas Explicativas da Criminalidade,2,7.42424602356427
+Q0196,1,4365,Criminologia,1,0.4657853357268726
+Q0197,0,5500,Processo Penal > Inquérito Policial > Procedimento do Inquérito Policial,3,6.7462972142840005
+Q0197,1,5498,Processo Penal > Inquérito Policial,2,6.100674025644758
+Q0197,2,5465,Processo Penal,1,-0.4111395806404933
+Q0198,0,5073,"Penal > Concurso de Pessoas > Autoria Mediata, Colateral e Coautoria",3,6.87679931524069
+Q0198,1,5071,Penal > Concurso de Pessoas,2,3.326653607436611
+Q0198,2,5062,Penal,1,-0.5203384051177484
+Q0199,0,5218,Penal > Teoria do Crime: Fato Típico,2,4.73257804097759
+Q0199,1,5062,Penal,1,-1.4002469033834897
+Q0200,0,6725,Penal > Organizações Criminosas,2,6.792048649071697
+Q0200,1,5062,Penal,1,-1.3717996619747665
+Q0201,0,5103,Penal > Dos Crimes Contra a Dignidade Sexual > Estupro e Estupro de Vulnerável,3,9.722146969492822
+Q0201,1,5102,Penal > Dos Crimes Contra a Dignidade Sexual,2,2.149980922384112
+Q0201,2,5062,Penal,1,-1.4921865569882429
+Q0202,0,5548,Processo Penal > Provas em Espécies > Confissão,3,4.344899056980491
+Q0202,1,5543,Processo Penal > Provas em Espécies,2,-0.329874179367202
+Q0202,2,5465,Processo Penal,1,-1.2140579899344701
+Q0203,0,4702,Direito Penal - Legislação Especial > Lavagem de Dinheiro,2,9.581797321671708
+Q0203,1,4683,Direito Penal - Legislação Especial,1,2.144507844597372
+Q0204,0,5508,Processo Penal > Lei Processual no Tempo e no Espaço > Interpretação da Lei processual Penal,3,6.853696446731563
+Q0204,1,5505,Processo Penal > Lei Processual no Tempo e no Espaço,2,6.46857858530195
+Q0204,2,5465,Processo Penal,1,0.4106316967285474
+Q0205,0,5574,Processo Penal > Sentença Penal > Sentença Absolutória,3,5.21838437949807
+Q0205,1,5572,Processo Penal > Sentença Penal,2,1.737902239896213
+Q0205,2,5465,Processo Penal,1,0.01467529620293534
+Q0206,0,5487,Processo Penal > Comunicação dos Atos Processuais,2,5.551874298380856
+Q0206,1,5465,Processo Penal,1,0.2945449847731817
+Q0207,0,5185,Penal > Prescrição,2,3.9333311580976824
+Q0207,1,5062,Penal,1,0.1062833606948564
+Q0208,0,5150,Penal > Dos Crimes Contra a Vida > Homicídio,3,4.901527866949117
+Q0208,1,5149,Penal > Dos Crimes Contra a Vida,2,1.5606552727252416
+Q0208,2,5062,Penal,1,-0.8439354147240861
+Q0209,0,5500,Processo Penal > Inquérito Policial > Procedimento do Inquérito Policial,3,5.4940934387811735
+Q0209,1,5498,Processo Penal > Inquérito Policial,2,5.307002424014437
+Q0209,2,5465,Processo Penal,1,0.009316380218727709
+Q0210,0,4697,Direito Penal - Legislação Especial > Estatuto do Desarmamento,2,6.1352481905701355
+Q0210,1,4683,Direito Penal - Legislação Especial,1,0.17432161086446613
+Q0211,0,5487,Processo Penal > Comunicação dos Atos Processuais,2,6.220173752888483
+Q0211,1,5465,Processo Penal,1,0.028599048092169566
+Q0212,0,5487,Processo Penal > Comunicação dos Atos Processuais,2,5.911817416518076
+Q0212,1,5465,Processo Penal,1,0.21220717320574922
+Q0213,0,4708,Direito Penal - Legislação Especial > Tráfico de Drogas,2,5.598622962150687
+Q0213,1,4683,Direito Penal - Legislação Especial,1,1.4905267271627698
+Q0214,0,5494,Processo Penal > Das Questões e Processos Incidentes > Exceção de Litispendência e de Coisa Julgada,3,5.923768690563103
+Q0214,1,5490,Processo Penal > Das Questões e Processos Incidentes,2,2.574206865639427
+Q0214,2,5465,Processo Penal,1,-0.0793791177287554
+Q0215,0,5576,Processo Penal > Sentença Penal > Fixação da Pena e do Regime Penitenciário,3,8.414122867334404
+Q0215,1,5572,Processo Penal > Sentença Penal,2,0.3221904882197217
+Q0215,2,5465,Processo Penal,1,0.2399317187066121
+Q0216,0,5063,Penal > Ação Penal,2,5.576199722264671
+Q0216,1,5062,Penal,1,-1.6137648472759711
+Q0217,0,4384,Criminologia > Teorias Legitimidoras da Pena,2,8.44486008012666
+Q0217,1,4365,Criminologia,1,1.1238015579891076
+Q0218,0,5518,Processo Penal > Prisões em Espécie > Prisão em Flagrante,3,9.393959455195299
+Q0218,1,5517,Processo Penal > Prisões em Espécie,2,-0.07980508330866036
+Q0218,2,5465,Processo Penal,1,-1.1959949814772661
+Q0219,0,5074,Penal > Concurso de Pessoas > Participação,3,8.542123427722998
+Q0219,1,5071,Penal > Concurso de Pessoas,2,6.410332356551803
+Q0219,2,5062,Penal,1,-0.15592024267411952
+Q0220,0,5501,Processo Penal > Inquérito Policial > Conclusão e Arquivamento do Inquérito Policial,3,9.116740866206907
+Q0220,1,5498,Processo Penal > Inquérito Policial,2,4.192432002374408
+Q0220,2,5465,Processo Penal,1,-0.4285601862452386
+Q0221,0,5201,Penal > Teoria da Pena > Penas Privativas de Liberdade,3,7.236953828776417
+Q0221,1,5199,Penal > Teoria da Pena,2,0.5488052900510854
+Q0221,2,5062,Penal,1,-0.45702523927194405
+Q0222,0,4376,Criminologia > Política Criminal > Direito Penal do Inimigo,3,4.525184015100074
+Q0222,1,4374,Criminologia > Política Criminal,2,-1.2465438751492246
+Q0222,2,4365,Criminologia,1,-1.3350684584636474
+Q0223,0,5084,Penal > Dos Crimes Contra a Administração Judicial > Favorecimento Pessoal e Real,3,8.673509715513724
+Q0223,1,5079,Penal > Dos Crimes Contra a Administração Judicial,2,-0.2048672924182962
+Q0223,2,5062,Penal,1,-0.5053879089917646
+Q0224,0,5207,Penal > Teoria da Pena > Suspensão Condicional da Pena,3,5.854264241018399
+Q0224,1,5199,Penal > Teoria da Pena,2,0.25806926946737585
+Q0224,2,5062,Penal,1,-0.9413539308807088
+Q0225,0,5571,Processo Penal > Recursos em Espécies > Recurso Especial,3,5.317978076701957
+Q0225,1,5560,Processo Penal > Recursos em Espécies,2,3.2987960847258195
+Q0225,2,5465,Processo Penal,1,0.21844471561984788
+Q0226,0,5544,Processo Penal > Provas em Espécies > Cadeia de Custódia,3,5.563490619474878
+Q0226,1,5543,Processo Penal > Provas em Espécies,2,0.1923100695693293
+Q0226,2,5465,Processo Penal,1,0.7083135629523336
+Q0227,0,5103,Penal > Dos Crimes Contra a Dignidade Sexual > Estupro e Estupro de Vulnerável,3,7.288208640958717
+Q0227,1,5102,Penal > Dos Crimes Contra a Dignidade Sexual,2,1.4115113097263357
+Q0227,2,5062,Penal,1,-0.8177165258582857
+Q0228,0,5208,Penal > Teoria da Pena > Livramento Condicional,3,5.454330427532945
+Q0228,1,5199,Penal > Teoria da Pena,2,-0.3606070271690719
+Q0228,2,5062,Penal,1,-1.2077248802204468
+Q0229,0,5508,Processo Penal > Lei Processual no Tempo e no Espaço > Interpretação da Lei processual Penal,3,4.333186439338019
+Q0229,1,5505,Processo Penal > Lei Processual no Tempo e no Espaço,2,3.944517913776975
+Q0229,2,5465,Processo Penal,1,-0.4313480407105502
+Q0230,0,5214,Penal > Teoria do Crime: Culpabilidade > Erro de Proibição,3,4.35022652794539
+Q0230,1,5211,Penal > Teoria do Crime: Culpabilidade,2,2.5744747020617753
+Q0230,2,5062,Penal,1,-1.0701294542224784
+Q0231,0,5224,Penal > Teoria do Crime: Fato Típico > Erro de Tipo,3,7.411658347082723
+Q0231,1,5218,Penal > Teoria do Crime: Fato Típico,2,1.24889321400077
+Q0231,2,5062,Penal,1,-0.48847494886952947
+Q0232,0,5080,"Penal > Dos Crimes Contra a Administração Judicial > Denunciação Caluniosa, Comunicação Falsa de Crime ou Contravenção e Autoacusação Falsa",3,6.038566260913814
+Q0232,1,5079,Penal > Dos Crimes Contra a Administração Judicial,2,2.776489071478254
+Q0232,2,5062,Penal,1,-1.3785769563422554
+Q0233,0,5178,"Penal > Iter Criminis > Desistência Voluntária, Arrependimento Eficaz e Arrependimento posterior",3,13.025531535827557
+Q0233,1,5175,Penal > Iter Criminis,2,2.349397409861888
+Q0233,2,5062,Penal,1,-0.6666739280699534
+Q0234,0,4380,Criminologia > Teoria Geral da Criminologia,2,6.948621001812791
+Q0234,1,4365,Criminologia,1,4.175787244423949
+Q0235,0,6733,Processo Penal > Competência (Parte 2),2,6.028168117012592
+Q0235,1,5465,Processo Penal,1,0.8576213432125112
+Q0236,0,5537,Processo Penal > Procedimento Ordinário > Sentença,3,3.860156876921274
+Q0236,1,5530,Processo Penal > Procedimento Ordinário,2,3.830556236135984
+Q0236,2,5465,Processo Penal,1,-0.17441074813787394
+Q0237,0,5178,"Penal > Iter Criminis > Desistência Voluntária, Arrependimento Eficaz e Arrependimento posterior",3,14.876574146581929
+Q0237,1,5175,Penal > Iter Criminis,2,1.3441856219939408
+Q0237,2,5062,Penal,1,-0.6576759333673223
+Q0238,0,5468,Processo Penal > Ação Penal > Classificação da Ação Penal,3,4.930924713585478
+Q0238,1,5466,Processo Penal > Ação Penal,2,3.0385811460673295
+Q0238,2,5465,Processo Penal,1,0.8338076290128458
+Q0239,0,5207,Penal > Teoria da Pena > Suspensão Condicional da Pena,3,5.400066649186031
+Q0239,1,5199,Penal > Teoria da Pena,2,0.8250330838100735
+Q0239,2,5062,Penal,1,-0.8937915611046043
+Q0240,0,5500,Processo Penal > Inquérito Policial > Procedimento do Inquérito Policial,3,4.4005233478660575
+Q0240,1,5498,Processo Penal > Inquérito Policial,2,2.8667221670345935
+Q0240,2,5465,Processo Penal,1,0.2488293331983525
+Q0241,0,5224,Penal > Teoria do Crime: Fato Típico > Erro de Tipo,3,7.099119155760311
+Q0241,1,5218,Penal > Teoria do Crime: Fato Típico,2,4.581159495991287
+Q0241,2,5062,Penal,1,-0.2826027626942374
+Q0242,0,5571,Processo Penal > Recursos em Espécies > Recurso Especial,3,6.065823668277696
+Q0242,1,5560,Processo Penal > Recursos em Espécies,2,4.346830352658874
+Q0242,2,5465,Processo Penal,1,0.023719353124332543
+Q0243,0,5178,"Penal > Iter Criminis > Desistência Voluntária, Arrependimento Eficaz e Arrependimento posterior",3,12.455338939032206
+Q0243,1,5175,Penal > Iter Criminis,2,3.8472266763086953
+Q0243,2,5062,Penal,1,-0.8951264805613441
+Q0244,0,5091,Penal > Dos Crimes Contra a Administração Pública > Concussão e Excesso de Exação,3,8.473396559892908
+Q0244,1,5087,Penal > Dos Crimes Contra a Administração Pública,2,3.507018827645328
+Q0244,2,5062,Penal,1,-0.6473105294123408
+Q0245,0,5185,Penal > Prescrição,2,8.081678005424722
+Q0245,1,5062,Penal,1,-1.4414810939335325
+Q0246,0,5527,"Processo Penal > Procedimento do Tribunal do Júri > Impronúncia, Desclassificação, Absolvição Sumária e Pronúncia",3,6.277415014991914
+Q0246,1,5524,Processo Penal > Procedimento do Tribunal do Júri,2,5.127413977204845
+Q0246,2,5465,Processo Penal,1,0.05604208637052862
+Q0247,0,5502,Processo Penal > Inquérito Policial > Acordo de Não Persecução Penal,3,8.318207600976383
+Q0247,1,5498,Processo Penal > Inquérito Policial,2,-0.49035000625094904
+Q0247,2,5465,Processo Penal,1,-0.051691832075048245
+Q0248,0,5092,Penal > Dos Crimes Contra a Administração Pública > Corrupção Passiva,3,5.775016418375551
+Q0248,1,5087,Penal > Dos Crimes Contra a Administração Pública,2,4.410708480231861
+Q0248,2,5062,Penal,1,-0.7303116047171373
+Q0249,0,5466,Processo Penal > Ação Penal,2,5.1859209428674635
+Q0249,1,5465,Processo Penal,1,0.5559698186048838
+Q0250,0,5202,Penal > Teoria da Pena > Primeira Fase da Dosimetria: Circunstâncias Judiciais,3,6.716704080192807
+Q0250,1,5199,Penal > Teoria da Pena,2,2.607617492500053
+Q0250,2,5062,Penal,1,-0.795190219238656
+Q0251,0,5198,Penal > Punibilidade > Decadência,3,7.324997516443971
+Q0251,1,5191,Penal > Punibilidade,2,4.23909958472481
+Q0251,2,5062,Penal,1,-0.41071735518372743
+Q0252,0,5208,Penal > Teoria da Pena > Livramento Condicional,3,6.996225522779881
+Q0252,1,5199,Penal > Teoria da Pena,2,0.974415919521497
+Q0252,2,5062,Penal,1,-0.6209723186082521
+Q0253,0,4384,Criminologia > Teorias Legitimidoras da Pena,2,8.032276048722357
+Q0253,1,4365,Criminologia,1,0.7636949130659701
+Q0254,0,5487,Processo Penal > Comunicação dos Atos Processuais,2,6.394283545523541
+Q0254,1,5465,Processo Penal,1,-0.1505842012169202
+Q0255,0,5213,Penal > Teoria do Crime: Culpabilidade > Inimputabilidade,3,3.882173109040272
+Q0255,1,5211,Penal > Teoria do Crime: Culpabilidade,2,2.7507687670294065
+Q0255,2,5062,Penal,1,-0.3097509125401386
+Q0256,0,5221,Penal > Teoria do Crime: Fato Típico > Conduta,3,6.372254967523715
+Q0256,1,5218,Penal > Teoria do Crime: Fato Típico,2,4.489048367584284
+Q0256,2,5062,Penal,1,-0.7080432854013634
+Q0257,0,5227,Penal > Teoria do Crime: Fato Típico > Tipicidade,3,4.657863148444724
+Q0257,1,5218,Penal > Teoria do Crime: Fato Típico,2,2.930160396698906
+Q0257,2,5062,Penal,1,-0.7050871369339523
+Q0258,0,5545,Processo Penal > Provas em Espécies > Exame de Corpo de Delito,3,8.310246373132937
+Q0258,1,5543,Processo Penal > Provas em Espécies,2,0.08198365402263831
+Q0258,2,5465,Processo Penal,1,-0.2267402694317125
+Q0259,0,5228,Penal > Teoria do Crime: Ilicitude,2,5.436954503622343
+Q0259,1,5062,Penal,1,-0.3386738612890432
+Q0260,0,4368,Criminologia > Criminologia no Estado Democrático de Direito,2,6.368279240172917
+Q0260,1,4365,Criminologia,1,0.5889116553036143
+Q0261,0,5466,Processo Penal > Ação Penal,2,4.75756553629344
+Q0261,1,5465,Processo Penal,1,-0.21574913778803848
+Q0262,0,5184,Penal > Medida de Segurança,2,4.701017094123823
+Q0262,1,5062,Penal,1,-0.7971341085686448
+Q0263,0,5548,Processo Penal > Provas em Espécies > Confissão,3,4.781542850613481
+Q0263,1,5543,Processo Penal > Provas em Espécies,2,0.4166026219009832
+Q0263,2,5465,Processo Penal,1,0.32106378753524656
+Q0264,0,5103,Penal > Dos Crimes Contra a Dignidade Sexual > Estupro e Estupro de Vulnerável,3,8.189879991891981
+Q0264,1,5102,Penal > Dos Crimes Contra a Dignidade Sexual,2,5.1570176741219225
+Q0264,2,5062,Penal,1,-0.7239125406837353
+Q0265,0,5185,Penal > Prescrição,2,6.2354720153337535
+Q0265,1,5062,Penal,1,-0.13890326224652194
+Q0266,0,5524,Processo Penal > Procedimento do Tribunal do Júri,2,5.822933186302423
+Q0266,1,5465,Processo Penal,1,-0.626623536377329
+Q0267,0,5518,Processo Penal > Prisões em Espécie > Prisão em Flagrante,3,5.196586434753208
+Q0267,1,5517,Processo Penal > Prisões em Espécie,2,-0.10651796491943914
+Q0267,2,5465,Processo Penal,1,0.17036585207581492
+Q0268,0,5228,Penal > Teoria do Crime: Ilicitude,2,4.382376195686717
+Q0268,1,5062,Penal,1,-1.6590977588556786
+Q0269,0,5173,Penal > Introdução ao Estudo do Direito Penal > Interpretação da Norma Penal,3,6.294266030660029
+Q0269,1,5170,Penal > Introdução ao Estudo do Direito Penal,2,4.551588892536831
+Q0269,2,5062,Penal,1,-0.8892812466283879
+Q0270,0,5092,Penal > Dos Crimes Contra a Administração Pública > Corrupção Passiva,3,8.215194488649676
+Q0270,1,5087,Penal > Dos Crimes Contra a Administração Pública,2,-0.08861102389477313
+Q0270,2,5062,Penal,1,-0.2249102293599557
+Q0271,0,5562,Processo Penal > Recursos em Espécies > Apelação,3,6.850779092037114
+Q0271,1,5560,Processo Penal > Recursos em Espécies,2,5.590973484018001
+Q0271,2,5465,Processo Penal,1,0.2881463238988615
+Q0272,0,6734,Processo Penal > Lei de Execução Penal,2,6.702390046519426
+Q0272,1,5465,Processo Penal,1,-0.43615681263901296
+Q0273,0,5096,Penal > Dos Crimes Contra a Administração Pública > Condescendência Criminosa,3,6.266108866277051
+Q0273,1,5087,Penal > Dos Crimes Contra a Administração Pública,2,-0.29025481627828253
+Q0273,2,5062,Penal,1,0.07698625138845902
+Q0274,0,5160,Penal > Dos Crimes Contra o Patrimônio > Roubo,3,5.713001126454467
+Q0274,1,5157,Penal > Dos Crimes Contra o Patrimônio,2,4.30728727673266
+Q0274,2,5062,Penal,1,-0.2959106911990522
+Q0275,0,5487,Processo Penal > Comunicação dos Atos Processuais,2,7.539426560232678
+Q0275,1,5465,Processo Penal,1,-0.02694238653407411
+Q0276,0,5545,Processo Penal > Provas em Espécies > Exame de Corpo de Delito,3,5.407816320136947
+Q0276,1,5543,Processo Penal > Provas em Espécies,2,1.2160520539387514
+Q0276,2,5465,Processo Penal,1,0.13625047599439655
+Q0277,0,4696,Direito Penal - Legislação Especial > Estaturo de Idoso - Crimes,2,6.453899345674973
+Q0277,1,4683,Direito Penal - Legislação Especial,1,1.7803518354016554
+Q0278,0,5207,Penal > Teoria da Pena > Suspensão Condicional da Pena,3,6.600859207152527
+Q0278,1,5199,Penal > Teoria da Pena,2,0.7627611360956085
+Q0278,2,5062,Penal,1,-0.804232837633151
+Q0279,0,5178,"Penal > Iter Criminis > Desistência Voluntária, Arrependimento Eficaz e Arrependimento posterior",3,8.344679509183521
+Q0279,1,5175,Penal > Iter Criminis,2,-0.46802973352104643
+Q0279,2,5062,Penal,1,-0.8496711087008161
+Q0280,0,5487,Processo Penal > Comunicação dos Atos Processuais,2,4.961054926953205
+Q0280,1,5465,Processo Penal,1,-0.615871916558086
+Q0281,0,5555,Processo Penal > Provas em Espécies > Interceptação Telefônica e Quebra do Sigilo de Dados Telefônicos,3,6.773471390406253
+Q0281,1,5543,Processo Penal > Provas em Espécies,2,0.1122599946121084
+Q0281,2,5465,Processo Penal,1,-0.24096108693715754
+Q0282,0,4697,Direito Penal - Legislação Especial > Estatuto do Desarmamento,2,4.656958737737542
+Q0282,1,4683,Direito Penal - Legislação Especial,1,-0.25573188475619746
+Q0283,0,5496,"Processo Penal > Das Questões e Processos Incidentes > Medidas Assecuratórias: Sequestro, Hipoteca Legal e Arresto",3,4.928837872358934
+Q0283,1,5490,Processo Penal > Das Questões e Processos Incidentes,2,-0.7529413966745402
+Q0283,2,5465,Processo Penal,1,-0.4731616610394799
+Q0284,0,5537,Processo Penal > Procedimento Ordinário > Sentença,3,3.8471303578678238
+Q0284,1,5530,Processo Penal > Procedimento Ordinário,2,2.5310354744159875
+Q0284,2,5465,Processo Penal,1,-0.6364554158957947
+Q0285,0,4376,Criminologia > Política Criminal > Direito Penal do Inimigo,3,6.6881064834125645
+Q0285,1,4374,Criminologia > Política Criminal,2,-0.8765767460486917
+Q0285,2,4365,Criminologia,1,-0.6021764187563826
+Q0286,0,5069,Penal > Concurso de Crimes > Crime Continuado,3,6.6329404758637995
+Q0286,1,5066,Penal > Concurso de Crimes,2,4.473813216482895
+Q0286,2,5062,Penal,1,-0.5713699987105342
+Q0287,0,5230,Penal > Teoria do Crime: Ilicitude > Estado de Necessidade,3,8.83598815065547
+Q0287,1,5228,Penal > Teoria do Crime: Ilicitude,2,7.150978177673659
+Q0287,2,5062,Penal,1,-0.534478925075125
+Q0288,0,5068,Penal > Concurso de Crimes > Concurso Formal,3,3.9650423383299045
+Q0288,1,5066,Penal > Concurso de Crimes,2,3.2053391145557306
+Q0288,2,5062,Penal,1,-1.0741785961130115
+Q0289,0,4704,Direito Penal - Legislação Especial > Lei Maria da Penha,2,5.943065984247478
+Q0289,1,4683,Direito Penal - Legislação Especial,1,1.0030061388407283
+Q0290,0,5466,Processo Penal > Ação Penal,2,5.067496704815932
+Q0290,1,5465,Processo Penal,1,0.008637045160284414
+Q0291,0,4708,Direito Penal - Legislação Especial > Tráfico de Drogas,2,7.291108126887765
+Q0291,1,4683,Direito Penal - Legislação Especial,1,1.5779111654212068
+Q0292,0,4375,Criminologia > Política Criminal > Correntes da Política Criminal,3,7.497183743119226
+Q0292,1,4374,Criminologia > Política Criminal,2,6.731975808156124
+Q0292,2,4365,Criminologia,1,0.9220459384495834
+Q0293,0,5185,Penal > Prescrição,2,6.194393632725545
+Q0293,1,5062,Penal,1,-0.780887348785783
+Q0294,0,5214,Penal > Teoria do Crime: Culpabilidade > Erro de Proibição,3,7.327799772574394
+Q0294,1,5211,Penal > Teoria do Crime: Culpabilidade,2,4.1871604538034175
+Q0294,2,5062,Penal,1,-1.0956264456353275
+Q0295,0,5488,Processo Penal > Comunicação dos Atos Processuais > Citação e Contagem dos Prazos,3,7.698055500687095
+Q0295,1,5487,Processo Penal > Comunicação dos Atos Processuais,2,6.779337806091042
+Q0295,2,5465,Processo Penal,1,0.34905804473417434
+Q0296,0,5065,Penal > Ação Penal > Ação Penal Privada,3,5.004076758751623
+Q0296,1,5063,Penal > Ação Penal,2,4.454727293667299
+Q0296,2,5062,Penal,1,-0.8203903119625723
+Q0297,0,4689,Direito Penal - Legislação Especial > Crimes contra o Sistema Financeiro,2,5.9459153865869165
+Q0297,1,4683,Direito Penal - Legislação Especial,1,1.6357854548917143
+Q0298,0,5228,Penal > Teoria do Crime: Ilicitude,2,4.080889085074702
+Q0298,1,5062,Penal,1,-0.8634725378249664
+Q0299,0,4384,Criminologia > Teorias Legitimidoras da Pena,2,6.241802958100717
+Q0299,1,4365,Criminologia,1,1.2210437194059511
+Q0300,0,5084,Penal > Dos Crimes Contra a Administração Judicial > Favorecimento Pessoal e Real,3,8.70329778551924
+Q0300,1,5079,Penal > Dos Crimes Contra a Administração Judicial,2,1.8394005592259304
+Q0300,2,5062,Penal,1,-0.9768293226853904
+Q0301,0,5197,Penal > Punibilidade > Perdão Judicial,3,7.287292881883592
+Q0301,1,5191,Penal > Punibilidade,2,-0.6237425637675473
+Q0301,2,5062,Penal,1,-0.3834350255389052
+Q0302,0,5214,Penal > Teoria do Crime: Culpabilidade > Erro de Proibição,3,6.8883645558767075
+Q0302,1,5211,Penal > Teoria do Crime: Culpabilidade,2,1.985906691727501
+Q0302,2,5062,Penal,1,-0.5487651746896238
+Q0303,0,5466,Processo Penal > Ação Penal,2,4.615530479684023
+Q0303,1,5465,Processo Penal,1,-0.4878811298056059
+Q0304,0,5540,Processo Penal > Procedimento Sumaríssimo > Competência dos Juizados Especiais Criminais,3,6.668932865077211
+Q0304,1,5539,Processo Penal > Procedimento Sumaríssimo,2,-1.0834890101645427
+Q0304,2,5465,Processo Penal,1,-0.5238636141219039
+Q0305,0,5063,Penal > Ação Penal,2,7.0071995839646375
+Q0305,1,5062,Penal,1,-1.3057874155379507
+Q0306,0,5146,Penal > Dos Crimes Contra a Saúde Pública e Dos Crimes Contra à Paz Pública > Crimes Contra à Paz Pública,3,4.311450365518763
+Q0306,1,5144,Penal > Dos Crimes Contra a Saúde Pública e Dos Crimes Contra à Paz Pública,2,3.7614897782232495
+Q0306,2,5062,Penal,1,-1.0728701457859477
+Q0307,0,5548,Processo Penal > Provas em Espécies > Confissão,3,5.089049102086131
+Q0307,1,5543,Processo Penal > Provas em Espécies,2,-0.44928373879164296
+Q0307,2,5465,Processo Penal,1,-0.9485262351238894
+Q0308,0,5500,Processo Penal > Inquérito Policial > Procedimento do Inquérito Policial,3,6.685362486452441
+Q0308,1,5498,Processo Penal > Inquérito Policial,2,6.1183107848076235
+Q0308,2,5465,Processo Penal,1,0.3432906352297652
+Q0309,0,5206,Penal > Teoria da Pena > Pena de Multa,3,5.275297220731209
+Q0309,1,5199,Penal > Teoria da Pena,2,1.4380309137485385
+Q0309,2,5062,Penal,1,0.23821707919808843
+Q0310,0,5508,Processo Penal > Lei Processual no Tempo e no Espaço > Interpretação da Lei processual Penal,3,7.360540456318854
+Q0310,1,5505,Processo Penal > Lei Processual no Tempo e no Espaço,2,5.241006675709504
+Q0310,2,5465,Processo Penal,1,0.47641399854590405
+Q0311,0,5487,Processo Penal > Comunicação dos Atos Processuais,2,6.64686896413575
+Q0311,1,5465,Processo Penal,1,0.06615125983438903
+Q0312,0,4384,Criminologia > Teorias Legitimidoras da Pena,2,8.700652835811173
+Q0312,1,4365,Criminologia,1,1.1158173880894207
+Q0313,0,5209,Penal > Teoria da Pena > Efeitos da Condenação Penais e Extrapenais,3,5.338658577524803
+Q0313,1,5199,Penal > Teoria da Pena,2,2.5913635987095582
+Q0313,2,5062,Penal,1,-0.3492506327816043
+Q0314,0,5477,Processo Penal > Ações Autônomas de Impugnação > Habeas Corpus,3,10.388729035014203
+Q0314,1,5476,Processo Penal > Ações Autônomas de Impugnação,2,0.35946893711397926
+Q0314,2,5465,Processo Penal,1,-0.184112800463002
+Q0315,0,5185,Penal > Prescrição,2,5.270885611977048
+Q0315,1,5062,Penal,1,-0.9799350619789065
+Q0316,0,5466,Processo Penal > Ação Penal,2,3.979235916388634
+Q0316,1,5465,Processo Penal,1,-0.39677927248390055
+Q0317,0,5198,Penal > Punibilidade > Decadência,3,7.897061225224148
+Q0317,1,5191,Penal > Punibilidade,2,-1.239647736065804
+Q0317,2,5062,Penal,1,-0.9324694596374147
+Q0318,0,5178,"Penal > Iter Criminis > Desistência Voluntária, Arrependimento Eficaz e Arrependimento posterior",3,8.464909139992576
+Q0318,1,5175,Penal > Iter Criminis,2,-0.2013050728836129
+Q0318,2,5062,Penal,1,-0.5364358654054306
+Q0319,0,5073,"Penal > Concurso de Pessoas > Autoria Mediata, Colateral e Coautoria",3,5.863934416113293
+Q0319,1,5071,Penal > Concurso de Pessoas,2,4.919055283366665
+Q0319,2,5062,Penal,1,-0.6602185265754791
+Q0320,0,5550,Processo Penal > Provas em Espécies > Prova Testemunhal,3,6.45801294852074
+Q0320,1,5543,Processo Penal > Provas em Espécies,2,1.6894633034614817
+Q0320,2,5465,Processo Penal,1,0.07775422677710987
+Q0321,0,5073,"Penal > Concurso de Pessoas > Autoria Mediata, Colateral e Coautoria",3,7.976792558838238
+Q0321,1,5071,Penal > Concurso de Pessoas,2,6.056404972291237
+Q0321,2,5062,Penal,1,-0.7190192175287462
+Q0322,0,5561,Processo Penal > Recursos em Espécies > Recurso em sentido estrito (RESE),3,5.982923666425862
+Q0322,1,5560,Processo Penal > Recursos em Espécies,2,4.259351068322106
+Q0322,2,5465,Processo Penal,1,-0.150258363387641
+Q0323,0,5550,Processo Penal > Provas em Espécies > Prova Testemunhal,3,5.4906689178757135
+Q0323,1,5543,Processo Penal > Provas em Espécies,2,1.0766239688208135
+Q0323,2,5465,Processo Penal,1,-0.11996609742020659
+Q0324,0,5537,Processo Penal > Procedimento Ordinário > Sentença,3,3.698410856170585
+Q0324,1,5530,Processo Penal > Procedimento Ordinário,2,2.543100225196068
+Q0324,2,5465,Processo Penal,1,-0.8914706768995259
+Q0325,0,5198,Penal > Punibilidade > Decadência,3,5.480204663866868
+Q0325,1,5191,Penal > Punibilidade,2,0.9273781234581686
+Q0325,2,5062,Penal,1,-1.0972135953515276
+Q0326,0,4708,Direito Penal - Legislação Especial > Tráfico de Drogas,2,6.5389623929930885
+Q0326,1,4683,Direito Penal - Legislação Especial,1,1.4310460489256664
+Q0327,0,5548,Processo Penal > Provas em Espécies > Confissão,3,6.695078360132502
+Q0327,1,5543,Processo Penal > Provas em Espécies,2,-0.44349408247461564
+Q0327,2,5465,Processo Penal,1,-0.6358393740284566
+Q0328,0,4382,Criminologia > Teoria Geral da Criminologia > Métodos e funções da Criminologia,3,7.0748087110765185
+Q0328,1,4380,Criminologia > Teoria Geral da Criminologia,2,4.750192869928062
+Q0328,2,4365,Criminologia,1,2.9507821523842743
+Q0329,0,5548,Processo Penal > Provas em Espécies > Confissão,3,4.198916969626323
+Q0329,1,5543,Processo Penal > Provas em Espécies,2,-0.49230024408276996
+Q0329,2,5465,Processo Penal,1,-0.781724157728263
+Q0330,0,5501,Processo Penal > Inquérito Policial > Conclusão e Arquivamento do Inquérito Policial,3,7.118813941856233
+Q0330,1,5498,Processo Penal > Inquérito Policial,2,4.567141277445913
+Q0330,2,5465,Processo Penal,1,-0.2570598758574237
+Q0331,0,5477,Processo Penal > Ações Autônomas de Impugnação > Habeas Corpus,3,10.990661093831697
+Q0331,1,5476,Processo Penal > Ações Autônomas de Impugnação,2,0.9563447979000151
+Q0331,2,5465,Processo Penal,1,-0.37227718932585196
+Q0332,0,5541,Processo Penal > Procedimento Sumaríssimo > Transação Penal,3,5.794836935391108
+Q0332,1,5539,Processo Penal > Procedimento Sumaríssimo,2,-0.42630508489384195
+Q0332,2,5465,Processo Penal,1,-0.7407824573560733
+Q0333,0,5178,"Penal > Iter Criminis > Desistência Voluntária, Arrependimento Eficaz e Arrependimento posterior",3,9.38389791929794
+Q0333,1,5175,Penal > Iter Criminis,2,4.396155795256394
+Q0333,2,5062,Penal,1,-0.661550066348009
+Q0334,0,4381,Criminologia > Teoria Geral da Criminologia > Conceito e objeto da Criminologia,3,6.660768892517121
+Q0334,1,4380,Criminologia > Teoria Geral da Criminologia,2,4.391583106529341
+Q0334,2,4365,Criminologia,1,3.63906448669673
+Q0335,0,5063,Penal > Ação Penal,2,4.508718552770169
+Q0335,1,5062,Penal,1,-0.6451239661748079
+Q0336,0,5159,Penal > Dos Crimes Contra o Patrimônio > Furto,3,5.592188709700899
+Q0336,1,5157,Penal > Dos Crimes Contra o Patrimônio,2,2.361175306159049
+Q0336,2,5062,Penal,1,-1.1815129489675693
+Q0337,0,4684,Direito Penal - Legislação Especial > Abuso de Autoridade,2,6.221208094199525
+Q0337,1,4683,Direito Penal - Legislação Especial,1,0.5522270491621121
+Q0338,0,5550,Processo Penal > Provas em Espécies > Prova Testemunhal,3,5.378758906742743
+Q0338,1,5543,Processo Penal > Provas em Espécies,2,0.9435669268638442
+Q0338,2,5465,Processo Penal,1,0.2685259613611931
+Q0339,0,5578,Processo Penal > Sentença Penal > Princípio da Correlação entre Acusação e Sentença,3,6.535306874413917
+Q0339,1,5572,Processo Penal > Sentença Penal,2,2.004622840417095
+Q0339,2,5465,Processo Penal,1,-0.3645363614841234
+Q0340,0,5074,Penal > Concurso de Pessoas > Participação,3,7.244913649028328
+Q0340,1,5071,Penal > Concurso de Pessoas,2,4.759450913760723
+Q0340,2,5062,Penal,1,-1.2235370256848286
+Q0341,0,5160,Penal > Dos Crimes Contra o Patrimônio > Roubo,3,4.621735721166596
+Q0341,1,5157,Penal > Dos Crimes Contra o Patrimônio,2,3.4412408966311894
+Q0341,2,5062,Penal,1,-1.0050604277724842
+Q0342,0,5545,Processo Penal > Provas em Espécies > Exame de Corpo de Delito,3,6.150460299028881
+Q0342,1,5543,Processo Penal > Provas em Espécies,2,0.7089264822855585
+Q0342,2,5465,Processo Penal,1,-0.03192680041138621
+Q0343,0,5472,Processo Penal > Ação Penal > Ação Penal de Iniciativa Privada,3,6.814133886658223
+Q0343,1,5466,Processo Penal > Ação Penal,2,6.09906259114574
+Q0343,2,5465,Processo Penal,1,-0.17303261061958214
+Q0344,0,6717,Penal > Crimes contra o meio ambiente,2,6.863186189854516
+Q0344,1,5062,Penal,1,-0.46795282340256344
+Q0345,0,5103,Penal > Dos Crimes Contra a Dignidade Sexual > Estupro e Estupro de Vulnerável,3,6.831679336750032
+Q0345,1,5102,Penal > Dos Crimes Contra a Dignidade Sexual,2,2.138782235465447
+Q0345,2,5062,Penal,1,-0.7729485423328726
+Q0346,0,5466,Processo Penal > Ação Penal,2,4.869652351702622
+Q0346,1,5465,Processo Penal,1,-0.413985065278988
+Q0347,0,5198,Penal > Punibilidade > Decadência,3,4.818244166605607
+Q0347,1,5191,Penal > Punibilidade,2,-0.162879460817624
+Q0347,2,5062,Penal,1,-0.19548148075800828
+Q0348,0,5093,Penal > Dos Crimes Contra a Administração Pública > Corrupção Ativa,3,6.620958683582842
+Q0348,1,5087,Penal > Dos Crimes Contra a Administração Pública,2,1.257622674750578
+Q0348,2,5062,Penal,1,-1.096811012038807
+Q0349,0,5069,Penal > Concurso de Crimes > Crime Continuado,3,4.085272486774887
+Q0349,1,5066,Penal > Concurso de Crimes,2,3.732902516237423
+Q0349,2,5062,Penal,1,-0.6812032250577778
+Q0350,0,4702,Direito Penal - Legislação Especial > Lavagem de Dinheiro,2,5.821753216289039
+Q0350,1,4683,Direito Penal - Legislação Especial,1,1.1461977187220596
+Q0351,0,5228,Penal > Teoria do Crime: Ilicitude,2,5.487836369813572
+Q0351,1,5062,Penal,1,-0.5215199394857813
+Q0352,0,5512,Processo Penal > Parte Geral dos Recursos,2,4.535448294444597
+Q0352,1,5465,Processo Penal,1,0.2813648520935204
+Q0353,0,5185,Penal > Prescrição,2,4.844169616977685
+Q0353,1,5062,Penal,1,-0.9295688730744189
+Q0354,0,5226,Penal > Teoria do Crime: Fato Típico > Nexo Causal e Imputação Objetiva,3,4.997390038639105
+Q0354,1,5218,Penal > Teoria do Crime: Fato Típico,2,3.7952994254902634
+Q0354,2,5062,Penal,1,-1.2290125702636374
+Q0355,0,5570,Processo Penal > Recursos em Espécies > Recurso Extraordinário,3,4.470142003273002
+Q0355,1,5560,Processo Penal > Recursos em Espécies,2,2.1189778549378993
+Q0355,2,5465,Processo Penal,1,-1.1396863064095333
+Q0356,0,5067,Penal > Concurso de Crimes > Concurso Material,3,8.170658388912013
+Q0356,1,5066,Penal > Concurso de Crimes,2,5.819628287745883
+Q0356,2,5062,Penal,1,-0.4389771779865984
+Q0357,0,5098,Penal > Dos Crimes Contra a Administração Pública > Violência Arbitrária,3,4.015277340086575
+Q0357,1,5087,Penal > Dos Crimes Contra a Administração Pública,2,0.6222120839410011
+Q0357,2,5062,Penal,1,-0.6973349934712898
+Q0358,0,5133,"Penal > Dos Crimes Contra a Liberdade Pessoal > Dos Crimes contra a Inviolabilidade do Domicílio, Contra a Inviolabilidade da Correspondência e Contra a Inviolabilidade dos Segredos",3,6.73569364080318
+Q0358,1,5128,Penal > Dos Crimes Contra a Liberdade Pessoal,2,1.231981704669472
+Q0358,2,5062,Penal,1,-1.1746056632467425
+Q0359,0,5530,Processo Penal > Procedimento Ordinário,2,7.19612615779085
+Q0359,1,5465,Processo Penal,1,0.42574024099700786
+Q0360,0,4381,Criminologia > Teoria Geral da Criminologia > Conceito e objeto da Criminologia,3,5.075262461619942
+Q0360,1,4380,Criminologia > Teoria Geral da Criminologia,2,1.9719009610876053
+Q0360,2,4365,Criminologia,1,0.9423060263938514
+Q0361,0,5213,Penal > Teoria do Crime: Culpabilidade > Inimputabilidade,3,7.81619506181171
+Q0361,1,5211,Penal > Teoria do Crime: Culpabilidade,2,2.4921765306517236
+Q0361,2,5062,Penal,1,0.2349024502193352
+Q0362,0,5557,Processo Penal > Provas em Espécies > Colaboração Premiada,3,10.364319550430647
+Q0362,1,5543,Processo Penal > Provas em Espécies,2,-0.5826020321549282
+Q0362,2,5465,Processo Penal,1,-0.48029090264107877
+Q0363,0,5092,Penal > Dos Crimes Contra a Administração Pública > Corrupção Passiva,3,5.514998414837095
+Q0363,1,5087,Penal > Dos Crimes Contra a Administração Pública,2,3.4560503198102226
+Q0363,2,5062,Penal,1,-1.4391466407152507
+Q0364,0,5088,Penal > Dos Crimes Contra a Administração Pública > Noções gerais dos crimes praticados contra a administração pública,3,4.092787756498145
+Q0364,1,5087,Penal > Dos Crimes Contra a Administração Pública,2,-0.54579584993025
+Q0364,2,5062,Penal,1,-0.26227890701340617
+Q0365,0,5185,Penal > Prescrição,2,5.879384763664752
+Q0365,1,5062,Penal,1,-0.28688139245436206
+Q0366,0,5203,Penal > Teoria da Pena > Segunda Fase da Dosimetria: Agravantes e Atenuantes,3,8.536538758206612
+Q0366,1,5199,Penal > Teoria da Pena,2,1.0232791179798295
+Q0366,2,5062,Penal,1,-0.7166801503065927
+Q0367,0,5536,Processo Penal > Procedimento Ordinário > Alegações Orais,3,8.274094888416188
+Q0367,1,5530,Processo Penal > Procedimento Ordinário,2,6.9650566019100335
+Q0367,2,5465,Processo Penal,1,0.3431621380090396
+Q0368,0,5500,Processo Penal > Inquérito Policial > Procedimento do Inquérito Policial,3,6.638330405063162
+Q0368,1,5498,Processo Penal > Inquérito Policial,2,5.089864144110035
+Q0368,2,5465,Processo Penal,1,-0.4909938716002942
+Q0369,0,6723,Penal > Lavagem de Dinheiro,2,10.85812474052397
+Q0369,1,5062,Penal,1,-0.8051374148211132
+Q0370,0,5523,Processo Penal > Prisões em Espécie > Liberdade Provisória,3,5.623973022390756
+Q0370,1,5517,Processo Penal > Prisões em Espécie,2,-0.11993142347209376
+Q0370,2,5465,Processo Penal,1,-0.27291087111712864
+Q0371,0,5466,Processo Penal > Ação Penal,2,6.760117960866928
+Q0371,1,5465,Processo Penal,1,0.7074490373939503
+Q0372,0,5555,Processo Penal > Provas em Espécies > Interceptação Telefônica e Quebra do Sigilo de Dados Telefônicos,3,11.695831605506093
+Q0372,1,5543,Processo Penal > Provas em Espécies,2,0.5288959973058998
+Q0372,2,5465,Processo Penal,1,0.8584131432023758
+Q0373,0,5182,Penal > Lei Penal no Tempo e no Espaço > Lei penal no Espaço,3,6.816915346941361
+Q0373,1,5180,Penal > Lei Penal no Tempo e no Espaço,2,5.978345401966916
+Q0373,2,5062,Penal,1,-0.3203622695471739
+Q0374,0,5147,Penal > Dos Crimes contra as Finanças Públicas,2,9.62244437974106
+Q0374,1,5062,Penal,1,-0.3974691134124243
+Q0375,0,5224,Penal > Teoria do Crime: Fato Típico > Erro de Tipo,3,8.930096057655623
+Q0375,1,5218,Penal > Teoria do Crime: Fato Típico,2,0.7814440511986251
+Q0375,2,5062,Penal,1,-0.6191687463988764
+Q0376,0,5222,Penal > Teoria do Crime: Fato Típico > Crime Doloso e Culposo,3,6.744353937966053
+Q0376,1,5218,Penal > Teoria do Crime: Fato Típico,2,1.2213063089159222
+Q0376,2,5062,Penal,1,-0.17392695818773618
+Q0377,0,5477,Processo Penal > Ações Autônomas de Impugnação > Habeas Corpus,3,8.171368052642594
+Q0377,1,5476,Processo Penal > Ações Autônomas de Impugnação,2,1.3457655108614455
+Q0377,2,5465,Processo Penal,1,0.2375411994547253
+Q0378,0,5206,Penal > Teoria da Pena > Pena de Multa,3,6.398254730902016
+Q0378,1,5199,Penal > Teoria da Pena,2,1.219943957371069
+Q0378,2,5062,Penal,1,-0.4413971781105427
+Q0379,0,6724,Penal > Lei Maria da Penha,2,7.549320720183396
+Q0379,1,5062,Penal,1,-1.2449635394028546
+Q0380,0,5537,Processo Penal > Procedimento Ordinário > Sentença,3,5.683801923173371
+Q0380,1,5530,Processo Penal > Procedimento Ordinário,2,3.1418669874948404
+Q0380,2,5465,Processo Penal,1,1.2540279427119894
+Q0381,0,5502,Processo Penal > Inquérito Policial > Acordo de Não Persecução Penal,3,11.125112145759978
+Q0381,1,5498,Processo Penal > Inquérito Policial,2,0.39495679802260214
+Q0381,2,5465,Processo Penal,1,0.36573832785406896
+Q0382,0,5226,Penal > Teoria do Crime: Fato Típico > Nexo Causal e Imputação Objetiva,3,4.07651046851091
+Q0382,1,5218,Penal > Teoria do Crime: Fato Típico,2,1.7450379717703195
+Q0382,2,5062,Penal,1,-0.7615919400680994
+Q0383,0,4702,Direito Penal - Legislação Especial > Lavagem de Dinheiro,2,9.378934921829487
+Q0383,1,4683,Direito Penal - Legislação Especial,1,0.9128903892294453
+Q0384,0,5495,Processo Penal > Das Questões e Processos Incidentes > Restituição de Coisas Apreendidas,3,5.65684325602767
+Q0384,1,5490,Processo Penal > Das Questões e Processos Incidentes,2,0.7391204081465375
+Q0384,2,5465,Processo Penal,1,0.9029673736126462
+Q0385,0,5557,Processo Penal > Provas em Espécies > Colaboração Premiada,3,8.241682378584503
+Q0385,1,5543,Processo Penal > Provas em Espécies,2,-0.787878366161046
+Q0385,2,5465,Processo Penal,1,-0.845166104631289
+Q0386,0,4385,Criminologia > Teorias Sociológicas Explicativas da Criminalidade,2,3.555671227395889
+Q0386,1,4365,Criminologia,1,1.5433699882423924
+Q0387,0,5594,Processo Penal > Teoria Geral das Provas > Prova Ilegal e Prova Ilícita,3,4.371530675785045
+Q0387,1,5590,Processo Penal > Teoria Geral das Provas,2,3.6322473574097116
+Q0387,2,5465,Processo Penal,1,0.04081309583055392
+Q0388,0,5530,Processo Penal > Procedimento Ordinário,2,6.440251424486663
+Q0388,1,5465,Processo Penal,1,-0.13308987492024002
+Q0389,0,5226,Penal > Teoria do Crime: Fato Típico > Nexo Causal e Imputação Objetiva,3,5.853593934945398
+Q0389,1,5218,Penal > Teoria do Crime: Fato Típico,2,0.662601103451208
+Q0389,2,5062,Penal,1,-0.6943244823436788
+Q0390,0,4376,Criminologia > Política Criminal > Direito Penal do Inimigo,3,5.897900675188132
+Q0390,1,4374,Criminologia > Política Criminal,2,4.404255560679511
+Q0390,2,4365,Criminologia,1,1.2995221240885584
+Q0391,0,5466,Processo Penal > Ação Penal,2,7.429406520634943
+Q0391,1,5465,Processo Penal,1,-0.12068643832850642
+Q0392,0,5208,Penal > Teoria da Pena > Livramento Condicional,3,9.576027805419432
+Q0392,1,5199,Penal > Teoria da Pena,2,1.7139553924888733
+Q0392,2,5062,Penal,1,-0.4596236725725848
+Q0393,0,5159,Penal > Dos Crimes Contra o Patrimônio > Furto,3,5.497102088630212
+Q0393,1,5157,Penal > Dos Crimes Contra o Patrimônio,2,4.077685709922507
+Q0393,2,5062,Penal,1,-0.6448217233212125
+Q0394,0,5480,Processo Penal > Competência,2,6.1403353681553074
+Q0394,1,5465,Processo Penal,1,-0.40376130076194683
+Q0395,0,5478,Processo Penal > Ações Autônomas de Impugnação > Revisão Criminal,3,6.871436040031808
+Q0395,1,5476,Processo Penal > Ações Autônomas de Impugnação,2,0.6106699703432552
+Q0395,2,5465,Processo Penal,1,0.15900182716386568
+Q0396,0,5095,Penal > Dos Crimes Contra a Administração Pública > Prevaricação,3,5.784492059690946
+Q0396,1,5087,Penal > Dos Crimes Contra a Administração Pública,2,2.478740128972136
+Q0396,2,5062,Penal,1,-1.4243898670408284
+Q0397,0,5063,Penal > Ação Penal,2,3.2691536890968766
+Q0397,1,5062,Penal,1,-0.3377223492414011
+Q0398,0,5178,"Penal > Iter Criminis > Desistência Voluntária, Arrependimento Eficaz e Arrependimento posterior",3,12.34198401976924
+Q0398,1,5175,Penal > Iter Criminis,2,-0.049189068189745076
+Q0398,2,5062,Penal,1,0.07833926994835931
+Q0399,0,5095,Penal > Dos Crimes Contra a Administração Pública > Prevaricação,3,6.974857029489277
+Q0399,1,5087,Penal > Dos Crimes Contra a Administração Pública,2,1.2276156970609708
+Q0399,2,5062,Penal,1,-1.1670985883201956
+Q0400,0,5198,Penal > Punibilidade > Decadência,3,4.5579768351834495
+Q0400,1,5191,Penal > Punibilidade,2,0.5091731240549693
+Q0400,2,5062,Penal,1,-0.5718690279312706
+Q0401,0,5209,Penal > Teoria da Pena > Efeitos da Condenação Penais e Extrapenais,3,7.364342972102031
+Q0401,1,5199,Penal > Teoria da Pena,2,0.29299116033152245
+Q0401,2,5062,Penal,1,-0.6455930954262662
+Q0402,0,6716,Penal > Abuso de Autoridade,2,6.353577789840879
+Q0402,1,5062,Penal,1,-1.5953167899707783
+Q0403,0,5182,Penal > Lei Penal no Tempo e no Espaço > Lei penal no Espaço,3,5.424567243636973
+Q0403,1,5180,Penal > Lei Penal no Tempo e no Espaço,2,4.923246929959253
+Q0403,2,5062,Penal,1,-0.04681264708072151
+Q0404,0,5119,Penal > Dos Crimes Contra a Fé Pública e de Falsidade Documental > De outras falsidades,3,7.83965345376344
+Q0404,1,5116,Penal > Dos Crimes Contra a Fé Pública e de Falsidade Documental,2,6.999921173971559
+Q0404,2,5062,Penal,1,-1.5364483510174274
+Q0405,0,5466,Processo Penal > Ação Penal,2,3.9609485045066295
+Q0405,1,5465,Processo Penal,1,0.525743710970058
+Q0406,0,5095,Penal > Dos Crimes Contra a Administração Pública > Prevaricação,3,7.225876997210495
+Q0406,1,5087,Penal > Dos Crimes Contra a Administração Pública,2,3.469271835403403
+Q0406,2,5062,Penal,1,-0.8062167734988499
+Q0407,0,5578,Processo Penal > Sentença Penal > Princípio da Correlação entre Acusação e Sentença,3,9.330033356418195
+Q0407,1,5572,Processo Penal > Sentença Penal,2,3.664178238293424
+Q0407,2,5465,Processo Penal,1,0.8614122824846884
+Q0408,0,5495,Processo Penal > Das Questões e Processos Incidentes > Restituição de Coisas Apreendidas,3,12.60316184218822
+Q0408,1,5490,Processo Penal > Das Questões e Processos Incidentes,2,0.4808232890534197
+Q0408,2,5465,Processo Penal,1,0.4594191013501332
+Q0409,0,5215,Penal > Teoria do Crime: Culpabilidade > Coação Moral Irresistível,3,9.147497261308034
+Q0409,1,5211,Penal > Teoria do Crime: Culpabilidade,2,3.8198928698441046
+Q0409,2,5062,Penal,1,0.09775386024772648
+Q0410,0,5213,Penal > Teoria do Crime: Culpabilidade > Inimputabilidade,3,8.700575197022564
+Q0410,1,5211,Penal > Teoria do Crime: Culpabilidade,2,4.614196055789297
+Q0410,2,5062,Penal,1,-0.6204279839853027
+Q0411,0,5094,Penal > Dos Crimes Contra a Administração Pública > Contrabando ou Descaminho,3,6.424338137850246
+Q0411,1,5087,Penal > Dos Crimes Contra a Administração Pública,2,0.28740419636224135
+Q0411,2,5062,Penal,1,-0.13888668577550817
+Q0412,0,5095,Penal > Dos Crimes Contra a Administração Pública > Prevaricação,3,7.072280947120126
+Q0412,1,5087,Penal > Dos Crimes Contra a Administração Pública,2,3.6188988408072316
+Q0412,2,5062,Penal,1,-0.4202236935299769
+Q0413,0,5100,"Penal > Dos Crimes Contra a Administração Pública > Resistência, Desobediência e Desacato",3,6.7418632335093935
+Q0413,1,5087,Penal > Dos Crimes Contra a Administração Pública,2,1.9631953257273906
+Q0413,2,5062,Penal,1,-1.0931231354589828
+Q0414,0,5165,Penal > Dos Crimes Contra o Patrimônio > Apropriação indébita,3,4.462286501085859
+Q0414,1,5157,Penal > Dos Crimes Contra o Patrimônio,2,1.2065984641688428
+Q0414,2,5062,Penal,1,-1.2808562842587747
+Q0415,0,5565,Processo Penal > Recursos em Espécies > Embargos de Declaração,3,3.9050279724214305
+Q0415,1,5560,Processo Penal > Recursos em Espécies,2,1.4649142636362216
+Q0415,2,5465,Processo Penal,1,-0.9600976252305502
+Q0416,0,5232,Penal > Teoria do Crime: Ilicitude > Estrito Cumprimento do Dever Legal,3,3.004438466154256
+Q0416,1,5228,Penal > Teoria do Crime: Ilicitude,2,0.789011069794632
+Q0416,2,5062,Penal,1,-0.842806708858628
+Q0417,0,4376,Criminologia > Política Criminal > Direito Penal do Inimigo,3,6.692811105147149
+Q0417,1,4374,Criminologia > Política Criminal,2,1.596829308869098
+Q0417,2,4365,Criminologia,1,1.5182327952141121
+Q0418,0,5131,Penal > Dos Crimes Contra a Liberdade Pessoal > Violência Psicológica contra a Mulher,3,6.275856386280734
+Q0418,1,5128,Penal > Dos Crimes Contra a Liberdade Pessoal,2,0.0015311170420241604
+Q0418,2,5062,Penal,1,-1.7477983966292154
+Q0419,0,4388,Criminologia > Teorias Sociológicas Explicativas da Criminalidade > Teorias Criminológicas em Espécie,3,5.315076023640428
+Q0419,1,4385,Criminologia > Teorias Sociológicas Explicativas da Criminalidade,2,4.093481854626969
+Q0419,2,4365,Criminologia,1,2.442969206738469
+Q0420,0,6724,Penal > Lei Maria da Penha,2,9.779716845027338
+Q0420,1,5062,Penal,1,-0.9653241392295699
+Q0421,0,5571,Processo Penal > Recursos em Espécies > Recurso Especial,3,4.864281464318559
+Q0421,1,5560,Processo Penal > Recursos em Espécies,2,2.9812431397235226
+Q0421,2,5465,Processo Penal,1,-0.30079137168295755
+Q0422,0,5182,Penal > Lei Penal no Tempo e no Espaço > Lei penal no Espaço,3,3.976440945853652
+Q0422,1,5180,Penal > Lei Penal no Tempo e no Espaço,2,3.381458075828773
+Q0422,2,5062,Penal,1,-0.7181816559519757
+Q0423,0,5185,Penal > Prescrição,2,3.3929795548976482
+Q0423,1,5062,Penal,1,-1.1460548234092856
+Q0424,0,5472,Processo Penal > Ação Penal > Ação Penal de Iniciativa Privada,3,6.538727632617753
+Q0424,1,5466,Processo Penal > Ação Penal,2,4.752184928844476
+Q0424,2,5465,Processo Penal,1,-0.27229379414094224
+Q0425,0,5577,Processo Penal > Sentença Penal > Efeitos Decorrentes da Sentença Penal Condenatória,3,7.045301996854811
+Q0425,1,5572,Processo Penal > Sentença Penal,2,4.304843816582917
+Q0425,2,5465,Processo Penal,1,0.4117473512683033
+Q0426,0,5178,"Penal > Iter Criminis > Desistência Voluntária, Arrependimento Eficaz e Arrependimento posterior",3,9.805501174026471
+Q0426,1,5175,Penal > Iter Criminis,2,-0.3980049362557296
+Q0426,2,5062,Penal,1,-0.8389098231744688
+Q0427,0,5574,Processo Penal > Sentença Penal > Sentença Absolutória,3,6.16000070973653
+Q0427,1,5572,Processo Penal > Sentença Penal,2,2.1481849971309726
+Q0427,2,5465,Processo Penal,1,-0.4110337732678585
+Q0428,0,5063,Penal > Ação Penal,2,6.129325731545906
+Q0428,1,5062,Penal,1,-1.3656457947128082
+Q0429,0,5150,Penal > Dos Crimes Contra a Vida > Homicídio,3,7.154484246314263
+Q0429,1,5149,Penal > Dos Crimes Contra a Vida,2,0.915968188532382
+Q0429,2,5062,Penal,1,-0.2838622781805
+Q0430,0,6724,Penal > Lei Maria da Penha,2,7.348891243218058
+Q0430,1,5062,Penal,1,-1.8430396949688528
+Q0431,0,5466,Processo Penal > Ação Penal,2,7.585522300842583
+Q0431,1,5465,Processo Penal,1,0.15767897305330983
+Q0432,0,5063,Penal > Ação Penal,2,7.225663029859347
+Q0432,1,5062,Penal,1,-1.1221585382023216
+Q0433,0,5074,Penal > Concurso de Pessoas > Participação,3,6.426409608537936
+Q0433,1,5071,Penal > Concurso de Pessoas,2,5.6480224190832065
+Q0433,2,5062,Penal,1,-0.6765109278986557
+Q0434,0,5500,Processo Penal > Inquérito Policial > Procedimento do Inquérito Policial,3,5.25530436036319
+Q0434,1,5498,Processo Penal > Inquérito Policial,2,4.57301426541439
+Q0434,2,5465,Processo Penal,1,-0.06545793306668689
+Q0435,0,4376,Criminologia > Política Criminal > Direito Penal do Inimigo,3,5.231099879193047
+Q0435,1,4374,Criminologia > Política Criminal,2,1.5241197675848892
+Q0435,2,4365,Criminologia,1,0.48752448271055726
+Q0436,0,6724,Penal > Lei Maria da Penha,2,11.256995474053317
+Q0436,1,5062,Penal,1,-0.4211510317210052
+Q0437,0,5181,Penal > Lei Penal no Tempo e no Espaço > Lei penal no Tempo,3,6.974064836558752
+Q0437,1,5180,Penal > Lei Penal no Tempo e no Espaço,2,6.1721201662478675
+Q0437,2,5062,Penal,1,-0.2945778770864875
+Q0438,0,5118,Penal > Dos Crimes Contra a Fé Pública e de Falsidade Documental > Da Falsidade Documental,3,4.5722567834412455
+Q0438,1,5116,Penal > Dos Crimes Contra a Fé Pública e de Falsidade Documental,2,4.414628841577572
+Q0438,2,5062,Penal,1,-1.3383005096854075
+Q0439,0,5089,Penal > Dos Crimes Contra a Administração Pública > Peculato e Peculato Mediante Erro de Outrem,3,5.397963698612607
+Q0439,1,5087,Penal > Dos Crimes Contra a Administração Pública,2,3.683063825616143
+Q0439,2,5062,Penal,1,-0.9419272884895464
+Q0440,0,5500,Processo Penal > Inquérito Policial > Procedimento do Inquérito Policial,3,8.057028740445485
+Q0440,1,5498,Processo Penal > Inquérito Policial,2,7.617192492811556
+Q0440,2,5465,Processo Penal,1,0.9485945379334113
+Q0441,0,5542,Processo Penal > Procedimento Sumaríssimo > Suspensão Condicional do Processo,3,5.542894452583099
+Q0441,1,5539,Processo Penal > Procedimento Sumaríssimo,2,1.9177691562462704
+Q0441,2,5465,Processo Penal,1,-0.0962115998320404
+Q0442,0,5466,Processo Penal > Ação Penal,2,7.474202610873598
+Q0442,1,5465,Processo Penal,1,-0.17149835531535865
+Q0443,0,5216,Penal > Teoria do Crime: Culpabilidade > Obediência Hierárquica,3,9.150344056180625
+Q0443,1,5211,Penal > Teoria do Crime: Culpabilidade,2,0.6759927275238069
+Q0443,2,5062,Penal,1,0.28142419377767275
+Q0444,0,5545,Processo Penal > Provas em Espécies > Exame de Corpo de Delito,3,10.574008019677677
+Q0444,1,5543,Processo Penal > Provas em Espécies,2,1.5600098415276031
+Q0444,2,5465,Processo Penal,1,0.6533595887796986
+Q0445,0,4705,Direito Penal - Legislação Especial > Organizações Criminosas,2,4.063540490307187
+Q0445,1,4683,Direito Penal - Legislação Especial,1,-0.052309676170243735
+Q0446,0,5466,Processo Penal > Ação Penal,2,4.980010882793123
+Q0446,1,5465,Processo Penal,1,-0.09538753338822945
+Q0447,0,5189,Penal > Prescrição > Prescrição da Pretensão Executória,3,10.384395548626431
+Q0447,1,5185,Penal > Prescrição,2,7.092359717252797
+Q0447,2,5062,Penal,1,-0.6831067432394163
+Q0448,0,5577,Processo Penal > Sentença Penal > Efeitos Decorrentes da Sentença Penal Condenatória,3,5.126431182598051
+Q0448,1,5572,Processo Penal > Sentença Penal,2,3.7980832080738147
+Q0448,2,5465,Processo Penal,1,-0.5038599720477779
+Q0449,0,5231,Penal > Teoria do Crime: Ilicitude > Legítima Defesa,3,11.078263098383037
+Q0449,1,5228,Penal > Teoria do Crime: Ilicitude,2,3.1419745970779718
+Q0449,2,5062,Penal,1,-0.7466278761032301
+Q0450,0,5570,Processo Penal > Recursos em Espécies > Recurso Extraordinário,3,7.637716065786193
+Q0450,1,5560,Processo Penal > Recursos em Espécies,2,4.2324776782200875
+Q0450,2,5465,Processo Penal,1,0.03300575094185146
+Q0451,0,5500,Processo Penal > Inquérito Policial > Procedimento do Inquérito Policial,3,6.369993832343845
+Q0451,1,5498,Processo Penal > Inquérito Policial,2,5.7480671295544425
+Q0451,2,5465,Processo Penal,1,-0.8566398421279221
+Q0452,0,5501,Processo Penal > Inquérito Policial > Conclusão e Arquivamento do Inquérito Policial,3,8.493034749599854
+Q0452,1,5498,Processo Penal > Inquérito Policial,2,6.953059780453167
+Q0452,2,5465,Processo Penal,1,0.16506196070776447
+Q0453,0,6724,Penal > Lei Maria da Penha,2,10.573434273943878
+Q0453,1,5062,Penal,1,-1.2234791195176766
+Q0454,0,5181,Penal > Lei Penal no Tempo e no Espaço > Lei penal no Tempo,3,4.54056243257293
+Q0454,1,5180,Penal > Lei Penal no Tempo e no Espaço,2,3.9351611990435584
+Q0454,2,5062,Penal,1,-1.1899518696673044
+Q0455,0,5535,Processo Penal > Procedimento Ordinário > Audiência de Instrução e Julgamento,3,5.847282989962016
+Q0455,1,5530,Processo Penal > Procedimento Ordinário,2,5.480103775772216
+Q0455,2,5465,Processo Penal,1,-0.30349634507269085
+Q0456,0,5063,Penal > Ação Penal,2,4.387956837433695
+Q0456,1,5062,Penal,1,-0.5559771730908896
+Q0457,0,5477,Processo Penal > Ações Autônomas de Impugnação > Habeas Corpus,3,7.189086742176763
+Q0457,1,5476,Processo Penal > Ações Autônomas de Impugnação,2,0.5475993104184802
+Q0457,2,5465,Processo Penal,1,0.20734942606027257
+Q0458,0,5223,Penal > Teoria do Crime: Fato Típico > Crimes Omissivos e Comissivos,3,6.644270417379601
+Q0458,1,5218,Penal > Teoria do Crime: Fato Típico,2,0.5245773295608238
+Q0458,2,5062,Penal,1,-0.004200676770943868
+Q0459,0,5090,Penal > Dos Crimes Contra a Administração Pública > Emprego Irregular de Verbas ou Rendas Públicas,3,3.400328285298216
+Q0459,1,5087,Penal > Dos Crimes Contra a Administração Pública,2,1.6460580827069322
+Q0459,2,5062,Penal,1,-0.9693022458698268
+Q0460,0,5145,Penal > Dos Crimes Contra a Saúde Pública e Dos Crimes Contra à Paz Pública > Dos Crimes Contra a Saúde Pública,3,7.745130006879769
+Q0460,1,5144,Penal > Dos Crimes Contra a Saúde Pública e Dos Crimes Contra à Paz Pública,2,7.163483845654402
+Q0460,2,5062,Penal,1,-1.3638381731274711
+Q0461,0,5562,Processo Penal > Recursos em Espécies > Apelação,3,5.293630753499201
+Q0461,1,5560,Processo Penal > Recursos em Espécies,2,3.561416538135416
+Q0461,2,5465,Processo Penal,1,0.9122191369861614
+Q0462,0,5071,Penal > Concurso de Pessoas,2,5.978288637591807
+Q0462,1,5062,Penal,1,-0.7741472332683863
+Q0463,0,5099,Penal > Dos Crimes Contra a Administração Pública > Usurpação de Função Pública,3,3.882248724275189
+Q0463,1,5087,Penal > Dos Crimes Contra a Administração Pública,2,2.862595806093154
+Q0463,2,5062,Penal,1,-1.1789622826201296
+Q0464,0,4689,Direito Penal - Legislação Especial > Crimes contra o Sistema Financeiro,2,9.546734917927367
+Q0464,1,4683,Direito Penal - Legislação Especial,1,-0.022054805461171244
+Q0465,0,5466,Processo Penal > Ação Penal,2,4.525303695088268
+Q0465,1,5465,Processo Penal,1,-0.5879476047989249
+Q0466,0,5222,Penal > Teoria do Crime: Fato Típico > Crime Doloso e Culposo,3,6.579999386450031
+Q0466,1,5218,Penal > Teoria do Crime: Fato Típico,2,1.4144316582573075
+Q0466,2,5062,Penal,1,-0.333499375831743
+Q0467,0,5491,Processo Penal > Das Questões e Processos Incidentes > Questões Prejudiciais e Preliminares,3,5.304942223021033
+Q0467,1,5490,Processo Penal > Das Questões e Processos Incidentes,2,1.2534703392024917
+Q0467,2,5465,Processo Penal,1,0.035230516431719636
+Q0468,0,5184,Penal > Medida de Segurança,2,7.702015528045564
+Q0468,1,5062,Penal,1,-1.159052177278637
+Q0469,0,4376,Criminologia > Política Criminal > Direito Penal do Inimigo,3,6.378178160990676
+Q0469,1,4374,Criminologia > Política Criminal,2,5.1866695743749816
+Q0469,2,4365,Criminologia,1,1.072874896725991
+Q0470,0,5201,Penal > Teoria da Pena > Penas Privativas de Liberdade,3,5.4492011692921665
+Q0470,1,5199,Penal > Teoria da Pena,2,0.9172869111371925
+Q0470,2,5062,Penal,1,-0.30563931562373403
+Q0471,0,5198,Penal > Punibilidade > Decadência,3,5.199270049778391
+Q0471,1,5191,Penal > Punibilidade,2,3.0460218286896623
+Q0471,2,5062,Penal,1,-0.24877071135807816
+Q0472,0,5117,Penal > Dos Crimes Contra a Fé Pública e de Falsidade Documental > Dos Crimes contra a Fé Pública,3,6.349750073696367
+Q0472,1,5116,Penal > Dos Crimes Contra a Fé Pública e de Falsidade Documental,2,5.843785285912734
+Q0472,2,5062,Penal,1,-0.7590459152948799
+Q0473,0,5500,Processo Penal > Inquérito Policial > Procedimento do Inquérito Policial,3,6.416453206367848
+Q0473,1,5498,Processo Penal > Inquérito Policial,2,5.871946113510948
+Q0473,2,5465,Processo Penal,1,0.3137479222525538
+Q0474,0,4388,Criminologia > Teorias Sociológicas Explicativas da Criminalidade > Teorias Criminológicas em Espécie,3,4.317252057132155
+Q0474,1,4385,Criminologia > Teorias Sociológicas Explicativas da Criminalidade,2,2.6587392134027983
+Q0474,2,4365,Criminologia,1,1.6162584727567555
+Q0475,0,5178,"Penal > Iter Criminis > Desistência Voluntária, Arrependimento Eficaz e Arrependimento posterior",3,5.515643006003767
+Q0475,1,5175,Penal > Iter Criminis,2,-0.8076219348839375
+Q0475,2,5062,Penal,1,-0.8209057483777266
+Q0476,0,5526,Processo Penal > Procedimento do Tribunal do Júri > Procedimento Bifásico do Tribunal do Júri,3,5.346766525957202
+Q0476,1,5524,Processo Penal > Procedimento do Tribunal do Júri,2,3.535353591816053
+Q0476,2,5465,Processo Penal,1,-0.32020027574826804
+Q0477,0,5475,Processo Penal > Ação Penal > Ação Civil Ex Delicto,3,6.728332611643149
+Q0477,1,5466,Processo Penal > Ação Penal,2,3.417896031750996
+Q0477,2,5465,Processo Penal,1,-0.3240027222753731
+Q0478,0,5480,Processo Penal > Competência,2,6.9735495997409505
+Q0478,1,5465,Processo Penal,1,0.18366048966832382
+Q0479,0,5496,"Processo Penal > Das Questões e Processos Incidentes > Medidas Assecuratórias: Sequestro, Hipoteca Legal e Arresto",3,6.490288531180025
+Q0479,1,5490,Processo Penal > Das Questões e Processos Incidentes,2,-0.4097318993216895
+Q0479,2,5465,Processo Penal,1,0.035725332844073976
+Q0480,0,5202,Penal > Teoria da Pena > Primeira Fase da Dosimetria: Circunstâncias Judiciais,3,4.456926600460988
+Q0480,1,5199,Penal > Teoria da Pena,2,0.04828629274808302
+Q0480,2,5062,Penal,1,-1.0202333486682098
+Q0481,0,5227,Penal > Teoria do Crime: Fato Típico > Tipicidade,3,4.95190612301902
+Q0481,1,5218,Penal > Teoria do Crime: Fato Típico,2,2.0193931641411975
+Q0481,2,5062,Penal,1,-0.38685258330487016
+Q0482,0,5508,Processo Penal > Lei Processual no Tempo e no Espaço > Interpretação da Lei processual Penal,3,7.748734758039788
+Q0482,1,5505,Processo Penal > Lei Processual no Tempo e no Espaço,2,7.435059676071564
+Q0482,2,5465,Processo Penal,1,0.5107620384234421
+Q0483,0,5178,"Penal > Iter Criminis > Desistência Voluntária, Arrependimento Eficaz e Arrependimento posterior",3,11.24895741982325
+Q0483,1,5175,Penal > Iter Criminis,2,-0.4713662012334363
+Q0483,2,5062,Penal,1,-0.8910312220633412
+Q0484,0,4702,Direito Penal - Legislação Especial > Lavagem de Dinheiro,2,6.828706499170251
+Q0484,1,4683,Direito Penal - Legislação Especial,1,0.7890183537505654
+Q0485,0,5185,Penal > Prescrição,2,4.981597830866818
+Q0485,1,5062,Penal,1,-0.9459912993984761
+Q0486,0,5564,Processo Penal > Recursos em Espécies > Embargos Infringentes,3,7.452056847307061
+Q0486,1,5560,Processo Penal > Recursos em Espécies,2,4.696066500325937
+Q0486,2,5465,Processo Penal,1,0.2372495828453889
+Q0487,0,5159,Penal > Dos Crimes Contra o Patrimônio > Furto,3,5.843373270552528
+Q0487,1,5157,Penal > Dos Crimes Contra o Patrimônio,2,1.5243335935847946
+Q0487,2,5062,Penal,1,-1.0157335513317562
+Q0488,0,5090,Penal > Dos Crimes Contra a Administração Pública > Emprego Irregular de Verbas ou Rendas Públicas,3,15.517613440250546
+Q0488,1,5087,Penal > Dos Crimes Contra a Administração Pública,2,0.7479213243305479
+Q0488,2,5062,Penal,1,-1.0610130503039101
+Q0489,0,5185,Penal > Prescrição,2,6.650978852335756
+Q0489,1,5062,Penal,1,-0.52284598212329
+Q0490,0,5212,Penal > Teoria do Crime: Culpabilidade > Conceito e Elementos da Culpabilidade,3,6.69129316314829
+Q0490,1,5211,Penal > Teoria do Crime: Culpabilidade,2,4.678348444598786
+Q0490,2,5062,Penal,1,-0.8688957918029732
+Q0491,0,5162,Penal > Dos Crimes Contra o Patrimônio > Esbulho Possessório,3,5.733274669911174
+Q0491,1,5157,Penal > Dos Crimes Contra o Patrimônio,2,2.079778028651771
+Q0491,2,5062,Penal,1,-1.17791436781099
+Q0492,0,5159,Penal > Dos Crimes Contra o Patrimônio > Furto,3,4.7524906188892
+Q0492,1,5157,Penal > Dos Crimes Contra o Patrimônio,2,0.538534593230645
+Q0492,2,5062,Penal,1,-0.34448268814432004
+Q0493,0,5502,Processo Penal > Inquérito Policial > Acordo de Não Persecução Penal,3,7.887916871527096
+Q0493,1,5498,Processo Penal > Inquérito Policial,2,0.3788093642692479
+Q0493,2,5465,Processo Penal,1,-0.08703338325952187
+Q0494,0,5501,Processo Penal > Inquérito Policial > Conclusão e Arquivamento do Inquérito Policial,3,5.451122309255764
+Q0494,1,5498,Processo Penal > Inquérito Policial,2,3.045856587383273
+Q0494,2,5465,Processo Penal,1,-0.2514897632334274
+Q0495,0,5088,Penal > Dos Crimes Contra a Administração Pública > Noções gerais dos crimes praticados contra a administração pública,3,5.242126394777511
+Q0495,1,5087,Penal > Dos Crimes Contra a Administração Pública,2,3.9650022748988873
+Q0495,2,5062,Penal,1,-1.597015498804079
+Q0496,0,5198,Penal > Punibilidade > Decadência,3,5.054153737305998
+Q0496,1,5191,Penal > Punibilidade,2,2.681878839462306
+Q0496,2,5062,Penal,1,0.06957826324943339
+Q0497,0,5561,Processo Penal > Recursos em Espécies > Recurso em sentido estrito (RESE),3,8.396671400060997
+Q0497,1,5560,Processo Penal > Recursos em Espécies,2,4.5199362955204485
+Q0497,2,5465,Processo Penal,1,0.4108520636366536
+Q0498,0,5131,Penal > Dos Crimes Contra a Liberdade Pessoal > Violência Psicológica contra a Mulher,3,6.177870236306906
+Q0498,1,5128,Penal > Dos Crimes Contra a Liberdade Pessoal,2,0.2730707128265202
+Q0498,2,5062,Penal,1,-1.1206357937299085
+Q0499,0,5226,Penal > Teoria do Crime: Fato Típico > Nexo Causal e Imputação Objetiva,3,4.950903656297752
+Q0499,1,5218,Penal > Teoria do Crime: Fato Típico,2,1.8523013366560483
+Q0499,2,5062,Penal,1,-0.8635401645304244
+Q0500,0,5081,Penal > Dos Crimes Contra a Administração Judicial > Falso Testemunha ou Falsa Perícia e Corrupção Ativa de Testemunha ou Perito,3,3.6999523334389837
+Q0500,1,5079,Penal > Dos Crimes Contra a Administração Judicial,2,1.28716780115326
+Q0500,2,5062,Penal,1,-1.1020219687234527
+Q0501,0,6724,Penal > Lei Maria da Penha,2,8.778081726550816
+Q0501,1,5062,Penal,1,-1.2958908973458625
+Q0502,0,5099,Penal > Dos Crimes Contra a Administração Pública > Usurpação de Função Pública,3,10.667926662461156
+Q0502,1,5087,Penal > Dos Crimes Contra a Administração Pública,2,2.23939716886787
+Q0502,2,5062,Penal,1,-0.6195528128771406
+Q0503,0,4378,Criminologia > Processos de Criminalização e Cifras Criminais > Criminalização Primária e Secundária,3,7.2887372990455415
+Q0503,1,4377,Criminologia > Processos de Criminalização e Cifras Criminais,2,3.7642696733977945
+Q0503,2,4365,Criminologia,1,1.6187604331028347
+Q0504,0,5222,Penal > Teoria do Crime: Fato Típico > Crime Doloso e Culposo,3,6.801995734816146
+Q0504,1,5218,Penal > Teoria do Crime: Fato Típico,2,1.4920615323447857
+Q0504,2,5062,Penal,1,-0.7682308623096352
+Q0505,0,5092,Penal > Dos Crimes Contra a Administração Pública > Corrupção Passiva,3,6.4267376617100425
+Q0505,1,5087,Penal > Dos Crimes Contra a Administração Pública,2,3.717912732129566
+Q0505,2,5062,Penal,1,-0.9861617834158342
+Q0506,0,5182,Penal > Lei Penal no Tempo e no Espaço > Lei penal no Espaço,3,4.9391219182802875
+Q0506,1,5180,Penal > Lei Penal no Tempo e no Espaço,2,4.683289083105571
+Q0506,2,5062,Penal,1,-0.6999899723204153
+Q0507,0,5214,Penal > Teoria do Crime: Culpabilidade > Erro de Proibição,3,7.560135131463039
+Q0507,1,5211,Penal > Teoria do Crime: Culpabilidade,2,4.869983326055248
+Q0507,2,5062,Penal,1,-0.5746420822185915
+Q0508,0,4700,Direito Penal - Legislação Especial > Interceptação Telefônica,2,12.308031917291432
+Q0508,1,4683,Direito Penal - Legislação Especial,1,0.11629878427395823
+Q0509,0,5500,Processo Penal > Inquérito Policial > Procedimento do Inquérito Policial,3,7.406815154886502
+Q0509,1,5498,Processo Penal > Inquérito Policial,2,6.8267409632899705
+Q0509,2,5465,Processo Penal,1,1.1547649490773988
+Q0510,0,5550,Processo Penal > Provas em Espécies > Prova Testemunhal,3,5.952387522207608
+Q0510,1,5543,Processo Penal > Provas em Espécies,2,1.3502713569803988
+Q0510,2,5465,Processo Penal,1,0.3675714150887213
+Q0511,0,5550,Processo Penal > Provas em Espécies > Prova Testemunhal,3,4.9852933210613095
+Q0511,1,5543,Processo Penal > Provas em Espécies,2,0.7368383176125701
+Q0511,2,5465,Processo Penal,1,0.5740778298411733
+Q0512,0,5480,Processo Penal > Competência,2,7.1996265473051695
+Q0512,1,5465,Processo Penal,1,-0.15382157247339553
+Q0513,0,4688,Direito Penal - Legislação Especial > Crimes contra o meio ambiente,2,7.435548322976307
+Q0513,1,4683,Direito Penal - Legislação Especial,1,1.8950555494151173
+Q0514,0,5466,Processo Penal > Ação Penal,2,5.375104135878499
+Q0514,1,5465,Processo Penal,1,-0.005182548200125675
+Q0515,0,6724,Penal > Lei Maria da Penha,2,8.267373952346267
+Q0515,1,5062,Penal,1,-1.6176411516883833
+Q0516,0,4689,Direito Penal - Legislação Especial > Crimes contra o Sistema Financeiro,2,7.053940972902571
+Q0516,1,4683,Direito Penal - Legislação Especial,1,0.7402232336326771
+Q0517,0,5470,Processo Penal > Ação Penal > Ação Penal Pública Incondicionada,3,5.95398528967061
+Q0517,1,5466,Processo Penal > Ação Penal,2,5.674640917885435
+Q0517,2,5465,Processo Penal,1,-0.5321840759003783
+Q0518,0,5097,Penal > Dos Crimes Contra a Administração Pública > Advocacia Administrativa,3,5.1334573184563475
+Q0518,1,5087,Penal > Dos Crimes Contra a Administração Pública,2,3.496347874474959
+Q0518,2,5062,Penal,1,-1.210212637089044
+Q0519,0,5501,Processo Penal > Inquérito Policial > Conclusão e Arquivamento do Inquérito Policial,3,5.847938763638513
+Q0519,1,5498,Processo Penal > Inquérito Policial,2,5.317418375778693
+Q0519,2,5465,Processo Penal,1,-0.5055851476701849
+Q0520,0,5100,"Penal > Dos Crimes Contra a Administração Pública > Resistência, Desobediência e Desacato",3,4.644960500665235
+Q0520,1,5087,Penal > Dos Crimes Contra a Administração Pública,2,0.20120967859866262
+Q0520,2,5062,Penal,1,-0.8589356042268934
+Q0521,0,5063,Penal > Ação Penal,2,4.047393599118391
+Q0521,1,5062,Penal,1,-0.5892884248013104
+Q0522,0,5562,Processo Penal > Recursos em Espécies > Apelação,3,4.842138072657324
+Q0522,1,5560,Processo Penal > Recursos em Espécies,2,3.993182672111563
+Q0522,2,5465,Processo Penal,1,0.44043107608864124
+Q0523,0,5502,Processo Penal > Inquérito Policial > Acordo de Não Persecução Penal,3,7.94457908632259
+Q0523,1,5498,Processo Penal > Inquérito Policial,2,0.06125650769655863
+Q0523,2,5465,Processo Penal,1,0.5851722163132789
+Q0524,0,5185,Penal > Prescrição,2,7.497102913496056
+Q0524,1,5062,Penal,1,-0.7241025018814137
+Q0525,0,5202,Penal > Teoria da Pena > Primeira Fase da Dosimetria: Circunstâncias Judiciais,3,6.628546087190408
+Q0525,1,5199,Penal > Teoria da Pena,2,1.3230557296206342
+Q0525,2,5062,Penal,1,-0.43786999340700894
+Q0526,0,4388,Criminologia > Teorias Sociológicas Explicativas da Criminalidade > Teorias Criminológicas em Espécie,3,5.743796774186189
+Q0526,1,4385,Criminologia > Teorias Sociológicas Explicativas da Criminalidade,2,4.006591111875973
+Q0526,2,4365,Criminologia,1,1.2960110156721105
+Q0527,0,5207,Penal > Teoria da Pena > Suspensão Condicional da Pena,3,7.398280973514257
+Q0527,1,5199,Penal > Teoria da Pena,2,2.819822547453332
+Q0527,2,5062,Penal,1,-0.4064010888570524
+Q0528,0,5182,Penal > Lei Penal no Tempo e no Espaço > Lei penal no Espaço,3,6.069867309448532
+Q0528,1,5180,Penal > Lei Penal no Tempo e no Espaço,2,5.462323193174196
+Q0528,2,5062,Penal,1,-0.27314261745137935
+Q0529,0,5089,Penal > Dos Crimes Contra a Administração Pública > Peculato e Peculato Mediante Erro de Outrem,3,9.609940642924691
+Q0529,1,5087,Penal > Dos Crimes Contra a Administração Pública,2,0.7127973412118261
+Q0529,2,5062,Penal,1,-0.6591393956776477
+Q0530,0,5479,Processo Penal > Ações Autônomas de Impugnação > Mandado de Segurança,3,4.803317634888877
+Q0530,1,5476,Processo Penal > Ações Autônomas de Impugnação,2,0.0761505295867687
+Q0530,2,5465,Processo Penal,1,-0.6717585567453744
+Q0531,0,5466,Processo Penal > Ação Penal,2,6.645541176024683
+Q0531,1,5465,Processo Penal,1,-0.1475416793577312
+Q0532,0,5159,Penal > Dos Crimes Contra o Patrimônio > Furto,3,6.106136140405163
+Q0532,1,5157,Penal > Dos Crimes Contra o Patrimônio,2,3.5703873758642253
+Q0532,2,5062,Penal,1,-0.1780842891397197
+Q0533,0,5135,"Penal > Dos Crimes contra a Organização do Trabalho, a Propriedade Imaterial e ao Sentimento Religioso > Dos Crimes Contra a Organização do Trabalho",3,8.730829282759887
+Q0533,1,5134,"Penal > Dos Crimes contra a Organização do Trabalho, a Propriedade Imaterial e ao Sentimento Religioso",2,7.545217215248941
+Q0533,2,5062,Penal,1,0.04042189062567873
+Q0534,0,4378,Criminologia > Processos de Criminalização e Cifras Criminais > Criminalização Primária e Secundária,3,5.641390272441155
+Q0534,1,4377,Criminologia > Processos de Criminalização e Cifras Criminais,2,2.851732890640222
+Q0534,2,4365,Criminologia,1,-0.6795372708272467
+Q0535,0,6724,Penal > Lei Maria da Penha,2,10.443962147213666
+Q0535,1,5062,Penal,1,-1.0799776214181556
+Q0536,0,5544,Processo Penal > Provas em Espécies > Cadeia de Custódia,3,7.9066740541281035
+Q0536,1,5543,Processo Penal > Provas em Espécies,2,2.432512080625046
+Q0536,2,5465,Processo Penal,1,0.18057865872537598
+Q0537,0,5484,Processo Penal > Competência > Competência por Prerrogativa de Função,3,8.433525756578279
+Q0537,1,5480,Processo Penal > Competência,2,5.487506762108717
+Q0537,2,5465,Processo Penal,1,-0.16372762451360987
+Q0538,0,5230,Penal > Teoria do Crime: Ilicitude > Estado de Necessidade,3,6.61528628295274
+Q0538,1,5228,Penal > Teoria do Crime: Ilicitude,2,1.9545838805120785
+Q0538,2,5062,Penal,1,-1.2061843704429083
+Q0539,0,5165,Penal > Dos Crimes Contra o Patrimônio > Apropriação indébita,3,9.015671858549632
+Q0539,1,5157,Penal > Dos Crimes Contra o Patrimônio,2,0.39131826907133044
+Q0539,2,5062,Penal,1,-0.9209531220173558
+Q0540,0,5548,Processo Penal > Provas em Espécies > Confissão,3,4.370604126974596
+Q0540,1,5543,Processo Penal > Provas em Espécies,2,-0.49705976050454054
+Q0540,2,5465,Processo Penal,1,-0.277169479441452
+Q0541,0,5096,Penal > Dos Crimes Contra a Administração Pública > Condescendência Criminosa,3,9.75130984368474
+Q0541,1,5087,Penal > Dos Crimes Contra a Administração Pública,2,0.5739989921094049
+Q0541,2,5062,Penal,1,-0.9086793954335524
+Q0542,0,5519,Processo Penal > Prisões em Espécie > Prisão Preventiva,3,5.545917625934253
+Q0542,1,5517,Processo Penal > Prisões em Espécie,2,0.3218185183354839
+Q0542,2,5465,Processo Penal,1,0.056788353776255046
+Q0543,0,5562,Processo Penal > Recursos em Espécies > Apelação,3,5.168400597057914
+Q0543,1,5560,Processo Penal > Recursos em Espécies,2,4.133335948552821
+Q0543,2,5465,Processo Penal,1,0.2811711879503396
+Q0544,0,5480,Processo Penal > Competência,2,6.115310361055494
+Q0544,1,5465,Processo Penal,1,-0.1677060155719863
+Q0545,0,4376,Criminologia > Política Criminal > Direito Penal do Inimigo,3,6.021914034843682
+Q0545,1,4374,Criminologia > Política Criminal,2,2.8260148768108966
+Q0545,2,4365,Criminologia,1,2.123953071825289
+Q0546,0,5087,Penal > Dos Crimes Contra a Administração Pública,2,4.962007552806858
+Q0546,1,5062,Penal,1,-1.104271840294897
+Q0547,0,5185,Penal > Prescrição,2,8.30919265522274
+Q0547,1,5062,Penal,1,-0.8514561862285082
+Q0548,0,5567,Processo Penal > Recursos em Espécies > Carta Testemunhavel,3,7.973178026141412
+Q0548,1,5560,Processo Penal > Recursos em Espécies,2,6.274561726616914
+Q0548,2,5465,Processo Penal,1,0.4539980407675777
+Q0549,0,4703,Direito Penal - Legislação Especial > Lei de Execução Penal,2,7.373853858344429
+Q0549,1,4683,Direito Penal - Legislação Especial,1,2.2344315934325594
+Q0550,0,5165,Penal > Dos Crimes Contra o Patrimônio > Apropriação indébita,3,7.512424630669553
+Q0550,1,5157,Penal > Dos Crimes Contra o Patrimônio,2,3.044224502795958
+Q0550,2,5062,Penal,1,-0.976133218780491
+Q0551,0,5466,Processo Penal > Ação Penal,2,8.639963222662455
+Q0551,1,5465,Processo Penal,1,0.05704683407884037
+Q0552,0,5510,Processo Penal > Nulidades > Nulidade Absoluta e Relativa,3,5.197227412175519
+Q0552,1,5509,Processo Penal > Nulidades,2,1.73354877001721
+Q0552,2,5465,Processo Penal,1,0.6737654815303297
+Q0553,0,5088,Penal > Dos Crimes Contra a Administração Pública > Noções gerais dos crimes praticados contra a administração pública,3,4.688574086518137
+Q0553,1,5087,Penal > Dos Crimes Contra a Administração Pública,2,3.5922620340457865
+Q0553,2,5062,Penal,1,-1.360529416161188
+Q0554,0,5132,"Penal > Dos Crimes Contra a Liberdade Pessoal > Sequestro, Cárcere Privado, Redução à Condição Análoga à de Escravo e Tráfico de Pessoas",3,11.282829383536988
+Q0554,1,5128,Penal > Dos Crimes Contra a Liberdade Pessoal,2,1.5906188181241638
+Q0554,2,5062,Penal,1,-1.081947251856522
+Q0555,0,5208,Penal > Teoria da Pena > Livramento Condicional,3,8.734492053282727
+Q0555,1,5199,Penal > Teoria da Pena,2,-0.5270676886449466
+Q0555,2,5062,Penal,1,-1.3260017130272312
+Q0556,0,4388,Criminologia > Teorias Sociológicas Explicativas da Criminalidade > Teorias Criminológicas em Espécie,3,7.19496704828455
+Q0556,1,4385,Criminologia > Teorias Sociológicas Explicativas da Criminalidade,2,6.349410266500954
+Q0556,2,4365,Criminologia,1,2.2801147545975855
+Q0557,0,5502,Processo Penal > Inquérito Policial > Acordo de Não Persecução Penal,3,5.914517527734854
+Q0557,1,5498,Processo Penal > Inquérito Policial,2,2.394426154339582
+Q0557,2,5465,Processo Penal,1,-0.3493269758609834
+Q0558,0,5512,Processo Penal > Parte Geral dos Recursos,2,5.2701825727674
+Q0558,1,5465,Processo Penal,1,1.728795424058837
+Q0559,0,5092,Penal > Dos Crimes Contra a Administração Pública > Corrupção Passiva,3,9.012128122244487
+Q0559,1,5087,Penal > Dos Crimes Contra a Administração Pública,2,1.1649519341379604
+Q0559,2,5062,Penal,1,-1.1292877108557478
+Q0560,0,4697,Direito Penal - Legislação Especial > Estatuto do Desarmamento,2,4.744057561261245
+Q0560,1,4683,Direito Penal - Legislação Especial,1,0.043649693836970566
+Q0561,0,5116,Penal > Dos Crimes Contra a Fé Pública e de Falsidade Documental,2,6.772749071574904
+Q0561,1,5062,Penal,1,-1.3868947180740192
+Q0562,0,5088,Penal > Dos Crimes Contra a Administração Pública > Noções gerais dos crimes praticados contra a administração pública,3,5.977455753339267
+Q0562,1,5087,Penal > Dos Crimes Contra a Administração Pública,2,4.703173075321355
+Q0562,2,5062,Penal,1,-1.2645845281307717
+Q0563,0,4388,Criminologia > Teorias Sociológicas Explicativas da Criminalidade > Teorias Criminológicas em Espécie,3,5.263915715775706
+Q0563,1,4385,Criminologia > Teorias Sociológicas Explicativas da Criminalidade,2,3.8682464190936696
+Q0563,2,4365,Criminologia,1,1.9990598679050604
+Q0564,0,4388,Criminologia > Teorias Sociológicas Explicativas da Criminalidade > Teorias Criminológicas em Espécie,3,5.084119924857658
+Q0564,1,4385,Criminologia > Teorias Sociológicas Explicativas da Criminalidade,2,3.6670999923721714
+Q0564,2,4365,Criminologia,1,2.2434808726027256
+Q0565,0,5466,Processo Penal > Ação Penal,2,6.22369707762239
+Q0565,1,5465,Processo Penal,1,0.141515459674534
+Q0566,0,5083,Penal > Dos Crimes Contra a Administração Judicial > Fraude Processual,3,5.584811411703195
+Q0566,1,5079,Penal > Dos Crimes Contra a Administração Judicial,2,0.6922925985431743
+Q0566,2,5062,Penal,1,-1.0913350041224446
+Q0567,0,5201,Penal > Teoria da Pena > Penas Privativas de Liberdade,3,6.841501062260746
+Q0567,1,5199,Penal > Teoria da Pena,2,0.8976080634986039
+Q0567,2,5062,Penal,1,-0.5300976273235649
+Q0568,0,5227,Penal > Teoria do Crime: Fato Típico > Tipicidade,3,6.032020773046959
+Q0568,1,5218,Penal > Teoria do Crime: Fato Típico,2,3.4065169328561207
+Q0568,2,5062,Penal,1,-0.0548861783750113
+Q0569,0,4388,Criminologia > Teorias Sociológicas Explicativas da Criminalidade > Teorias Criminológicas em Espécie,3,4.9714244805893255
+Q0569,1,4385,Criminologia > Teorias Sociológicas Explicativas da Criminalidade,2,3.4282346446571257
+Q0569,2,4365,Criminologia,1,1.5403885083719415
+Q0570,0,5561,Processo Penal > Recursos em Espécies > Recurso em sentido estrito (RESE),3,5.587773426249478
+Q0570,1,5560,Processo Penal > Recursos em Espécies,2,4.272562517023463
+Q0570,2,5465,Processo Penal,1,0.2005145142002726
+Q0571,0,5550,Processo Penal > Provas em Espécies > Prova Testemunhal,3,7.472146330929709
+Q0571,1,5543,Processo Penal > Provas em Espécies,2,0.974940833709158
+Q0571,2,5465,Processo Penal,1,0.27119134376406573
+Q0572,0,4697,Direito Penal - Legislação Especial > Estatuto do Desarmamento,2,9.046025348742887
+Q0572,1,4683,Direito Penal - Legislação Especial,1,2.0203243114221467
+Q0573,0,5198,Penal > Punibilidade > Decadência,3,4.849146556693746
+Q0573,1,5191,Penal > Punibilidade,2,-0.6649121216307099
+Q0573,2,5062,Penal,1,-0.9364609200081004
+Q0574,0,5548,Processo Penal > Provas em Espécies > Confissão,3,4.313439004480839
+Q0574,1,5543,Processo Penal > Provas em Espécies,2,-1.123239135052228
+Q0574,2,5465,Processo Penal,1,-1.3410739205017437
+Q0575,0,5479,Processo Penal > Ações Autônomas de Impugnação > Mandado de Segurança,3,4.927011848806267
+Q0575,1,5476,Processo Penal > Ações Autônomas de Impugnação,2,-0.33854811510618193
+Q0575,2,5465,Processo Penal,1,-0.5096197122752951
+Q0576,0,5089,Penal > Dos Crimes Contra a Administração Pública > Peculato e Peculato Mediante Erro de Outrem,3,5.660111676153548
+Q0576,1,5087,Penal > Dos Crimes Contra a Administração Pública,2,3.3064244485630523
+Q0576,2,5062,Penal,1,-1.2682744067456797
+Q0577,0,6724,Penal > Lei Maria da Penha,2,7.846282984654771
+Q0577,1,5062,Penal,1,-1.7287863519959605
+Q0578,0,6723,Penal > Lavagem de Dinheiro,2,11.24294830467025
+Q0578,1,5062,Penal,1,-0.9086559478896137
+Q0579,0,5547,Processo Penal > Provas em Espécies > Interrogatório Judicial,3,5.116687856644143
+Q0579,1,5543,Processo Penal > Provas em Espécies,2,0.41856897675032545
+Q0579,2,5465,Processo Penal,1,0.7992088324238182
+Q0580,0,5565,Processo Penal > Recursos em Espécies > Embargos de Declaração,3,4.501211200490694
+Q0580,1,5560,Processo Penal > Recursos em Espécies,2,1.504526886545324
+Q0580,2,5465,Processo Penal,1,-0.20484086027891732
+Q0581,0,5466,Processo Penal > Ação Penal,2,4.463826814147888
+Q0581,1,5465,Processo Penal,1,1.2252489073222463
+Q0582,0,5198,Penal > Punibilidade > Decadência,3,3.804411899194018
+Q0582,1,5191,Penal > Punibilidade,2,-1.063884520216106
+Q0582,2,5062,Penal,1,-0.6480633818954514
+Q0583,0,5185,Penal > Prescrição,2,6.2508077826366035
+Q0583,1,5062,Penal,1,0.14375067705577163
+Q0584,0,5185,Penal > Prescrição,2,7.8636779867801625
+Q0584,1,5062,Penal,1,-0.883771803761003
+Q0585,0,5178,"Penal > Iter Criminis > Desistência Voluntária, Arrependimento Eficaz e Arrependimento posterior",3,8.356072565186174
+Q0585,1,5175,Penal > Iter Criminis,2,-0.15268263272613977
+Q0585,2,5062,Penal,1,-0.6878154064539432
+Q0586,0,5519,Processo Penal > Prisões em Espécie > Prisão Preventiva,3,5.877912249653766
+Q0586,1,5517,Processo Penal > Prisões em Espécie,2,0.6195653956740469
+Q0586,2,5465,Processo Penal,1,-0.2423303830219492
+Q0587,0,5186,"Penal > Prescrição > Conceito, Regras Gerais e Fundamentos da Prescrição",3,6.435396624055611
+Q0587,1,5185,Penal > Prescrição,2,6.207877395804199
+Q0587,2,5062,Penal,1,-0.48203471897002703
+Q0588,0,4388,Criminologia > Teorias Sociológicas Explicativas da Criminalidade > Teorias Criminológicas em Espécie,3,6.172194756883222
+Q0588,1,4385,Criminologia > Teorias Sociológicas Explicativas da Criminalidade,2,4.239289530222093
+Q0588,2,4365,Criminologia,1,1.6265146126686807
+Q0589,0,5209,Penal > Teoria da Pena > Efeitos da Condenação Penais e Extrapenais,3,4.593773869389352
+Q0589,1,5199,Penal > Teoria da Pena,2,-0.2720374894997193
+Q0589,2,5062,Penal,1,-1.02232621271034
+Q0590,0,5230,Penal > Teoria do Crime: Ilicitude > Estado de Necessidade,3,8.539681454431522
+Q0590,1,5228,Penal > Teoria do Crime: Ilicitude,2,0.11495931590577319
+Q0590,2,5062,Penal,1,-0.356059939910506
+Q0591,0,5512,Processo Penal > Parte Geral dos Recursos,2,5.915407923880686
+Q0591,1,5465,Processo Penal,1,0.05512994488908392
+Q0592,0,5088,Penal > Dos Crimes Contra a Administração Pública > Noções gerais dos crimes praticados contra a administração pública,3,5.163090307210561
+Q0592,1,5087,Penal > Dos Crimes Contra a Administração Pública,2,4.799902987343
+Q0592,2,5062,Penal,1,-1.1088604371701805
+Q0593,0,5537,Processo Penal > Procedimento Ordinário > Sentença,3,4.084043355998122
+Q0593,1,5530,Processo Penal > Procedimento Ordinário,2,2.8839641418699076
+Q0593,2,5465,Processo Penal,1,-0.8824529304064396
+Q0594,0,5089,Penal > Dos Crimes Contra a Administração Pública > Peculato e Peculato Mediante Erro de Outrem,3,4.878401945321646
+Q0594,1,5087,Penal > Dos Crimes Contra a Administração Pública,2,-0.12624875254400308
+Q0594,2,5062,Penal,1,-1.3605312346153526
+Q0595,0,5501,Processo Penal > Inquérito Policial > Conclusão e Arquivamento do Inquérito Policial,3,7.267417565658714
+Q0595,1,5498,Processo Penal > Inquérito Policial,2,5.770757550525901
+Q0595,2,5465,Processo Penal,1,-0.4391184151140122
+Q0596,0,5181,Penal > Lei Penal no Tempo e no Espaço > Lei penal no Tempo,3,4.967985561321718
+Q0596,1,5180,Penal > Lei Penal no Tempo e no Espaço,2,4.360758977221571
+Q0596,2,5062,Penal,1,-0.7182006326498938
+Q0597,0,5535,Processo Penal > Procedimento Ordinário > Audiência de Instrução e Julgamento,3,5.4677718123785315
+Q0597,1,5530,Processo Penal > Procedimento Ordinário,2,4.26031377711068
+Q0597,2,5465,Processo Penal,1,0.14083676873014372
+Q0598,0,4385,Criminologia > Teorias Sociológicas Explicativas da Criminalidade,2,5.628136150907791
+Q0598,1,4365,Criminologia,1,2.524262133753128
+Q0599,0,5466,Processo Penal > Ação Penal,2,3.8640869992729283
+Q0599,1,5465,Processo Penal,1,0.83544281346499
+Q0600,0,5185,Penal > Prescrição,2,6.977919036180474
+Q0600,1,5062,Penal,1,-0.6532739433323637
+Q0601,0,5541,Processo Penal > Procedimento Sumaríssimo > Transação Penal,3,7.666359973186725
+Q0601,1,5539,Processo Penal > Procedimento Sumaríssimo,2,3.111984037333277
+Q0601,2,5465,Processo Penal,1,0.2759595293116399
+Q0602,0,5472,Processo Penal > Ação Penal > Ação Penal de Iniciativa Privada,3,5.360452372516639
+Q0602,1,5466,Processo Penal > Ação Penal,2,5.267667745743086
+Q0602,2,5465,Processo Penal,1,0.0735000931445063
+Q0603,0,5092,Penal > Dos Crimes Contra a Administração Pública > Corrupção Passiva,3,8.989526173381243
+Q0603,1,5087,Penal > Dos Crimes Contra a Administração Pública,2,3.076120149169069
+Q0603,2,5062,Penal,1,-0.7386037441359963
+Q0604,0,5095,Penal > Dos Crimes Contra a Administração Pública > Prevaricação,3,5.360509532743629
+Q0604,1,5087,Penal > Dos Crimes Contra a Administração Pública,2,4.229576986407361
+Q0604,2,5062,Penal,1,-1.264567909752405
+Q0605,0,5487,Processo Penal > Comunicação dos Atos Processuais,2,3.870107004631036
+Q0605,1,5465,Processo Penal,1,0.30293883749093964
+Q0606,0,5204,Penal > Teoria da Pena > Terceira fase da Dosimetria: Causas de Aumento e de Diminuição,3,5.305776321328857
+Q0606,1,5199,Penal > Teoria da Pena,2,-0.21408713157717205
+Q0606,2,5062,Penal,1,-1.4765447319630336
+Q0607,0,4388,Criminologia > Teorias Sociológicas Explicativas da Criminalidade > Teorias Criminológicas em Espécie,3,4.988055076967155
+Q0607,1,4385,Criminologia > Teorias Sociológicas Explicativas da Criminalidade,2,3.775247100458161
+Q0607,2,4365,Criminologia,1,1.8879931558703424
+Q0608,0,5181,Penal > Lei Penal no Tempo e no Espaço > Lei penal no Tempo,3,7.054036589330222
+Q0608,1,5180,Penal > Lei Penal no Tempo e no Espaço,2,6.735622060854225
+Q0608,2,5062,Penal,1,-0.3346245148620355
+Q0609,0,5206,Penal > Teoria da Pena > Pena de Multa,3,3.8904561171350385
+Q0609,1,5199,Penal > Teoria da Pena,2,-0.1719303808158713
+Q0609,2,5062,Penal,1,-0.9481187532991544
+Q0610,0,4700,Direito Penal - Legislação Especial > Interceptação Telefônica,2,8.305213142389825
+Q0610,1,4683,Direito Penal - Legislação Especial,1,-0.46671370085667974
+Q0611,0,5118,Penal > Dos Crimes Contra a Fé Pública e de Falsidade Documental > Da Falsidade Documental,3,5.512366377771268
+Q0611,1,5116,Penal > Dos Crimes Contra a Fé Pública e de Falsidade Documental,2,5.442924772338195
+Q0611,2,5062,Penal,1,-1.1207950861652904
+Q0612,0,5471,Processo Penal > Ação Penal > Ação Penal Pública Condicionada,3,6.068206165690399
+Q0612,1,5466,Processo Penal > Ação Penal,2,6.025726931073679
+Q0612,2,5465,Processo Penal,1,-0.821456409851699
+Q0613,0,4689,Direito Penal - Legislação Especial > Crimes contra o Sistema Financeiro,2,5.858467572589616
+Q0613,1,4683,Direito Penal - Legislação Especial,1,-0.4039417478775243
+Q0614,0,5466,Processo Penal > Ação Penal,2,3.512139299789389
+Q0614,1,5465,Processo Penal,1,-0.6959788766975901
+Q0615,0,5198,Penal > Punibilidade > Decadência,3,8.485972134566687
+Q0615,1,5191,Penal > Punibilidade,2,-1.0772324200067263
+Q0615,2,5062,Penal,1,-0.7270330034994215
+Q0616,0,5063,Penal > Ação Penal,2,4.288702028434016
+Q0616,1,5062,Penal,1,-1.3951322104910961
+Q0617,0,5500,Processo Penal > Inquérito Policial > Procedimento do Inquérito Policial,3,5.900606075220347
+Q0617,1,5498,Processo Penal > Inquérito Policial,2,5.620170362929869
+Q0617,2,5465,Processo Penal,1,0.5871699824780163
+Q0618,0,5224,Penal > Teoria do Crime: Fato Típico > Erro de Tipo,3,7.775907999389151
+Q0618,1,5218,Penal > Teoria do Crime: Fato Típico,2,0.8475277029756674
+Q0618,2,5062,Penal,1,-0.19049710142444437
+Q0619,0,5540,Processo Penal > Procedimento Sumaríssimo > Competência dos Juizados Especiais Criminais,3,6.263769889400122
+Q0619,1,5539,Processo Penal > Procedimento Sumaríssimo,2,2.0034101290258257
+Q0619,2,5465,Processo Penal,1,-0.576300874450299
+Q0620,0,5147,Penal > Dos Crimes contra as Finanças Públicas,2,9.497642135304524
+Q0620,1,5062,Penal,1,-0.9095132269564237
+Q0621,0,5548,Processo Penal > Provas em Espécies > Confissão,3,5.834618537183058
+Q0621,1,5543,Processo Penal > Provas em Espécies,2,-1.4379962826753032
+Q0621,2,5465,Processo Penal,1,-0.7533975127559448
+Q0622,0,5182,Penal > Lei Penal no Tempo e no Espaço > Lei penal no Espaço,3,7.707401824211773
+Q0622,1,5180,Penal > Lei Penal no Tempo e no Espaço,2,6.782943643823169
+Q0622,2,5062,Penal,1,-0.05789561131454417
+Q0623,0,5544,Processo Penal > Provas em Espécies > Cadeia de Custódia,3,6.921981554207366
+Q0623,1,5543,Processo Penal > Provas em Espécies,2,0.8605485591578909
+Q0623,2,5465,Processo Penal,1,-0.8599103362828086
+Q0624,0,6724,Penal > Lei Maria da Penha,2,9.67076769930784
+Q0624,1,5062,Penal,1,-1.3126715630071517
+Q0625,0,5092,Penal > Dos Crimes Contra a Administração Pública > Corrupção Passiva,3,8.178106438716863
+Q0625,1,5087,Penal > Dos Crimes Contra a Administração Pública,2,0.17368312103107056
+Q0625,2,5062,Penal,1,-0.9616248349903425
+Q0626,0,5506,Processo Penal > Lei Processual no Tempo e no Espaço > Lei Processual no Espaço,3,5.683870726805819
+Q0626,1,5505,Processo Penal > Lei Processual no Tempo e no Espaço,2,5.174062137143185
+Q0626,2,5465,Processo Penal,1,0.5597070377011376
+Q0627,0,5126,Penal > Dos Crimes Contra a Incolumidade Pública > Dos Crimes de Perigo Comum,3,11.255682772151205
+Q0627,1,5125,Penal > Dos Crimes Contra a Incolumidade Pública,2,6.411743357796529
+Q0627,2,5062,Penal,1,-0.689576404417365
+Q0628,0,5502,Processo Penal > Inquérito Policial > Acordo de Não Persecução Penal,3,5.327395185426896
+Q0628,1,5498,Processo Penal > Inquérito Policial,2,2.545314155899456
+Q0628,2,5465,Processo Penal,1,0.030907707614634627
+Q0629,0,4371,Criminologia > Etapas Evolutivas e Escolas Criminológicas,2,5.214937848408394
+Q0629,1,4365,Criminologia,1,2.2923827809541755
+Q0630,0,5084,Penal > Dos Crimes Contra a Administração Judicial > Favorecimento Pessoal e Real,3,11.509135796367957
+Q0630,1,5079,Penal > Dos Crimes Contra a Administração Judicial,2,0.13122375855267798
+Q0630,2,5062,Penal,1,-1.7482582801548565
+Q0631,0,5088,Penal > Dos Crimes Contra a Administração Pública > Noções gerais dos crimes praticados contra a administração pública,3,6.144209248668217
+Q0631,1,5087,Penal > Dos Crimes Contra a Administração Pública,2,4.754444243925068
+Q0631,2,5062,Penal,1,-0.6034080847212688
+Q0632,0,5092,Penal > Dos Crimes Contra a Administração Pública > Corrupção Passiva,3,10.605097556818365
+Q0632,1,5087,Penal > Dos Crimes Contra a Administração Pública,2,0.8123997355513927
+Q0632,2,5062,Penal,1,-0.7517695497718934
+Q0633,0,5466,Processo Penal > Ação Penal,2,3.977752515860395
+Q0633,1,5465,Processo Penal,1,-0.9961234442982607
+Q0634,0,5487,Processo Penal > Comunicação dos Atos Processuais,2,7.390314911224113
+Q0634,1,5465,Processo Penal,1,-0.8907620833193075
+Q0635,0,5213,Penal > Teoria do Crime: Culpabilidade > Inimputabilidade,3,4.627421469874969
+Q0635,1,5211,Penal > Teoria do Crime: Culpabilidade,2,1.6784534583948196
+Q0635,2,5062,Penal,1,-1.1300174533759513
+Q0636,0,5090,Penal > Dos Crimes Contra a Administração Pública > Emprego Irregular de Verbas ou Rendas Públicas,3,3.3823266828952656
+Q0636,1,5087,Penal > Dos Crimes Contra a Administração Pública,2,1.5035901203996787
+Q0636,2,5062,Penal,1,-1.1409714166746645
+Q0637,0,5091,Penal > Dos Crimes Contra a Administração Pública > Concussão e Excesso de Exação,3,6.565559422649672
+Q0637,1,5087,Penal > Dos Crimes Contra a Administração Pública,2,4.065621067657964
+Q0637,2,5062,Penal,1,-1.1695406263395438
+Q0638,0,5091,Penal > Dos Crimes Contra a Administração Pública > Concussão e Excesso de Exação,3,6.901131154547326
+Q0638,1,5087,Penal > Dos Crimes Contra a Administração Pública,2,3.061166757958812
+Q0638,2,5062,Penal,1,-0.8304434874336244
+Q0639,0,4707,Direito Penal - Legislação Especial > Tortura,2,7.102945331880252
+Q0639,1,4683,Direito Penal - Legislação Especial,1,0.5499554219110135
+Q0640,0,5227,Penal > Teoria do Crime: Fato Típico > Tipicidade,3,7.582364188729268
+Q0640,1,5218,Penal > Teoria do Crime: Fato Típico,2,4.141957098574038
+Q0640,2,5062,Penal,1,-0.5106556768365297
+Q0641,0,5093,Penal > Dos Crimes Contra a Administração Pública > Corrupção Ativa,3,8.060808388485144
+Q0641,1,5087,Penal > Dos Crimes Contra a Administração Pública,2,0.9360159693119208
+Q0641,2,5062,Penal,1,-0.42343030391554803
+Q0642,0,6724,Penal > Lei Maria da Penha,2,9.95184272213235
+Q0642,1,5062,Penal,1,-1.2696849578132743
+Q0643,0,4375,Criminologia > Política Criminal > Correntes da Política Criminal,3,4.13950477556241
+Q0643,1,4374,Criminologia > Política Criminal,2,3.6872149212745846
+Q0643,2,4365,Criminologia,1,0.8254039937572034
+Q0644,0,5183,Penal > Lei Penal no Tempo e no Espaço > Conflito Aparente de Normas,3,7.18710477732564
+Q0644,1,5180,Penal > Lei Penal no Tempo e no Espaço,2,-1.1150646834276299
+Q0644,2,5062,Penal,1,-0.8266739649005489
+Q0645,0,5226,Penal > Teoria do Crime: Fato Típico > Nexo Causal e Imputação Objetiva,3,6.566905787507645
+Q0645,1,5218,Penal > Teoria do Crime: Fato Típico,2,2.200211426966507
+Q0645,2,5062,Penal,1,-0.4483944760980222
+Q0646,0,4374,Criminologia > Política Criminal,2,5.031032367502199
+Q0646,1,4365,Criminologia,1,2.5103636577953488
+Q0647,0,5487,Processo Penal > Comunicação dos Atos Processuais,2,6.179943346752371
+Q0647,1,5465,Processo Penal,1,0.5307058868700202
+Q0648,0,5555,Processo Penal > Provas em Espécies > Interceptação Telefônica e Quebra do Sigilo de Dados Telefônicos,3,3.504221468550756
+Q0648,1,5543,Processo Penal > Provas em Espécies,2,-0.8562118224321189
+Q0648,2,5465,Processo Penal,1,-0.09856351498513558
+Q0649,0,5208,Penal > Teoria da Pena > Livramento Condicional,3,6.8653929001062295
+Q0649,1,5199,Penal > Teoria da Pena,2,1.0405341079849009
+Q0649,2,5062,Penal,1,-0.8777876661768508
+Q0650,0,5199,Penal > Teoria da Pena,2,3.6675688379852476
+Q0650,1,5062,Penal,1,-0.7495815989209996
+Q0651,0,6724,Penal > Lei Maria da Penha,2,8.392017547623608
+Q0651,1,5062,Penal,1,-1.7907549381306942
+Q0652,0,5092,Penal > Dos Crimes Contra a Administração Pública > Corrupção Passiva,3,4.97055197171088
+Q0652,1,5087,Penal > Dos Crimes Contra a Administração Pública,2,3.372357256568533
+Q0652,2,5062,Penal,1,-1.3737626475393143
+Q0653,0,6724,Penal > Lei Maria da Penha,2,6.983944677981741
+Q0653,1,5062,Penal,1,-1.416644799602923
+Q0654,0,5487,Processo Penal > Comunicação dos Atos Processuais,2,4.88986033189939
+Q0654,1,5465,Processo Penal,1,0.6599488742778871
+Q0655,0,4385,Criminologia > Teorias Sociológicas Explicativas da Criminalidade,2,4.890539539064171
+Q0655,1,4365,Criminologia,1,2.8971118152208044
+Q0656,0,6724,Penal > Lei Maria da Penha,2,10.097598282412065
+Q0656,1,5062,Penal,1,-1.009139489741038
+Q0657,0,6716,Penal > Abuso de Autoridade,2,8.440611257482537
+Q0657,1,5062,Penal,1,-0.6709554762877291
+Q0658,0,4374,Criminologia > Política Criminal,2,4.878420100324745
+Q0658,1,4365,Criminologia,1,3.016957340884023
+Q0659,0,4702,Direito Penal - Legislação Especial > Lavagem de Dinheiro,2,7.680269609722506
+Q0659,1,4683,Direito Penal - Legislação Especial,1,0.3285351235953338

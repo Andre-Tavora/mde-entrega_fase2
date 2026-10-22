@@ -1,0 +1,574 @@
+{
+  "n": 92,
+  "temas_gabarito": 61,
+  "temas_total": 377,
+  "regras": [
+    "R_JEC",
+    "R_LEP",
+    "R_MARIA_PENHA",
+    "R_DROGAS",
+    "R_ORGCRIM",
+    "R_LAVAGEM",
+    "R_ABUSO_AUT",
+    "R_AMBIENTAL"
+  ],
+  "grade": [
+    {
+      "wl": 0,
+      "tau": 1.5,
+      "exato": 39.130434782608695,
+      "f1": 39.82825917252147,
+      "equiv": 41.30434782608695,
+      "aceito": 66.30434782608695,
+      "top3": 52.17391304347826,
+      "pai_raiz": 0
+    },
+    {
+      "wl": 0,
+      "tau": 2,
+      "exato": 44.565217391304344,
+      "f1": 42.654176424668236,
+      "equiv": 46.73913043478261,
+      "aceito": 66.30434782608695,
+      "top3": 52.17391304347826,
+      "pai_raiz": 0
+    },
+    {
+      "wl": 0,
+      "tau": 2.5,
+      "exato": 44.565217391304344,
+      "f1": 42.10772833723653,
+      "equiv": 46.73913043478261,
+      "aceito": 67.3913043478261,
+      "top3": 52.17391304347826,
+      "pai_raiz": 0
+    },
+    {
+      "wl": 0.5,
+      "tau": 1.5,
+      "exato": 39.130434782608695,
+      "f1": 39.82825917252147,
+      "equiv": 41.30434782608695,
+      "aceito": 66.30434782608695,
+      "top3": 52.17391304347826,
+      "pai_raiz": 0
+    },
+    {
+      "wl": 0.5,
+      "tau": 2,
+      "exato": 44.565217391304344,
+      "f1": 42.654176424668236,
+      "equiv": 46.73913043478261,
+      "aceito": 66.30434782608695,
+      "top3": 52.17391304347826,
+      "pai_raiz": 0
+    },
+    {
+      "wl": 0.5,
+      "tau": 2.5,
+      "exato": 44.565217391304344,
+      "f1": 42.10772833723653,
+      "equiv": 46.73913043478261,
+      "aceito": 67.3913043478261,
+      "top3": 52.17391304347826,
+      "pai_raiz": 0
+    },
+    {
+      "wl": 1,
+      "tau": 1.5,
+      "exato": 39.130434782608695,
+      "f1": 39.82825917252147,
+      "equiv": 41.30434782608695,
+      "aceito": 66.30434782608695,
+      "top3": 51.08695652173913,
+      "pai_raiz": 0
+    },
+    {
+      "wl": 1,
+      "tau": 2,
+      "exato": 44.565217391304344,
+      "f1": 42.654176424668236,
+      "equiv": 46.73913043478261,
+      "aceito": 66.30434782608695,
+      "top3": 51.08695652173913,
+      "pai_raiz": 0
+    },
+    {
+      "wl": 1,
+      "tau": 2.5,
+      "exato": 44.565217391304344,
+      "f1": 42.10772833723653,
+      "equiv": 46.73913043478261,
+      "aceito": 67.3913043478261,
+      "top3": 51.08695652173913,
+      "pai_raiz": 0
+    },
+    {
+      "wl": 1.5,
+      "tau": 1.5,
+      "exato": 39.130434782608695,
+      "f1": 39.82825917252147,
+      "equiv": 41.30434782608695,
+      "aceito": 66.30434782608695,
+      "top3": 52.17391304347826,
+      "pai_raiz": 0
+    },
+    {
+      "wl": 1.5,
+      "tau": 2,
+      "exato": 44.565217391304344,
+      "f1": 42.654176424668236,
+      "equiv": 46.73913043478261,
+      "aceito": 66.30434782608695,
+      "top3": 52.17391304347826,
+      "pai_raiz": 0
+    },
+    {
+      "wl": 1.5,
+      "tau": 2.5,
+      "exato": 44.565217391304344,
+      "f1": 42.10772833723653,
+      "equiv": 46.73913043478261,
+      "aceito": 67.3913043478261,
+      "top3": 52.17391304347826,
+      "pai_raiz": 0
+    },
+    {
+      "wl": 2,
+      "tau": 1.5,
+      "exato": 39.130434782608695,
+      "f1": 39.82825917252147,
+      "equiv": 42.391304347826086,
+      "aceito": 67.3913043478261,
+      "top3": 52.17391304347826,
+      "pai_raiz": 0
+    },
+    {
+      "wl": 2,
+      "tau": 2,
+      "exato": 44.565217391304344,
+      "f1": 42.654176424668236,
+      "equiv": 47.82608695652174,
+      "aceito": 67.3913043478261,
+      "top3": 52.17391304347826,
+      "pai_raiz": 0
+    },
+    {
+      "wl": 2,
+      "tau": 2.5,
+      "exato": 44.565217391304344,
+      "f1": 42.10772833723653,
+      "equiv": 47.82608695652174,
+      "aceito": 68.47826086956522,
+      "top3": 52.17391304347826,
+      "pai_raiz": 0
+    },
+    {
+      "wl": 3,
+      "tau": 1.5,
+      "exato": 40.21739130434783,
+      "f1": 40.37470725995316,
+      "equiv": 44.565217391304344,
+      "aceito": 69.56521739130434,
+      "top3": 53.2608695652174,
+      "pai_raiz": 0
+    },
+    {
+      "wl": 3,
+      "tau": 2,
+      "exato": 45.65217391304348,
+      "f1": 43.20062451209993,
+      "equiv": 50.0,
+      "aceito": 69.56521739130434,
+      "top3": 53.2608695652174,
+      "pai_raiz": 0
+    },
+    {
+      "wl": 3,
+      "tau": 2.5,
+      "exato": 45.65217391304348,
+      "f1": 42.65417642466823,
+      "equiv": 50.0,
+      "aceito": 70.65217391304348,
+      "top3": 53.2608695652174,
+      "pai_raiz": 0
+    },
+    {
+      "wl": 4,
+      "tau": 1.5,
+      "exato": 39.130434782608695,
+      "f1": 39.28181108508977,
+      "equiv": 43.47826086956522,
+      "aceito": 68.47826086956522,
+      "top3": 54.347826086956516,
+      "pai_raiz": 0
+    },
+    {
+      "wl": 4,
+      "tau": 2,
+      "exato": 44.565217391304344,
+      "f1": 42.10772833723654,
+      "equiv": 48.91304347826087,
+      "aceito": 68.47826086956522,
+      "top3": 54.347826086956516,
+      "pai_raiz": 0
+    },
+    {
+      "wl": 4,
+      "tau": 2.5,
+      "exato": 44.565217391304344,
+      "f1": 41.561280249804845,
+      "equiv": 48.91304347826087,
+      "aceito": 69.56521739130434,
+      "top3": 54.347826086956516,
+      "pai_raiz": 0
+    }
+  ],
+  "global_cfg": {
+    "wl": 3,
+    "tau": 2,
+    "borda": false
+  },
+  "diagnostico_regras": [
+    {
+      "regra": "R_JEC",
+      "casam": 7,
+      "acertos": 5,
+      "precisao": 71.42857142857143
+    },
+    {
+      "regra": "R_LEP",
+      "casam": 0,
+      "acertos": 0,
+      "precisao": NaN
+    },
+    {
+      "regra": "R_MARIA_PENHA",
+      "casam": 1,
+      "acertos": 0,
+      "precisao": 0.0
+    },
+    {
+      "regra": "R_DROGAS",
+      "casam": 2,
+      "acertos": 1,
+      "precisao": 50.0
+    },
+    {
+      "regra": "R_ORGCRIM",
+      "casam": 0,
+      "acertos": 0,
+      "precisao": NaN
+    },
+    {
+      "regra": "R_LAVAGEM",
+      "casam": 0,
+      "acertos": 0,
+      "precisao": NaN
+    },
+    {
+      "regra": "R_ABUSO_AUT",
+      "casam": 2,
+      "acertos": 0,
+      "precisao": 0.0
+    },
+    {
+      "regra": "R_AMBIENTAL",
+      "casam": 0,
+      "acertos": 0,
+      "precisao": NaN
+    }
+  ],
+  "questoes_com_regra": 12,
+  "com_correto_dentro_alvo": 6,
+  "questoes_2mais_regras": [],
+  "categorias_tau0": {
+    "filho_do_correto": 21,
+    "outra_raiz": 12,
+    "mesma_raiz_outro_ramo": 23,
+    "equivalente": 2,
+    "exato": 31,
+    "pai_do_correto": 3
+  },
+  "categorias_v9": {
+    "exato": 41,
+    "outra_raiz": 12,
+    "mesma_raiz_outro_ramo": 19,
+    "equivalente": 2,
+    "filho_do_correto": 9,
+    "pai_do_correto": 9
+  },
+  "categorias_v11": {
+    "exato": 42,
+    "outra_raiz": 9,
+    "mesma_raiz_outro_ramo": 19,
+    "equivalente": 4,
+    "filho_do_correto": 9,
+    "pai_do_correto": 9
+  },
+  "mudancas": {
+    "erro_para_acerto": [
+      "Q0216",
+      "Q0275",
+      "Q0290"
+    ],
+    "acerto_para_erro": []
+  },
+  "aninhado": {
+    "exato": 43.47826086956522,
+    "equiv": 47.82608695652174,
+    "aceito_restrito": 68.47826086956522,
+    "ganho_vs_v9_exato": -0.021739130434781373,
+    "ganho_vs_v9_aceito": 2.1782608695652215,
+    "ganho_vs_tau0_exato": 9.778260869565216,
+    "ganho_vs_tau0_aceito": 6.478260869565219,
+    "configs": {
+      "(3, 2)": 90,
+      "(3, 2.5)": 1,
+      "(0, 2)": 1
+    },
+    "bootstrap": {
+      "media": -1.0641304347826086,
+      "p2_5": -3.260869565217391,
+      "p97_5": 0.0
+    }
+  },
+  "margem_m1": {
+    "tabela": [
+      {
+        "pctl": 0,
+        "limiar": -1.4345047039505952,
+        "publicadas": 92,
+        "cobertura": 100.0,
+        "prec_exata": 45.65217391304348,
+        "prec_equiv": 50.0,
+        "prec_aceito": 69.56521739130434
+      },
+      {
+        "pctl": 10,
+        "limiar": 0.012225298446308997,
+        "publicadas": 82,
+        "cobertura": 89.13043478260869,
+        "prec_exata": 43.90243902439025,
+        "prec_equiv": 48.78048780487805,
+        "prec_aceito": 68.29268292682927
+      },
+      {
+        "pctl": 20,
+        "limiar": 0.2576731087763241,
+        "publicadas": 73,
+        "cobertura": 79.34782608695652,
+        "prec_exata": 43.83561643835616,
+        "prec_equiv": 49.31506849315068,
+        "prec_aceito": 71.23287671232876
+      },
+      {
+        "pctl": 30,
+        "limiar": 0.468564745502259,
+        "publicadas": 64,
+        "cobertura": 69.56521739130434,
+        "prec_exata": 43.75,
+        "prec_equiv": 50.0,
+        "prec_aceito": 73.4375
+      },
+      {
+        "pctl": 40,
+        "limiar": 0.7898056816548684,
+        "publicadas": 55,
+        "cobertura": 59.78260869565217,
+        "prec_exata": 47.27272727272727,
+        "prec_equiv": 52.72727272727272,
+        "prec_aceito": 74.54545454545455
+      },
+      {
+        "pctl": 50,
+        "limiar": 1.3969701057790178,
+        "publicadas": 46,
+        "cobertura": 50.0,
+        "prec_exata": 47.82608695652174,
+        "prec_equiv": 52.17391304347826,
+        "prec_aceito": 78.26086956521739
+      },
+      {
+        "pctl": 60,
+        "limiar": 1.7247931391645537,
+        "publicadas": 37,
+        "cobertura": 40.21739130434783,
+        "prec_exata": 51.35135135135135,
+        "prec_equiv": 56.75675675675676,
+        "prec_aceito": 81.08108108108108
+      },
+      {
+        "pctl": 70,
+        "limiar": 2.2801456485912315,
+        "publicadas": 28,
+        "cobertura": 30.434782608695656,
+        "prec_exata": 57.14285714285714,
+        "prec_equiv": 64.28571428571429,
+        "prec_aceito": 89.28571428571429
+      },
+      {
+        "pctl": 80,
+        "limiar": 3.5277737372109943,
+        "publicadas": 19,
+        "cobertura": 20.652173913043477,
+        "prec_exata": 63.1578947368421,
+        "prec_equiv": 73.68421052631578,
+        "prec_aceito": 89.47368421052632
+      },
+      {
+        "pctl": 90,
+        "limiar": 4.9348405328922675,
+        "publicadas": 10,
+        "cobertura": 10.869565217391305,
+        "prec_exata": 70.0,
+        "prec_equiv": 80.0,
+        "prec_aceito": 100.0
+      }
+    ],
+    "fina": {
+      "exata": null,
+      "equiv": {
+        "publicadas": 11,
+        "cobertura": 11.956521739130435,
+        "limiar": 4.607181024531776,
+        "prec": 81.81818181818183,
+        "wilson_lo": 52.30138624217553,
+        "wilson_hi": 94.86333993289995
+      },
+      "aceito": {
+        "publicadas": 45,
+        "cobertura": 48.91304347826087,
+        "limiar": 1.4181491389381993,
+        "prec": 80.0,
+        "wilson_lo": 66.17674868607057,
+        "wilson_hi": 89.103995597491
+      },
+      "aceito85": {
+        "publicadas": 35,
+        "cobertura": 38.04347826086957,
+        "limiar": 1.8870544797757685,
+        "prec": 85.71428571428571,
+        "wilson_lo": 70.62411969132573,
+        "wilson_hi": 93.73986119514649
+      }
+    }
+  },
+  "margem_m2": {
+    "tabela": [
+      {
+        "pctl": 0,
+        "limiar": 0.0062241076257372185,
+        "publicadas": 92,
+        "cobertura": 100.0,
+        "prec_exata": 45.65217391304348,
+        "prec_equiv": 50.0,
+        "prec_aceito": 69.56521739130434
+      },
+      {
+        "pctl": 10,
+        "limiar": 0.13516098850419256,
+        "publicadas": 82,
+        "cobertura": 89.13043478260869,
+        "prec_exata": 48.78048780487805,
+        "prec_equiv": 53.65853658536586,
+        "prec_aceito": 74.39024390243902
+      },
+      {
+        "pctl": 20,
+        "limiar": 0.2733887086887367,
+        "publicadas": 73,
+        "cobertura": 79.34782608695652,
+        "prec_exata": 49.31506849315068,
+        "prec_equiv": 54.794520547945204,
+        "prec_aceito": 75.34246575342466
+      },
+      {
+        "pctl": 30,
+        "limiar": 0.4436122083260168,
+        "publicadas": 64,
+        "cobertura": 69.56521739130434,
+        "prec_exata": 50.0,
+        "prec_equiv": 56.25,
+        "prec_aceito": 75.0
+      },
+      {
+        "pctl": 40,
+        "limiar": 0.6382817519965591,
+        "publicadas": 55,
+        "cobertura": 59.78260869565217,
+        "prec_exata": 49.09090909090909,
+        "prec_equiv": 56.36363636363636,
+        "prec_aceito": 74.54545454545455
+      },
+      {
+        "pctl": 50,
+        "limiar": 0.8128726425681463,
+        "publicadas": 46,
+        "cobertura": 50.0,
+        "prec_exata": 52.17391304347826,
+        "prec_equiv": 58.69565217391305,
+        "prec_aceito": 76.08695652173914
+      },
+      {
+        "pctl": 60,
+        "limiar": 1.277179761505043,
+        "publicadas": 37,
+        "cobertura": 40.21739130434783,
+        "prec_exata": 48.64864864864865,
+        "prec_equiv": 54.054054054054056,
+        "prec_aceito": 72.97297297297297
+      },
+      {
+        "pctl": 70,
+        "limiar": 1.5452465504424084,
+        "publicadas": 28,
+        "cobertura": 30.434782608695656,
+        "prec_exata": 53.57142857142857,
+        "prec_equiv": 60.71428571428571,
+        "prec_aceito": 78.57142857142857
+      },
+      {
+        "pctl": 80,
+        "limiar": 2.297916472598059,
+        "publicadas": 19,
+        "cobertura": 20.652173913043477,
+        "prec_exata": 47.368421052631575,
+        "prec_equiv": 57.89473684210527,
+        "prec_aceito": 84.21052631578947
+      },
+      {
+        "pctl": 90,
+        "limiar": 3.710959311473334,
+        "publicadas": 10,
+        "cobertura": 10.869565217391305,
+        "prec_exata": 60.0,
+        "prec_equiv": 70.0,
+        "prec_aceito": 90.0
+      }
+    ],
+    "fina": {
+      "exata": null,
+      "equiv": null,
+      "aceito": {
+        "publicadas": 23,
+        "cobertura": 25.0,
+        "limiar": 1.8870544797757685,
+        "prec": 82.6086956521739,
+        "wilson_lo": 62.86194521470433,
+        "wilson_hi": 93.02145964938722
+      },
+      "aceito85": {
+        "publicadas": 20,
+        "cobertura": 21.73913043478261,
+        "limiar": 2.1557498805434427,
+        "prec": 85.0,
+        "wilson_lo": 63.95767041130426,
+        "wilson_hi": 94.7632208040504
+      }
+    }
+  },
+  "erros_restantes": 28,
+  "top3": 53.2608695652174,
+  "decisao": "MANTER V9 (S0 + tau=2 restrito)"
+}

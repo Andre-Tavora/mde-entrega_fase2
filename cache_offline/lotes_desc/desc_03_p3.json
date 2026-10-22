@@ -1,0 +1,32 @@
+[
+  {
+    "tema_id": "5077",
+    "descricao": "Das Lesões Corporais corresponde ao art. 129 do CP e protege a integridade corporal e a saúde. Abrange a lesão dolosa (caput), grave (§1º), gravíssima (§2º), seguida de morte (§3º), privilegiada (§4º), a substituição da pena (§5º), a lesão culposa (§6º), as causas de aumento (§7º) e a violência doméstica (§9º).",
+    "palavras_chave": "lesão corporal; art. 129; lesão dolosa; lesão grave; lesão gravíssima; lesão seguida de morte; lesão privilegiada; lesão culposa; substituição da pena; causas de aumento; violência doméstica; integridade corporal",
+    "nao_confundir": "Diferencia-se de Dos Crimes Contra a Honra, que protege a reputação, de Dos Crimes Contra a Liberdade Pessoal, que protege a autodeterminação, e de Dos Crimes Contra a Dignidade Sexual. Aqui o bem jurídico é a integridade corporal e a saúde."
+  },
+  {
+    "tema_id": "5078",
+    "descricao": "Direito penal econômico é o ramo que tutela a ordem econômica e financeira por meio de tipos penais. Reúne condutas que lesam ou colocam em risco o funcionamento da economia e das relações financeiras, com bem jurídico predominantemente coletivo ou supraindividual.",
+    "palavras_chave": "direito penal econômico; ordem econômica; ordem financeira; bem jurídico supraindividual; bem jurídico coletivo; crimes econômicos; tipos penais; atividade econômica; sistema financeiro; criminalidade econômica",
+    "nao_confundir": "Diferencia-se de Dos Crimes Contra a Administração Pública, que protege o funcionamento da máquina estatal, e de Dos Crimes Contra a Fé Pública e de Falsidade Documental, que protege a autenticidade de documentos e símbolos. Aqui o foco é a ordem econômica e financeira."
+  },
+  {
+    "tema_id": "5079",
+    "descricao": "Dos Crimes Contra a Administração Judicial corresponde aos arts. 338 a 359 do CP e protege o regular funcionamento da administração da justiça. Seus filhos são Denunciação Caluniosa, Comunicação Falsa de Crime ou Contravenção e Autoacusação Falsa; Exercício Arbitrário das Próprias Razões; Exercício Arbitrário ou Abuso de Poder; Falso Testemunho ou Falsa Perícia e Corrupção Ativa de Testemunha ou Perito; Favorecimento Pessoal e Real; Fraude Processual; e Outros crimes contra a Administração Judicial.",
+    "palavras_chave": "administração da justiça; administração judicial; arts. 338 a 359; denunciação caluniosa; falso testemunho; fraude processual; favorecimento pessoal; favorecimento real; exercício arbitrário das próprias razões; abuso de poder",
+    "nao_confundir": "Diferencia-se de Dos Crimes Contra a Administração Pública, que protege a atividade administrativa em geral, e de Dos Crimes Contra a Fé Pública e de Falsidade Documental, que protege a autenticidade de documentos. Aqui o bem jurídico é a atividade da justiça."
+  },
+  {
+    "tema_id": "5080",
+    "descricao": "Denunciação Caluniosa, Comunicação Falsa de Crime ou Contravenção e Autoacusação Falsa reúne os arts. 339 a 341 do CP. Pune dar causa a investigação ou processo imputando crime a quem se sabe inocente (art. 339), provocar a ação da autoridade comunicando crime ou contravenção que se sabe não ter ocorrido (art. 340) e acusar-se de crime inexistente ou praticado por outrem (art. 341).",
+    "palavras_chave": "denunciação caluniosa; art. 339; comunicação falsa de crime; art. 340; contravenção inexistente; autoacusação falsa; art. 341; imputar crime a inocente; investigação ou processo; provocar ação da autoridade",
+    "nao_confundir": "Diferencia-se de Falso Testemunho ou Falsa Perícia e Corrupção Ativa de Testemunha ou Perito, que exige declaração falsa como testemunha ou perito, e de Fraude Processual, que altera o estado de coisas. Aqui a falsidade provoca a atuação da justiça ou recai sobre a autoria do crime."
+  },
+  {
+    "tema_id": "5082",
+    "descricao": "Exercício Arbitrário das Próprias Razões corresponde ao art. 345 do CP e consiste em fazer justiça pelas próprias mãos para satisfazer pretensão, embora legítima, salvo quando a lei permite o exercício. Pelo parágrafo único, se não há emprego de violência, procede-se somente mediante queixa.",
+    "palavras_chave": "exercício arbitrário das próprias razões; art. 345; justiça pelas próprias mãos; pretensão legítima; autotutela; violência; ação penal privada; queixa; salvo quando a lei permite; administração da justiça",
+    "nao_confundir": "Diferencia-se de Exercício Arbitrário ou Abuso de Poder, que envolve o agente investido de função pública, e de Fraude Processual, que altera o estado de lugar, coisa ou pessoa. Aqui o particular satisfaz por conta própria uma pretensão que deveria buscar na justiça."
+  }
+]

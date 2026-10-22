@@ -1,0 +1,65 @@
+﻿id,tema_correto,tema_previsto,caminho_correto,caminho_previsto,mesmo_pai
+Q0003,5560,5568,Processo Penal > Recursos em Espécies,Processo Penal > Recursos em Espécies > Correição Parcial,False
+Q0005,5199,5576,Penal > Teoria da Pena,Processo Penal > Sentença Penal > Fixação da Pena e do Regime Penitenciário,False
+Q0012,5562,5561,Processo Penal > Recursos em Espécies > Apelação,Processo Penal > Recursos em Espécies > Recurso em sentido estrito (RESE),True
+Q0018,4701,5540,Direito Penal - Legislação Especial > Juizado Especial Criminal,Processo Penal > Procedimento Sumaríssimo > Competência dos Juizados Especiais Criminais,False
+Q0023,5524,5528,Processo Penal > Procedimento do Tribunal do Júri,Processo Penal > Procedimento do Tribunal do Júri > Organização do Júri e Sessão de Julgamento,False
+Q0028,5527,5487,"Processo Penal > Procedimento do Tribunal do Júri > Impronúncia, Desclassificação, Absolvição Sumária e Pronúncia",Processo Penal > Comunicação dos Atos Processuais,False
+Q0052,4703,6726,Direito Penal - Legislação Especial > Lei de Execução Penal,Penal > Teoria da Pena (Parte 1),False
+Q0057,5175,5176,Penal > Iter Criminis,Penal > Iter Criminis > Fases do Iter Criminis,False
+Q0058,4389,4384,Criminologia > Vitimologia,Criminologia > Teorias Legitimidoras da Pena,True
+Q0060,5087,5093,Penal > Dos Crimes Contra a Administração Pública,Penal > Dos Crimes Contra a Administração Pública > Corrupção Ativa,False
+Q0067,5091,5093,Penal > Dos Crimes Contra a Administração Pública > Concussão e Excesso de Exação,Penal > Dos Crimes Contra a Administração Pública > Corrupção Ativa,True
+Q0068,5117,5096,Penal > Dos Crimes Contra a Fé Pública e de Falsidade Documental > Dos Crimes contra a Fé Pública,Penal > Dos Crimes Contra a Administração Pública > Condescendência Criminosa,False
+Q0077,5183,5173,Penal > Lei Penal no Tempo e no Espaço > Conflito Aparente de Normas,Penal > Introdução ao Estudo do Direito Penal > Interpretação da Norma Penal,False
+Q0079,5580,5581,Processo Penal > Sistemas e Princípios Processuais Penais,Processo Penal > Sistemas e Princípios Processuais Penais > Sistemas Processuais Penais,False
+Q0080,4368,4370,Criminologia > Criminologia no Estado Democrático de Direito,Criminologia > Criminologia no Estado Democrático de Direito > Modelos de Reação ao Delito,False
+Q0091,4703,5208,Direito Penal - Legislação Especial > Lei de Execução Penal,Penal > Teoria da Pena > Livramento Condicional,False
+Q0099,5100,5077,"Penal > Dos Crimes Contra a Administração Pública > Resistência, Desobediência e Desacato",Penal > Das Lesões Corporais,False
+Q0106,5165,5166,Penal > Dos Crimes Contra o Patrimônio > Apropriação indébita,Penal > Dos Crimes Contra o Patrimônio > Estelionato,True
+Q0111,4371,4384,Criminologia > Etapas Evolutivas e Escolas Criminológicas,Criminologia > Teorias Legitimidoras da Pena,True
+Q0115,4388,4385,Criminologia > Teorias Sociológicas Explicativas da Criminalidade > Teorias Criminológicas em Espécie,Criminologia > Teorias Sociológicas Explicativas da Criminalidade,False
+Q0134,5092,5089,Penal > Dos Crimes Contra a Administração Pública > Corrupção Passiva,Penal > Dos Crimes Contra a Administração Pública > Peculato e Peculato Mediante Erro de Outrem,True
+Q0137,5498,5500,Processo Penal > Inquérito Policial,Processo Penal > Inquérito Policial > Procedimento do Inquérito Policial,False
+Q0138,6734,5205,Processo Penal > Lei de Execução Penal,Penal > Teoria da Pena > Penas Restritivas de Direitos,False
+Q0139,5211,5212,Penal > Teoria do Crime: Culpabilidade,Penal > Teoria do Crime: Culpabilidade > Conceito e Elementos da Culpabilidade,False
+Q0144,5524,5529,Processo Penal > Procedimento do Tribunal do Júri,Processo Penal > Procedimento do Tribunal do Júri > Sentença do Júri,False
+Q0147,5498,5502,Processo Penal > Inquérito Policial,Processo Penal > Inquérito Policial > Acordo de Não Persecução Penal,False
+Q0160,5203,6727,Penal > Teoria da Pena > Segunda Fase da Dosimetria: Agravantes e Atenuantes,Penal > Teoria da Pena (Parte 2),False
+Q0167,5524,5487,Processo Penal > Procedimento do Tribunal do Júri,Processo Penal > Comunicação dos Atos Processuais,True
+Q0179,4368,4369,Criminologia > Criminologia no Estado Democrático de Direito,Criminologia > Criminologia no Estado Democrático de Direito > Sistemas de Prevenção,False
+Q0188,5228,5233,Penal > Teoria do Crime: Ilicitude,Penal > Teoria do Crime: Ilicitude > Causas Supralegais de Exclusão da Ilicitude,False
+Q0191,5560,5512,Processo Penal > Recursos em Espécies,Processo Penal > Parte Geral dos Recursos,True
+Q0194,5087,5221,Penal > Dos Crimes Contra a Administração Pública,Penal > Teoria do Crime: Fato Típico > Conduta,False
+Q0201,5102,5103,Penal > Dos Crimes Contra a Dignidade Sexual,Penal > Dos Crimes Contra a Dignidade Sexual > Estupro e Estupro de Vulnerável,False
+Q0202,5224,5548,Penal > Teoria do Crime: Fato Típico > Erro de Tipo,Processo Penal > Provas em Espécies > Confissão,False
+Q0208,5072,5150,Penal > Concurso de Pessoas > Autores e Partícipes,Penal > Dos Crimes Contra a Vida > Homicídio,False
+Q0215,5201,5576,Penal > Teoria da Pena > Penas Privativas de Liberdade,Processo Penal > Sentença Penal > Fixação da Pena e do Regime Penitenciário,False
+Q0216,4701,5063,Direito Penal - Legislação Especial > Juizado Especial Criminal,Penal > Ação Penal,False
+Q0221,5199,5201,Penal > Teoria da Pena,Penal > Teoria da Pena > Penas Privativas de Liberdade,False
+Q0230,5211,5071,Penal > Teoria do Crime: Culpabilidade,Penal > Concurso de Pessoas,True
+Q0240,5498,5500,Processo Penal > Inquérito Policial,Processo Penal > Inquérito Policial > Procedimento do Inquérito Policial,False
+Q0244,5087,5091,Penal > Dos Crimes Contra a Administração Pública,Penal > Dos Crimes Contra a Administração Pública > Concussão e Excesso de Exação,False
+Q0246,5527,5529,"Processo Penal > Procedimento do Tribunal do Júri > Impronúncia, Desclassificação, Absolvição Sumária e Pronúncia",Processo Penal > Procedimento do Tribunal do Júri > Sentença do Júri,True
+Q0249,5492,5466,"Processo Penal > Das Questões e Processos Incidentes > Exceção de Suspeição, de Impedimento ou de Incompatibilidade",Processo Penal > Ação Penal,False
+Q0251,5191,5198,Penal > Punibilidade,Penal > Punibilidade > Decadência,False
+Q0253,4371,4384,Criminologia > Etapas Evolutivas e Escolas Criminológicas,Criminologia > Teorias Legitimidoras da Pena,True
+Q0259,5172,5228,Penal > Introdução ao Estudo do Direito Penal > Princípios do Direito Penal,Penal > Teoria do Crime: Ilicitude,False
+Q0274,5177,5160,Penal > Iter Criminis > Crime Consumado e Tentado,Penal > Dos Crimes Contra o Patrimônio > Roubo,False
+Q0275,4701,5487,Direito Penal - Legislação Especial > Juizado Especial Criminal,Processo Penal > Comunicação dos Atos Processuais,False
+Q0276,5554,5545,Processo Penal > Provas em Espécies > Busca e Apreensão,Processo Penal > Provas em Espécies > Exame de Corpo de Delito,True
+Q0279,5185,5178,Penal > Prescrição,"Penal > Iter Criminis > Desistência Voluntária, Arrependimento Eficaz e Arrependimento posterior",False
+Q0286,5202,5069,Penal > Teoria da Pena > Primeira Fase da Dosimetria: Circunstâncias Judiciais,Penal > Concurso de Crimes > Crime Continuado,False
+Q0290,4701,5063,Direito Penal - Legislação Especial > Juizado Especial Criminal,Penal > Ação Penal,False
+Q0304,4701,5540,Direito Penal - Legislação Especial > Juizado Especial Criminal,Processo Penal > Procedimento Sumaríssimo > Competência dos Juizados Especiais Criminais,False
+Q0308,5501,5500,Processo Penal > Inquérito Policial > Conclusão e Arquivamento do Inquérito Policial,Processo Penal > Inquérito Policial > Procedimento do Inquérito Policial,True
+Q0311,5488,5487,Processo Penal > Comunicação dos Atos Processuais > Citação e Contagem dos Prazos,Processo Penal > Comunicação dos Atos Processuais,False
+Q0313,5209,5475,Penal > Teoria da Pena > Efeitos da Condenação Penais e Extrapenais,Processo Penal > Ação Penal > Ação Civil Ex Delicto,False
+Q0316,5224,5537,Penal > Teoria do Crime: Fato Típico > Erro de Tipo,Processo Penal > Procedimento Ordinário > Sentença,False
+Q0323,5595,5550,Processo Penal > Teoria Geral das Provas > Princípios Relativos à Prova Penal,Processo Penal > Provas em Espécies > Prova Testemunhal,False
+Q0324,4703,6727,Direito Penal - Legislação Especial > Lei de Execução Penal,Penal > Teoria da Pena (Parte 2),False
+Q0325,5473,5198,Processo Penal > Ação Penal > Denúncia,Penal > Punibilidade > Decadência,False
+Q0338,5590,5582,Processo Penal > Teoria Geral das Provas,Processo Penal > Sistemas e Princípios Processuais Penais > Princípios do Processo Penal,False
+Q0339,5572,5578,Processo Penal > Sentença Penal,Processo Penal > Sentença Penal > Princípio da Correlação entre Acusação e Sentença,False
+Q0341,5157,5160,Penal > Dos Crimes Contra o Patrimônio,Penal > Dos Crimes Contra o Patrimônio > Roubo,False
+Q0356,5066,5067,Penal > Concurso de Crimes,Penal > Concurso de Crimes > Concurso Material,False
